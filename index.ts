@@ -1,22 +1,6 @@
-import fs = require('fs');
+import {readData} from './read-data';
 
-const file = fs.readFileSync('Wortschatzstatistik.txt', 'utf8');
-
-type Datum = {
-  page: number;
-  marked: number;
-  actual: number;
-  total: number;
-};
-
-const data: Datum[] = [];
-
-for (const line of file.split('\n')) {
-  const match = /(\d+)\s+(\d+)\s+(\d+)\s+(\d+)/.exec(line);
-  if (!match) continue;
-  const [_, page, marked, actual, total] = match.map(s => +s);
-  data.push({page, marked, actual, total});
-}
+const data = readData('Wortschatzstatistik.txt');
 
 const averageEntriesPerPage = +(data.reduce((a, e) => a + e.total, 0) / data.length).toFixed(2);
 const averageMarkedPerPage = +(data.reduce((a, e) => a + e.marked, 0) / data.length).toFixed(2);
