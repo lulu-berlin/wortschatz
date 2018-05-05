@@ -24,20 +24,25 @@ if (!isDataValid(data)) {
   error(`File '${INPUT_FILENAME}' contains invalid data`);
 }
 
-const averageEntriesPerPage = data.reduce((a, e) => a + e.total, 0) / data.length;
-const averageMarkedPerPage = data.reduce((a, e) => a + e.marked, 0) / data.length;
+const dataInstances = data.length;
 
-const firstPage = 29;
-const lastPage =  1287;
-const totalPages =  lastPage - firstPage + 1;
+const allEntries = data.reduce((acc, {total}) => acc + total, 0);
+const allMarked = data.reduce((acc, {marked}) => acc + marked, 0);
 
-const estimatedTotalNumberOfEntries = Math.round(averageEntriesPerPage * totalPages);
-const estimatedTotalNumberOfMarked = Math.round(averageMarkedPerPage * totalPages);
+const averageEntriesPerPage = allEntries / dataInstances;
+const averageMarkedPerPage = allMarked / dataInstances;
+
+const FIRST_PAGE = 29;
+const LAST_PAGE =  1287;
+const TOTAL_PAGES =  LAST_PAGE - FIRST_PAGE + 1;
+
+const estimatedTotalNumberOfEntries = Math.round(averageEntriesPerPage * TOTAL_PAGES);
+const estimatedTotalNumberOfMarked = Math.round(averageMarkedPerPage * TOTAL_PAGES);
 
 const percentOfMarkedFromEntries = averageMarkedPerPage / averageEntriesPerPage * 100;
 
-console.log(`total pages: ${totalPages}`);
-console.log(`data instances: ${data.length}`);
+console.log(`total pages: ${TOTAL_PAGES}`);
+console.log(`data instances: ${dataInstances}`);
 
 console.log('\n');
 
