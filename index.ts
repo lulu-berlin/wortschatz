@@ -32,6 +32,8 @@ const allMarked = data.reduce((acc, {marked}) => acc + marked, 0);
 const averageEntriesPerPage = allEntries / dataInstances;
 const averageMarkedPerPage = allMarked / dataInstances;
 
+const averageMarkedPercentPerPage = data.reduce((acc, {total, marked}) => acc + (marked / total * 100), 0) / dataInstances;
+
 const FIRST_PAGE = 29;
 const LAST_PAGE =  1287;
 const TOTAL_PAGES =  LAST_PAGE - FIRST_PAGE + 1;
@@ -40,6 +42,14 @@ const estimatedTotalNumberOfEntries = Math.round(averageEntriesPerPage * TOTAL_P
 const estimatedTotalNumberOfMarked = Math.round(averageMarkedPerPage * TOTAL_PAGES);
 
 const percentOfMarkedFromEntries = averageMarkedPerPage / averageEntriesPerPage * 100;
+
+const worstPages = data
+  .map(({page, marked, total}) => ({
+    page,
+    unmarked: total - marked
+  }))
+  .sort((a, b) => b.unmarked - a.unmarked)
+  .map(({page}) => page);
 
 console.log(`total pages: ${TOTAL_PAGES}`);
 console.log(`data instances: ${dataInstances}`);
@@ -56,6 +66,9 @@ console.log(`estimatedTotalNumberOfMarked = ${+estimatedTotalNumberOfMarked.toFi
 
 console.log('\n');
 
+console.log(`averageMarkedPercentPerPage = ${+averageMarkedPercentPerPage.toFixed(2)}%`);
 console.log(`percentOfMarkedFromEntries = ${+percentOfMarkedFromEntries.toFixed(2)}%`);
 
 console.log('\n');
+
+console.log('worst pages:', worstPages.slice(0, 10));
