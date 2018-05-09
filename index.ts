@@ -39,9 +39,7 @@ const LAST_PAGE =  1287;
 const TOTAL_PAGES =  LAST_PAGE - FIRST_PAGE + 1;
 
 const estimatedTotalNumberOfEntries = Math.round(averageEntriesPerPage * TOTAL_PAGES);
-const estimatedTotalNumberOfMarked = Math.round(averageMarkedPerPage * TOTAL_PAGES);
-
-const percentOfMarkedFromEntries = averageMarkedPerPage / averageEntriesPerPage * 100;
+const estimatedTotalNumberOfKnown = Math.round(averageMarkedPerPage * TOTAL_PAGES);
 
 const worstPages = data
   .map(({page, marked, total}) => ({
@@ -51,24 +49,12 @@ const worstPages = data
   .sort((a, b) => b.unmarked - a.unmarked)
   .map(({page}) => page);
 
-console.log(`total pages: ${TOTAL_PAGES}`);
-console.log(`data instances: ${dataInstances}`);
-
-console.log('\n');
-
-console.log(`averageEntriesPerPage = ${+averageEntriesPerPage.toFixed(2)}`);
-console.log(`averageMarkedPerPage = ${+averageMarkedPerPage.toFixed(2)}`);
-
-console.log('\n');
-
-console.log(`estimatedTotalNumberOfEntries = ${+estimatedTotalNumberOfEntries.toFixed(2)}`);
-console.log(`estimatedTotalNumberOfMarked = ${+estimatedTotalNumberOfMarked.toFixed(2)}`);
-
-console.log('\n');
-
+console.log(`data instances / total pages: ${dataInstances} / ${TOTAL_PAGES} = ${+(dataInstances / TOTAL_PAGES * 100).toFixed(2)}%`);
+console.log(`all marked entries / all entries: ${allMarked} / ${allEntries} = ${+(allMarked / allEntries * 100).toFixed(2)}%`);
+console.log(`estimated no. of known / entries: ${+estimatedTotalNumberOfKnown.toFixed(2)} / ${+estimatedTotalNumberOfEntries.toFixed(2)}`);
+console.log(`average marked per pages / entries per page: ${+averageEntriesPerPage.toFixed(2)} / ${+averageMarkedPerPage.toFixed(2)}`);
 console.log(`averageMarkedPercentPerPage = ${+averageMarkedPercentPerPage.toFixed(2)}%`);
-console.log(`percentOfMarkedFromEntries = ${+percentOfMarkedFromEntries.toFixed(2)}%`);
+console.log('worst pages:', worstPages.slice(0, 10));
 
 console.log('\n');
 
-console.log('worst pages:', worstPages.slice(0, 10));
