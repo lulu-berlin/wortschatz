@@ -1,5 +1,5 @@
- A
-===
+ A, Ä
+======
 áb|feuern : to fire off
 abgefuckt : fucked up
 r Ablass : discharge, indulgence
@@ -288,8 +288,8 @@ e Neuwahl (pl. -en) : reelection
 e Niederlage (pl. -n) : defeat
 notfalls : in case of emergency
 
- O
-===
+ O, Ö
+======
 offenbaren : to reveal, to disclose
   sich offenbaren : to manifest itself
 r Ohrendruck : ear pressure
@@ -355,8 +355,10 @@ tappen : to grope
 teilweise : partial(ly), partly, to some extent
 trotzten + Dat. : to defy, to outdare, to brave, to affront
 
- U
-===
+ U, Ü
+======
+e Übereinkunft : agreement, accord
+übernehmen : to assume (responsibity/liability), to take (an offer)
 umgekehrt : the other way round
 unerfreulich : unpleasant, annoying
 untersagt : prohibited
@@ -364,11 +366,6 @@ r Untertan, e Untertanin : subject (of a kingdom)
 unordentlich : messy
 e Unsumme : enormous amount, enormous sum
 s Urteil (pl. -e) : judgment, sentence, decision
-
- Ü
-===
-e Übereinkunft : agreement, accord
-übernehmen : to assume (responsibity/liability), to take (an offer)
 
  V
 ===
@@ -409,7 +406,7 @@ sich wundern : to wonder, to be surprised
 
  Z
 ===
-ZERSETZEN : TO decompose, to degrade
+zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
 zucken : to jerk, to shrug, to twitch
 s Zugeständnis (pl. -se) : concession
