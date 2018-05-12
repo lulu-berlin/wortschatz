@@ -2,6 +2,7 @@
 ===
 áb|feuern : to fire off
 abgefuckt : fucked up
+r Ablass : discharge, indulgence
 j-n áb|ordnen : to delegate s.o.
   j-n als Delegierten abordnen
   j-n abordnen, etw. zu tun
@@ -10,6 +11,8 @@ e Abrede : undestanding
   etw. in Abrede stellen : to deny s.th., to disavow s.th.
 áb|reißen : to tear s.th. off, to demolish, to tear down
   sich abreißen : to be torn, to tear off (v.i.)
+áb|ringen, rang ab, hat abgerungen : to force, to wring
+  j-m abringen, etwas zu tun
 s Achselzucken : shrug
 acten : to respect, to esteem
   auf etw. achten : to pay attention to s.th., to take care of s.th.
@@ -22,11 +25,15 @@ Arsch
 auffällig : conspicuous, apparent
   auffällig werden : become apparent
   Auffällig ist: ...
+r Auftritt : appearance, entrance, performance
 áb|reißen : to tear s.th. off, to demolish, to tear down
 áb|spülen : wash up
   das Geschirr abspülen
 etw. án|fordern : to request, to deman
 e Anforderung : requirement, demand
+r Anhänger : follower, supporter. adherent
+Akk. + án|hören : to listen to
+  sich etw. anhören : listen to sth.
 án|maßen
   sich[Dat.] etw. anmaßen : to claim s.th., to assume s.th.
 e Anmaßung : arrogance, insolence, presumption
@@ -49,6 +56,9 @@ aúf|schreiben : to write down
 j-n aúf|stellen : to nominate s.o.
 r Auftakt (pl. -e) : kick-off, prelude, opening
 e Auftaktkundgebung : initial demonstration
+etw. aús|geben : to issue, to spend, to expend, to dispense
+  - Die Universität gibt Studentenausweise aus.
+  - Ich will mein ganzes Geld für ein neues Auto ausgeben.
 auseinander|setzen
   sich mit j-m auseinandersetzen : to argue with s.o., to deal with s.o.
   sich mit etw.[Dat.] auseinandersetzen : to grapple with, to deal with, to
@@ -108,6 +118,7 @@ drauf
 drüben
   da/dort drüben : over there
   hüben und drüben : on both sides
+drucken : to print
 dúrch|brechen : to break through, to disrupt
 durcheinander : messy
 dúrch|fallen : to flunk
@@ -125,6 +136,8 @@ ebnen : to level, to smooth
   sich ebnen : to even out
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
+Einhalt
+  etw.[Dat.] Einhalt gebieten : to put an end to s.th.
 etw.[Akk.] eín|lenken : to give in, to steer, to back down
   in etw.[Akk.] einlenken : to turn into s.th.
 etw.[Akk.] entfachen : to ignite, to arouse, to spark
@@ -142,6 +155,7 @@ entstehen : to arise, to develop, to come into being/existence
 etw. erachten : to consider s.th.
 s Erachten : opnion
   meines Erachtens : in my opinion
+erschöpfen : to exhaust, to wear out
 j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
 j-n ertappen : to catch s.o. out, to find s.o. out, to catch s.o. red-handed
@@ -154,6 +168,7 @@ an + Dat. fést|halten : to abide by ..., to hold fast to ..., to stick to ...
 sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
+s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
 etw. von j-m fordern : to demand s.th. from s.o., to require, to request
   Ersatz fordern : to claim compensation
   Geld fordern : to claim one's money
@@ -170,12 +185,14 @@ e Förderung : promotion, support, funding, advancement, grant, encouragement
   staatliche Förderung : state incentives
 e Führung : management, leadership
 furchtbar : terrible
+r Fürsprecher : advocate
 r Fußgänger, e Fußgängerin : pedestrian
 e Fußgängerzone
 
  G
 ===
 sich gebärden : to behave (like / as / ...)
+j-m etw. egbieten : to command, to demand
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 e Geschäftsordnung : standing orders, regulations, terms and conditions
 getrieben : driven, pushed
@@ -207,7 +224,7 @@ e Herabstufung : downgrade, downgrading, demotion
 herablassend : condescending
 hinab : down
 auf j-n hinab|sehen : to look down on s.o.
-hinterlássen : to leave s.o. s.th.
+j-m etw. hinterlássen : to leave s.o. s.th.
   eine Nachricht hinterlasseN
 j-n über etw. hinwég|täuschen : to belie, to cover up, to deceive
 hóch|fahren : to start, to start up, to boot, to ramp up
@@ -232,13 +249,16 @@ e Jugendherberge : youth hostel
 ===
 r Ketzer : heretic
 e Kleinigkeit
+r Klerus : clergy
 etw. knallen : to slam, to bang
 knapp [adj.] : narrow, tight, lean, succinct, terse, concise
 knapp [adv.] : almost, nearly, all but
 e Kundgebung : demonstration, rally
+e Kurie (Lat. curia) : council, assembly
 
  l
 ===
+lästerlich : blasphemous
 lästig : annoying, troublesome, irksome
   - Viele Kinder finden ihre kleinen Geschwister manchmal lästig.
 lauschen : to eavesdrop
@@ -261,6 +281,7 @@ muskulös : muscular
  N
 ===
 nách|steuern : to readjust s.th.
+e Nachwelt (pl. -en) : next generations
 nahend : imminent, approaching, forthoming
 e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
@@ -269,6 +290,8 @@ notfalls : in case of emergency
 
  O
 ===
+offenbaren : to reveal, to disclose
+  sich offenbaren : to manifest itself
 r Ohrendruck : ear pressure
 r Orkan (pl. -e)
 
@@ -277,6 +300,7 @@ r Orkan (pl. -e)
 Palmsonntag : Palm Sunday
 panisch : panic-fueled, freaked out
 parieren : to counteR
+e Pose (pl. -n) : pose
 r Pranger : pillory [`amud qalon]
   an den Pranger stellen
 prächtig : magnificent, splendid
@@ -290,6 +314,7 @@ ran (adv.)
 rán : UGS. heran-
 sich an j-n rán|machen : to make a pass at s.o.
 rán|nehmen : to push, to hit, to abuse, to pick on s.o.
+e Reichsacht : imperial outlawry
 reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
@@ -299,15 +324,19 @@ e Rückholung : retrieval
 
  S
 ===
+r Sachse, e Sachsin : Saxonian
 e Sackgasse (pl. -n) : dead end, cul-de-sac
 e Salve (pl. -n) : fusillade [maTaH esh]
 scheitern : to fail
 e Schießerei (pl. -en)
 schrecklich : terrible
+r Schlagabtausch (um + Akk.) : exchange of blows
 e Schubkarre (pl. -n) : barrow, pushcart
 e Schusslinie (pl. -n) : fireline
 e Schusswaffe (pl. -n)
 r Seelsorger : pastor
+e Selbstdarstellung : self-portrayal, self-representation
+r Sendbote, e Sendbotin : emissary
 e Sicherung : protection, assurance
 standhaft : steadfast [naHuS]
 im Stich lassen : leave s.o. high and dry
@@ -323,17 +352,23 @@ r Streber : nerd, geek, overachiever
 r Taktgeber : clock, master clock, timer
 tappen : to grope
   im Dunkeln tappen : to be in the dark
+teilweise : partial(ly), partly, to some extent
+trotzten + Dat. : to defy, to outdare, to brave, to affront
 
  U
 ===
 umgekehrt : the other way round
 unerfreulich : unpleasant, annoying
 untersagt : prohibited
+r Untertan, e Untertanin : subject (of a kingdom)
 unordentlich : messy
+e Unsumme : enormous amount, enormous sum
+s Urteil (pl. -e) : judgment, sentence, decision
 
  Ü
 ===
 e Übereinkunft : agreement, accord
+übernehmen : to assume (responsibity/liability), to take (an offer)
 
  V
 ===
@@ -348,21 +383,28 @@ sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
   in j-n verknallt sein
 e Vermittlung : mediation, agency, operator
 j-n verprügeln : to beat s.o. up
+versammelt : assembled, convened
+verschaffen : to provide
+  sich[Dat.] etw. verschaffen : to gain, to wrangle
 e Verschärfung : aggravation, worsening
 verschmutzt : messy
 verschüsseln : to encrypt
+verschlingen : to engulf, to swamp
 e Verschwendung : extravagance, waste
   - Eine Verschwendung meiner kostbaren Zeit
   - Die Verschwendung natürlicher Ressourcen
 j-n versöhnen : to reconcile s.o.
   sich (mit j-m) versöhnen : to reconciliate with s.o.
+r Vorbehalt (pl. -e) : reservation, caveat
+  - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
 vorerst : for now, for the time being
+Dat. + vór|stehen : preside over
 e Vorwahl : area code, prefix
 
  W
 ===
+widerrúfen : to revoke, to withdraw, to rescind, to repeal
 einsamer Wolf
-s Wunder (= pl.) : wonder, miracle, marvel
 sich wundern : to wonder, to be surprised
 
  Z
@@ -384,3 +426,4 @@ Memorized
 =========
 
 r Nachweis
+s Wunder (= pl.) : wonder, miracle, marvel
