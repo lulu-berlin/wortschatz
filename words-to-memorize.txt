@@ -68,6 +68,10 @@ aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
   wegen Regen ausfallen : to be rained off
 aús|rufen : to call out, to proclaim, to call for s.th.
 s Ausrufen : proclamation, cry, exclamation
+auswendig : by heart
+  etw. auswendig lernen
+  etw. auswendig können
+  etw. auswendig aufsagen : to recite
 
  B
 ===
@@ -419,8 +423,8 @@ zurécht|kommen
 Zuschlag
 e Zwischenlandung
 
-Memorized
-=========
+Auswendig gerlernt
+==================
 
 r Nachweis
 s Wunder (= pl.) : wonder, miracle, marvel
