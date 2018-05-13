@@ -14,6 +14,7 @@ e Abrede : undestanding
 áb|ringen, rang ab, hat abgerungen : to force, to wring
   j-m abringen, etwas zu tun
 s Achselzucken : shrug
+j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
 acten : to respect, to esteem
   auf etw. achten : to pay attention to s.th., to take care of s.th.
 anders(he)rum (adv.) : the other way round
@@ -66,6 +67,12 @@ auseinander|setzen
 e Auseinandersetzung : argument, dispute, debate, discussion
 aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
   wegen Regen ausfallen : to be rained off
+ausgeliefert
+  ausgeliefert sein : to be committed
+  j-m ausgeliefert sein : to be at s.o.'s mercy
+aús|liefern : to supply, to surrender, to deliver, to ship
+  etw. ausliefern : to deliver, to roll out, to ship
+  j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
 aús|rufen : to call out, to proclaim, to call for s.th.
 s Ausrufen : proclamation, cry, exclamation
 auswendig : by heart
@@ -138,10 +145,19 @@ etw. dúrch|setzen : to enforce, to push through, to achieve
 ebnen : to level, to smooth
   den Weg ebnen (für etw.) : to pave the way (for s.th.)
   sich ebnen : to even out
+s Edikt (pl. -e) : edict [Zaw, hora'ah, pqudah]
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
+eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
+  eingeweiht sein : to be in the loop
+  in etw.[Akk.] eingeweiht sein : to be privy to s.th.
+  - Ich bin in die Pläne des Präsident nicht eingeweiht.
 Einhalt
   etw.[Dat.] Einhalt gebieten : to put an end to s.th.
+etw. eín|richten : to set up, to establish, to adapt, to arrange
+  - Der Techniker richtete die Website innerhalb einer Woche ein.
+  - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit
+    eingerichtet.
 etw.[Akk.] eín|lenken : to give in, to steer, to back down
   in etw.[Akk.] einlenken : to turn into s.th.
 etw.[Akk.] entfachen : to ignite, to arouse, to spark
@@ -168,6 +184,8 @@ j-n ertappen : to catch s.o. out, to find s.o. out, to catch s.o. red-handed
 ===
 r Fahnder (= pl.), e Fahnderin : investigator
 r Fahrkartenschalter : ticket office, ticket counter
+fällen : to fell
+  ein Urteil fällen : to pronounce a sentence, to render a judgment
 an + Dat. fést|halten : to abide by ..., to hold fast to ..., to stick to ...
 sich fit fühlen : to feel fit
 e Flagge (pl. -n)
@@ -187,6 +205,9 @@ e Förderung : promotion, support, funding, advancement, grant, encouragement
   - ich trete einer Gesellschaft zur Förderung der Wissenschaft bei.
   - Wir sollten für das Forschungsprojekt eine Förderung beantragen.
   staatliche Förderung : state incentives
+e Freiheit
+  sich die Freiheit herausnehmen : to take the liberty
+  sich die Freiheit nehmen : to take the liberty
 e Führung : management, leadership
 furchtbar : terrible
 r Fürsprecher : advocate
@@ -195,9 +216,11 @@ e Fußgängerzone
 
  G
 ===
+geächtet : outlaw(ed)
 sich gebärden : to behave (like / as / ...)
 j-m etw. egbieten : to command, to demand
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
+s Geleit (pl. -e) : escort
 e Geschäftsordnung : standing orders, regulations, terms and conditions
 getrieben : driven, pushed
 gewähren : to concede, to confer, to impart
@@ -213,6 +236,8 @@ s Gründungsmythos / -us (pl. Gründungsmythen) : founding myth
 
  H
 ===
+habhaft
+  einer Sache[Gen.] habhaft werden : to get hold of s.th.
 halbmast [adv.]
   auf halbmast flaggen / wehen
   halbmast flaggen
@@ -222,10 +247,16 @@ herab : down
   von oben herab behandeln : treat s.o. in a condescending manner
   von oben herab mit j-m reden : to talk down to s.o.
 herab|blicken
+herausnehmen
+  sich[Dat.] etw. heraús|nehmen : to be naughty
+  sich die Freiheit herausnehmen : to take the liberty, to allow oneself
 auf j-n herab|sehen : to look down on s.o.
 auf j-n herab|schauen : to look down on s.o.
 e Herabstufung : downgrade, downgrading, demotion
 herablassend : condescending
+auf etw. hinaús|laufen : to add up to s.th., to result in s.th.
+  aufs Gleiche hinauslaufen : to amount to the same thing
+  auf eins hinauslaufen : to amount to the same thing
 hinab : down
 auf j-n hinab|sehen : to look down on s.o.
 j-m etw. hinterlássen : to leave s.o. s.th.
@@ -246,6 +277,8 @@ s Infragestellen : questioning
 
  J
 ===
+jäh : abrupt(ly), sudden(ly)
+  - Ich bemerkte eine jähe Veränderung in seiner Stimmung.
 jämmerlich : pitiful, miserable
 e Jugendherberge : youth hostel
 
@@ -257,6 +290,9 @@ r Klerus : clergy
 etw. knallen : to slam, to bang
 knapp [adj.] : narrow, tight, lean, succinct, terse, concise
 knapp [adv.] : almost, nearly, all but
+r Kragen (= pl.) : collar
+  j-m an den Kragen wollen : to act against, to attack, to eradicate
+  es geht j-m an den Kragen : to have something done against s.o.
 e Kundgebung : demonstration, rally
 e Kurie (Lat. curia) : council, assembly
 
@@ -266,8 +302,9 @@ lästerlich : blasphemous
 lästig : annoying, troublesome, irksome
   - Viele Kinder finden ihre kleinen Geschwister manchmal lästig.
 lauschen : to eavesdrop
-lustig
-  sich über j-n lustig machen : to make fun of s.o.
+locker : casual, easy, loose, lax
+lockern : to become loose, to relax, to release
+  sich locker : to become loose
 
  M
 ===
@@ -370,6 +407,7 @@ r Untertan, e Untertanin : subject (of a kingdom)
 unordentlich : messy
 e Unsumme : enormous amount, enormous sum
 s Urteil (pl. -e) : judgment, sentence, decision
+  das Urteil fällen : to pronounce a sentence, to render a judgment
 
  V
 ===
@@ -426,5 +464,7 @@ e Zwischenlandung
 Auswendig gerlernt
 ==================
 
+lustig
+  sich über j-n lustig machen : to make fun of s.o.
 r Nachweis
 s Wunder (= pl.) : wonder, miracle, marvel
