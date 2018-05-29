@@ -1,6 +1,7 @@
  A, Ä
 ======
 áb|feuern : to fire off
+e Abgabe : שחרור, העברה
 abgefuckt : fucked up
 r Ablass : discharge, indulgence
 j-n áb|ordnen : to delegate s.o.
@@ -30,6 +31,7 @@ r Auftritt : appearance, entrance, performance
 áb|reißen : to tear s.th. off, to demolish, to tear down
 áb|spülen : wash up
   das Geschirr abspülen
+e Aneignung (pl. -en) : ניכוס
 etw. án|fordern : to request, to deman
 e Anforderung : requirement, demand
 r Anhänger : follower, supporter. adherent
@@ -67,6 +69,7 @@ auseinander|setzen
 e Auseinandersetzung : argument, dispute, debate, discussion
 aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
   wegen Regen ausfallen : to be rained off
+aús|harren - להתמיד, לשקוד, להתעקש
 ausgeliefert
   ausgeliefert sein : to be committed
   j-m ausgeliefert sein : to be at s.o.'s mercy
@@ -102,6 +105,8 @@ bewundern : to admire
 etw. beziffern : to estimate, to quantify
   sich auf etw.[Akk.] beziffern : to amount to
 etw.[Akk.] bezweifeln : to doubt s.th.
+s Bindeglied (pl. -er) : מחבר
+binnen + Gen. : תוך ... בתוך ... (זמן)
 bislang : so far, to date, yet
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : storm
@@ -154,12 +159,13 @@ eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
   - Ich bin in die Pläne des Präsident nicht eingeweiht.
 Einhalt
   etw.[Dat.] Einhalt gebieten : to put an end to s.th.
-etw. eín|richten : to set up, to establish, to adapt, to arrange
+etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
   - Der Techniker richtete die Website innerhalb einer Woche ein.
   - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit
     eingerichtet.
 etw.[Akk.] eín|lenken : to give in, to steer, to back down
   in etw.[Akk.] einlenken : to turn into s.th.
+e Einverleibung (pl. -n) : אסימילציה
 etw.[Akk.] entfachen : to ignite, to arouse, to spark
   ein Feuer entfachen
   Wut entfachen
@@ -221,6 +227,8 @@ sich gebärden : to behave (like / as / ...)
 j-m etw. egbieten : to command, to demand
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
+s Gemüt (pl. -er) : mind
+  - die Gemüter beruhigen - להרגיע את הרוחות
 e Geschäftsordnung : standing orders, regulations, terms and conditions
 getrieben : driven, pushed
 gewähren : to concede, to confer, to impart
@@ -257,6 +265,7 @@ herablassend : condescending
 auf etw. hinaús|laufen : to add up to s.th., to result in s.th.
   aufs Gleiche hinauslaufen : to amount to the same thing
   auf eins hinauslaufen : to amount to the same thing
+hin oder her : בין אם כך ובין אם כך, לא משנה אם כך או כך
 hinab : down
 auf j-n hinab|sehen : to look down on s.o.
 j-m etw. hinterlássen : to leave s.o. s.th.
@@ -293,6 +302,7 @@ knapp [adv.] : almost, nearly, all but
 r Kragen (= pl.) : collar
   j-m an den Kragen wollen : to act against, to attack, to eradicate
   es geht j-m an den Kragen : to have something done against s.o.
+e Kostprobe (pl. -n) : דגימה
 e Kundgebung : demonstration, rally
 e Kurie (Lat. curia) : council, assembly
 
@@ -363,12 +373,14 @@ reklamieren : to claim, to complain, to object, to protest
 Rückhol- : return ...
   Rückholsendung : return shipment
 e Rückholung : retrieval
+r Ruß (pl. -e) : זוהמה, טינפות, לכלוך
 
  S
 ===
 r Sachse, e Sachsin : Saxonian
 e Sackgasse (pl. -n) : dead end, cul-de-sac
 e Salve (pl. -n) : fusillade [maTaH esh]
+s Scheit (pl. -e) : חתיכת עץ
 scheitern : to fail
 e Schießerei (pl. -en)
 schrecklich : terrible
@@ -385,6 +397,7 @@ im Stich lassen : leave s.o. high and dry
 r Streich (pl. -e) : trick, prank, hoax, joke
 r Streit : argument, conflict, quarrel, conflict, fight
 e Sperrung : blocking, closing, inhibition
+stänkern - לעשות בעיות, לעשות בלגן
 e Stellungnahme : statement
 steuern : to regulate, to steer, to operate, to control, to manage
 r Streber : nerd, geek, overachiever
@@ -414,7 +427,9 @@ s Urteil (pl. -e) : judgment, sentence, decision
 ===
 veräppeln : to pull s.o.'s leg
 j-n verarschen : to kid s.o., to take s.o. for a ride
+verblassen - לדהות
 r Verfechter, e Verfechterin : advocate, defender, proponent
+verbürgen - לאשר, לאמת, להוכיח
 verfügen : to dispose, to order, to rule (that ...)
 verhärtet : callous, hardened, obdurate
 verheerend: davastating, disastrous, fatal
@@ -435,6 +450,7 @@ e Verschwendung : extravagance, waste
   - Die Verschwendung natürlicher Ressourcen
 j-n versöhnen : to reconcile s.o.
   sich (mit j-m) versöhnen : to reconciliate with s.o.
+s Vieh : בקר
 r Vorbehalt (pl. -e) : reservation, caveat
   - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
 vorerst : for now, for the time being
@@ -460,6 +476,7 @@ s Zunft (pl. Zünfte) : guild
 zurécht|kommen
   gut zurechtkommen
 Zuschlag
+r Zwiespalt (pl. Zwiespalte / Zwiespälte) : אנטגוניזם, דיכוטומיה, ניגוד
 e Zwischenlandung
 
 Auswendig gerlernt
