@@ -1,7 +1,7 @@
  A, Ä
 ======
 áb|feuern : to fire off
-e Abgabe : שחרור, העברה
+e Abgabe : שחרור, העברה, מס
 abgefuckt : fucked up
 r Ablass : discharge, indulgence
 j-n áb|ordnen : to delegate s.o.
@@ -44,6 +44,7 @@ e Anmaßung : arrogance, insolence, presumption
 án|reichern : to enrich, to fortify
   mit Sauerstoff anreichern
 e Anreicherung : enrichment
+án|schließen : לחבר, לצרף, לקשור יחד
 án|stimmen : to intone, to start singing
 etw. án|streben : to strive, to aspire to, to strive for, to aim at
   - eine Stelle anstreben
@@ -95,6 +96,7 @@ befremdlich : strange, odd
 begeistern : to inspire, to excite, to thrill, to faschinate, to wow
 begeistert: impressed
 etw.[Akk.] bekanntgeben : to announce s.th.
+s Bekenntnis (pl. -se) : מסדר (דתי)
 bekunden : to manifest
   + Akk. : to evince sth.
 belegen : to prove, to verify, to substantiate
@@ -110,6 +112,7 @@ binnen + Gen. : תוך ... בתוך ... (זמן)
 bislang : so far, to date, yet
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : storm
+s Bollwerk : סוללה, ביצור
 r Buchhalter (= pl.), e Buchhalterin
 
  D
@@ -144,6 +147,7 @@ etw. dúrch|setzen : to enforce, to push through, to achieve
   - Die Polizei wird die neue Vorschrift durchsetzen.
   - Trotz der Proteste der Angestellten setzte die Geschäftsleitung die
     Änderungen durch.
+düster : עגום, קודר
 
  E
 ===
@@ -166,6 +170,8 @@ etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן מ�
 etw.[Akk.] eín|lenken : to give in, to steer, to back down
   in etw.[Akk.] einlenken : to turn into s.th.
 e Einverleibung (pl. -n) : אסימילציה
+s Emporkommen : עליה, שגשוג, נסיקה
+r Emporkömmling (pl. -e) : שאפתן, נובוריש
 etw.[Akk.] entfachen : to ignite, to arouse, to spark
   ein Feuer entfachen
   Wut entfachen
@@ -181,6 +187,8 @@ entstehen : to arise, to develop, to come into being/existence
 etw. erachten : to consider s.th.
 s Erachten : opnion
   meines Erachtens : in my opinion
+erbitten, erbat, erbeten : לבקש, לערוג 
+j-n erhören : להישמע לתפילתו של מישהו
 erschöpfen : to exhaust, to wear out
 j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
@@ -211,6 +219,7 @@ e Förderung : promotion, support, funding, advancement, grant, encouragement
   - ich trete einer Gesellschaft zur Förderung der Wissenschaft bei.
   - Wir sollten für das Forschungsprojekt eine Förderung beantragen.
   staatliche Förderung : state incentives
+fortan : מעתה ואילך,מכאן ואילך
 e Freiheit
   sich die Freiheit herausnehmen : to take the liberty
   sich die Freiheit nehmen : to take the liberty
@@ -224,7 +233,9 @@ e Fußgängerzone
 ===
 geächtet : outlaw(ed)
 sich gebärden : to behave (like / as / ...)
-j-m etw. egbieten : to command, to demand
+j-m etw. gebieten : to command, to demand
+Gefahr
+  - Gefahr laufen, ... zu + Inf. : להסתכן ב...
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
 s Gemüt (pl. -er) : mind
@@ -294,6 +305,7 @@ e Jugendherberge : youth hostel
  K
 ===
 r Ketzer : heretic
+r Keil (pl. -e) : טריז
 e Kleinigkeit
 r Klerus : clergy
 etw. knallen : to slam, to bang
@@ -303,15 +315,18 @@ r Kragen (= pl.) : collar
   j-m an den Kragen wollen : to act against, to attack, to eradicate
   es geht j-m an den Kragen : to have something done against s.o.
 e Kostprobe (pl. -n) : דגימה
+e Kriegslist : תחבולות מלחמה
 e Kundgebung : demonstration, rally
 e Kurie (Lat. curia) : council, assembly
 
  l
 ===
+e Last (pl. e) : עול
 lästerlich : blasphemous
 lästig : annoying, troublesome, irksome
   - Viele Kinder finden ihre kleinen Geschwister manchmal lästig.
 lauschen : to eavesdrop
+e List (pl. -en) : עורמה
 locker : casual, easy, loose, lax
 lockern : to become loose, to relax, to release
   sich locker : to become loose
@@ -356,6 +371,7 @@ e Pose (pl. -n) : pose
 r Pranger : pillory [`amud qalon]
   an den Pranger stellen
 prächtig : magnificent, splendid
+e Predigt (pl. -e) : דרשה
 prügeln + Akk. : to beat
   sich prügeln : to come to blows
 
@@ -392,6 +408,9 @@ r Seelsorger : pastor
 e Selbstdarstellung : self-portrayal, self-representation
 r Sendbote, e Sendbotin : emissary
 e Sicherung : protection, assurance
+r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
+  - ohne Skrupel : ללא היסוס, ללא עכבות
+r Sold (pl. e) : פרס, גמול, שילום
 standhaft : steadfast [naHuS]
 im Stich lassen : leave s.o. high and dry
 r Streich (pl. -e) : trick, prank, hoax, joke
@@ -408,18 +427,21 @@ r Taktgeber : clock, master clock, timer
 tappen : to grope
   im Dunkeln tappen : to be in the dark
 teilweise : partial(ly), partly, to some extent
+r Tross (pl. -e) : ציוד צבאי, קיטבג
 trotzten + Dat. : to defy, to outdare, to brave, to affront
 
  U, Ü
 ======
 e Übereinkunft : agreement, accord
 übernehmen : to assume (responsibity/liability), to take (an offer)
+j-n überrumpeln : להפתיע, להערים על
 umgekehrt : the other way round
 unerfreulich : unpleasant, annoying
 untersagt : prohibited
 r Untertan, e Untertanin : subject (of a kingdom)
 unordentlich : messy
 e Unsumme : enormous amount, enormous sum
+unwiederbringlich : שלא ניתן להשיבו
 s Urteil (pl. -e) : judgment, sentence, decision
   das Urteil fällen : to pronounce a sentence, to render a judgment
 
@@ -430,6 +452,7 @@ j-n verarschen : to kid s.o., to take s.o. for a ride
 verblassen - לדהות
 r Verfechter, e Verfechterin : advocate, defender, proponent
 verbürgen - לאשר, לאמת, להוכיח
+vergelten : לגמול, להשיב
 verfügen : to dispose, to order, to rule (that ...)
 verhärtet : callous, hardened, obdurate
 verheerend: davastating, disastrous, fatal
@@ -451,6 +474,7 @@ e Verschwendung : extravagance, waste
 j-n versöhnen : to reconcile s.o.
   sich (mit j-m) versöhnen : to reconciliate with s.o.
 s Vieh : בקר
+vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
   - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
 vorerst : for now, for the time being
@@ -459,6 +483,8 @@ e Vorwahl : area code, prefix
 
  W
 ===
+wappnen : לחמש
+  - sich gegen + Akk. wappnen : להתכונן נגד משהו
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
 einsamer Wolf
 sich wundern : to wonder, to be surprised
@@ -467,7 +493,9 @@ sich wundern : to wonder, to be surprised
 ===
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
+s Zölibát : פרישות
 zucken : to jerk, to shrug, to twitch
+e Zuflucht (pl. -en) : מפלט, מחסה, מקלט, מסתור
 s Zugeständnis (pl. -se) : concession
 zugunsten + Gen. : in favor of, in support of, for the benefit of
   zugunsten von
@@ -476,7 +504,10 @@ s Zunft (pl. Zünfte) : guild
 zurécht|kommen
   gut zurechtkommen
 Zuschlag
+zú|spitzen + Akk. : לחדד
+  - sich zuspitzen : להתחדד (ויכוח), להחריף
 r Zwiespalt (pl. Zwiespalte / Zwiespälte) : אנטגוניזם, דיכוטומיה, ניגוד
+e Zwietracht : קונפליקט, עימות, סכסוך
 e Zwischenlandung
 
 Auswendig gerlernt
