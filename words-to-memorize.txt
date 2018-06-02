@@ -16,6 +16,7 @@ e Abrede : undestanding
   sich abreißen : to be torn, to tear off (v.i.)
 áb|ringen, rang ab, hat abgerungen : to force, to wring
   j-m abringen, etwas zu tun
+sich áb|wenden : להתרחק, להפנות את הגב
 s Achselzucken : shrug
 j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
 achten : to respect, to esteem
@@ -28,6 +29,7 @@ Arsch
 auffällig : conspicuous, apparent
   auffällig werden : become apparent
   Auffällig ist: ...
+aúf|reiben : לבלות, לשחוק, לרפט, להתיש, להלאות, לייגע
 r Auftritt : appearance, entrance, performance
 áb|reißen : to tear s.th. off, to demolish, to tear down
 áb|spülen : wash up
@@ -90,6 +92,9 @@ ausgeliefert
 aús|liefern : to supply, to surrender, to deliver, to ship
   etw. ausliefern : to deliver, to roll out, to ship
   j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
+s Ausmaß (pl. -e) : מידה, היקף, מימדים
+  - Zum Glück war das Ausmaß des Schadens begrenzt.
+  - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
 aús|rufen : to call out, to proclaim, to call for s.th.
 s Ausrufen : proclamation, cry, exclamation
 r Ausweg : מוצא, דרך החוצה, מפלט
@@ -194,6 +199,7 @@ ebnen : to level, to smooth
   den Weg ebnen (für etw.) : to pave the way (for s.th.)
   sich ebnen : to even out
 s Edikt (pl. -e) : edict [Zaw, hora'ah, pqudah]
+r Eilbote, e Eilbotin : שליח, רץ, בלדר
 einen : לאחד
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
@@ -246,6 +252,8 @@ j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
 j-n ertappen : to catch s.o. out, to find s.o. out, to catch s.o. red-handed
 erweichen : לרכך
+erweitern + Akk. : להרחיב
+s Erzhaus : בית הארכידוכסות
 
  F 
 ===
@@ -298,6 +306,7 @@ S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
 e Geschäftsordnung : standing orders, regulations, terms and conditions
+gescheit : חכם, מבריק, פיקח, נבון
 gescheitert : כושל, נכשל
 s Gesindel : ערב רב, אספסוף, המון
 getrieben : driven, pushed
@@ -365,6 +374,7 @@ infrage
   nicht infrage kommen : to be out of the question
   etw. infrage stellen : to content s.th., to challenge s.th.
 s Infragestellen : questioning
+r Intimfeind : אויב מושבע, ארכי‏־אויב
 
  J
 ===
@@ -425,6 +435,7 @@ muskulös : muscular
 
  N
 ===
+nách|geben + Dat. : להיכנע (ליצר), לוותר (בעקבות לחץ)
 in + Dat. nách|stehen : להיות נחות ב־/מבחינת־
   - im Rang nachstehen | to rank behind
 nách|steuern : to readjust s.th.
@@ -472,6 +483,7 @@ e Reichsacht : imperial outlawry
 reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
+riskieren + Akk. : לסכן, לקחת סיכון, להסתכן ב־
 r Rivale : יריב
 Rückhol- : return ...
   Rückholsendung : return shipment
@@ -483,8 +495,15 @@ r Ruß (pl. -e) : זוהמה, טינפות, לכלוך
 r Sachse, e Sachsin : Saxonian
 e Sackgasse (pl. -n) : dead end, cul-de-sac
 e Salve (pl. -n) : fusillade [maTaH esh]
+schade (adj.) : עצוב
+  - Ich fand es schade, dass mein Team nicht gewonnen hat.
+  - zu schade : ממש חבל
+Schade! : אוף! חבל!
+schaden + Dat. : לפגוע במשהו
+r Schaden (pl. Schäden) : נזק, פגיעה
 s Scheit (pl. -e) : חתיכת עץ
 scheitern : to fail
+schief : נוטה לצד אחד, עקום
 e Schießerei (pl. -en)
 schrecklich : terrible
 r Schlagabtausch (um + Akk.) : exchange of blows
@@ -493,8 +512,11 @@ e Schubkarre (pl. -n) : barrow, pushcart
 e Schusslinie (pl. -n) : fireline
 e Schusswaffe (pl. -n)
 r Seelsorger : pastor
+selbig : אותו (אחד)
 e Selbstdarstellung : self-portrayal, self-representation
 r Sendbote, e Sendbotin : emissary
+setzen
+  - seinem Leben ein Ende setzen
 e Sicherung : protection, assurance
 sieden : לרתוח
   - Das Wasser siedet. המים רותחים
@@ -517,6 +539,11 @@ r Streber : nerd, geek, overachiever
  T
 ===
 r Taktgeber : clock, master clock, timer
+taugen, taugte, getaugt : להתאים, לענות ל(צורך)
+  - zu + Dat. taugen : להיות טוב בשביל משהו
+  - nichts taugen : לא מועיל לכלום
+  - für + Akk. taugen : טוב למשהו
+tauglich : ראוי, מתאים
 tappen : to grope
   im Dunkeln tappen : to be in the dark
 teilweise : partial(ly), partly, to some extent
@@ -527,16 +554,21 @@ trotzten + Dat. : to defy, to outdare, to brave, to affront
 ======
 e Übereinkunft : agreement, accord
 r Überfall : פשיטה, התקפה, שוד
+e Überflutung : הצפה
 e Überlegenheit : עליונות, שליטה
 übernehmen : to assume (responsibity/liability), to take (an offer)
 j-n überrumpeln : להפתיע, להערים על
 umzingelt : מוקף
+uneins : מפולג, מפוצל, מחולק
 unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
 e Untat : פשע
 untätig : לא פעיל
+únter|legen + Akk. : לשים מתחת
 untersagt : prohibited
+unterstellen, unterstellte, unterstellt : לרמוז
 r Untertan, e Untertanin : subject (of a kingdom)
+unverhofft : לא צפוי, מפתיע
 unordentlich : messy
 e Unsumme : enormous amount, enormous sum
 unwiederbringlich : שלא ניתן להשיבו
@@ -547,10 +579,12 @@ s Urteil (pl. -e) : judgment, sentence, decision
 ===
 veräppeln : to pull s.o.'s leg
 j-n verarschen : to kid s.o., to take s.o. for a ride
+r Verband (pl. Verbände) : אגודה, ארגון
 verblassen - לדהות
 verbannen : להחרים, להגלות
 verbannt : מוחרם
-verbürgen - לאשר, לאמת, להוכיח
+verbürgen, verbürgte, verbürgt + Akk : לאשר, לאמת, להוכיח
+  - sich für + Akk. verbürgen : להעיד לטוב, לערוב ל־
 j-n vereidigen : להשביע (נשיא)
 vergelten : לגמול, להשיב
 verfechten, verfocht, verfochten : להגן, לגונן
@@ -559,6 +593,8 @@ verfügen : to dispose, to order, to rule (that ...)
   - über + Akk. verfügen : ישנו לשימושו של מישהו, יש לרשותו
   - Das Haus verfügt über eine separate Küche.
   - Alle Verben verfügen über einen indikativen Modus.
+j-m (Akk.) vergeben : לסלוח
+vergebens : לשווא, ללא הועיל
 vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזבז
 verhärtet : callous, hardened, obdurate
 verheeren : להרוס, להשחית
@@ -580,6 +616,7 @@ e Verschwendung : extravagance, waste
   - Die Verschwendung natürlicher Ressourcen
 j-n versöhnen : to reconcile s.o.
   sich (mit j-m) versöhnen : to reconciliate with s.o.
+e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
 vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
@@ -611,6 +648,7 @@ zerrüttet : מנופץ, שבור, הרוס
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
 e Zersplitterung : פיצול, פלגנות
+zeugungsfähig : שיש לו יכולת הולדה, בעל און
 s Zölibát : פרישות
 zucken : to jerk, to shrug, to twitch
 e Zuflucht (pl. -en) : מפלט, מחסה, מקלט, מסתור
@@ -627,9 +665,11 @@ s Zunft (pl. Zünfte) : guild
 zurécht|kommen
   gut zurechtkommen
 zurück|drängen + Akk. : להסיג, לגרום לאויב לסגת
+r Zusammenprall : התנגשות
 Zuschlag
 zú|spitzen + Akk. : לחדד
   - sich zuspitzen : להתחדד (ויכוח), להחריף
+zuvór|kommen : להתכונן מראש, למנוע משהו על ידי תכנון מראש
 r Zwiespalt (pl. Zwiespalte / Zwiespälte) : אנטגוניזם, דיכוטומיה, ניגוד
 e Zwietracht : קונפליקט, עימות, סכסוך
 e Zwischenlandung
