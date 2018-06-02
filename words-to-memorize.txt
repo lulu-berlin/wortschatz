@@ -16,10 +16,9 @@ e Abrede : undestanding
   j-m abringen, etwas zu tun
 s Achselzucken : shrug
 j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
-acten : to respect, to esteem
+achten : to respect, to esteem
   auf etw. achten : to pay attention to s.th., to take care of s.th.
-anders(he)rum (adv.) : the other way round
-anlässlich + Gen. : on the occasion of
+ächten : להוציא מחוץ לחוק; לנדות, להחרים
 Arm
   j-n auf den Arm nehmen : to pull s.o.'s leg
 Arsch
@@ -32,11 +31,14 @@ r Auftritt : appearance, entrance, performance
 áb|spülen : wash up
   das Geschirr abspülen
 e Aneignung (pl. -en) : ניכוס
+án|fachen - להצית, להדליק
 etw. án|fordern : to request, to deman
 e Anforderung : requirement, demand
 r Anhänger : follower, supporter. adherent
 Akk. + án|hören : to listen to
   sich etw. anhören : listen to sth.
+anlässlich + Gen. : on the occasion of
+s Anliegen (= pl.) : חשש, עניין מדאיג, בקשה
 án|maßen
   sich[Dat.] etw. anmaßen : to claim s.th., to assume s.th.
 e Anmaßung : arrogance, insolence, presumption
@@ -79,6 +81,7 @@ aús|liefern : to supply, to surrender, to deliver, to ship
   j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
 aús|rufen : to call out, to proclaim, to call for s.th.
 s Ausrufen : proclamation, cry, exclamation
+r Ausweg : מוצא, דרך החוצה, מפלט
 auswendig : by heart
   etw. auswendig lernen
   etw. auswendig können
@@ -90,11 +93,13 @@ e Bahn : train, path, track
 r Bann : ban
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 e Bagatelle (pl. -n) : trifle, small matter, trivial issue
+e Bedrängnis : מצוקה, צרה, יסורים
 beharren : to persevere, to persist
   auf etw.[Dat.] beharren : to insist on s.th.
 befremdlich : strange, odd
 begeistern : to inspire, to excite, to thrill, to faschinate, to wow
 begeistert: impressed
+r Beichtvater : כומר מוודה
 etw.[Akk.] bekanntgeben : to announce s.th.
 s Bekenntnis (pl. -se) : מסדר (דתי)
 bekunden : to manifest
@@ -103,6 +108,7 @@ belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 j-n bescheißen : to cheat s.o., to swindle s.o.
 betreiben : to operate, to conduct, to run
+sich bewahrheiten : להתממש, להיות מוכח כנכון
 bewundern : to admire
 etw. beziffern : to estimate, to quantify
   sich auf etw.[Akk.] beziffern : to amount to
@@ -110,6 +116,7 @@ etw.[Akk.] bezweifeln : to doubt s.th.
 s Bindeglied (pl. -er) : מחבר
 binnen + Gen. : תוך ... בתוך ... (זמן)
 bislang : so far, to date, yet
+blutdurchtränkt : ספוג בדם
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : storm
 s Bollwerk : סוללה, ביצור
@@ -117,7 +124,9 @@ r Buchhalter (= pl.), e Buchhalterin
 
  D
 ===
+dagegenhalten : לטעון כנגד
 e Deckung : coverage, backing
+s Dekret : צו
 dementieren : to disclaim, to repudiate, to deny s.th.
 e Deutung : analysis, interpretation
 deuten : to interpret
@@ -151,6 +160,8 @@ düster : עגום, קודר
 
  E
 ===
+
+ebenbürtig : שווה, ראוי
 ebnen : to level, to smooth
   den Weg ebnen (für etw.) : to pave the way (for s.th.)
   sich ebnen : to even out
@@ -163,6 +174,9 @@ eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
   - Ich bin in die Pläne des Präsident nicht eingeweiht.
 Einhalt
   etw.[Dat.] Einhalt gebieten : to put an end to s.th.
+empor : למעלה
+empört : ממורמר, זועם כתוצאה מאי־צדק
+e Empörung : זעם, מרמור, שאט נפש
 etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
   - Der Techniker richtete die Website innerhalb einer Woche ein.
   - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit
@@ -177,18 +191,23 @@ etw.[Akk.] entfachen : to ignite, to arouse, to spark
   Wut entfachen
   Fanatismus entfachen
   neu entfachen : to reawaken, to rekindle
-e Entlastung : relief
+e Entlassung : פיטורין
+e Entlastung : שחרור, פטור
 s Entmachten : disempowerment
 j-n entmachten : to disempower s.o., to deprive s.o. of power
 entschlossen : determined, resolute, intent
 entschlüsseln : to decrypt
 entsetzlich : terrible
 entstehen : to arise, to develop, to come into being/existence
+entthronen : להדיח מעל כס המלכות
 etw. erachten : to consider s.th.
 s Erachten : opnion
   meines Erachtens : in my opinion
 erbitten, erbat, erbeten : לבקש, לערוג 
+ergeben + Akk. : להניב, להפיק, להוביל ל, לייצר
 j-n erhören : להישמע לתפילתו של מישהו
+r Erlöser : מושיע
+e Ernennung : מינוי
 erschöpfen : to exhaust, to wear out
 j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
@@ -238,9 +257,11 @@ Gefahr
   - Gefahr laufen, ... zu + Inf. : להסתכן ב...
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
+S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
 e Geschäftsordnung : standing orders, regulations, terms and conditions
+s Gesindel : ערב רב, אספסוף, המון
 getrieben : driven, pushed
 gewähren : to concede, to confer, to impart
   j-m etw. gewähren : to grant s.th. to s.o., to award
@@ -248,10 +269,13 @@ gewährleísten : to ensure, to guarantee, to assure, to safeguard
 e Gewährleistung : guarantee, warranty
 s Gewebe : tissue, fabric
 s Gewehr (pl. -e) : gun, ifle
+s Gewerbe : אומנות, משלח יד
 s Gewölbe : vault
+r Gräuel (= pl.) : זוועה, מעשה נפשע
 s Gremium (pl. Gremien) : board
 e Gründung : establishment, foundation
 s Gründungsmythos / -us (pl. Gründungsmythen) : founding myth
+e Gülle : דשן, זבל
 
  H
 ===
@@ -261,6 +285,8 @@ halbmast [adv.]
   auf halbmast flaggen / wehen
   halbmast flaggen
 vor nichts haltmachen : to stop at nothing
+s Heer (pl. -e) : צבא
+r Henker : תליין
 herab : down
   von oben herab : from above, condescendingly
   von oben herab behandeln : treat s.o. in a condescending manner
@@ -306,6 +332,7 @@ e Jugendherberge : youth hostel
 ===
 r Ketzer : heretic
 r Keil (pl. -e) : טריז
+kläglich : אומלל
 e Kleinigkeit
 r Klerus : clergy
 etw. knallen : to slam, to bang
@@ -315,6 +342,7 @@ r Kragen (= pl.) : collar
   j-m an den Kragen wollen : to act against, to attack, to eradicate
   es geht j-m an den Kragen : to have something done against s.o.
 e Kostprobe (pl. -n) : דגימה
+krepieren : למות
 e Kriegslist : תחבולות מלחמה
 e Kundgebung : demonstration, rally
 e Kurie (Lat. curia) : council, assembly
@@ -326,6 +354,7 @@ lästerlich : blasphemous
 lästig : annoying, troublesome, irksome
   - Viele Kinder finden ihre kleinen Geschwister manchmal lästig.
 lauschen : to eavesdrop
+s Lederwams : מעיל עור
 e List (pl. -en) : עורמה
 locker : casual, easy, loose, lax
 lockern : to become loose, to relax, to release
@@ -374,6 +403,7 @@ prächtig : magnificent, splendid
 e Predigt (pl. -e) : דרשה
 prügeln + Akk. : to beat
   sich prügeln : to come to blows
+r Pulverdampf : עשן יריה
 
  R
 ===
@@ -408,6 +438,11 @@ r Seelsorger : pastor
 e Selbstdarstellung : self-portrayal, self-representation
 r Sendbote, e Sendbotin : emissary
 e Sicherung : protection, assurance
+sieden : לרתוח
+  - Das Wasser siedet. המים רותחים
+  - Der Eintopf siedet eine Wiele. הנזיד מתבשל זמן מה
+  - Sie ließ die Suppe eine halbe Stunde lang sieden. היא הניחה למרק לרתוח במשך חצי שעה
+r Siedepunkt : נקודת הרתיחה
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
 r Sold (pl. e) : פרס, גמול, שילום
@@ -435,8 +470,8 @@ trotzten + Dat. : to defy, to outdare, to brave, to affront
 e Übereinkunft : agreement, accord
 übernehmen : to assume (responsibity/liability), to take (an offer)
 j-n überrumpeln : להפתיע, להערים על
-umgekehrt : the other way round
 unerfreulich : unpleasant, annoying
+unerhört : מזעזע, שלא נשמע כמותו
 untersagt : prohibited
 r Untertan, e Untertanin : subject (of a kingdom)
 unordentlich : messy
@@ -452,6 +487,7 @@ j-n verarschen : to kid s.o., to take s.o. for a ride
 verblassen - לדהות
 r Verfechter, e Verfechterin : advocate, defender, proponent
 verbürgen - לאשר, לאמת, להוכיח
+j-n vereidigen : להשביע (נשיא)
 vergelten : לגמול, להשיב
 verfügen : to dispose, to order, to rule (that ...)
 verhärtet : callous, hardened, obdurate
@@ -473,7 +509,7 @@ e Verschwendung : extravagance, waste
   - Die Verschwendung natürlicher Ressourcen
 j-n versöhnen : to reconcile s.o.
   sich (mit j-m) versöhnen : to reconciliate with s.o.
-s Vieh : בקר
+verstummen : להשתתק, להיעשות שקט
 vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
   - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
@@ -513,7 +549,11 @@ e Zwischenlandung
 Auswendig gerlernt
 ==================
 
+anders(he)rum (adv.) : the other way round
 lustig
   sich über j-n lustig machen : to make fun of s.o.
 r Nachweis
+umgekehrt : the other way round
+s Vieh : בקר
 s Wunder (= pl.) : wonder, miracle, marvel
+e Wut : זעם
