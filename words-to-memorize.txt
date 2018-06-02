@@ -19,6 +19,8 @@ e Abrede : undestanding
 áb|ringen, rang ab, hat abgerungen : to force, to wring
   j-m abringen, etwas zu tun
 áb|schütteln + Akk. : להיפטר מ־, להתנער מ־, להשתחרר מ־
+e Abstammung : מוצא, מקור, ייחוס
+(j-m) áb|treten + Akk. : להקצות משהו למישהו, להעביר משהו למישהו, לוותר על משהו לטובת מישהו
 sich áb|wenden : להתרחק, להפנות את הגב
 s Achselzucken : shrug
 j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
@@ -33,11 +35,14 @@ r Auftritt : appearance, entrance, performance
 áb|reißen : to tear s.th. off, to demolish, to tear down
 áb|spülen : wash up
   das Geschirr abspülen
+ander(er)seits : מצד שני
+  - einerseits ..., ander(er)seits ...
 e Aneignung (pl. -en) : ניכוס
 án|fachen - להצית, להדליק
 etw. án|fordern : to request, to deman
 e Anforderung : requirement, demand
 r Anhänger : follower, supporter. adherent
+Anhöhe : גבעה
 Akk. + án|hören : to listen to
   sich etw. anhören : listen to sth.
 án|knüpfen : לקשור
@@ -50,6 +55,10 @@ e Anmaßung : arrogance, insolence, presumption
 án|reichern : to enrich, to fortify
   mit Sauerstoff anreichern
 e Anreicherung : enrichment
+án|sagen + Akk. : להכריז על
+  - sich ansagen : להכריז על עצמו
+  - den Kampf ansagen : להכריז מלחמה
+s Ansagen (= pl.) : הכרזות
 án|schließen : לחבר, לצרף, לקשור יחד
 án|stimmen : to intone, to start singing
 etw. án|streben : to strive, to aspire to, to strive for, to aim at
@@ -68,10 +77,13 @@ j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   j-n auffordern, Farbe zu bekennen : to call s.o.'s bluff
 e Aufforderung : request, invitation, solicitation, reminder
   letzte Aufforderung : last reminder
+aufgezehrt : אכול, משומש, ממוצה
 j-n aúf|muntern : לשמח, לעודד, להצהיל
 j-n aúf|rütteln : לעורר, להלהיב (לידי פעולה)
 aúf|schreiben : to write down
 e Aufschwung : תנופה, צמיחה
+aúf|spielen : לשחק
+  - sich aufspielen : לעשות כאילו, להשוויץ
 j-n aúf|stellen : to nominate s.o.
 r Auftakt (pl. -e) : kick-off, prelude, opening
 e Auftaktkundgebung : initial demonstration
@@ -103,6 +115,7 @@ s Ausmaß (pl. -e) : מידה, היקף, מימדים
   - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
 aús|rufen : to call out, to proclaim, to call for s.th.
 s Ausrufen : proclamation, cry, exclamation
+aús|scheren : לשנות מסלול, לסטות מן המסלול
 r Ausweg : מוצא, דרך החוצה, מפלט
 auswärtig : חיצוני
 auswärts : החוצה
@@ -130,16 +143,22 @@ e Begnadigung : חנינה
 behaupten + Akk. : לקבוע, לאשר, לטעון
   - sich gegen j-n behaupten : להתייצב כנגד מישהו
 r Beichtvater : כומר מוודה
+beí|treten + Dat. : להצטרף ל־, להיכנס ל־
 etw.[Akk.] bekanntgeben : to announce s.th.
 s Bekenntnis (pl. -se) : מסדר (דתי)
 bekunden : to manifest
   + Akk. : to evince sth.
+bejahen + Akk. : להסכים, להשיב כן
 e Belastung : עול
 belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 berüchtigt : ידוע לשמצה
 j-n bescheißen : to cheat s.o., to swindle s.o.
 j-n beschwichtigen : לפייס, להרגיע
+berufen + Akk. : למַנות
+  - berufen (adj.) : ממונה, כשיר
+  - berufen (adv.) : באופן כשיר, באופן קומפטנטי
+  
 beseitigen + Akk. : להיפטר מ
 bestaunen + Akk : להתפלא, להתפעל
 betragen + Akk. : מונה, אורך, מגיע לכדי [להיות, אבל למידה]
@@ -214,8 +233,11 @@ ebnen : to level, to smooth
   den Weg ebnen (für etw.) : to pave the way (for s.th.)
   sich ebnen : to even out
 s Edikt (pl. -e) : edict [Zaw, hora'ah, pqudah]
+e Eigenständigkeit : אוטונומיה, עצמאות, שלטון עצמי
 r Eilbote, e Eilbotin : שליח, רץ, בלדר
 einen : לאחד
+eín|dämmen + Akk. : לעצור, לשים סוף ל־, לחסום
+eín|dämmern : להירדם, לשקוע בשינה
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
 eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
@@ -248,6 +270,7 @@ etw.[Akk.] entfachen : to ignite, to arouse, to spark
   Fanatismus entfachen
   neu entfachen : to reawaken, to rekindle
 entfesseln : לשחרר, להתיר את הרסן
+entgegen|sehen + Dat. : לצפות ל־
 entgegen|stehen + Dat. : למנוע; להתנגד ל
 e Entlassung : פיטורין
 e Entlastung : שחרור, פטור
@@ -266,6 +289,7 @@ s Erachten : opnion
   meines Erachtens : in my opinion
 erbitten, erbat, erbeten : לבקש, לערוג 
 ergeben + Akk. : להניב, להפיק, להוביל ל, לייצר
+ergreifen + Akk. : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח)
 j-n erhören : להישמע לתפילתו של מישהו
 r Erlöser : מושיע
 e Ernennung : מינוי
@@ -291,6 +315,7 @@ sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
 s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
+flussaufwärts : במעלה הנהר
 etw. von j-m fordern : to demand s.th. from s.o., to require, to request
   Ersatz fordern : to claim compensation
   Geld fordern : to claim one's money
@@ -393,6 +418,7 @@ hinab : down
 auf j-n hinab|sehen : to look down on s.o.
 hín|nehmen + Akk. : לקבל, להסכים ל
 r Hinterhalt : אמבוש
+hinterher|kommen : לבוא אחרי/בעקבות, לבוא מאוחר יותר, להתאים
 j-n hín|richten : להוציא להורג
 j-m etw. hinterlássen : to leave s.o. s.th.
   eine Nachricht hinterlasseN
@@ -418,6 +444,8 @@ e Jagd : ציד
 jäh : abrupt(ly), sudden(ly)
   - Ich bemerkte eine jähe Veränderung in seiner Stimmung.
 jämmerlich : pitiful, miserable
+jucken + Akk. : לגרד
+  - es juckt mich : זה מגרד לי
 e Jugendherberge : youth hostel
 
  K
@@ -448,6 +476,7 @@ lästerlich : blasphemous
 lästig : annoying, troublesome, irksome
   - Viele Kinder finden ihre kleinen Geschwister manchmal lästig.
 lauschen : to eavesdrop
+s Lauschen : האזנה בחשאי - eavesdropping
 s Lederwams : מעיל עור
 e List (pl. -en) : עורמה
 locker : casual, easy, loose, lax
@@ -534,9 +563,11 @@ r Ruß (pl. -e) : זוהמה, טינפות, לכלוך
 
  S
 ===
+r Säbel : סיף
 r Sachse, e Sachsin : Saxonian
 e Sackgasse (pl. -n) : dead end, cul-de-sac
 e Salve (pl. -n) : fusillade [maTaH esh]
+r Saufkopf : שיכור
 schade (adj.) : עצוב
   - Ich fand es schade, dass mein Team nicht gewonnen hat.
   - zu schade : ממש חבל
@@ -595,6 +626,9 @@ tauglich : ראוי, מתאים
 tappen : to grope
   im Dunkeln tappen : to be in the dark
 teilweise : partial(ly), partly, to some extent
+tilgen + Akk. : לפדות, להחזיר חוב
+  - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
+  - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
 r Tross (pl. -e) : ציוד צבאי, קיטבג
 r Trotzkopf (pl. Trotzköpfe) : עקשן
 trotzten + Dat. : to defy, to outdare, to brave, to affront
@@ -607,6 +641,7 @@ e Überflutung : הצפה
 e Überlegenheit : עליונות, שליטה
 übernehmen : to assume (responsibity/liability), to take (an offer)
 j-n überrumpeln : להפתיע, להערים על
+úm|schwenken : לשנות צד
 úm|stimmen + Akk. : לשנות (דעה)
 umzingelt : מוקף
 uneins : מפולג, מפוצל, מחולק
@@ -660,6 +695,7 @@ sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
   in j-n verknallt sein
 e Vermittlung : mediation, agency, operator
 j-n verprügeln : to beat s.o. up
+verrecken : למות, ללכת פייפן, להיגמר
 versammelt : assembled, convened
 verschaffen : to provide
   sich[Dat.] etw. verschaffen : to gain, to wrangle
@@ -677,6 +713,7 @@ e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
+vorán|bringen + Akk. : לקדם
 vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
   - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
@@ -699,6 +736,7 @@ wég|nehmen + Akk. : לקחת, להרחיק, to take away
 weilen : להישאר
 r Widerpart : יריב
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
+wieder|erlangen + Akk. : לשוב ל(הכרה), להשיג בחזרה
 einsamer Wolf
 sich wundern : to wonder, to be surprised
 
