@@ -52,7 +52,9 @@ e Anreicherung : enrichment
 án|stimmen : to intone, to start singing
 etw. án|streben : to strive, to aspire to, to strive for, to aim at
   - eine Stelle anstreben
+j-m etw. án|vertrauen : לסמוך על מישהו עם משהו to confide
 án|zweifeln : to doubt, to mistrust
+aufbrausend : מהיר־חימה
 j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   - Der Lehrer forderte die Schüler, pünktlich zu sein.
   - Die Website forderte mich auf, ein neues Passwort einzugeben.
@@ -60,13 +62,20 @@ j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   j-n auffordern, Farbe zu bekennen : to call s.o.'s bluff
 e Aufforderung : request, invitation, solicitation, reminder
   letzte Aufforderung : last reminder
+j-n aúf|muntern : לשמח, לעודד, להצהיל
 aúf|schreiben : to write down
 j-n aúf|stellen : to nominate s.o.
 r Auftakt (pl. -e) : kick-off, prelude, opening
 e Auftaktkundgebung : initial demonstration
+aúf|tischen : להגיש (אוכל)
 etw. aús|geben : to issue, to spend, to expend, to dispense
   - Die Universität gibt Studentenausweise aus.
   - Ich will mein ganzes Geld für ein neues Auto ausgeben.
+Ausschluss : חריג, יוצא דופן
+ausschließlich
+  - adj. : יחיד
+  - adv. : בלבד, רק
+  - präp. + Gen. : פרט ל, מלבד־
 auseinander|setzen
   sich mit j-m auseinandersetzen : to argue with s.o., to deal with s.o.
   sich mit etw.[Dat.] auseinandersetzen : to grapple with, to deal with, to
@@ -103,6 +112,8 @@ beharren : to persevere, to persist
 befremdlich : strange, odd
 begeistern : to inspire, to excite, to thrill, to faschinate, to wow
 begeistert: impressed
+j-n begnadigen : לחון
+e Begnadigung : חנינה
 r Beichtvater : כומר מוודה
 etw.[Akk.] bekanntgeben : to announce s.th.
 s Bekenntnis (pl. -se) : מסדר (דתי)
@@ -110,10 +121,15 @@ bekunden : to manifest
   + Akk. : to evince sth.
 belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
+berüchtigt : ידוע לשמצה
 j-n bescheißen : to cheat s.o., to swindle s.o.
 beseitigen + Akk. : להיפטר מ
+betragen + Akk. : מונה, אורך, מגיע לכדי [להיות, אבל למידה]
+  - Die Entferunung beträgt vier Meilen.
+  - Die Telefonrechnung beträgt 50 Euro.
 betreiben : to operate, to conduct, to run
 e Beute : שלל, טרף, ביזה
+  - Die Beute wegnehmen : לקחת את השלל
 bevor|stehen : להיות צפוי, אמור לקרות
 sich bewahrheiten : להתממש, להיות מוכח כנכון
 bewundern : to admire
@@ -124,10 +140,12 @@ s Bindeglied (pl. -er) : מחבר
 binnen + Gen. : תוך ... בתוך ... (זמן)
 bis auf : עד ל, חוץ מ, מלבד
 bislang : so far, to date, yet
+r Bittbrief : מכתב בקשה
 blutdurchtränkt : ספוג בדם
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : storm
 s Bollwerk : סוללה, ביצור
+brillieren : to shine
 r Buchhalter (= pl.), e Buchhalterin
 
  D
@@ -152,6 +170,7 @@ drauf
   ich pfeif drauf : I don't give a damn about it
   Scheiß drauf : don't give a shit
 dreist : חצוף, חסר בושה, נמהר
+r Drill : תרגיל צבאי, אימון
 drüben
   da/dort drüben : over there
   hüben und drüben : on both sides
@@ -203,6 +222,7 @@ etw.[Akk.] entfachen : to ignite, to arouse, to spark
   Fanatismus entfachen
   neu entfachen : to reawaken, to rekindle
 entfesseln : לשחרר, להתיר את הרסן
+entgegen|stehen + Dat. : למנוע; להתנגד ל
 e Entlassung : פיטורין
 e Entlastung : שחרור, פטור
 s Entmachten : disempowerment
@@ -225,6 +245,7 @@ ersehnt : נכסף
 j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
 j-n ertappen : to catch s.o. out, to find s.o. out, to catch s.o. red-handed
+erweichen : לרכך
 
  F 
 ===
@@ -244,6 +265,7 @@ etw. von j-m fordern : to demand s.th. from s.o., to require, to request
 e Forderung : claim, deman, call, stipulation
   Forderung stellen : to make a claim
   politische Forderung : political demand
+fordern + Akk. : לדרוש, לתבוע
 fördern : to foster, to promote, to encourage, to further
 e Förderung : promotion, support, funding, advancement, grant, encouragement
   - Dies ist ein Projekt zur Förderung junger Künstler.
@@ -266,8 +288,10 @@ e Fußgängerzone
 geächtet : outlaw(ed)
 sich gebärden : to behave (like / as / ...)
 j-m etw. gebieten : to command, to demand
+e Gebühr (pl. -en) : שכר, עלות, אגרה, עמלה
 Gefahr
   - Gefahr laufen, ... zu + Inf. : להסתכן ב...
+r Gegenzug : מהלך נגדי
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
 S Gemetzel : שחיטה, טבח
@@ -324,11 +348,13 @@ hin oder her : בין אם כך ובין אם כך, לא משנה אם כך או
 hinab : down
 auf j-n hinab|sehen : to look down on s.o.
 hín|nehmen + Akk. : לקבל, להסכים ל
+j-n hín|richten : להוציא להורג
 j-m etw. hinterlássen : to leave s.o. s.th.
   eine Nachricht hinterlasseN
 j-n über etw. hinwég|täuschen : to belie, to cover up, to deceive
 hóch|fahren : to start, to start up, to boot, to ramp up
   - Ich trank einen Schluck Kaffee und fuhr meinen Computer hoch.
+höchstpersönlich : אישי ביותר
 r Höhepunkt (pl. -e) : highlight, peak, climax
 
  I
@@ -390,6 +416,7 @@ r Missbrauch (pl. Missbräuche) : abuse, misuse, violation
   Der Missbrauch von Alkohol
   Der Missbrauch der Bibliothekscomputer ist untersagt
 r Missstand (pl. Misstände) : grievance, drawback, fault, defect
+mitunter : לפעמים, מדי פעם, מפעם לפעם
 mufflig : grumpy
 munter : lively, cheerful, jolly
 r Muskel : muscle
@@ -398,6 +425,8 @@ muskulös : muscular
 
  N
 ===
+in + Dat. nách|stehen : להיות נחות ב־/מבחינת־
+  - im Rang nachstehen | to rank behind
 nách|steuern : to readjust s.th.
 e Nachwelt (pl. -en) : next generations
 nahend : imminent, approaching, forthoming
@@ -459,6 +488,7 @@ scheitern : to fail
 e Schießerei (pl. -en)
 schrecklich : terrible
 r Schlagabtausch (um + Akk.) : exchange of blows
+r Schöngeist : אסתטיקן, בעל טעם, אנין
 e Schubkarre (pl. -n) : barrow, pushcart
 e Schusslinie (pl. -n) : fireline
 e Schusswaffe (pl. -n)
@@ -497,11 +527,14 @@ trotzten + Dat. : to defy, to outdare, to brave, to affront
 ======
 e Übereinkunft : agreement, accord
 r Überfall : פשיטה, התקפה, שוד
+e Überlegenheit : עליונות, שליטה
 übernehmen : to assume (responsibity/liability), to take (an offer)
 j-n überrumpeln : להפתיע, להערים על
 umzingelt : מוקף
 unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
+e Untat : פשע
+untätig : לא פעיל
 untersagt : prohibited
 r Untertan, e Untertanin : subject (of a kingdom)
 unordentlich : messy
@@ -515,12 +548,18 @@ s Urteil (pl. -e) : judgment, sentence, decision
 veräppeln : to pull s.o.'s leg
 j-n verarschen : to kid s.o., to take s.o. for a ride
 verblassen - לדהות
-r Verfechter, e Verfechterin : advocate, defender, proponent
+verbannen : להחרים, להגלות
+verbannt : מוחרם
 verbürgen - לאשר, לאמת, להוכיח
 j-n vereidigen : להשביע (נשיא)
 vergelten : לגמול, להשיב
 verfechten, verfocht, verfochten : להגן, לגונן
+r Verfechter, e Verfechterin : advocate, defender, proponent
 verfügen : to dispose, to order, to rule (that ...)
+  - über + Akk. verfügen : ישנו לשימושו של מישהו, יש לרשותו
+  - Das Haus verfügt über eine separate Küche.
+  - Alle Verben verfügen über einen indikativen Modus.
+vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזבז
 verhärtet : callous, hardened, obdurate
 verheeren : להרוס, להשחית
 verheerend : davastating, disastrous, fatal
@@ -546,7 +585,10 @@ vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
   - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
 vorerst : for now, for the time being לעת עתה
+vor|fahren :  : לנסוע מקדימה
+Vorfahren (pl.) : אבות(יי), אבות קדומים
 e Vorherrschaft : עליונות
+e Vorliebe : העדפה, חיבה
 Dat. + vór|stehen : preside over
 e Vorwahl : area code, prefix
 e Vorwarnung : אזהרה מראש
@@ -557,6 +599,7 @@ wahrhaben : להכיר בכך ש
   - wahrhaben wollen
 wappnen : לחמש
   - sich gegen + Akk. wappnen : להתכונן נגד משהו
+wég|nehmen + Akk. : לקחת, להרחיק, to take away
 r Widerpart : יריב
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
 einsamer Wolf
@@ -571,6 +614,9 @@ e Zersplitterung : פיצול, פלגנות
 s Zölibát : פרישות
 zucken : to jerk, to shrug, to twitch
 e Zuflucht (pl. -en) : מפלט, מחסה, מקלט, מסתור
+zú|fügen : להוסיף
+  - j-m Schaden zufügen : לפגוע במישהו
+  - j-m Unrecht zufügen : לעשות למישהו משהו לא בסדר
 zú|gehen : להתקרב; להיסגר (חלון)
 s Zugeständnis (pl. -se) : concession
 zugunsten + Gen. : in favor of, in support of, for the benefit of
@@ -580,6 +626,7 @@ zuletzt : אחרון, לבסוף, לאחרונה
 s Zunft (pl. Zünfte) : guild
 zurécht|kommen
   gut zurechtkommen
+zurück|drängen + Akk. : להסיג, לגרום לאויב לסגת
 Zuschlag
 zú|spitzen + Akk. : לחדד
   - sich zuspitzen : להתחדד (ויכוח), להחריף
