@@ -3,6 +3,8 @@
 áb|feuern : to fire off
 e Abgabe : שחרור, העברה, מס
 abgefuckt : fucked up
+r Abgrund : תהום
+s Abkommen : הסכם, עסקה, דיל
 r Ablass : discharge, indulgence
 j-n áb|ordnen : to delegate s.o.
   j-n als Delegierten abordnen
@@ -109,8 +111,10 @@ bekunden : to manifest
 belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 j-n bescheißen : to cheat s.o., to swindle s.o.
+beseitigen + Akk. : להיפטר מ
 betreiben : to operate, to conduct, to run
 e Beute : שלל, טרף, ביזה
+bevor|stehen : להיות צפוי, אמור לקרות
 sich bewahrheiten : להתממש, להיות מוכח כנכון
 bewundern : to admire
 etw. beziffern : to estimate, to quantify
@@ -118,6 +122,7 @@ etw. beziffern : to estimate, to quantify
 etw.[Akk.] bezweifeln : to doubt s.th.
 s Bindeglied (pl. -er) : מחבר
 binnen + Gen. : תוך ... בתוך ... (זמן)
+bis auf : עד ל, חוץ מ, מלבד
 bislang : so far, to date, yet
 blutdurchtränkt : ספוג בדם
 e Blutkonserve (pl. -n) : blood bottle
@@ -146,6 +151,7 @@ drauf
   ziellos drauf los : all over the place
   ich pfeif drauf : I don't give a damn about it
   Scheiß drauf : don't give a shit
+dreist : חצוף, חסר בושה, נמהר
 drüben
   da/dort drüben : over there
   hüben und drüben : on both sides
@@ -181,6 +187,7 @@ Einhalt
 empor : למעלה
 empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
+erschallen, erschallte, erschallt : להשמיע קול/צליל
 etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
   - Der Techniker richtete die Website innerhalb einer Woche ein.
   - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit
@@ -195,6 +202,7 @@ etw.[Akk.] entfachen : to ignite, to arouse, to spark
   Wut entfachen
   Fanatismus entfachen
   neu entfachen : to reawaken, to rekindle
+entfesseln : לשחרר, להתיר את הרסן
 e Entlassung : פיטורין
 e Entlastung : שחרור, פטור
 s Entmachten : disempowerment
@@ -213,6 +221,7 @@ j-n erhören : להישמע לתפילתו של מישהו
 r Erlöser : מושיע
 e Ernennung : מינוי
 erschöpfen : to exhaust, to wear out
+ersehnt : נכסף
 j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
 j-n ertappen : to catch s.o. out, to find s.o. out, to catch s.o. red-handed
@@ -275,9 +284,12 @@ e Gewährleistung : guarantee, warranty
 s Gewebe : tissue, fabric
 s Gewehr (pl. -e) : gun, ifle
 s Gewerbe : אומנות, משלח יד
+e Gewissheit : בטחון, ודאות
 s Gewölbe : vault
+e Glut : גחל
 r Gräuel (= pl.) : זוועה, מעשה נפשע
 s Gremium (pl. Gremien) : board
+r Grimm : זעם, חימה
 e Gründung : establishment, foundation
 s Gründungsmythos / -us (pl. Gründungsmythen) : founding myth
 e Gülle : דשן, זבל
@@ -311,6 +323,7 @@ auf etw. hinaús|laufen : to add up to s.th., to result in s.th.
 hin oder her : בין אם כך ובין אם כך, לא משנה אם כך או כך
 hinab : down
 auf j-n hinab|sehen : to look down on s.o.
+hín|nehmen + Akk. : לקבל, להסכים ל
 j-m etw. hinterlássen : to leave s.o. s.th.
   eine Nachricht hinterlasseN
 j-n über etw. hinwég|täuschen : to belie, to cover up, to deceive
@@ -337,6 +350,7 @@ e Jugendherberge : youth hostel
 
  K
 ===
+karg : דליל
 r Ketzer : heretic
 r Keil (pl. -e) : טריז
 kläglich : אומלל
@@ -370,6 +384,7 @@ lockern : to become loose, to relax, to release
  M
 ===
 e Marotte (pl. -n) : whim
+maßlos : מוגזם, ללא מידה
 e Maßnahme (pl. -n) : measure(s), provision(s)
 r Missbrauch (pl. Missbräuche) : abuse, misuse, violation
   Der Missbrauch von Alkohol
@@ -386,6 +401,8 @@ muskulös : muscular
 nách|steuern : to readjust s.th.
 e Nachwelt (pl. -en) : next generations
 nahend : imminent, approaching, forthoming
+e Neige : דעיכה, שקיעה
+  - zur Neige gehen : להידלדל, להתמעט
 e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
 e Niederlage (pl. -n) : defeat
@@ -402,12 +419,15 @@ r Orkan (pl. -e)
 ===
 Palmsonntag : Palm Sunday
 panisch : panic-fueled, freaked out
-parieren : to counteR
+parieren : to counter
+e Pest : מגיפה
 e Pose (pl. -n) : pose
 r Pranger : pillory [`amud qalon]
   an den Pranger stellen
 prächtig : magnificent, splendid
 e Predigt (pl. -e) : דרשה
+Preis : מחיר
+  - um jeden Preis : בכל מחיר
 prügeln + Akk. : to beat
   sich prügeln : to come to blows
 r Pulverdampf : עשן יריה
@@ -423,6 +443,7 @@ e Reichsacht : imperial outlawry
 reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
+r Rivale : יריב
 Rückhol- : return ...
   Rückholsendung : return shipment
 e Rückholung : retrieval
@@ -475,6 +496,7 @@ trotzten + Dat. : to defy, to outdare, to brave, to affront
  U, Ü
 ======
 e Übereinkunft : agreement, accord
+r Überfall : פשיטה, התקפה, שוד
 übernehmen : to assume (responsibity/liability), to take (an offer)
 j-n überrumpeln : להפתיע, להערים על
 umzingelt : מוקף
@@ -500,7 +522,8 @@ vergelten : לגמול, להשיב
 verfechten, verfocht, verfochten : להגן, לגונן
 verfügen : to dispose, to order, to rule (that ...)
 verhärtet : callous, hardened, obdurate
-verheerend: davastating, disastrous, fatal
+verheeren : להרוס, להשחית
+verheerend : davastating, disastrous, fatal
 verkacken : to fuck s.th. up
 sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
   in j-n verknallt sein
@@ -523,8 +546,10 @@ vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
   - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
 vorerst : for now, for the time being לעת עתה
+e Vorherrschaft : עליונות
 Dat. + vór|stehen : preside over
 e Vorwahl : area code, prefix
+e Vorwarnung : אזהרה מראש
 
  W
 ===
@@ -542,6 +567,7 @@ sich wundern : to wonder, to be surprised
 zerrüttet : מנופץ, שבור, הרוס
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
+e Zersplitterung : פיצול, פלגנות
 s Zölibát : פרישות
 zucken : to jerk, to shrug, to twitch
 e Zuflucht (pl. -en) : מפלט, מחסה, מקלט, מסתור
@@ -550,6 +576,7 @@ s Zugeständnis (pl. -se) : concession
 zugunsten + Gen. : in favor of, in support of, for the benefit of
   zugunsten von
 etw. zú|lassen : to allow s.th., to permit s.th.
+zuletzt : אחרון, לבסוף, לאחרונה
 s Zunft (pl. Zünfte) : guild
 zurécht|kommen
   gut zurechtkommen
