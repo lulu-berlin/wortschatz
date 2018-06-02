@@ -1,5 +1,7 @@
  A, Ä
 ======
+áb|danken : לוותר על כס המלוכה, להתפטר
+e Abdankung : ויתור על כס המלכות, התפטרות
 áb|feuern : to fire off
 e Abgabe : שחרור, העברה, מס
 abgefuckt : fucked up
@@ -22,10 +24,6 @@ j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
 achten : to respect, to esteem
   auf etw. achten : to pay attention to s.th., to take care of s.th.
 ächten : להוציא מחוץ לחוק; לנדות, להחרים
-Arm
-  j-n auf den Arm nehmen : to pull s.o.'s leg
-Arsch
-  im Arsch : fucked up, messed up
 auffällig : conspicuous, apparent
   auffällig werden : become apparent
   Auffällig ist: ...
@@ -41,6 +39,7 @@ e Anforderung : requirement, demand
 r Anhänger : follower, supporter. adherent
 Akk. + án|hören : to listen to
   sich etw. anhören : listen to sth.
+án|knüpfen : לקשור
 anlässlich + Gen. : on the occasion of
 s Anliegen (= pl.) : חשש, עניין מדאיג, בקשה
 án|maßen
@@ -56,6 +55,10 @@ etw. án|streben : to strive, to aspire to, to strive for, to aim at
   - eine Stelle anstreben
 j-m etw. án|vertrauen : לסמוך על מישהו עם משהו to confide
 án|zweifeln : to doubt, to mistrust
+Arm
+  j-n auf den Arm nehmen : to pull s.o.'s leg
+Arsch
+  im Arsch : fucked up, messed up
 aufbrausend : מהיר־חימה
 j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   - Der Lehrer forderte die Schüler, pünktlich zu sein.
@@ -111,6 +114,7 @@ e Bahn : train, path, track
 r Bann : ban
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 e Bagatelle (pl. -n) : trifle, small matter, trivial issue
+beabsichtigen + Akk. : להתכוון, לתכנן
 e Bedrängnis : מצוקה, צרה, יסורים
 beharren : to persevere, to persist
   auf etw.[Dat.] beharren : to insist on s.th.
@@ -119,16 +123,21 @@ begeistern : to inspire, to excite, to thrill, to faschinate, to wow
 begeistert: impressed
 j-n begnadigen : לחון
 e Begnadigung : חנינה
+behaupten + Akk. : לקבוע, לאשר, לטעון
+  - sich gegen j-n behaupten : להתייצב כנגד מישהו
 r Beichtvater : כומר מוודה
 etw.[Akk.] bekanntgeben : to announce s.th.
 s Bekenntnis (pl. -se) : מסדר (דתי)
 bekunden : to manifest
   + Akk. : to evince sth.
+e Belastung : עול
 belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 berüchtigt : ידוע לשמצה
 j-n bescheißen : to cheat s.o., to swindle s.o.
+j-n beschwichtigen : לפייס, להרגיע
 beseitigen + Akk. : להיפטר מ
+bestaunen + Akk : להתפלא, להתפעל
 betragen + Akk. : מונה, אורך, מגיע לכדי [להיות, אבל למידה]
   - Die Entferunung beträgt vier Meilen.
   - Die Telefonrechnung beträgt 50 Euro.
@@ -161,6 +170,7 @@ s Dekret : צו
 dementieren : to disclaim, to repudiate, to deny s.th.
 e Deutung : analysis, interpretation
 deuten : to interpret
+e Devise : מוטו
 e Differenz
 dran
   gut dran (sein) : (to be) well off
@@ -212,6 +222,7 @@ Einhalt
 empor : למעלה
 empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
+entgehen + Dat. : לחמוק מ‏־
 erschallen, erschallte, erschallt : להשמיע קול/צליל
 etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
   - Der Techniker richtete die Website innerhalb einer Woche ein.
@@ -233,6 +244,9 @@ e Entlassung : פיטורין
 e Entlastung : שחרור, פטור
 s Entmachten : disempowerment
 j-n entmachten : to disempower s.o., to deprive s.o. of power
+an + Dat. entrichten
+  - eine Gebühr entrichten : לשלם אגרה
+  - j-m seinen Tribut einrichten : to pay tribute to s.o.
 entschlossen : determined, resolute, intent
 entschlüsseln : to decrypt
 entsetzlich : terrible
@@ -285,6 +299,7 @@ fortan : מעתה ואילך,מכאן ואילך
 e Freiheit
   sich die Freiheit herausnehmen : to take the liberty
   sich die Freiheit nehmen : to take the liberty
+e Fronarbeit : עבודת פרך
 e Führung : management, leadership
 furchtbar : terrible
 r Fürsprecher : advocate
@@ -302,6 +317,7 @@ Gefahr
 r Gegenzug : מהלך נגדי
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
+r Gemahl : בעל
 S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
@@ -350,6 +366,7 @@ auf j-n herab|sehen : to look down on s.o.
 auf j-n herab|schauen : to look down on s.o.
 e Herabstufung : downgrade, downgrading, demotion
 herablassend : condescending
+hervór|rufen : להביא לידי, לעורר, להעלות
 auf etw. hinaús|laufen : to add up to s.th., to result in s.th.
   aufs Gleiche hinauslaufen : to amount to the same thing
   auf eins hinauslaufen : to amount to the same thing
@@ -401,6 +418,7 @@ r Kragen (= pl.) : collar
 e Kostprobe (pl. -n) : דגימה
 krepieren : למות
 e Kriegslist : תחבולות מלחמה
+r Kriegsschauplatz : שדה הקרב
 e Kundgebung : demonstration, rally
 e Kurie (Lat. curia) : council, assembly
 
@@ -443,10 +461,12 @@ e Nachwelt (pl. -en) : next generations
 nahend : imminent, approaching, forthoming
 e Neige : דעיכה, שקיעה
   - zur Neige gehen : להידלדל, להתמעט
+nennenswert : ראוי לציון
 e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
 e Niederlage (pl. -n) : defeat
 notfalls : in case of emergency
+r Nutznießer : המוטב, הנהנה
 
  O, Ö
 ======
@@ -464,6 +484,7 @@ e Pest : מגיפה
 e Pose (pl. -n) : pose
 r Pranger : pillory [`amud qalon]
   an den Pranger stellen
+e Pracht : פאר, הוד, הדר
 prächtig : magnificent, splendid
 e Predigt (pl. -e) : דרשה
 Preis : מחיר
@@ -503,8 +524,12 @@ schaden + Dat. : לפגוע במשהו
 r Schaden (pl. Schäden) : נזק, פגיעה
 s Scheit (pl. -e) : חתיכת עץ
 scheitern : to fail
+s Scheusal : זומבי, מפלצת
 schief : נוטה לצד אחד, עקום
 e Schießerei (pl. -en)
+r Schrank (pl. Schränke) : ארון
+e Schranke (pl. -n) : גבול, שער
+  - in Die Schranken weisen : להגביל, לשים גבול
 schrecklich : terrible
 r Schlagabtausch (um + Akk.) : exchange of blows
 r Schöngeist : אסתטיקן, בעל טעם, אנין
@@ -548,6 +573,7 @@ tappen : to grope
   im Dunkeln tappen : to be in the dark
 teilweise : partial(ly), partly, to some extent
 r Tross (pl. -e) : ציוד צבאי, קיטבג
+r Trotzkopf (pl. Trotzköpfe) : עקשן
 trotzten + Dat. : to defy, to outdare, to brave, to affront
 
  U, Ü
@@ -562,6 +588,7 @@ umzingelt : מוקף
 uneins : מפולג, מפוצל, מחולק
 unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
+ungenutzt : לא בשימוש, במצב סרק
 e Untat : פשע
 untätig : לא פעיל
 únter|legen + Akk. : לשים מתחת
@@ -585,6 +612,7 @@ verbannen : להחרים, להגלות
 verbannt : מוחרם
 verbürgen, verbürgte, verbürgt + Akk : לאשר, לאמת, להוכיח
   - sich für + Akk. verbürgen : להעיד לטוב, לערוב ל־
+verdenken : להאשים?
 j-n vereidigen : להשביע (נשיא)
 vergelten : לגמול, להשיב
 verfechten, verfocht, verfochten : להגן, לגונן
@@ -616,6 +644,7 @@ e Verschwendung : extravagance, waste
   - Die Verschwendung natürlicher Ressourcen
 j-n versöhnen : to reconcile s.o.
   sich (mit j-m) versöhnen : to reconciliate with s.o.
+verstreichen + Akk. : לחלוף (זמן), לפוג
 e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
 vorán|treiben : לקדם, לדחוף
@@ -644,6 +673,7 @@ sich wundern : to wonder, to be surprised
 
  Z
 ===
+r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 zerrüttet : מנופץ, שבור, הרוס
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
