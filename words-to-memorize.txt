@@ -61,6 +61,7 @@ e Anreicherung : enrichment
 s Ansagen (= pl.) : הכרזות
 án|schließen : לחבר, לצרף, לקשור יחד
 án|stimmen : to intone, to start singing
+r Anstoß : דחף
 etw. án|streben : to strive, to aspire to, to strive for, to aim at
   - eine Stelle anstreben
 j-m etw. án|vertrauen : לסמוך על מישהו עם משהו to confide
@@ -79,6 +80,7 @@ e Aufforderung : request, invitation, solicitation, reminder
   letzte Aufforderung : last reminder
 aufgezehrt : אכול, משומש, ממוצה
 j-n aúf|muntern : לשמח, לעודד, להצהיל
+aúf|polieren + Akk. : להבריק, לחדש (תדמית)
 j-n aúf|rütteln : לעורר, להלהיב (לידי פעולה)
 aúf|schreiben : to write down
 e Aufschwung : תנופה, צמיחה
@@ -246,6 +248,7 @@ eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
   - Ich bin in die Pläne des Präsident nicht eingeweiht.
 Einhalt
   etw.[Dat.] Einhalt gebieten : to put an end to s.th.
+r Einschnitt (pl. -e) : חתך
 eín|willigen : להסכם, לתת הסכמה
 e Einwilligung : הסכמה
 empor : למעלה
@@ -462,6 +465,7 @@ knapp [adv.] : almost, nearly, all but
 r Kragen (= pl.) : collar
   j-m an den Kragen wollen : to act against, to attack, to eradicate
   es geht j-m an den Kragen : to have something done against s.o.
+Knallbunt UGS : בצבעים חזקים, בצבעים עליזים
 e Kostprobe (pl. -n) : דגימה
 krepieren : למות
 e Kriegslist : תחבולות מלחמה
@@ -609,6 +613,16 @@ standhaft : steadfast [naHuS]
 im Stich lassen : leave s.o. high and dry
 r Streich (pl. -e) : trick, prank, hoax, joke
 r Streit : argument, conflict, quarrel, conflict, fight
+stürzen : ליפול
+  - Ich rutschte auf nassem Laub aus und stürzte zu Boden.
+  - Der Junge stürzte von einem Stuhl, aber er verletzte sich nicht.
+  - von + Dat. stürzen : ליפול ממשהו
+  - stürzen + Akk. : להפיל (מנהיג, שלטון)
+  - den König stürzen; die Regierung stürzen
+  - sich stürzen : לטבול (במים), לקפוץ למים, להתנפל על, להסתער
+  - sich auf + Akk. stürzen : להתנפל, להסתער, לזנק על
+  - sich in Unkosten stürzen : לשקוע בחובות
+  - sich in + Akk. stürzen : להשליך את עצמו לתוך
 e Sperrung : blocking, closing, inhibition
 stänkern - לעשות בעיות, לעשות בלגן
 e Stellungnahme : statement
@@ -690,6 +704,7 @@ vergelten : לגמול, להשיב
 verhärtet : callous, hardened, obdurate
 verheeren : להרוס, להשחית
 verheerend : davastating, disastrous, fatal
+e Verherrlichung : האדרה, גלוריפיקציה
 verkacken : to fuck s.th. up
 sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
   in j-n verknallt sein
@@ -703,6 +718,7 @@ e Verschärfung : aggravation, worsening
 verschmutzt : messy
 verschüsseln : to encrypt
 verschlingen : to engulf, to swamp
+verschlossen : סגור, חתום, נעול
 e Verschwendung : extravagance, waste
   - Eine Verschwendung meiner kostbaren Zeit
   - Die Verschwendung natürlicher Ressourcen
@@ -722,6 +738,7 @@ vor|fahren :  : לנסוע מקדימה
 Vorfahren (pl.) : אבות(יי), אבות קדומים
 e Vorherrschaft : עליונות
 e Vorliebe : העדפה, חיבה
+r Vorort : פרוור
 Dat. + vór|stehen : preside over
 e Vorwahl : area code, prefix
 e Vorwarnung : אזהרה מראש
@@ -737,13 +754,15 @@ weilen : להישאר
 r Widerpart : יריב
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
 wieder|erlangen + Akk. : לשוב ל(הכרה), להשיג בחזרה
-einsamer Wolf
+r Wolf (pl. Wölfe) : זאב
+  - einsamer Wolf
 sich wundern : to wonder, to be surprised
 
  Z
 ===
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 zerrüttet : מנופץ, שבור, הרוס
+zerschlagen
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
 e Zersplitterung : פיצול, פלגנות
