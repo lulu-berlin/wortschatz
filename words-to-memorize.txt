@@ -23,6 +23,8 @@ e Abrede : undestanding
 áb|ringen, rang ab, hat abgerungen : to force, to wring
   j-m abringen, etwas zu tun
 áb|schütteln + Akk. : להיפטר מ־, להתנער מ־, להשתחרר מ־
+áb|setzen, setzte ab, hat abgesetzt
+  - j-n absetzen : להוריד מישהו איפשהו (ממכונית, בהסעה)
 e Abstammung : מוצא, מקור, ייחוס
 (j-m) áb|treten + Akk. : להקצות משהו למישהו, להעביר משהו למישהו, לוותר על משהו לטובת מישהו
 sich áb|wenden : להתרחק, להפנות את הגב
@@ -91,6 +93,8 @@ j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   j-n auffordern, Farbe zu bekennen : to call s.o.'s bluff
 e Aufforderung : request, invitation, solicitation, reminder
   letzte Aufforderung : last reminder
+aúf|gabeln, gabelte auf, hat aufgegabelt
+  - + Akk. : לאסוף מישהו (באוטו)
 aufgezehrt : אכול, משומש, ממוצה
 j-n aúf|muntern : לשמח, לעודד, להצהיל
 aúf|polieren + Akk. : להבריק, לחדש (תדמית)
@@ -212,6 +216,7 @@ dagegenhalten : לטעון כנגד
 e Deckung : coverage, backing
 s Dekret : צו
 dementieren : to disclaim, to repudiate, to deny s.th.
+demotivieren : לרפות את ידיו של מישהו, לפגוע במוטיבציה
 e Deutung : analysis, interpretation
 deuten : לפרש
 e Devise : מוטו
@@ -273,6 +278,7 @@ r Einschnitt (pl. -e) : חתך
 einseitig : חד־צדדי, מוטה
 eín|willigen : להסכם, לתת הסכמה
 e Einwilligung : הסכמה
+r [~ s] Elter (pl. -n) : הורה
 empor : למעלה
 empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
@@ -301,11 +307,14 @@ entgegen|sehen + Dat. : לצפות ל־
 entgegen|stehen + Dat. : למנוע; להתנגד ל
 e Entlassung : פיטורין
 e Entlastung : שחרור, פטור
+entlohnen, entlohnte, entlohnt
+  - j-n (für + [Akk.]) entlohnen : לשלם למישהו על משהו
 s Entmachten : disempowerment
 j-n entmachten : to disempower s.o., to deprive s.o. of power
 an + Dat. entrichten
   - eine Gebühr entrichten : לשלם אגרה
   - j-m seinen Tribut einrichten : to pay tribute to s.o.
+entmutigen, entmutigte, entmutigt : לרפות את ידיו של מישהו, לפגוע במוטיבציה
 entrinnen, entrann, entronnen
   - + Dat. : לחמוק מ־
 s Entrinnen : בריחה
@@ -354,6 +363,7 @@ r Fahrkartenschalter : ticket office, ticket counter
 fällen : to fell
   ein Urteil fällen : to pronounce a sentence, to render a judgment
 an + Dat. fést|halten : to abide by ..., to hold fast to ..., to stick to ...
+fést|frieren, fror fest, festgefroren : לקפוא
 sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
@@ -379,6 +389,8 @@ e Freiheit
   sich die Freiheit herausnehmen : to take the liberty
   sich die Freiheit nehmen : to take the liberty
 e Fronarbeit : עבודת פרך
+führen, führte, hat geführt
+  - dieser Weg führt nach ...
 e Führung : management, leadership
 furchtbar : terrible
 r Fürsprecher : advocate
@@ -407,6 +419,8 @@ S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
 e Geschäftsordnung : standing orders, regulations, terms and conditions
+gerammelt
+  - gerammelt voll sein : להיות מלא עד אפס מקום
 gescheit : חכם, מבריק, פיקח, נבון
 gescheitert : כושל, נכשל
 s Gesindel : ערב רב, אספסוף, המון
@@ -425,7 +439,7 @@ r Gräuel (= pl.) : זוועה, מעשה נפשע
 s Gremium (pl. Gremien) : board
 r Grimm : זעם, חימה
 e Gründung : establishment, foundation
-s Gründungsmythos / -us (pl. Gründungsmythen) : founding myth
+s Gründungsmythos / -us (pl. Gründungsmythen) : מיתוס מכונן
 e Gülle : דשן, זבל
 s Gut : נכס; רכוש; אחוזה
 r Gutsherr : בעל אחוזה
@@ -437,6 +451,8 @@ habhaft
 halbmast [adv.]
   auf halbmast flaggen / wehen
   halbmast flaggen
+halbtags [adv.] : במשרה חלקית
+  - halbtags arbeiten
 vor nichts haltmachen : to stop at nothing
 s Heer (pl. -e) : צבא
 Heimkehr : שיבה, שיבה הביתה
@@ -456,6 +472,8 @@ auf j-n herab|schauen : to look down on s.o.
 e Herabstufung : downgrade, downgrading, demotion
 herablassend : condescending
 herbei|sehnen : לערוג
+hér|kommen, kam her, hergekommen : לבוא הנה
+  - Komm mal her! : בוא הנה!
 hervór|rufen : להביא לידי, לעורר, להעלות
 auf etw. hinaús|laufen : to add up to s.th., to result in s.th.
   aufs Gleiche hinauslaufen : to amount to the same thing
@@ -497,9 +515,13 @@ e Jugendherberge : youth hostel
 
  K
 ===
+kannibalisch [adj.] : קניבאלי
+kannibalisch [adv.] : באופן קניבאלי
 karg : דליל
-r Ketzer : heretic
 r Keil (pl. -e) : טריז
+r Ketzer : heretic
+keuchen, keuchte, gekeucht : להתנשם ולהתנשף
+s Keuchen : נשימה כבדה
 kläglich : אומלל
 e Kleinigkeit
 r Klerus : clergy
@@ -528,6 +550,14 @@ lästig : annoying, troublesome, irksome
 lauschen : to eavesdrop
 s Lauschen : האזנה בחשאי - eavesdropping
 s Lederwams : מעיל עור
+e Leine (pl. -n) : רצועה, חבל, חוט
+  - an der Leine / an die Leine : ברצועה
+  - einen Hund an der Leine ausführen : להוביל כלב ברצועה
+  - einen Hund an die Leine nehmen : לשים על כלב רצועה
+  - an der Leine / an Die Leine : על החבל
+  - die Wäsche fror an der Leine fest : הכביסה קפאה על החבל
+  - die Wäsche an die Leine hängen : לתלות את הכביסה על החבל
+r Liebeskummer (~pl.) : כאב לב, להיות חולה אהבה
 e List (pl. -en) : עורמה
 locker : casual, easy, loose, lax
 lockern : to become loose, to relax, to release
@@ -577,6 +607,8 @@ r Nutznießer : המוטב, הנהנה
 offenbaren : to reveal, to disclose
   sich offenbaren : to manifest itself
 r Ohrendruck : ear pressure
+e Ölsardine (pl. -n): סרדינים בשמן
+  - wie die Ölsardinen : כמו סרדינים (על צפיפות)
 r Orkan (pl. -e)
 
  P
@@ -601,6 +633,9 @@ r Pulverdampf : עשן יריה
 
  R
 ===
+rammeln, rammelte, gerammelt
+  - j-n rammeln : לזיין
+  - gerammelt voll sein : להיות מלא עד אפס מקום
 ran (adv.)
   Er geht mächtig ran. : He drives a hard bargain
 rán : UGS. heran-
@@ -653,6 +688,7 @@ r Schöngeist : אסתטיקן, בעל טעם, אנין
 e Schubkarre (pl. -n) : barrow, pushcart
 e Schusslinie (pl. -n) : fireline
 e Schusswaffe (pl. -n)
+r Schwan (pl. Schwäne) : ברבור
 r Seelsorger : pastor
 selbig : אותו (אחד)
 e Selbstdarstellung : self-portrayal, self-representation
@@ -703,6 +739,9 @@ tauglich : ראוי, מתאים
 tappen : to grope
   im Dunkeln tappen : to be in the dark
 teilweise : partial(ly), partly, to some extent
+f teilZeit : משרה חלקית
+Teilzeit-Professor
+Teilzeit-Praktikum
 tilgen + Akk. : לפדות, להחזיר חוב
   - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
@@ -720,6 +759,9 @@ e Überlegenheit : עליונות, שליטה
 j-n überrumpeln : להפתיע, להערים על
 úm|schwenken : לשנות צד
 úm|stimmen + Akk. : לשנות (דעה)
+úm|ziehen, zog um, ist umgezogen : לעבור מקום, להגר
+  - sich umziehen : להחליף בגדים
+  - j-n umziehen : להחליף למישהו בגדים
 umzingelt : מוקף
 uneins : מפולג, מפוצל, מחולק
 unerfreulich : unpleasant, annoying
@@ -798,6 +840,12 @@ e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
+e Vollzeit
+- Vollzeit-Programm
+- Vollzeit-Berufstätige
+- Vollzeit-Professor
+- Vollzeit-Schriftsteller
+e Vollzeitstelle : משרה מלאה
 vorán|bringen + Akk. : לקדם
 vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
@@ -823,6 +871,7 @@ wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
 wappnen : לחמש
   - sich gegen + Akk. wappnen : להתכונן נגד משהו
+r Weg (p. -e) : דרך
 wég|nehmen + Akk. : לקחת, להרחיק, to take away
 weilen : להישאר
 r Widerpart : יריב
@@ -847,6 +896,10 @@ zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
 e Zersplitterung : פיצול, פלגנות
 zeugungsfähig : שיש לו יכולת הולדה, בעל און
+ziehen, zog, hat gezogen
+  - in + Akk. ziehen : לעבור ל(מקום)
+  - an + Akk. ziehen : לעבור ל־
+  - nach + [Ort] ziehen : לעבור למקום
 s Zölibát : פרישות
 zucken : to jerk, to shrug, to twitch
 e Zuflucht (pl. -en) : מפלט, מחסה, מקלט, מסתור
