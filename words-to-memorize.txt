@@ -18,10 +18,14 @@ j-n áb|ordnen : to delegate s.o.
 e Abrede : undestanding
   mündliche Abrede : oral agreement
   etw. in Abrede stellen : to deny s.th., to disavow s.th.
+áb|regen, regte ab, abgeregt
+  - sich abregen : להירגע
+  - Reg dich ab! : תירגע!
 áb|reißen : to tear s.th. off, to demolish, to tear down
   sich abreißen : to be torn, to tear off (v.i.)
 áb|ringen, rang ab, hat abgerungen : to force, to wring
   j-m abringen, etwas zu tun
+áb|schrecken, schreckte ab, hat abgeschreckt : להרתיע
 áb|schütteln + Akk. : להיפטר מ־, להתנער מ־, להשתחרר מ־
 áb|setzen, setzte ab, hat abgesetzt
   - j-n absetzen : להוריד מישהו איפשהו (ממכונית, בהסעה)
@@ -174,6 +178,9 @@ e Belastung : עול
 belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 berüchtigt : ידוע לשמצה
+beruhigen, beruhigte, beruhigt
+  - + Akk. : להרגיע, לייצב
+  - sich beruhigen : להירגע
 j-n bescheißen : to cheat s.o., to swindle s.o.
 beschleunigen, beschleunigte, hat beschleunigt
   - + Akk. : להאיץ משהו, לזרז משהו
@@ -210,6 +217,10 @@ s Bollwerk : סוללה, ביצור
 brillieren : to shine
 r Buchhalter (= pl.), e Buchhalterin
 
+ C
+===
+chillen, chillte, gechillt [sl.] : להירגע
+
  D
 ===
 dagegenhalten : לטעון כנגד
@@ -217,6 +228,7 @@ e Deckung : coverage, backing
 s Dekret : צו
 dementieren : to disclaim, to repudiate, to deny s.th.
 demotivieren : לרפות את ידיו של מישהו, לפגוע במוטיבציה
+r Depp (pl. -en) : דביל, סתום
 e Deutung : analysis, interpretation
 deuten : לפרש
 e Devise : מוטו
@@ -321,12 +333,16 @@ s Entrinnen : בריחה
 entschlossen : determined, resolute, intent
 entschlüsseln : to decrypt
 entsetzlich : terrible
+entspannen, entspannte, entspannt : להרגיע
+  - sich entspannen : להירגע
 entstehen : to arise, to develop, to come into being/existence
 entthronen : להדיח מעל כס המלכות
 etw. erachten : to consider s.th.
 s Erachten : opnion
   meines Erachtens : in my opinion
 erbitten, erbat, erbeten : לבקש, לערוג 
+erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
+  - "Was in der Revolution erfochten wurde, ist das Bewusstsein, dass der Gedanke stärker, größer und gewaltiger ist als die Macht der Bajonette und Kanonen." [Die Deutschen]
 erfolgversprechend : מבטיח (צפוי להצליח)
 ergeben + Akk. : להניב, להפיק, להוביל ל, לייצר
   - sich ergeben : לקרות, להיות המקרה
@@ -339,6 +355,7 @@ erhoffen, erhoffte, erhofft
 j-n erhören : להישמע לתפילתו של מישהו
 r Erlöser : מושיע
 e Ernennung : מינוי
+erringen, errang, errungen : להשיג, להרוויח, לזכות
 e Errungenschaft : הישג
 erschöpfen : to exhaust, to wear out
 ersehnt : נכסף
@@ -360,6 +377,8 @@ s Erzhaus : בית הארכידוכסות
 ===
 r Fahnder (= pl.), e Fahnderin : investigator
 r Fahrkartenschalter : ticket office, ticket counter
+fallen, fiel, gefallen
+  - mir fiel das Herz in die Hose : נפל לי הלב לתחתונים
 fällen : to fell
   ein Urteil fällen : to pronounce a sentence, to render a judgment
 an + Dat. fést|halten : to abide by ..., to hold fast to ..., to stick to ...
@@ -408,6 +427,10 @@ j-m etw. gebieten : to command, to demand
 e Gebühr (pl. -en) : שכר, עלות, אגרה, עמלה
 Gefahr
   - Gefahr laufen, ... zu + Inf. : להסתכן ב...
+r Gefährte (Gen. -n, pl. -n) : בן־לוויה, חבר (לארגון/מאמץ)
+e Gefährtin (pl. -nen) : בת־לוויה, חברה (לארגון/מאמץ)
+gefasst [adj.] : רגוע, שקול, מסוכם
+  - kurz gefasst : מסוכם בקצרה
 r Gegenzug : מהלך נגדי
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
@@ -495,7 +518,12 @@ r Höhepunkt (pl. -e) : highlight, peak, climax
 
  I
 ===
+r Idiot (pl. -en) : אידיוט
+e Idiotin (pl. -nen) : אידיוטית
 imposant : impressive, monumental
+indes : אולם
+indessen [adv.] : בינתיים
+indessen [konj.] : בעוד ש־
 infrage
   infrage kommen : to be considered
   nicht infrage kommen : to be out of the question
@@ -528,6 +556,8 @@ r Klerus : clergy
 etw. knallen : to slam, to bang
 knapp [adj.] : narrow, tight, lean, succinct, terse, concise
 knapp [adv.] : almost, nearly, all but
+e Knie (pl. -n) : ברך
+  - fick dich ins Knie : לך תזדיין
 r Kragen (= pl.) : collar
   j-m an den Kragen wollen : to act against, to attack, to eradicate
   es geht j-m an den Kragen : to have something done against s.o.
@@ -645,12 +675,18 @@ e Reichsacht : imperial outlawry
 reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
+relaxen, relaxte, relaxt : להירגע, להרגיע
 riskieren + Akk. : לסכן, לקחת סיכון, להסתכן ב־
 r Rivale : יריב
 Rückhol- : return ...
   Rückholsendung : return shipment
 e Rückholung : retrieval
 r Ruß (pl. -e) : זוהמה, טינפות, לכלוך
+r Rutsch
+  - in einem Rutsch : במכה אחת, בפעם אחת, בבת אחת
+  - Guten Rutsch! : שנה טובה!
+rutschen, rutschte, gerutscht : להחליק
+  - mir rutschte das Herz in die Hose : החליק לי הלב לתחתונים
 
  S
 ===
@@ -668,8 +704,12 @@ schaden + Dat. : לפגוע במשהו
 r Schaden (pl. Schäden) : נזק, פגיעה
 r Schauplatz : סצינה, תפאורה, מסגרת, זירה
 s Scheit (pl. -e) : חתיכת עץ
+scheißen, schiss, geschissen
+  - Ich scheiß' auf euch : אני מחרבן עליכם; לכו תזדיינו; screw you guys
 scheitern : to fail
 s Scheusal : זומבי, מפלצת
+schicken, schickte, geschickt 
+  - j-m [Akk.] schicken : לשלוח משהו למישהו
 schief : נוטה לצד אחד, עקום
 e Schießerei (pl. -en)
 schläfrig : עייף, מותש
@@ -688,11 +728,15 @@ r Schöngeist : אסתטיקן, בעל טעם, אנין
 e Schubkarre (pl. -n) : barrow, pushcart
 e Schusslinie (pl. -n) : fireline
 e Schusswaffe (pl. -n)
+r Schwachkopf (pl. Schwachköpfe) : אידיוט, חסר־מוח
+r Schwachsinn (~pl.) : טיפשות, דביליות
 r Schwan (pl. Schwäne) : ברבור
 r Seelsorger : pastor
 selbig : אותו (אחד)
 e Selbstdarstellung : self-portrayal, self-representation
 r Sendbote, e Sendbotin : emissary
+senden, sendete/sandte, gesendet/gesandt
+  - j-m [Akk.] senden : לשלוח משהו למישהו
 setzen
   - seinem Leben ein Ende setzen
 e Sicherung : protection, assurance
@@ -701,6 +745,8 @@ sieden : לרתוח
   - Der Eintopf siedet eine Wiele. הנזיד מתבשל זמן מה
   - Sie ließ die Suppe eine halbe Stunde lang sieden. היא הניחה למרק לרתוח במשך חצי שעה
 r Siedepunkt : נקודת הרתיחה
+sinken, sank, gesunken
+  - mir sank das Herz in die Hose : נפל לי הלב לתחתונים
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
 r Sold (pl. e) : פרס, גמול, שילום
@@ -721,6 +767,9 @@ stürzen : ליפול
   - sich auf + Akk. stürzen : להתנפל, להסתער, לזנק על
   - sich in Unkosten stürzen : לשקוע בחובות
   - sich in + Akk. stürzen : להשליך את עצמו לתוך
+e Spannung : מתח
+  - Spannung aufbauen : לבנות מתח
+spannungsaufbauend : באופן שבונה מתח
 spärlich : מפוזר, דליל, sparse
 e Sperrung : blocking, closing, inhibition
 stänkern - לעשות בעיות, לעשות בלגן
@@ -746,6 +795,7 @@ tilgen + Akk. : לפדות, להחזיר חוב
   - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
 r Tross (pl. -e) : ציוד צבאי, קיטבג
+r Trottel (= pl.) : טיפש
 r Trotzkopf (pl. Trotzköpfe) : עקשן
 trotzten + Dat. : to defy, to outdare, to brave, to affront
 
@@ -840,6 +890,7 @@ e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
+r Vollidiot : אידיוט מושלם
 e Vollzeit
 - Vollzeit-Programm
 - Vollzeit-Berufstätige
@@ -874,6 +925,7 @@ wappnen : לחמש
 r Weg (p. -e) : דרך
 wég|nehmen + Akk. : לקחת, להרחיק, to take away
 weilen : להישאר
+wesentlich : בסיסי, מהותי, חשוב, עיקרי
 r Widerpart : יריב
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
 e Wiederaufnahme : חידוש
@@ -883,6 +935,7 @@ e Wiederaufnahme : חידוש
 wieder|erlangen + Akk. : לשוב ל(הכרה), להשיג בחזרה
 r Wolf (pl. Wölfe) : זאב
   - einsamer Wolf
+r Wortführer : דובר
 sich wundern : to wonder, to be surprised
 
  Z
@@ -918,6 +971,9 @@ s Zunft (pl. Zünfte) : גילדה
 zurécht|kommen
   gut zurechtkommen
 zurück|drängen + Akk. : להסיג, לגרום לאויב לסגת
+zurück|halten, hielt zurück, zurückgehalten : להימנע, לנהוג במתינות
+  - sich zurückhalten : להימנע
+s Zurückhalten : מתינות
 r Zusammenprall : התנגשות
 Zuschlag
 zú|spitzen + Akk. : לחדד
@@ -925,7 +981,7 @@ zú|spitzen + Akk. : לחדד
 zuvór|kommen : להתכונן מראש, למנוע משהו על ידי תכנון מראש
 r Zwiespalt (pl. Zwiespalte / Zwiespälte) : אנטגוניזם, דיכוטומיה, ניגוד
 e Zwietracht : קונפליקט, עימות, סכסוך
-e Zwischenlandung
+e Zwischenlandung : נחיתת ביניים
 
 Auswendig gerlernt
 ==================
