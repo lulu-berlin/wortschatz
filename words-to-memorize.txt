@@ -37,10 +37,19 @@ j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
 achten : to respect, to esteem
   auf etw. achten : to pay attention to s.th., to take care of s.th.
 ächten : להוציא מחוץ לחוק; לנדות, להחרים
+allgegenwärtig : שנמצא בכל מקום
+aúf|begehren : למרוד
+aufbegehrend : מרדני
+r Aufbruch : התפרצות, התעוררות, עזיבה
+e Aufbruchstimmung : אווירת עזיבה
 auffällig : conspicuous, apparent
   auffällig werden : become apparent
   Auffällig ist: ...
+aufmüpfig [adj.] : מרדני
 aúf|reiben : לבלות, לשחוק, לרפט, להתיש, להלאות, לייגע
+r Aufruhr : מהומה, התפרעות
+aúf|streben : לשאוף
+aufstrebend : שאפתן
 r Auftritt : appearance, entrance, performance
 áb|reißen : to tear s.th. off, to demolish, to tear down
 áb|spülen : wash up
@@ -174,6 +183,7 @@ beargwöhnt : נחשד
 e Bedrängnis : מצוקה, צרה, יסורים
 beharren : to persevere, to persist
   auf etw.[Dat.] beharren : to insist on s.th.
+r Befehl (pl. -e) : פקודה
 befremdlich : strange, odd
 begeistern : to inspire, to excite, to thrill, to faschinate, to wow
 begeistert: impressed
@@ -269,11 +279,13 @@ drauf
 dreifach : כפול שלוש
 dreist : חצוף, חסר בושה, נמהר
 r Drill : תרגיל צבאי, אימון
+drillen
 drüben
   da/dort drüben : over there
   hüben und drüben : on both sides
 drucken : to print
 dúrch|brechen : to break through, to disrupt
+r Durchbruch : פריצת דרך; שבר, סדק
 durcheinander : messy
 dúrch|fallen : to flunk
   in etw.[Dat.] durchfallen : to fail at s.th.
@@ -316,6 +328,9 @@ empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
 emsig : עסוק, חרוץ
 entgehen + Dat. : לחמוק מ‏־
+entladen : לפרק
+s Entladen : פריקה
+entladen [adj.] : פרוק
 erschallen, erschallte, erschallt : להשמיע קול/צליל
 erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
   - erstere ... letztere ... 
@@ -367,6 +382,7 @@ etw. erachten : to consider s.th.
 s Erachten : opnion
   meines Erachtens : in my opinion
 erbitten, erbat, erbeten : לבקש, לערוג 
+erbittert [adj.] : עז, פראי
 erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
   - "Was in der Revolution erfochten wurde, ist das Bewusstsein, dass der Gedanke stärker, größer und gewaltiger ist als die Macht der Bajonette und Kanonen." [Die Deutschen]
 erfolgversprechend : מבטיח (צפוי להצליח)
@@ -459,6 +475,7 @@ furchtbar : terrible
 r Fürsprecher : advocate
 r Fußgänger, e Fußgängerin : pedestrian
 e Fußgängerzone
+s Fußvolk : חיל רגלים
 
  G
 ===
@@ -469,6 +486,8 @@ e Geburt (pl. -en) : לידה
 r Geburtshelfer, e Geburtshelferin : מיילד/ת
 j-m etw. gebieten : to command, to demand
 e Gebühr (pl. -en) : שכר, עלות, אגרה, עמלה
+gedrillt
+  - hart gedrillt
 Gefahr
   - Gefahr laufen, ... zu + Inf. : להסתכן ב...
 r Gefährte (Gen. -n, pl. -n) : בן־לוויה, חבר (לארגון/מאמץ)
@@ -528,6 +547,7 @@ halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
 vor nichts haltmachen : to stop at nothing
 s Handwerk : משלח‏־יד
+Häuserschlucht
 s Heer (pl. -e) : צבא
 Heimkehr : שיבה, שיבה הביתה
 heím|kehren : לחזור הביתה
@@ -549,6 +569,8 @@ herbei|sehnen : לערוג
 hér|kommen, kam her, hergekommen : לבוא הנה
   - Komm mal her! : בוא הנה!
 hervór|rufen : להביא לידי, לעורר, להעלות
+heucheln, heuchelte : לעשות כאילו
+  - Mein Freund heuchelte, nichts von meiner Überraschungsparty zu wissen.
 auf etw. hinaús|laufen : to add up to s.th., to result in s.th.
   aufs Gleiche hinauslaufen : to amount to the same thing
   auf eins hinauslaufen : to amount to the same thing
@@ -665,6 +687,7 @@ r Missbrauch (pl. Missbräuche) : abuse, misuse, violation
   Der Missbrauch von Alkohol
   Der Missbrauch der Bibliothekscomputer ist untersagt
 r Missstand (pl. Misstände) : grievance, drawback, fault, defect
+e Mitsprache : אמירה (במובן של: הזכות או הסמכות לומר משהו)
 mitunter : לפעמים, מדי פעם, מפעם לפעם
 mufflig : grumpy
 munter : lively, cheerful, jolly
@@ -745,6 +768,8 @@ rasant : במהירות, בקצב מסחרר
   - sich rasant entwickeln : להתקדם בקצב מסחרר
 s Regime (pl. -s) : שלטון
 e Reichsacht : imperial outlawry
+reif
+  - Die Zeit ist reif.
 reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
@@ -764,13 +789,14 @@ rutschen, rutschte, gerutscht : להחליק
  S
 ===
 r Säbel : סיף
-r Sachse, e Sachsin : Saxonian
-e Sackgasse (pl. -n) : dead end, cul-de-sac
-e Salve (pl. -n) : fusillade [maTaH esh]
+r Sachse, e Sachsin : סקסוני
+e Sackgasse (pl. -n) : דרך ללא מוצא
+e Salve (pl. -n) : מטח אש
 e Sammelwut : אספנות כפייתית
+r Sarg : ארון קבורה
 r Saufkopf : שיכור
 schade (adj.) : עצוב
-  - Ich fand es schade, dass mein Team nicht gewonnen hat.
+  - Ich fand es schade, dass mein Team nicht gewonnen hat. : חבל בעיניי, שהצוות שלי לא ניצח
   - zu schade : ממש חבל
 Schade! : אוף! חבל!
 schaden + Dat. : לפגוע במשהו
@@ -854,6 +880,8 @@ r Streber : nerd, geek, overachiever
 
  T
 ===
+Tagelöhner : פועל־יום
+Tagelöhnerin : פועלת יום
 r Taktgeber : clock, master clock, timer
 taugen, taugte, getaugt : להתאים, לענות ל(צורך)
   - zu + Dat. taugen : להיות טוב בשביל משהו
@@ -869,6 +897,7 @@ Teilzeit-Praktikum
 tilgen + Akk. : לפדות, להחזיר חוב
   - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
+todbereit
 r Tross (pl. -e) : ציוד צבאי, קיטבג
 r Trottel (= pl.) : טיפש
 r Trotzkopf (pl. Trotzköpfe) : עקשן
@@ -959,6 +988,7 @@ e Verherrlichung : האדרה, גלוריפיקציה
 verkacken : to fuck s.th. up
 sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
   in j-n verknallt sein
+verkünden : להכריז
 e Vermittlung : mediation, agency, operator
 j-n verprügeln : to beat s.o. up
 verrecken : למות, ללכת פייפן, להיגמר
@@ -1021,8 +1051,11 @@ walzen, walzte, gewalzt
 wappnen : לחמש
   - sich gegen + Akk. wappnen : להתכונן נגד משהו
 r Weg (p. -e) : דרך
+e Wegnahme : הסרה
 wég|nehmen + Akk. : לקחת, להרחיק, to take away
 weilen : להישאר
+Weiteres
+  - ohne Weiteres : without further ado
 wenden, wendete, gewendet
   - sich an j-n wenden : לפנות למישהו
   - sich gegen j-n wenden : לצאת כנגד מישהו
@@ -1071,6 +1104,7 @@ etw. zú|lassen : to allow s.th., to permit s.th.
 zú|laufen : לעשות דק
   - auf + Akk. zulaufen : ללכת לקראת מישהו, להתקרב ל
 zuletzt : אחרון, לבסוף, לאחרונה
+r Zündfunke : ניצוץ
 s Zunft (pl. Zünfte) : גילדה
 zurécht|kommen
   gut zurechtkommen
