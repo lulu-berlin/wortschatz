@@ -6,6 +6,8 @@ e Abdankung : ויתור על כס המלכות, התפטרות
 e Abgabe : שחרור, העברה, מס
 abgefuckt : fucked up
 r Abgrund : תהום
+áb|haken, hakte ab, abgehakt
+  - + Akk. : לסמן (פריט ברשימה שהושלם), להשלים משימה ולשכוח ממנה
 abhanden|kommen (+ Dat.) : ללכת לאיבוד, להיעלם
   - "Im Lauf des vergangenen Winters sind mir einige Tagen abhanden gekommen." [Die Wand]
 s Abkommen : הסכם, עסקה, דיל
@@ -59,6 +61,8 @@ s Anliegen (= pl.) : חשש, עניין מדאיג, בקשה
 án|maßen
   sich[Dat.] etw. anmaßen : to claim s.th., to assume s.th.
 e Anmaßung : arrogance, insolence, presumption
+án|motzen, motzte an, gemotzt
+  - j-n anmotzen [ugs.] : להתלונן על משהו
 án|prangern : to denounce, to condemn [lehoqia`]
 án|reichern : to enrich, to fortify
   mit Sauerstoff anreichern
@@ -167,6 +171,9 @@ belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 berüchtigt : ידוע לשמצה
 j-n bescheißen : to cheat s.o., to swindle s.o.
+beschleunigen, beschleunigte, hat beschleunigt
+  - + Akk. : להאיץ משהו, לזרז משהו
+  - sich beschleunigen : להאיץ, להגביר את התאוצה, להזדרז
 j-n beschwichtigen : לפייס, להרגיע
 berufen + Akk. : למַנות
   - berufen (adj.) : ממונה, כשיר
@@ -277,6 +284,8 @@ etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן מ�
     eingerichtet.
 etw.[Akk.] eín|lenken : to give in, to steer, to back down
   in etw.[Akk.] einlenken : to turn into s.th.
+einseitig [adj.] : חד־צדדי, מוטה
+einseitig [adv.] : באופן חד־צדדי, באופן מוטה
 eín|treffen : להגיע
 sich[Dat.] [Akk.] eín|verleiben : לכלול, לשלב, לעשות אסימילציה
 e Einverleibung (pl. -n) : אסימילציה
@@ -313,6 +322,11 @@ erfolgversprechend : מבטיח (צפוי להצליח)
 ergeben + Akk. : להניב, להפיק, להוביל ל, לייצר
   - sich ergeben : לקרות, להיות המקרה
 ergreifen + Akk. : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח)
+erhoffen, erhoffte, erhofft
+  - + Akk. : לקוות ל‏־
+  - das Beste erhoffen : לקוות לטוב
+  - sich[Dat.] [Akk.] erhoffen : לייחל למשהו
+  - sich[Dat.] [Akk.] von j-m erhoffen : לצפות למשהו ממישהו
 j-n erhören : להישמע לתפילתו של מישהו
 r Erlöser : מושיע
 e Ernennung : מינוי
@@ -324,6 +338,12 @@ j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
 j-n ertappen : to catch s.o. out, to find s.o. out, to catch s.o. red-handed
 erweichen : לרכך
+erweisen, erwies, erwiesen
+  - j-m [Akk.] erweisen : להראות למישהו משהו
+  - Kinder sollten ihren Eltern Respekt erweisen
+  - sich (als + [Nom.]) erweisen : להוכיח את עצמו, לצאת
+  - Meine erste Idee erwies sich als richtig.
+  - Der Umzug von einer Stadt in die andere erwies sich als sehr teuer.
 erweitern + Akk. : להרחיב
 s Erzhaus : בית הארכידוכסות
 
@@ -370,6 +390,8 @@ e Fußgängerzone
 gackern : לקרקר (כמו תרנגול)
 geächtet : outlaw(ed)
 sich gebärden : to behave (like / as / ...)
+e Geburt (pl. -en) : לידה
+r Geburtshelfer, e Geburtshelferin : מיילד/ת
 j-m etw. gebieten : to command, to demand
 e Gebühr (pl. -en) : שכר, עלות, אגרה, עמלה
 Gefahr
@@ -487,7 +509,9 @@ knapp [adv.] : almost, nearly, all but
 r Kragen (= pl.) : collar
   j-m an den Kragen wollen : to act against, to attack, to eradicate
   es geht j-m an den Kragen : to have something done against s.o.
-Knallbunt UGS : בצבעים חזקים, בצבעים עליזים
+Knallbunt [ugs.] : בצבעים חזקים, בצבעים עליזים
+r Kollaps : קריסה
+  - plötzlicher Kollaps : קריסה פתאומית
 e Kostprobe (pl. -n) : דגימה
 krepieren : למות
 e Kriegslist : תחבולות מלחמה
@@ -529,9 +553,14 @@ muskulös : muscular
  N
 ===
 nách|geben + Dat. : להיכנע (ליצר), לוותר (בעקבות לחץ)
+s Nachhinein : דיעבד
+  - im Nachhinein : בדיעבד
+  - [Akk.] im Nachhinein anzweifeln : to second guess
 in + Dat. nách|stehen : להיות נחות ב־/מבחינת־
   - im Rang nachstehen | to rank behind
 nách|steuern : to readjust s.th.
+nách|trauern, trauerte nach, nachgetrauert
+  - + Dat. : להתאבל על, להתחרט על
 e Nachwelt (pl. -en) : next generations
 nahend : imminent, approaching, forthoming
 e Neige : דעיכה, שקיעה
@@ -614,6 +643,11 @@ e Schranke (pl. -n) : גבול, שער
   - in Die Schranken weisen : להגביל, לשים גבול
   - alle Schranken fallen lassen : להפיל את כל הגבולות/מחיצות
 schrecklich : terrible
+schrittweise [adj.] : רציף, עוקב; בשלבים
+  - schrittweise Einführung : הכרה הדרגתית
+  - schrittweise Erweiterung : הרחבה מדורגת
+  - schrittweise Umstellung : מעבר הדרגתי
+schrittweise [adv.] : בהדרגה, לאט לאט, צעד אחרי צעד
 r Schlagabtausch (um + Akk.) : exchange of blows
 r Schöngeist : אסתטיקן, בעל טעם, אנין
 e Schubkarre (pl. -n) : barrow, pushcart
@@ -690,6 +724,8 @@ umzingelt : מוקף
 uneins : מפולג, מפוצל, מחולק
 unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
+ungelegen : לא נוח, לא מתאים
+  - ungelegen kommen : להיות לא נוח, לבוא בזמן לא טוב, לא להיות מתאים
 ungenutzt : לא בשימוש, במצב סרק
 e Ungnade : חרפה, בושה
 Unkosten (pl.) : הוצאות
@@ -769,6 +805,11 @@ r Vorbehalt (pl. -e) : reservation, caveat
 vorerst : for now, for the time being לעת עתה
 vor|fahren :  : לנסוע מקדימה
 Vorfahren (pl.) : אבות(יי), אבות קדומים
+vór|gehen, ging vor, vorgegangen : להמשיך, להתקדם; להוביל; לבוא קודם
+s Vorgehen : גישה
+  - das Vorgehen ändern : לשנות את הגישה
+  - gemeinsames Vorgehen : פעולה משותפת
+  - schrittweises Vorgehen : הליך בשלבים
 e Vorherrschaft : עליונות
 e Vorliebe : העדפה, חיבה
 r Vorort : פרוור
@@ -786,6 +827,10 @@ wég|nehmen + Akk. : לקחת, להרחיק, to take away
 weilen : להישאר
 r Widerpart : יריב
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
+e Wiederaufnahme : חידוש
+  - schnelle Wiederaufnahme : חידוש מהיר
+  - Wiederaufnahme der Verhandlungen : חידוש המשא ומתן
+  - bei Wiederaufnahme unserer Geschäftstätigkeit : upon resumption of our businesser
 wieder|erlangen + Akk. : לשוב ל(הכרה), להשיג בחזרה
 r Wolf (pl. Wölfe) : זאב
   - einsamer Wolf
@@ -795,7 +840,9 @@ sich wundern : to wonder, to be surprised
 ===
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 zerrüttet : מנופץ, שבור, הרוס
-zerschlagen
+zerschlagen (zerschlägt), zerschlug, hat zerschlagen : למחוץ, לשבור לרסיסים, לפרק
+  - Die polizei hat den Schmuggelring zerschlagen.
+  - Das kind zer
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
 e Zersplitterung : פיצול, פלגנות
