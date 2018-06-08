@@ -85,6 +85,7 @@ etw. án|streben : to strive, to aspire to, to strive for, to aim at
 j-m etw. án|vertrauen : לסמוך על מישהו עם משהו to confide
 án|zweifeln : to doubt, to mistrust
 arglos : תמים, לא חושד
+r Argwohn (gegen j-n) : חשד, חוסר אמון
 Arm
   j-n auf den Arm nehmen : to pull s.o.'s leg
 Arsch
@@ -157,6 +158,8 @@ r Bann : ban
 e Bagatelle (pl. -n) : trifle, small matter, trivial issue
 bändigen + Akk. : לאלף, לשלוטz
 beabsichtigen + Akk. : להתכוון, לתכנן
+beargwöhnt : נחשד
+  - beargwöhnt werden - זוכה ליחס חשדני
 e Bedrängnis : מצוקה, צרה, יסורים
 beharren : to persevere, to persist
   auf etw.[Dat.] beharren : to insist on s.th.
@@ -247,6 +250,7 @@ drauf
   ziellos drauf los : all over the place
   ich pfeif drauf : I don't give a damn about it
   Scheiß drauf : don't give a shit
+dreifach : כפול שלוש
 dreist : חצוף, חסר בושה, נמהר
 r Drill : תרגיל צבאי, אימון
 drüben
@@ -296,6 +300,8 @@ empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
 entgehen + Dat. : לחמוק מ‏־
 erschallen, erschallte, erschallt : להשמיע קול/צליל
+erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
+  - erstere ... letztere ... 
 etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
   - Der Techniker richtete die Website innerhalb einer Woche ein.
   - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit
@@ -330,7 +336,10 @@ entmutigen, entmutigte, entmutigt : לרפות את ידיו של מישהו, ל
 entrinnen, entrann, entronnen
   - + Dat. : לחמוק מ־
 s Entrinnen : בריחה
+entschließen, entschloss, entschlossen
+  - sich entschließen, etwas zu tun : להחליט לעשות משהו
 entschlossen : determined, resolute, intent
+  - entschlossen sein : להיות נחוש (בהחלטה)
 entschlüsseln : to decrypt
 entsetzlich : terrible
 entspannen, entspannte, entspannt : להרגיע
@@ -404,6 +413,7 @@ e Förderung : promotion, support, funding, advancement, grant, encouragement
   - Wir sollten für das Forschungsprojekt eine Förderung beantragen.
   staatliche Förderung : state incentives
 fortan : מעתה ואילך,מכאן ואילך
+r Fortschritt (pl. -e) : התקדמות
 e Freiheit
   sich die Freiheit herausnehmen : to take the liberty
   sich die Freiheit nehmen : to take the liberty
@@ -529,6 +539,9 @@ infrage
   nicht infrage kommen : to be out of the question
   etw. infrage stellen : to content s.th., to challenge s.th.
 s Infragestellen : questioning
+inhaftieren, inhaftierte, inhaftiert : לעצור, להחזיק במעצר, לשים במעצר
+e Inhaftierung : מעצר
+e Inhaftnahme : מעצר
 r Intimfeind : אויב מושבע, ארכי‏־אויב
 
  J
@@ -587,11 +600,14 @@ e Leine (pl. -n) : רצועה, חבל, חוט
   - an der Leine / an Die Leine : על החבל
   - die Wäsche fror an der Leine fest : הכביסה קפאה על החבל
   - die Wäsche an die Leine hängen : לתלות את הכביסה על החבל
+letztere [adj.] : האחרון, ההוא (בניגוד ל"זה")we
+  - erstere ... letztere ...
 r Liebeskummer (~pl.) : כאב לב, להיות חולה אהבה
 e List (pl. -en) : עורמה
 locker : casual, easy, loose, lax
 lockern : to become loose, to relax, to release
-  sich locker : to become loose
+  - sich lockern : to become loose
+lose : רפוי
 
  M
 ===
@@ -629,7 +645,14 @@ nennenswert : ראוי לציון
 e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
 e Niederlage (pl. -n) : defeat
+nimmermehr : לעולם לא עוד, שוב לא
 notfalls : in case of emergency
+nützen, nützte, hat genützt : להיות שימושי, להיות בעל־שימוש, לשמש
+  - j-m nützt : לשמש מישהו
+  - nichts nützen/nutzen : חסר תועלת
+  - j-m nichts nützen : להיות חסר תועלת למישהו
+  - Wem nützt es, wenn ... : מה רבותא?, מה התועלת בכך ש, למה זה טוב אם
+  - "Das nützt mir nichts!"
 r Nutznießer : המוטב, הנהנה
 
  O, Ö
@@ -816,6 +839,7 @@ umzingelt : מוקף
 uneins : מפולג, מפוצל, מחולק
 unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
+unerklärlich : שלא ניתן להסבירו
 ungelegen : לא נוח, לא מתאים
   - ungelegen kommen : להיות לא נוח, לבוא בזמן לא טוב, לא להיות מתאים
 ungenutzt : לא בשימוש, במצב סרק
@@ -862,6 +886,11 @@ vergebens : לשווא, ללא הועיל
 vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזבז
 vergelten : לגמול, להשיב
 vergilbt : שנעשה צהוב
+e Verhaftung : מעצר
+s Verhältnis (pl. -se) : יחס, קשר, מידה
+  - die bestehende Verhältnisse - התנאים הקיימים, החוקים הקיימים
+  - ausgewogenes Verhältnis - מידה מאוזנת
+  - gutes Verhältnis : יחס טוב
 verhärtet : callous, hardened, obdurate
 verheeren : להרוס, להשחית
 verheerend : davastating, disastrous, fatal
@@ -890,6 +919,7 @@ e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
+vierfach : מרובע, כפול־ארבע
 r Vollidiot : אידיוט מושלם
 e Vollzeit
 - Vollzeit-Programm
@@ -915,6 +945,7 @@ r Vorort : פרוור
 Dat. + vór|stehen : preside over
 e Vorwahl : area code, prefix
 e Vorwarnung : אזהרה מראש
+vórwiegend : עיקרי, ראשי, מוביל, בולט, מכריע
 
  W
 ===
@@ -925,6 +956,10 @@ wappnen : לחמש
 r Weg (p. -e) : דרך
 wég|nehmen + Akk. : לקחת, להרחיק, to take away
 weilen : להישאר
+wenden, wendete, gewendet
+  - sich an j-n wenden : לפנות למישהו
+  - sich gegen j-n wenden : לצאת כנגד מישהו
+r Werdegang : קריירה, סיפור חיים
 wesentlich : בסיסי, מהותי, חשוב, עיקרי
 r Widerpart : יריב
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
@@ -948,6 +983,7 @@ zerschlagen (zerschlägt), zerschlug, hat zerschlagen : למחוץ, לשבור �
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
 e Zersplitterung : פיצול, פלגנות
+zerstückeln, zerstückelte, zerstückelt : לחתוך לחתיכות, לפרק לחתיכות
 zeugungsfähig : שיש לו יכולת הולדה, בעל און
 ziehen, zog, hat gezogen
   - in + Akk. ziehen : לעבור ל(מקום)
@@ -979,6 +1015,10 @@ Zuschlag
 zú|spitzen + Akk. : לחדד
   - sich zuspitzen : להתחדד (ויכוח), להחריף
 zuvór|kommen : להתכונן מראש, למנוע משהו על ידי תכנון מראש
+zusámmen|fügen, fügte zusammen, zusammengefügt : לחבר, לצרף
+zusammengefügt : מחובר
+zweideutig : דו־משמעי, משתמע לשתי פנים, שנוי במחלוקת, עמום, מעורפל
+zweifach : כפולd
 r Zwiespalt (pl. Zwiespalte / Zwiespälte) : אנטגוניזם, דיכוטומיה, ניגוד
 e Zwietracht : קונפליקט, עימות, סכסוך
 e Zwischenlandung : נחיתת ביניים
