@@ -45,6 +45,7 @@ r Auftritt : appearance, entrance, performance
 áb|reißen : to tear s.th. off, to demolish, to tear down
 áb|spülen : wash up
   das Geschirr abspülen
+althergebracht : מסורתי
 ändern, änderte, geändert : לשנות
   - sich ändern : להשתנות, להתגוון, להיות מגוון
 ander(er)seits : מצד שני
@@ -56,6 +57,7 @@ e Anforderung : requirement, demand
 án|geben : להשוויץ
   - etw. angeben : לפרט משהו, לקבוע ספציפית
   - "Auch den Wochentag kann ich nicht angeben." [Die Wand]
+angestaubt : מאובק; מיושן
 angewiesen : תלוי
   - auf + Akk. angewiesen sein : להיות תלוי ב־
 án|haften : להיצמד, לדבוק
@@ -91,6 +93,8 @@ r Argwohn (gegen j-n) : חשד, חוסר אמון
 Arm
   j-n auf den Arm nehmen : to pull s.o.'s leg
 e Armut (~pl.) : עוני
+  - äußerste Armut : עוני קיצוני
+  - bittere Armut : עוני מר
 Arsch
   im Arsch : fucked up, messed up
 aufbrausend : מהיר־חימה
@@ -111,10 +115,14 @@ aúf|schreiben : to write down
 e Aufschwung : תנופה, צמיחה
 aúf|spielen : לשחק
   - sich aufspielen : לעשות כאילו, להשוויץ
+r Aufstand (pl. Aufstände) : התקוממות
 j-n aúf|stellen : to nominate s.o.
 r Auftakt (pl. -e) : kick-off, prelude, opening
 e Auftaktkundgebung : initial demonstration
 aúf|tischen : להגיש (אוכל)
+aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, לברוח לחופשי
+  - "Der Vulkan war inaktiv und schon seit Jahren nicht mehr ausgebrochen."
+  - "Der Gefangene nutzte die Chance, um auszubrechen."
 etw. aús|geben : to issue, to spend, to expend, to dispense
   - Die Universität gibt Studentenausweise aus.
   - Ich will mein ganzes Geld für ein neues Auto ausgeben.
@@ -252,6 +260,7 @@ dran
   dran sein / kommen : to be s.o.'s turn
   dran bleiben : to stay tuned
   alles Drum und Dran : the works
+r Drang (pl. Dränge) : דחף
 drauf
   gut drauf sein : to be in a good mood
   ziellos drauf los : all over the place
@@ -305,6 +314,7 @@ r [~ s] Elter (pl. -n) : הורה
 empor : למעלה
 empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
+emsig : עסוק, חרוץ
 entgehen + Dat. : לחמוק מ‏־
 erschallen, erschallte, erschallt : להשמיע קול/צליל
 erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
@@ -371,14 +381,18 @@ erhoffen, erhoffte, erhofft
 j-n erhören : להישמע לתפילתו של מישהו
 r Erlöser : מושיע
 e Ernennung : מינוי
+e Ernte (pl. -n) : יבול, בציר
 erringen, errang, errungen : להשיג, להרוויח, לזכות
 e Errungenschaft : הישג
+erschallen, erschallte, erschallt : להשמיע צליל
 erschöpfen : to exhaust, to wear out
 ersehnt : נכסף
 e Erstarrung : התקבעות, התגבשות
 j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
 j-n ertappen : to catch s.o. out, to find s.o. out, to catch s.o. red-handed
+erwachen, erwachte, erwacht : לעורר, להקים
+s Erwachen : התעוררות
 erweichen : לרכך
 erweisen, erwies, erwiesen
   - j-m [Akk.] erweisen : להראות למישהו משהו
@@ -387,6 +401,7 @@ erweisen, erwies, erwiesen
   - Meine erste Idee erwies sich als richtig.
   - Der Umzug von einer Stadt in die andere erwies sich als sehr teuer.
 erweitern + Akk. : להרחיב
+s Erzgebirge : הרי המחצב, בגבול בין סקסוניה בגרמניה לבין צ'כיה
 s Erzhaus : בית הארכידוכסות
 
  F 
@@ -495,6 +510,7 @@ e Glut : גחל
 r Gräuel (= pl.) : זוועה, מעשה נפשע
 s Gremium (pl. Gremien) : board
 r Grimm : זעם, חימה
+grob : גס, קשוח, מחוספס
 e Gründung : establishment, foundation
 s Gründungsmythos / -us (pl. Gründungsmythen) : מיתוס מכונן
 e Gülle : דשן, זבל
@@ -511,6 +527,7 @@ halbmast [adv.]
 halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
 vor nichts haltmachen : to stop at nothing
+s Handwerk : משלח‏־יד
 s Heer (pl. -e) : צבא
 Heimkehr : שיבה, שיבה הביתה
 heím|kehren : לחזור הביתה
@@ -556,7 +573,7 @@ r Höhepunkt (pl. -e) : highlight, peak, climax
 r Idiot (pl. -en) : אידיוט
 e Idiotin (pl. -nen) : אידיוטית
 imposant : impressive, monumental
-indes : אולם
+indes : אולם; בינתיים
 indessen [adv.] : בינתיים
 indessen [konj.] : בעוד ש־
 infrage
@@ -575,6 +592,7 @@ e Jagd : ציד
 jäh : abrupt(ly), sudden(ly)
   - Ich bemerkte eine jähe Veränderung in seiner Stimmung.
 jämmerlich : pitiful, miserable
+jedenfalls [adv.] : איך שלא יהיה, בכל מקרה
 jucken + Akk. : לגרד
   - es juckt mich : זה מגרד לי
 e Jugendherberge : youth hostel
@@ -585,6 +603,7 @@ kannibalisch [adj.] : קניבאלי
 kannibalisch [adv.] : באופן קניבאלי
 karg : דליל
 r Keil (pl. -e) : טריז
+r Kerker (= pl.) : צינוק
 r Ketzer : heretic
 keuchen, keuchte, gekeucht : להתנשם ולהתנשף
 s Keuchen : נשימה כבדה
@@ -721,6 +740,9 @@ ran (adv.)
 rán : UGS. heran-
 sich an j-n rán|machen : to make a pass at s.o.
 rán|nehmen : to push, to hit, to abuse, to pick on s.o.
+rasant : במהירות, בקצב מסחרר
+  - rasant steigende Kosten
+  - sich rasant entwickeln : להתקדם בקצב מסחרר
 s Regime (pl. -s) : שלטון
 e Reichsacht : imperial outlawry
 reklamieren : to claim, to complain, to object, to protest
@@ -764,6 +786,7 @@ schicken, schickte, geschickt
 schief : נוטה לצד אחד, עקום
 e Schießerei (pl. -en)
 schläfrig : עייף, מותש
+schnöde [adj.] : מלא בוז
 r Schrank (pl. Schränke) : ארון
 e Schranke (pl. -n) : גבול, שער
   - in Die Schranken weisen : להגביל, לשים גבול
@@ -777,6 +800,7 @@ schrittweise [adv.] : בהדרגה, לאט לאט, צעד אחרי צעד
 r Schlagabtausch (um + Akk.) : exchange of blows
 r Schöngeist : אסתטיקן, בעל טעם, אנין
 e Schubkarre (pl. -n) : barrow, pushcart
+e Schufterei : עבודת פרך
 e Schusslinie (pl. -n) : fireline
 e Schusswaffe (pl. -n)
 r Schwachkopf (pl. Schwachköpfe) : אידיוט, חסר־מוח
@@ -860,6 +884,7 @@ e Überlegenheit : עליונות, שליטה
 j-n überrumpeln : להפתיע, להערים על
 úm|schwenken : לשנות צד
 úm|stimmen + Akk. : לשנות (דעה)
+úm|wälzen, wälzte um, umgewälzt : למחזר, להחליף במשהו חדש, to revolutionize
 úm|ziehen, zog um, ist umgezogen : לעבור מקום, להגר
   - sich umziehen : להחליף בגדים
   - j-n umziehen : להחליף למישהו בגדים
@@ -898,6 +923,8 @@ s Urteil (pl. -e) : judgment, sentence, decision
  V
 ===
 veräppeln : to pull s.o.'s leg
+e Verarmung : התרוששות
+e Verarmungskrise : משבר התרוששות
 j-n verarschen : to kid s.o., to take s.o. for a ride
 r Verband (pl. Verbände) : אגודה, ארגון
 verblassen - לדהות
@@ -951,6 +978,7 @@ j-n versöhnen : to reconcile s.o.
 verstreichen + Akk. : לחלוף (זמן), לפוג
 e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
+sich verwicklichen, verwirklichte sich, hat sich verwirklicht : להתממש, לבוא לידי מימוש, להתגשם
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
 vierfach : מרובע, כפול־ארבע
@@ -988,6 +1016,8 @@ vórwiegend : עיקרי, ראשי, מוביל, בולט, מכריע
 ===
 wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
+walzen, walzte, gewalzt
+  - + Akk. : לגלגל
 wappnen : לחמש
   - sich gegen + Akk. wappnen : להתכונן נגד משהו
 r Weg (p. -e) : דרך
