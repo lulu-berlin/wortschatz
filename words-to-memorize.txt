@@ -45,6 +45,8 @@ r Auftritt : appearance, entrance, performance
 áb|reißen : to tear s.th. off, to demolish, to tear down
 áb|spülen : wash up
   das Geschirr abspülen
+ändern, änderte, geändert : לשנות
+  - sich ändern : להשתנות, להתגוון, להיות מגוון
 ander(er)seits : מצד שני
   - einerseits ..., ander(er)seits ...
 e Aneignung (pl. -en) : ניכוס
@@ -88,6 +90,7 @@ arglos : תמים, לא חושד
 r Argwohn (gegen j-n) : חשד, חוסר אמון
 Arm
   j-n auf den Arm nehmen : to pull s.o.'s leg
+e Armut (~pl.) : עוני
 Arsch
   im Arsch : fucked up, messed up
 aufbrausend : מהיר־חימה
@@ -180,6 +183,8 @@ bejahen + Akk. : להסכים, להשיב כן
 e Belastung : עול
 belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
+bemerken, bemerkte, hat bemerkt : להבחין במשהו מבלי לחפש או בלי כוונה
+e Bemerkung (pl. -en) : הערה, אבחנה
 berüchtigt : ידוע לשמצה
 beruhigen, beruhigte, beruhigt
   - + Akk. : להרגיע, לייצב
@@ -192,7 +197,6 @@ j-n beschwichtigen : לפייס, להרגיע
 berufen + Akk. : למַנות
   - berufen (adj.) : ממונה, כשיר
   - berufen (adv.) : באופן כשיר, באופן קומפטנטי
-  
 beseitigen + Akk. : להיפטר מ
 bestaunen + Akk : להתפלא, להתפעל
 betragen + Akk. : מונה, אורך, מגיע לכדי [להיות, אבל למידה]
@@ -208,6 +212,7 @@ bewundern : to admire
 etw. beziffern : to estimate, to quantify
   sich auf etw.[Akk.] beziffern : to amount to
 etw.[Akk.] bezweifeln : to doubt s.th.
+Bildungshungrig [adj.] : צמא לחינוך
 s Bindeglied (pl. -er) : מחבר
 binnen + Gen. : תוך ... בתוך ... (זמן)
 bis auf : עד ל, חוץ מ, מלבד
@@ -217,6 +222,8 @@ blutdurchtränkt : ספוג בדם
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : storm
 s Bollwerk : סוללה, ביצור
+e Brause : טוש
+Brausekopf : הראש של הטוש
 brillieren : to shine
 r Buchhalter (= pl.), e Buchhalterin
 
@@ -390,6 +397,8 @@ fallen, fiel, gefallen
   - mir fiel das Herz in die Hose : נפל לי הלב לתחתונים
 fällen : to fell
   ein Urteil fällen : to pronounce a sentence, to render a judgment
+fassen, fasste, hat gefasst : להחזיק, לתפוס
+  - etwas in Worte fassen : לשים במילים, לבטא במילים
 an + Dat. fést|halten : to abide by ..., to hold fast to ..., to stick to ...
 fést|frieren, fror fest, festgefroren : לקפוא
 sich fit fühlen : to feel fit
@@ -413,6 +422,9 @@ e Förderung : promotion, support, funding, advancement, grant, encouragement
   - Wir sollten für das Forschungsprojekt eine Förderung beantragen.
   staatliche Förderung : state incentives
 fortan : מעתה ואילך,מכאן ואילך
+fortgeschritten [adj.] : מתקדם
+fortgeschritten [adv.] : באופן מתקדם, באופן מתוחכם
+fórt|schreiten, schritt fort, ist fortgeschritten : להתקדם
 r Fortschritt (pl. -e) : התקדמות
 e Freiheit
   sich die Freiheit herausnehmen : to take the liberty
@@ -421,6 +433,13 @@ e Fronarbeit : עבודת פרך
 führen, führte, hat geführt
   - dieser Weg führt nach ...
 e Führung : management, leadership
+e Fülle : עושר
+  - große Fülle : מגוון רחב
+  - unendliche Fülle : שפע אינסופי
+  - enorme Fülle : מגוון אדיר
+  - eine Fülle von : עושר של, מגוון של, אוסף של, שפע של
+füllen : למלא
+  - sich füllen : להתמלא, להיות מלא
 furchtbar : terrible
 r Fürsprecher : advocate
 r Fußgänger, e Fußgängerin : pedestrian
@@ -457,6 +476,11 @@ gerammelt
 gescheit : חכם, מבריק, פיקח, נבון
 gescheitert : כושל, נכשל
 s Gesindel : ערב רב, אספסוף, המון
+gesinnt : בעל עמדה/כוונה, מוכוון
+  - feindlich gesinnt : עוין
+  - anders gesinnt : בעל דיעה נבדלת/שונה
+  - j-m übel gesinnt sein : להתכוון להרע למישהו
+  - fortschrittlich gesinnt : מוכוון קידמה
 getrieben : driven, pushed
 gewähren : to concede, to confer, to impart
   j-m etw. gewähren : to grant s.th. to s.o., to award
@@ -521,6 +545,7 @@ j-n hín|richten : להוציא להורג
 j-m etw. hinterlássen : to leave s.o. s.th.
   eine Nachricht hinterlasseN
 j-n über etw. hinwég|täuschen : to belie, to cover up, to deceive
+sich hóch|arbeiten, arbeitete sich hoch, hat sich hochgearbeitet : לעלות בסולם הדרגות
 hóch|fahren : to start, to start up, to boot, to ramp up
   - Ich trank einen Schluck Kaffee und fuhr meinen Computer hoch.
 höchstpersönlich : אישי ביותר
@@ -615,6 +640,8 @@ e Marotte (pl. -n) : whim
 e Mäßigung : מתינות, איפוק
 maßlos : מוגזם, ללא מידה
 e Maßnahme (pl. -n) : measure(s), provision(s)
+merken, merkte, hat gemerkt - לבחון באופן מכוון וכך לשים לב למשהו vgl. bemerken
+  - + Akk. : לשים לב (ש־), לבוא לשימת ליבו של מישהו, להבחין, להסתכל ולראות
 r Missbrauch (pl. Missbräuche) : abuse, misuse, violation
   Der Missbrauch von Alkohol
   Der Missbrauch der Bibliothekscomputer ist untersagt
@@ -694,6 +721,7 @@ ran (adv.)
 rán : UGS. heran-
 sich an j-n rán|machen : to make a pass at s.o.
 rán|nehmen : to push, to hit, to abuse, to pick on s.o.
+s Regime (pl. -s) : שלטון
 e Reichsacht : imperial outlawry
 reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
@@ -835,6 +863,8 @@ j-n überrumpeln : להפתיע, להערים על
 úm|ziehen, zog um, ist umgezogen : לעבור מקום, להגר
   - sich umziehen : להחליף בגדים
   - j-n umziehen : להחליף למישהו בגדים
+umzingeln, umzingelte, hat umzingelt
+  - + Akk. : להקיף
 umzingelt : מוקף
 uneins : מפולג, מפוצל, מחולק
 unerfreulich : unpleasant, annoying
@@ -852,6 +882,10 @@ e Untat : פשע
 untätig : לא פעיל
 únter|legen + Akk. : לשים מתחת
 untersagt : prohibited
+unterscheiden, unterschied, hat unterschieden
+  - [Akk.] von [Dat.] unterscheiden : להבחין בין משהו לבין משהו
+  - zwischen [Dat.] und [Dat.] unterscheiden : להבחין בין משהו לבין משהו
+  - sich (in + [Dat.]) unterscheiden : להיבדל (ב־)
 unterstellen, unterstellte, unterstellt : לרמוז
 r Untertan, e Untertanin : subject (of a kingdom)
 unverhofft : לא צפוי, מפתיע
@@ -927,7 +961,10 @@ e Vollzeit
 - Vollzeit-Professor
 - Vollzeit-Schriftsteller
 e Vollzeitstelle : משרה מלאה
+vorab [adv.] : מראש, מלכתחילה, מההתחלה
+  - vorab aufnehmen : להקליט מראש
 vorán|bringen + Akk. : לקדם
+vorán|kommen, kam voran, ist vorangekommen : להתקדם, לנוע קדימה
 vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
   - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
@@ -968,6 +1005,7 @@ e Wiederaufnahme : חידוש
   - Wiederaufnahme der Verhandlungen : חידוש המשא ומתן
   - bei Wiederaufnahme unserer Geschäftstätigkeit : upon resumption of our businesser
 wieder|erlangen + Akk. : לשוב ל(הכרה), להשיג בחזרה
+r Witwenschleier : רעלת אלמנה
 r Wolf (pl. Wölfe) : זאב
   - einsamer Wolf
 r Wortführer : דובר
@@ -1010,6 +1048,10 @@ zurück|drängen + Akk. : להסיג, לגרום לאויב לסגת
 zurück|halten, hielt zurück, zurückgehalten : להימנע, לנהוג במתינות
   - sich zurückhalten : להימנע
 s Zurückhalten : מתינות
+zurück|ziehen, zog zurück, zurückzogen
+  - sich (aus/von + [Dat.]) zurückziehen : לסגת (מ־)
+  - Er bat, sich zurückziehen zu dürfen. : הוא ביקש להיות מורשה לסגת
+  - sich aus der Welt zurückziehen : לפרוש מן העולם
 r Zusammenprall : התנגשות
 Zuschlag
 zú|spitzen + Akk. : לחדד
