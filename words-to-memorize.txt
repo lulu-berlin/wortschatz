@@ -6,6 +6,8 @@ e Abdankung : ויתור על כס המלכות, התפטרות
 e Abgabe : שחרור, העברה, מס
 abgefuckt : fucked up
 r Abgrund : תהום
+abhanden|kommen (+ Dat.) : ללכת לאיבוד, להיעלם
+  - "Im Lauf des vergangenen Winters sind mir einige Tagen abhanden gekommen." [Die Wand]
 s Abkommen : הסכם, עסקה, דיל
 r Ablass : discharge, indulgence
 j-n áb|ordnen : to delegate s.o.
@@ -41,6 +43,12 @@ e Aneignung (pl. -en) : ניכוס
 án|fachen - להצית, להדליק
 etw. án|fordern : to request, to deman
 e Anforderung : requirement, demand
+án|geben : להשוויץ
+  - etw. angeben : לפרט משהו, לקבוע ספציפית
+  - "Auch den Wochentag kann ich nicht angeben." [Die Wand]
+angewiesen : תלוי
+  - auf + Akk. angewiesen sein : להיות תלוי ב־
+án|haften : להיצמד, לדבוק
 r Anhänger : follower, supporter. adherent
 Anhöhe : גבעה
 Akk. + án|hören : to listen to
@@ -66,6 +74,7 @@ etw. án|streben : to strive, to aspire to, to strive for, to aim at
   - eine Stelle anstreben
 j-m etw. án|vertrauen : לסמוך על מישהו עם משהו to confide
 án|zweifeln : to doubt, to mistrust
+arglos : תמים, לא חושד
 Arm
   j-n auf den Arm nehmen : to pull s.o.'s leg
 Arsch
@@ -112,6 +121,8 @@ ausgeliefert
 aús|liefern : to supply, to surrender, to deliver, to ship
   etw. ausliefern : to deliver, to roll out, to ship
   j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
+aús|nehmen + Akk. : להוציא מן הכלל
+  - sich ausnehmen : להיראות, להיות מוצג
 s Ausmaß (pl. -e) : מידה, היקף, מימדים
   - Zum Glück war das Ausmaß des Schadens begrenzt.
   - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
@@ -170,6 +181,7 @@ betreiben : to operate, to conduct, to run
 e Beute : שלל, טרף, ביזה
   - Die Beute wegnehmen : לקחת את השלל
 bevor|stehen : להיות צפוי, אמור לקרות
+bewahren + Akk. : לשמר, לתחזק
 sich bewahrheiten : להתממש, להיות מוכח כנכון
 bewundern : to admire
 etw. beziffern : to estimate, to quantify
@@ -194,10 +206,11 @@ e Deckung : coverage, backing
 s Dekret : צו
 dementieren : to disclaim, to repudiate, to deny s.th.
 e Deutung : analysis, interpretation
-deuten : to interpret
+deuten : לפרש
 e Devise : מוטו
 dezimieren + Akk. : להשמיד, להכחיד
 e Differenz
+dösen : לנמנם
 dran
   gut dran (sein) : (to be) well off
   besser dran (sein) : (to be) better off
@@ -238,6 +251,7 @@ s Edikt (pl. -e) : edict [Zaw, hora'ah, pqudah]
 e Eigenständigkeit : אוטונומיה, עצמאות, שלטון עצמי
 r Eilbote, e Eilbotin : שליח, רץ, בלדר
 einen : לאחד
+  - einend
 eín|dämmen + Akk. : לעצור, לשים סוף ל־, לחסום
 eín|dämmern : להירדם, לשקוע בשינה
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
@@ -249,6 +263,7 @@ eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
 Einhalt
   etw.[Dat.] Einhalt gebieten : to put an end to s.th.
 r Einschnitt (pl. -e) : חתך
+einseitig : חד־צדדי, מוטה
 eín|willigen : להסכם, לתת הסכמה
 e Einwilligung : הסכמה
 empor : למעלה
@@ -282,6 +297,9 @@ j-n entmachten : to disempower s.o., to deprive s.o. of power
 an + Dat. entrichten
   - eine Gebühr entrichten : לשלם אגרה
   - j-m seinen Tribut einrichten : to pay tribute to s.o.
+entrinnen, entrann, entronnen
+  - + Dat. : לחמוק מ־
+s Entrinnen : בריחה
 entschlossen : determined, resolute, intent
 entschlüsseln : to decrypt
 entsetzlich : terrible
@@ -291,7 +309,9 @@ etw. erachten : to consider s.th.
 s Erachten : opnion
   meines Erachtens : in my opinion
 erbitten, erbat, erbeten : לבקש, לערוג 
+erfolgversprechend : מבטיח (צפוי להצליח)
 ergeben + Akk. : להניב, להפיק, להוביל ל, לייצר
+  - sich ergeben : לקרות, להיות המקרה
 ergreifen + Akk. : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח)
 j-n erhören : להישמע לתפילתו של מישהו
 r Erlöser : מושיע
@@ -347,6 +367,7 @@ e Fußgängerzone
 
  G
 ===
+gackern : לקרקר (כמו תרנגול)
 geächtet : outlaw(ed)
 sich gebärden : to behave (like / as / ...)
 j-m etw. gebieten : to command, to demand
@@ -359,6 +380,7 @@ s Geleit (pl. -e) : escort
 e Geltung : תוקף
   - voll zur Geltung bringen : להיכנס למלוא התוקף
 r Gemahl : בעל
+gemäßigt : מתון, מיושב, שקול, ממוצע
 S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
@@ -490,6 +512,7 @@ lockern : to become loose, to relax, to release
  M
 ===
 e Marotte (pl. -n) : whim
+e Mäßigung : מתינות, איפוק
 maßlos : מוגזם, ללא מידה
 e Maßnahme (pl. -n) : measure(s), provision(s)
 r Missbrauch (pl. Missbräuche) : abuse, misuse, violation
@@ -571,6 +594,7 @@ r Säbel : סיף
 r Sachse, e Sachsin : Saxonian
 e Sackgasse (pl. -n) : dead end, cul-de-sac
 e Salve (pl. -n) : fusillade [maTaH esh]
+e Sammelwut : אספנות כפייתית
 r Saufkopf : שיכור
 schade (adj.) : עצוב
   - Ich fand es schade, dass mein Team nicht gewonnen hat.
@@ -584,6 +608,7 @@ scheitern : to fail
 s Scheusal : זומבי, מפלצת
 schief : נוטה לצד אחד, עקום
 e Schießerei (pl. -en)
+schläfrig : עייף, מותש
 r Schrank (pl. Schränke) : ארון
 e Schranke (pl. -n) : גבול, שער
   - in Die Schranken weisen : להגביל, לשים גבול
@@ -610,6 +635,9 @@ r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
 r Sold (pl. e) : פרס, גמול, שילום
 standhaft : steadfast [naHuS]
+e Stange (pl. -n) : מוט
+  - vor der Stange : מוכן מראש, רדימייד
+  - bei der Stange bleiben : להתמיד, להישאר עם זה
 im Stich lassen : leave s.o. high and dry
 r Streich (pl. -e) : trick, prank, hoax, joke
 r Streit : argument, conflict, quarrel, conflict, fight
@@ -623,6 +651,7 @@ stürzen : ליפול
   - sich auf + Akk. stürzen : להתנפל, להסתער, לזנק על
   - sich in Unkosten stürzen : לשקוע בחובות
   - sich in + Akk. stürzen : להשליך את עצמו לתוך
+spärlich : מפוזר, דליל, sparse
 e Sperrung : blocking, closing, inhibition
 stänkern - לעשות בעיות, לעשות בלגן
 e Stellungnahme : statement
@@ -663,7 +692,10 @@ unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
 ungenutzt : לא בשימוש, במצב סרק
 e Ungnade : חרפה, בושה
+Unkosten (pl.) : הוצאות
+  - Unkosten decken : to break even
 unschlüssig : הססני, שלא הוסכם לגביו
+Unsitte : הרגל מגונה
 e Untat : פשע
 untätig : לא פעיל
 únter|legen + Akk. : לשים מתחת
@@ -701,6 +733,7 @@ j-m (Akk.) vergeben : לסלוח
 vergebens : לשווא, ללא הועיל
 vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזבז
 vergelten : לגמול, להשיב
+vergilbt : שנעשה צהוב
 verhärtet : callous, hardened, obdurate
 verheeren : להרוס, להשחית
 verheerend : davastating, disastrous, fatal
@@ -745,7 +778,7 @@ e Vorwarnung : אזהרה מראש
 
  W
 ===
-wahrhaben : להכיר בכך ש
+wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
 wappnen : לחמש
   - sich gegen + Akk. wappnen : להתכונן נגד משהו
@@ -778,6 +811,8 @@ s Zugeständnis (pl. -se) : concession
 zugunsten + Gen. : in favor of, in support of, for the benefit of
   zugunsten von
 etw. zú|lassen : to allow s.th., to permit s.th.
+zú|laufen : לעשות דק
+  - auf + Akk. zulaufen : ללכת לקראת מישהו, להתקרב ל
 zuletzt : אחרון, לבסוף, לאחרונה
 s Zunft (pl. Zünfte) : גילדה
 zurécht|kommen
