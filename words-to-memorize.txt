@@ -43,6 +43,9 @@ aúf|begehren : למרוד
 aufbegehrend : מרדני
 r Aufbruch : התפרצות, התעוררות, עזיבה
 e Aufbruchstimmung : אווירת עזיבה
+aúf|fallen : למשוך תשומת לב, להתבלט, להיות ראוי לציון
+  - nicht auffallen : לא להתבלט
+auffallend : ראוי לציון
 auffällig : conspicuous, apparent
   auffällig werden : become apparent
   Auffällig ist: ...
@@ -85,6 +88,7 @@ e Anmaßung : arrogance, insolence, presumption
 án|motzen, motzte an, gemotzt
   - j-n anmotzen [ugs.] : להתלונן על משהו
 e Anordnung : סדר, סידור, עיצוב
+án|packen : להתמודד עם (משימה, בעיה, קושי)
 án|prangern : to denounce, to condemn [lehoqia`]
 án|reichern : to enrich, to fortify
   mit Sauerstoff anreichern
@@ -94,6 +98,7 @@ e Anreicherung : enrichment
   - den Kampf ansagen : להכריז מלחמה
 s Ansagen (= pl.) : הכרזות
 án|schließen : לחבר, לצרף, לקשור יחד
+e Ansicht (pl. -en) : מבט; דיעה; אמונה
 án|stimmen : to intone, to start singing
 r Anstoß : דחף
 etw. án|streben : to strive, to aspire to, to strive for, to aim at
@@ -336,6 +341,7 @@ entgehen + Dat. : לחמוק מ‏־
 entladen : לפרק
 s Entladen : פריקה
 entladen [adj.] : פרוק
+entsenden : לשגר, לשלח, לשלוח
 erschallen, erschallte, erschallt : להשמיע קול/צליל
 erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
   - erstere ... letztere ... 
@@ -442,6 +448,7 @@ fällen : to fell
   ein Urteil fällen : to pronounce a sentence, to render a judgment
 fassen, fasste, hat gefasst : להחזיק, לתפוס
   - etwas in Worte fassen : לשים במילים, לבטא במילים
+  - nicht zu fassen : אין לתאר, לא יעלה על הדעת
 an + Dat. fést|halten : to abide by ..., to hold fast to ..., to stick to ...
 fést|frieren, fror fest, festgefroren : לקפוא
 sich fit fühlen : to feel fit
@@ -518,6 +525,7 @@ gemäßigt : מתון, מיושב, שקול, ממוצע
 S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
+Genugtuung : סיפוק
 e Geschäftsordnung : standing orders, regulations, terms and conditions
 gerammelt
   - gerammelt voll sein : להיות מלא עד אפס מקום
@@ -549,6 +557,9 @@ e Glut : גחל
 r Gräuel (= pl.) : זוועה, מעשה נפשע
 s Gremium (pl. Gremien) : מועצה, ועד מנהל
 r Grimm : זעם, חימה
+r Grund (pl. Gründe)
+  - im Grund(e) : באופן עקרוני, בבסיסו של דבר
+s Grundrecht : זכות יסוד
 grob : גס, קשוח, מחוספס
 e Gründung : establishment, foundation
 s Gründungsmythos / -us (pl. Gründungsmythen) : מיתוס מכונן
@@ -598,6 +609,9 @@ hin oder her : בין אם כך ובין אם כך, לא משנה אם כך או
 hinab : down
 auf j-n hinab|sehen : to look down on s.o.
 hín|nehmen + Akk. : לקבל, להסכים ל
+e Hinsicht : בחינה, אופן
+  - in dieser Hinsicht : מן הבחינה הזאת
+  - in gewisser Hinsicht : מבחינה מסוימת
 r Hinterhalt : אמבוש
 hinterher|kommen : לבוא אחרי/בעקבות, לבוא מאוחר יותר, להתאים
 j-n hín|richten : להוציא להורג
@@ -669,6 +683,7 @@ krepieren : למות
 e Kriegslist : תחבולות מלחמה
 r Kriegsschauplatz : זירת המלחמה
 e Kundgebung : demonstration, rally
+r Kuppelbau : מבנה עם כיפה
 e Kurie (Lat. curia) : council, assembly
 
  l
@@ -802,6 +817,8 @@ reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
 relaxen, relaxte, relaxt : להירגע, להרגיע
+riskant [adj.] : מסוכן
+  - riskant spielen : להמר, לשחק באופן מסוכן
 riskieren + Akk. : לסכן, לקחת סיכון, להסתכן ב־
 r Rivale : יריב
 Rückhol- : return ...
@@ -830,6 +847,7 @@ Schade! : אוף! חבל!
 schaden + Dat. : לפגוע במשהו
 r Schaden (pl. Schäden) : נזק, פגיעה
 e Schar : להקה (של ציפורים),
+e Schärpe (pl. -n) : אבנט
 r Schauplatz : סצינה, תפאורה, מסגרת, זירה
 scheiden, schied, geschieden : לפרק, לפצל, להפריד
   - sich (von j-m) scheiden lassen : להתגרש ממישהו
@@ -882,10 +900,13 @@ sinken, sank, gesunken
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
 r Sold (pl. e) : פרס, גמול, שילום
-standhaft : steadfast [naHuS]
+r Staatsdienst : השירות הציבורי
+r Staatsdiener : שליח ציבור, משרת ציבור
+standhaft : נחוש
 e Stange (pl. -n) : מוט
   - vor der Stange : מוכן מראש, רדימייד
   - bei der Stange bleiben : להתמיד, להישאר עם זה
+e Sternstunde (pl. -n) : רגע קסום, רגע גדול
 im Stich lassen : leave s.o. high and dry
 r Streich (pl. -e) : trick, prank, hoax, joke
 r Streit : argument, conflict, quarrel, conflict, fight
@@ -1112,6 +1133,7 @@ r Witwenschleier : רעלת אלמנה
 r Wolf (pl. Wölfe) : זאב
   - einsamer Wolf
 r Wortführer : דובר
+wortgewaltig [adj.] : חזק במילים, רהוט
 sich wundern : to wonder, to be surprised
 
  Z
