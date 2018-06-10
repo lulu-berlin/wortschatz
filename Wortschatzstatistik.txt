@@ -8,7 +8,7 @@ Seite                          Markierte Einträge             Gesamtzahl der Ei
 34                             10                             30
 35                             15                             34
 36                             7                              29
-37                             7                              37
+37                             10                             37
 38                             9                              20
 39                             14                             24
 40                             12                             33
@@ -64,7 +64,7 @@ Seite                          Markierte Einträge             Gesamtzahl der Ei
 260                            11                             17
 270                            19                             22
 280                            12                             22
-290                            5                              40
+290                            17                              40
 300                            15                             29
 310                            10                             25
 320                            10                             28
@@ -106,7 +106,7 @@ Seite                          Markierte Einträge             Gesamtzahl der Ei
 580                            29                             34
 590                            19                             39
 600                            13                             22
-610                            18                             46
+610                            22                             46
 620                            19                             35
 630                            8                              11
 640                            16                             22
