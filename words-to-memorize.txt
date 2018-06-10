@@ -10,6 +10,9 @@ r Abgrund : תהום
   - + Akk. : לסמן (פריט ברשימה שהושלם), להשלים משימה ולשכוח ממנה
 abhanden|kommen (+ Dat.) : ללכת לאיבוד, להיעלם
   - "Im Lauf des vergangenen Winters sind mir einige Tagen abhanden gekommen." [Die Wand]
+áb|hängen, hing ab, hat abgehangen
+  - von + [Dat.] abhängen : להיות תלוי ב‏־
+  - j-n abhängen : להשאיר מאחור
 s Abkommen : הסכם, עסקה, דיל
 r Ablass : discharge, indulgence
 j-n áb|ordnen : to delegate s.o.
@@ -68,6 +71,7 @@ e Aneignung (pl. -en) : ניכוס
 án|fachen - להצית, להדליק
 etw. án|fordern : to request, to deman
 e Anforderung : requirement, demand
+án|fügen : להוסיף
 án|geben : להשוויץ
   - etw. angeben : לפרט משהו, לקבוע ספציפית
   - "Auch den Wochentag kann ich nicht angeben." [Die Wand]
@@ -145,11 +149,6 @@ aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, �
 etw. aús|geben : to issue, to spend, to expend, to dispense
   - Die Universität gibt Studentenausweise aus.
   - Ich will mein ganzes Geld für ein neues Auto ausgeben.
-Ausschluss : חריג, יוצא דופן
-ausschließlich
-  - adj. : יחיד
-  - adv. : בלבד, רק
-  - präp. + Gen. : פרט ל, מלבד־
 auseinander|setzen
   sich mit j-m auseinandersetzen : to argue with s.o., to deal with s.o.
   sich mit etw.[Dat.] auseinandersetzen : to grapple with, to deal with, to
@@ -172,6 +171,15 @@ s Ausmaß (pl. -e) : מידה, היקף, מימדים
 aús|rufen : to call out, to proclaim, to call for s.th.
 s Ausrufen : proclamation, cry, exclamation
 aús|scheren : לשנות מסלול, לסטות מן המסלול
+Ausschluss : חריג, יוצא דופן
+ausschließlich
+  - adj. : יחיד
+  - adv. : בלבד, רק
+  - präp. + Gen. : פרט ל, מלבד־
+e Aussicht (auf + [Akk.]) : סיכוי, אפשרות, פוטנציאל; נוף, תצפית
+  - Die Aussicht auf dauerhaften Frieden : הסיכוי לשלום מתמשך
+  - schöne Aussicht : נוף יפה
+  - mit Aussicht auf ... : עם נוף ל־
 r Ausweg : מוצא, דרך החוצה, מפלט
 auswärtig : חיצוני
 auswärts : החוצה
@@ -202,6 +210,8 @@ e Begnadigung : חנינה
 behaupten + Akk. : לקבוע, לאשר, לטעון
   - sich gegen j-n behaupten : להתייצב כנגד מישהו
 r Beichtvater : כומר מוודה
+beí|fügen, fügte bei, beigefügt : להוסיף למשהו
+  - "Er hat mit seiner Bewerbung ein Paßbild beigefügt."
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
 etw.[Akk.] bekanntgeben : to announce s.th.
 s Bekenntnis (pl. -se) : מסדר (דתי)
@@ -318,6 +328,7 @@ e Eigenständigkeit : אוטונומיה, עצמאות, שלטון עצמי
 r Eilbote, e Eilbotin : שליח, רץ, בלדר
 einen : לאחד
   - einend
+eín|beziehen, bezog ein, hat einbezogen [vt.] : לכלול, לערב, לצרף
 eín|dämmen + Akk. : לעצור, לשים סוף ל־, לחסום
 eín|dämmern : להירדם, לשקוע בשינה
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
@@ -560,12 +571,13 @@ r Grimm : זעם, חימה
 r Grund (pl. Gründe)
   - im Grund(e) : באופן עקרוני, בבסיסו של דבר
 s Grundrecht : זכות יסוד
+gruppieren, gruppierte, hat gruppiert [vt.] : לקבץ
 grob : גס, קשוח, מחוספס
 e Gründung : establishment, foundation
 s Gründungsmythos / -us (pl. Gründungsmythen) : מיתוס מכונן
 e Gülle : דשן, זבל
 s Gut : נכס; רכוש; אחוזה
-r Gutsherr : בעל אחוזה
+r Gutsherr : בעל אחוזה 
 
  H
 ===
@@ -588,6 +600,9 @@ herab : down
   von oben herab behandeln : treat s.o. in a condescending manner
   von oben herab mit j-m reden : to talk down to s.o.
 herab|blicken
+heran [adv.] : קרוב
+harán|kommen, kam heran, herangekommen : לגשת
+  - (an + [Akk.]) näher herankommen : להתקרב (ל־)
 heraús|drängen : למלא עד אפס מקום, לצופף to croud out
 heraús|nehmen
   sich[Dat.] etw. heraús|nehmen : to be naughty
@@ -595,7 +610,8 @@ heraús|nehmen
 auf j-n herab|sehen : to look down on s.o.
 auf j-n herab|schauen : to look down on s.o.
 e Herabstufung : downgrade, downgrading, demotion
-herablassend : condescending
+herablassend [adj.] : מתנשא
+herablassend [adv.] : בביטול, בהתנשאות
 herbei|sehnen : לערוג
 hér|kommen, kam her, hergekommen : לבוא הנה
   - Komm mal her! : בוא הנה!
@@ -608,21 +624,28 @@ auf etw. hinaús|laufen : to add up to s.th., to result in s.th.
 hin oder her : בין אם כך ובין אם כך, לא משנה אם כך או כך
 hinab : down
 auf j-n hinab|sehen : to look down on s.o.
+hín|geben, gab hin, hingegeben : להעניק; להקריב
+  - sein Leben hingeben : להקריב את חייו
 hín|nehmen + Akk. : לקבל, להסכים ל
+j-n hín|richten : להוציא להורג
 e Hinsicht : בחינה, אופן
   - in dieser Hinsicht : מן הבחינה הזאת
   - in gewisser Hinsicht : מבחינה מסוימת
 r Hinterhalt : אמבוש
 hinterher|kommen : לבוא אחרי/בעקבות, לבוא מאוחר יותר, להתאים
-j-n hín|richten : להוציא להורג
-j-m etw. hinterlássen : to leave s.o. s.th.
-  eine Nachricht hinterlasseN
-j-n über etw. hinwég|täuschen : to belie, to cover up, to deceive
+j-m etw. hinterlássen : להשאיר משהו למישהו
+  eine Nachricht hinterlassen
+j-n über etw. hinwég|täuschen : להזים, לכסות על, להוליך שולל
+hinzu [adv.] : בנוסף
+  - hinzu kommt : בנוסף לכך...
+hinzú|fügen, fügte hinzu, hinzugefügt [vt.] : להוסיף
+  - "Er fügte sein Zeugnis hinzu." : הוא הוסיף את התעודה שלו
+  - "Er fügte seine Antwort gleich hinzu." : הוא מייד הוסיף את תשובתו
 sich hóch|arbeiten, arbeitete sich hoch, hat sich hochgearbeitet : לעלות בסולם הדרגות
-hóch|fahren : to start, to start up, to boot, to ramp up
+hóch|fahren, fuhr hoch, hat hochgefahren [vt.] : להתחיל, לאתחל, למנף
   - Ich trank einen Schluck Kaffee und fuhr meinen Computer hoch.
 höchstpersönlich : אישי ביותר
-r Höhepunkt (pl. -e) : highlight, peak, climax
+r Höhepunkt (pl. -e) : נקודת שיא
 
  I
 ===
@@ -661,7 +684,8 @@ kannibalisch [adv.] : באופן קניבאלי
 karg : דליל
 r Keil (pl. -e) : טריז
 r Kerker (= pl.) : צינוק
-r Ketzer : heretic
+e Kernfrage : השאלה המרכזית, העניין העיקרי
+r Ketzer : כופר
 keuchen, keuchte, gekeucht : להתנשם ולהתנשף
 s Keuchen : נשימה כבדה
 kläglich : אומלל
@@ -727,10 +751,12 @@ r Missbrauch (pl. Missbräuche) : abuse, misuse, violation
 r Missstand (pl. Misstände) : grievance, drawback, fault, defect
 mít|bestimmen bestimmte mit, mitgebestimmt (!) : להשתתף בתהליך קבלת ההחלטות
 e Mitsprache : אמירה (במובן של: הזכות או הסמכות לומר משהו)
+r Mittelpunkt (pl. -e) : מרכז, נקודת אמצע, נקודה מרכזית
+mít|tragen, trug mit, hat mitgetragen [vt.] : לתמוך ב־, להצטרף ל־, לעזור לשאת
 mitunter : לפעמים, מדי פעם, מפעם לפעם
 mufflig : grumpy
 munter : lively, cheerful, jolly
-r Muskel : muscle
+r Mu	skel : muscle
 muskulär : muscular
 muskulös : muscular
 r Mut : אומץ
@@ -747,8 +773,12 @@ nách|steuern : to readjust s.th.
 nách|trauern, trauerte nach, nachgetrauert
   - + Dat. : להתאבל על, להתחרט על
 e Nachwelt (pl. -en) : next generations
+r Nagel : ציפורן; מסמר
+e Nagelprobe : מבחן ליטמוס
 nah [adj.] : קרוב
   - nah scheinen : להיראות קרוב
+nahen, nahte, genaht : להיות קרוב, להתקרב
+  - sich ([Dat.]) nahen [veralt.] : להתקרב ל־
 nahend : imminent, approaching, forthoming
 e Neige : דעיכה, שקיעה
   - zur Neige gehen : להידלדל, להתמעט
@@ -771,6 +801,7 @@ r Nutznießer : המוטב, הנהנה
 ======
 offenbaren : to reveal, to disclose
   sich offenbaren : to manifest itself
+ohnehin [adv.] : כבר; בכל מקרה
 r Ohrendruck : ear pressure
 e Ölsardine (pl. -n): סרדינים בשמן
   - wie die Ölsardinen : כמו סרדינים (על צפיפות)
@@ -836,6 +867,8 @@ rutschen, rutschte, gerutscht : להחליק
 r Säbel : סיף
 r Sachse, e Sachsin : סקסוני
 e Sackgasse (pl. -n) : דרך ללא מוצא
+s Sagen
+  - das Sagen haben : להיות בעל הדעה, להיות בעל האמירה
 e Salve (pl. -n) : מטח אש
 e Sammelwut : אספנות כפייתית
 r Sarg : ארון קבורה
@@ -890,6 +923,10 @@ senden, sendete/sandte, gesendet/gesandt
 setzen
   - seinem Leben ein Ende setzen
 e Sicherung : protection, assurance
+e Sicht : תצפית, נקודת מבט, פרספקטיבה
+  - aus Sicht + [Gen.] : מנקודת המבט של
+  - aus heutiger Sicht : מנקודת המבט של היום
+  - aus soziologischer Sicht : מנקודת מבט סוציולוגית
 sieden : לרתוח
   - Das Wasser siedet. המים רותחים
   - Der Eintopf siedet eine Wiele. הנזיד מתבשל זמן מה
@@ -965,8 +1002,11 @@ e Übereinkunft : agreement, accord
 r Überfall : פשיטה, התקפה, שוד
 e Überflutung : הצפה
 e Überlegenheit : עליונות, שליטה
-übernehmen : to assume (responsibity/liability), to take (an offer)
+übernehmen, übernahm, hat übernommen [vt.] : לקבל/לקחת (אחריות; הצעה)
+to assume (responsibity/liability), to take (an offer)
 j-n überrumpeln : להפתיע, להערים על
+übertragen, übertrug, übertragen [vt.] : להעביר, למסור, לשדר
+übertragen [adj.] : שנמסר
 überwinden, überwand, hat überwunden [vt.] : להתגבר על־
 úm|gestalten, gestalte um, hat umgestaltet [vt.] : לשנות, לעשות טרנספורמציה, לארגן מחדש, לעצב מחדש
 úm|schwenken : לשנות צד
@@ -1065,10 +1105,23 @@ e Verschwendung : extravagance, waste
   - Die Verschwendung natürlicher Ressourcen
 j-n versöhnen : to reconcile s.o.
   sich (mit j-m) versöhnen : to reconciliate with s.o.
+r Verstand : שכל
+  - den Verstand verlieren : לאבד את השכל
+verständig [adj.] : הגיוני, סביר, מתקבל על הדעת, שקול
+  - verständiger Anleger : משקיע שקול
+  - verständige Politik : מדיניות מתקבלת על הדעת
+verständigen, verstädigte, verständigt
+  - sich verständigen : לתקשר
+  - sich (über + [Akk.]) verstänigen : להגיע להסכמה (על־), להסכים (על־)
+  - j-n (von + [Dat.]) verständigen : ליידע מישהו (על אודות משהו)
+e Verständigung : הבנה
 verstreichen + Akk. : לחלוף (זמן), לפוג
 e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
 vertreten, vertrat, vertreten : לייצג, לשמש כממלא מקום, להחליף
+verwerfen, verwarf, hat verworfen [vt.] : לדחות, לבטל, לסרב ל־
+  - einen Vorschlag / eine Idee verwerfen : לדחות הצעה
+  - Änderungen verwerfen : לבטל שינויים
 sich verwicklichen, verwirklichte sich, hat sich verwirklicht : להתממש, לבוא לידי מימוש, להתגשם
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
@@ -1156,9 +1209,10 @@ s Zölibát : פרישות
 zucken : לעוות, למשוך בכתפיים, להניד
   - ohne mit der Wimper zu zucken : מבלי להניד עפעף
 e Zuflucht (pl. -en) : מפלט, מחסה, מקלט, מסתור
-zú|fügen : להוסיף
+zú|fügen : לפגוע; להוסיף, לצרף
   - j-m Schaden zufügen : לפגוע במישהו
   - j-m Unrecht zufügen : לעשות למישהו משהו לא בסדר
+zú|geben : להוסיף (לתת בנוסף)
 zú|gehen : להתקרב; להיסגר (חלון)
 s Zugeständnis (pl. -se) : concession
 zugleich [adv.] : באותו זמן
