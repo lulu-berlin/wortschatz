@@ -21,26 +21,43 @@ j-n áb|ordnen : to delegate s.o.
 e Abrede : undestanding
   mündliche Abrede : oral agreement
   etw. in Abrede stellen : to deny s.th., to disavow s.th.
+áb|reißen : to tear s.th. off, to demolish, to tear down
+  sich abreißen : to be torn, to tear off (v.i.)
 áb|regen, regte ab, abgeregt
   - sich abregen : להירגע
   - Reg dich ab! : תירגע!
-áb|reißen : to tear s.th. off, to demolish, to tear down
-  sich abreißen : to be torn, to tear off (v.i.)
 áb|ringen, rang ab, hat abgerungen : to force, to wring
   j-m abringen, etwas zu tun
 áb|schrecken, schreckte ab, hat abgeschreckt : להרתיע
 áb|schütteln + Akk. : להיפטר מ־, להתנער מ־, להשתחרר מ־
 áb|setzen, setzte ab, hat abgesetzt
   - j-n absetzen : להוריד מישהו איפשהו (ממכונית, בהסעה)
+áb|spülen : wash up
 e Abstammung : מוצא, מקור, ייחוס
 (j-m) áb|treten + Akk. : להקצות משהו למישהו, להעביר משהו למישהו, לוותר על משהו לטובת מישהו
 áb|trotzten, trotzte ab, hat abgetrotzt [vt.] : להשיג בכוח, לחטוף
 sich áb|wenden : להתרחק, להפנות את הגב
+áb|wischen, wischte ab, hat abgewischt [vt.] :
+  - [Akk.] (von + [Dat.]) abwischen : לנגב משהו הרחק ממשהו
+  - [Akk.] abwischen : לנגב משהו כדי לנקותו
 s Achselzucken : shrug
 j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
 achten : to respect, to esteem
   auf etw. achten : to pay attention to s.th., to take care of s.th.
 ächten : להוציא מחוץ לחוק; לנדות, להחרים
+ade! [interj.] : להתראות! נאמר בפרידה לזמן רב
+Adleraugen : עיני נץ
+  - Adleraugen haben : להיות בעל עיני נץ, לראות היטב
+r Affront : עלבון
+r Ahn (pl. -en) : אב קדמון; קדמון; אבותינו
+  - Unsere Ahnen stammen aus ...
+e Ahnentafel : לוח שמציג את אילן היוחסין של האבות הקדמונים
+ähnlich [adj.] : דומה
+ähnlich + [Dat.] [präp.] : דומה ל־, בדומה ל־, בהיותו דומה ל־
+akkurat [adj.] : מדויק, מסודר
+akkurat [adv.] : בדיוק רב; בדיוק! ממש!
+alias [präp.]
+r Allerwertester [ugs.] : תחת
 allgegenwärtig : שנמצא בכל מקום
 aúf|begehren : למרוד
 aufbegehrend : מרדני
@@ -59,8 +76,6 @@ r Aufruhr : מהומה, התפרעות
 aúf|streben : לשאוף
 aufstrebend : שאפתן
 r Auftritt : appearance, entrance, performance
-áb|reißen : to tear s.th. off, to demolish, to tear down
-áb|spülen : wash up
   das Geschirr abspülen
 althergebracht : מסורתי
 ändern, änderte, geändert : לשנות
