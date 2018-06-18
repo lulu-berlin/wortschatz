@@ -1,5 +1,4 @@
- A, Ä
-======
+= A, Ä =
 áb|danken : לוותר על כס המלוכה, להתפטר
 e Abdankung : ויתור על כס המלכות, התפטרות
 áb|feuern : to fire off
@@ -59,6 +58,9 @@ akkurat [adv.] : בדיוק רב; בדיוק! ממש!
 alias [präp.]
 r Allerwertester [ugs.] : תחת
 allgegenwärtig : שנמצא בכל מקום
+anders(he)rum (adv.) : the other way round
+án|greifen, griff an, angegriffen [vt.] : לתקוף, להתקיף
+r Angreifer (= pl.) : תוקף
 aúf|begehren : למרוד
 aufbegehrend : מרדני
 r Aufbruch : התפרצות, התעוררות, עזיבה
@@ -70,6 +72,10 @@ auffällig : conspicuous, apparent
   auffällig werden : become apparent
   Auffällig ist: ...
 aúf|halten : לעצור, לעכב, למנוע
+aúf|lösen, löste auf, hat aufgelöst [vt.] : למוסס; לפתור; לבטל
+  - den Vertrag auflösen : להפסיק את החוזה
+  - sich auflösen : להתפזר (לכל עבר), להתפוגג
+  - sich in Luft auflösen : להתפוגג באוויר
 aufmüpfig [adj.] : מרדני
 aúf|reiben : לבלות, לשחוק, לרפט, להתיש, להלאות, לייגע
 r Aufruhr : מהומה, התפרעות
@@ -157,6 +163,7 @@ aúf|spielen : לשחק
   - sich aufspielen : לעשות כאילו, להשוויץ
 r Aufstand (pl. Aufstände) : התקוממות
 j-n aúf|stellen : to nominate s.o.
+r Aufschub : עיכוב, דחיה, השהיה
 r Auftakt (pl. -e) : kick-off, prelude, opening
 e Auftaktkundgebung : initial demonstration
 aúf|tischen : להגיש (אוכל)
@@ -184,6 +191,9 @@ aús|liefern : to supply, to surrender, to deliver, to ship
   j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
 aús|nehmen + Akk. : להוציא מן הכלל
   - sich ausnehmen : להיראות, להיות מוצג
+aús|nutzen, nutzte aus, hat ausgenutzt [vt.] : לנצל, לעשות שימוש
+  - sein Potenzial nicht ausnutzen : לא לנצל את הפוטנציאל שלו
+  - [Akk.] komplett ausnutzen : לעשות שימוש מלא ב־
 s Ausmaß (pl. -e) : מידה, היקף, מימדים
   - Zum Glück war das Ausmaß des Schadens begrenzt.
   - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
@@ -207,8 +217,7 @@ auswendig : by heart
   etw. auswendig können
   etw. auswendig aufsagen : to recite
 
- B
-===
+= B =
 e Bahn : train, path, track
 r Bann : ban
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
@@ -221,6 +230,7 @@ e Bedrängnis : מצוקה, צרה, יסורים
 beharren : to persevere, to persist
   auf etw.[Dat.] beharren : to insist on s.th.
 r Befehl (pl. -e) : פקודה
+befehlen (befiehlt), befahl, hat befohlen [vt.] : לפקוד, להורות, לתת פקודה, לתת הוראה
 befremdlich : strange, odd
 begeistern : to inspire, to excite, to thrill, to faschinate, to wow
 begeistert: impressed
@@ -237,6 +247,7 @@ s Bekenntnis (pl. -se) : מסדר (דתי)
 bekunden : to manifest
   + Akk. : to evince sth.
 bejahen + Akk. : להסכים, להשיב כן
+e Belagerung : מצור
 e Belastung : עול
 belegen : to prove, to verify, to substantiate
   j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
@@ -294,14 +305,14 @@ brummen : לנהום
   - Der Bär brummt.
 r Buchhalter (= pl.), e Buchhalterin
 
- C
-===
+= C =
 chillen, chillte, gechillt [sl.] : להירגע
 
- D
-===
+= D =
 dagegenhalten : לטעון כנגד
+dauerhaft : ארוך־טווח, קבוע, מתמשך
 e Deckung : coverage, backing
+r Degen : פגיון
 s Dekret : צו
 dementieren : to disclaim, to repudiate, to deny s.th.
 demotivieren : לרפות את ידיו של מישהו, לפגוע במוטיבציה
@@ -345,9 +356,7 @@ etw. dúrch|setzen : to enforce, to push through, to achieve
     Änderungen durch.
 düster : עגום, קודר
 
- E
-===
-
+= E =
 ebenbürtig : שווה, ראוי
 ebnen : to level, to smooth
   den Weg ebnen (für etw.) : to pave the way (for s.th.)
@@ -398,6 +407,11 @@ entladen : לפרק
 s Entladen : פריקה
 entladen [adj.] : פרוק
 entsenden : לשגר, לשלח, לשלוח
+entsetzen, entsetze, hat entsetzt [vt.] : להחריד, לזעזע
+s Entsetzen : זעזוע
+  - blankes Entsetzen : זעזוע מוחלט
+  - voller Entsetzen : מזועזע
+  - sprachlos vor Entsetzen : מזועזע עד אין מילים
 erschallen, erschallte, erschallt : להשמיע קול/צליל
 erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
   - erstere ... letztere ... 
@@ -447,6 +461,13 @@ erfolgversprechend : מבטיח (צפוי להצליח)
 ergeben + Akk. : להניב, להפיק, להוביל ל, לייצר
   - sich ergeben : לקרות, להיות המקרה
 ergreifen + Akk. : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח)
+erheben, erhob, hat erhoben [vt.] : להרים, לרומם; להטיל; לסקור, לערוך סקר
+  - gegen + [Akk.] Anklage erheben : להטיל כתב אישום כנגד
+  - (auf + [Akk.]) Steuern erheben : להטיל מיסים (על משהו)
+  - einen Glas erheben : להרים כוסית
+  - j-n in + [Akk.] erheben : לרומם מישהו לדרגת ...
+  - das Gemüt erheben : לרומם את הרוח
+erhebend : מרומם(־רוח)
 e Erhebung : סקר; מעלה; הפקה, שליפה, הוצאה
 erhoffen, erhoffte, erhofft
   - + Akk. : לקוות ל‏־
@@ -485,8 +506,7 @@ erzwingen, erzawng, hat erzwungen [vt.] : להכריח (דבר), להכריח ש
   - Zahlung erzwingen : לחייב תשלום
   - eine andere Anordnung erzwingen : לחייב סדר חלופי
 
- F 
-===
+= F =
 r Fahnder (= pl.), e Fahnderin : investigator
 r Fahrkartenschalter : ticket office, ticket counter
 fallen, fiel, gefallen
@@ -557,8 +577,7 @@ e Fußgängerzone
 r Fußmarsch (pl. Fußmärsche) : צעדה
 s Fußvolk : חיל רגלים
 
- G
-===
+= G =
 gackern : לקרקר (כמו תרנגול)
   - Die Henne gackert. : התרנגולת מקרקרת
 e Gans (pl. Gänse) : אווז
@@ -641,8 +660,7 @@ e Gülle : דשן, זבל
 s Gut : נכס; רכוש; אחוזה
 r Gutsherr : בעל אחוזה 
 
- H
-===
+= H =
 habhaft
   einer Sache[Gen.] habhaft werden : to get hold of s.th.
 halbmast [adv.]
@@ -699,7 +717,7 @@ hinab : down
 auf j-n hinab|sehen : to look down on s.o.
 hín|geben, gab hin, hingegeben : להעניק; להקריב
   - sein Leben hingeben : להקריב את חייו
-hín|nehmen + Akk. : לקבל, להסכים ל
+hín|nehmen, nahm hin, hingenommen [vt.] : לקבל, להסכים ל
 j-n hín|richten : להוציא להורג
 e Hinsicht : בחינה, אופן
   - in dieser Hinsicht : מן הבחינה הזאת
@@ -717,14 +735,16 @@ hinzu [adv.] : בנוסף
 hinzú|fügen, fügte hinzu, hinzugefügt [vt.] : להוסיף
   - "Er fügte sein Zeugnis hinzu." : הוא הוסיף את התעודה שלו
   - "Er fügte seine Antwort gleich hinzu." : הוא מייד הוסיף את תשובתו
+hissen, hisste, hat gehisst [vt.] : להרים, להניף
+  - Er hisste das Segel und lichtete den Anker. : הוא הרים את המפרש והטיל את העוגן
+  - die weiße Fahne hissen lassen : להכניע, לגרום (למישהו) להניף דגל לבן
 sich hóch|arbeiten, arbeitete sich hoch, hat sich hochgearbeitet : לעלות בסולם הדרגות
 hóch|fahren, fuhr hoch, hat hochgefahren [vt.] : להתחיל, לאתחל, למנף
   - Ich trank einen Schluck Kaffee und fuhr meinen Computer hoch.
 höchstpersönlich : אישי ביותר
 r Höhepunkt (pl. -e) : נקודת שיא
 
- I
-===
+= I =
 r Idiot (pl. -en) : אידיוט
 e Idiotin (pl. -nen) : אידיוטית
 imposant : impressive, monumental
@@ -739,11 +759,16 @@ s Infragestellen : questioning
 inhaftieren, inhaftierte, inhaftiert : לעצור, להחזיק במעצר, לשים במעצר
 e Inhaftierung : מעצר
 e Inhaftnahme : מעצר
+innen [adv.] : פְּנִים
+innenpolitisch [adj.] : פנים־פוליטי, של פוליטיקה פנימית
 r Intimfeind : אויב מושבע, ארכי‏־אויב
+r Irrtum : שגיאה
+  - großer Irrtum : שגיאה גדולה
+  - fataler Irrtum : שגיאה גורלית
+  - menschlicher Irrtum : טעות אנוש
 r Irrweg : סטיה, עיקול
 
- J
-===
+= J =
 e Jagd : ציד
 jäh : abrupt(ly), sudden(ly)
   - Ich bemerkte eine jähe Veränderung in seiner Stimmung.
@@ -753,8 +778,7 @@ jucken + Akk. : לגרד
   - es juckt mich : זה מגרד לי
 e Jugendherberge : youth hostel
 
- K
-===
+= K =
 kannibalisch [adj.] : קניבאלי
 kannibalisch [adv.] : באופן קניבאלי
 karg : דליל
@@ -780,6 +804,7 @@ r Kollaps : קריסה
   - plötzlicher Kollaps : קריסה פתאומית
 kollern : להשמיע קול כמו תרנגול הודו
   - Der Truthahn kollert.
+r Kontrahent : יריב
 e Kostprobe (pl. -n) : דגימה
 krepieren : למות
 e Kriegslist : תחבולות מלחמה
@@ -792,8 +817,8 @@ e Kundgebung : demonstration, rally
 r Kuppelbau : מבנה עם כיפה
 e Kurie (Lat. curia) : council, assembly
 
- L
-===
+= L =
+e Landstraße : כביש (בין כפרים), אוטוסטראדה
 langersehnt [adj.] : נחשק זה זמן רב
 e Last (pl. e) : עול
 lästerlich : blasphemous
@@ -823,9 +848,10 @@ lockern : to become loose, to relax, to release
   - sich lockern : to become loose
 lose : רפוי
 r Löwe : אריה
+lustig
+  sich über j-n lustig machen : to make fun of s.o.
 
- M
-===
+= M =
 e Marotte (pl. -n) : whim
 r Märtyrer : קדוש מעונה
 e Märtyrerin : קדושה מעונה
@@ -849,17 +875,17 @@ e Mitsprache : אמירה (במובן של: הזכות או הסמכות לומ�
 r Mittelpunkt (pl. -e) : מרכז, נקודת אמצע, נקודה מרכזית
 mít|tragen, trug mit, hat mitgetragen [vt.] : לתמוך ב־, להצטרף ל־, לעזור לשאת
 mitunter : לפעמים, מדי פעם, מפעם לפעם
+e Mobilmachung : גיוס
 mufflig : grumpy
 muhen : לגעות, לעשות מוּ
   - Die kuh muht.
 munter : lively, cheerful, jolly
-r Mu	skel : muscle
-muskulär : muscular
-muskulös : muscular
+r Muskel : שריר
+muskulär : שרירי
+muskulös : שרירי
 r Mut : אומץ
 
- N
-===
+= N =
 nách|geben + Dat. : להיכנע (ליצר), לוותר (בעקבות לחץ)
 s Nachhinein : דיעבד
   - im Nachhinein : בדיעבד
@@ -871,6 +897,7 @@ e Nachtigall : זמיר
   - Die Nachtigall schlägt. : הזמיר מצייץ
 nách|trauern, trauerte nach, nachgetrauert
   - + Dat. : להתאבל על, להתחרט על
+r Nachweis
 e Nachwelt (pl. -en) : next generations
 r Nagel : ציפורן; מסמר
 e Nagelprobe : מבחן ליטמוס
@@ -898,19 +925,18 @@ nützen, nützte, hat genützt : להיות שימושי, להיות בעל־ש�
   - "Das nützt mir nichts!" : זה לא עוזר לי בשום דבר
 r Nutznießer : המוטב, הנהנה
 
- O, Ö
-======
+= O, Ö =
 r Ochse : שור
 offenbaren : to reveal, to disclose
   sich offenbaren : to manifest itself
 ohnehin [adv.] : כבר; בכל מקרה
 r Ohrendruck : ear pressure
-e Ölsardine (pl. -n): סרדינים בשמן
+e Ohrfeige (pl. -n) : סטירת לחי
+e Ölsardine (pl. -n) : סרדינים בשמן
   - wie die Ölsardinen : כמו סרדינים (על צפיפות)
 r Orkan (pl. -e)
 
- P
-===
+= P =
 Palmsonntag : Palm Sunday
 panisch : panic-fueled, freaked out
 parieren : to counter
@@ -921,6 +947,11 @@ r Piep : צפצוףr
 piepen : לצפצף
   - Die Maus piept.
 e Pose (pl. -n) : pose
+prall [adj.] : שופע, מלא, בולט; בוהק
+  - in der prallen Sonne : בשמש הבוהקת
+prall [adv.]
+  - prall gefüllt : מלא עד אפס מקום
+prallen : לבהוק
 r Pranger : pillory [`amud qalon]
   an den Pranger stellen
 e Pracht : פאר, הוד, הדר
@@ -929,17 +960,17 @@ e Predigt (pl. -e) : דרשה
 Preis : מחיר
   - um jeden Preis : בכל מחיר
 e Prellung : חבּורה, חבלה, מכה, חבטה
+r Proviant : צידה לדרך
+  - mit Proviant beliefern : לצייד
 prügeln + Akk. : להרביץ, להכות
   sich prügeln : ללכת מכות
 r Pulverdampf : עשן יריה
 
- Q
-===
+= Q =
 quaken, quakte, hat gequakt [vt.] : לגעגע
   - Die Ente quakt. : הברווז מגעגע
 
- R
-===
+= R =
 rammeln, rammelte, gerammelt
   - j-n rammeln : לזיין
   - gerammelt voll sein : להיות מלא עד אפס מקום
@@ -975,11 +1006,12 @@ r Rutsch
 rutschen, rutschte, gerutscht : להחליק
   - mir rutschte das Herz in die Hose : החליק לי הלב לתחתונים
 
- S
-===
+= S =
 r Säbel : סיף
 r Sachse, e Sachsin : סקסוני
 e Sackgasse (pl. -n) : דרך ללא מוצא
+r Saft : מיץ
+  - im eigenen Saft schmoren : להתבשל במיץ של עצמו
 s Sagen
   - das Sagen haben : להיות בעל הדעה, להיות בעל האמירה
 e Salve (pl. -n) : מטח אש
@@ -1071,6 +1103,7 @@ e Sternstunde (pl. -n) : רגע קסום, רגע גדול
 im Stich lassen : leave s.o. high and dry
 r Streich (pl. -e) : trick, prank, hoax, joke
 r Streit : argument, conflict, quarrel, conflict, fight
+e Streitmacht : כוח צבאי
 stürzen : ליפול
   - Ich rutschte auf nassem Laub aus und stürzte zu Boden.
   - Der Junge stürzte von einem Stuhl, aber er verletzte sich nicht.
@@ -1091,8 +1124,7 @@ e Stellungnahme : statement
 steuern : to regulate, to steer, to operate, to control, to manage
 r Streber : nerd, geek, overachiever
 
- T
-===
+= T =
 Tagelöhner : פועל־יום
 Tagelöhnerin : פועלת יום
 tagen, tagte, hat getagt : להיוועד, לקיים פגישה
@@ -1130,8 +1162,7 @@ trotzten + Dat. : to defy, to outdare, to brave, to affront
 r Truthahn : תרנגול הודו
   - Die Truthahn kollert.
 
- U, Ü
-======
+= U, Ü =
 e Übereinkunft : agreement, accord
 r Überfall : פשיטה, התקפה, שוד
 e Überflutung : הצפה
@@ -1143,6 +1174,7 @@ j-n überrumpeln : להפתיע, להערים על
 übertragen [adj.] : שנמסר
 überwinden, überwand, hat überwunden [vt.] : להתגבר על־
   - „Der Mensch ist Etwas, das überwunden werden soll.״ [Friedrich Nietzsche, Also sprach Zarathustra]
+umgekehrt : the other way round
 úm|gestalten, gestalte um, hat umgestaltet [vt.] : לשנות, לעשות טרנספורמציה, לארגן מחדש, לעצב מחדש
 úm|schwenken : לשנות צד
 úm|stimmen + Akk. : לשנות (דעה)
@@ -1153,6 +1185,8 @@ j-n überrumpeln : להפתיע, להערים על
 umzingeln, umzingelte, hat umzingelt
   - + Akk. : להקיף
 umzingelt : מוקף
+unausweichlich [adj.] : בלתי־נמנע
+unausweichlich [adv.] : באופן בלתי־נמנע
 uneins : מפולג, מפוצל, מחולק
 unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
@@ -1184,8 +1218,7 @@ e Urne (pl. -n) : כד, קנקן
 s Urteil (pl. -e) : judgment, sentence, decision
   das Urteil fällen : to pronounce a sentence, to render a judgment
 
- V
-===
+= V =
 vehement [adj.] : תקיף, החלטי, נחוש; זועם, רוגע
   - vehemente Kritik : ביקורת נוקבת
 veräppeln : to pull s.o.'s leg
@@ -1264,6 +1297,7 @@ verwerfen, verwarf, hat verworfen [vt.] : לדחות, לבטל, לסרב ל־
   - einen Vorschlag / eine Idee verwerfen : לדחות הצעה
   - Änderungen verwerfen : לבטל שינויים
 sich verwicklichen, verwirklichte sich, hat sich verwirklicht : להתממש, לבוא לידי מימוש, להתגשם
+s Vieh : בקר
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
 vierfach : מרובע, כפול־ארבע
@@ -1297,12 +1331,13 @@ e Vorwahl : area code, prefix
 e Vorwarnung : אזהרה מראש
 vórwiegend : עיקרי, ראשי, מוביל, בולט, מכריע
 
- W
-===
+= W =
 wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
 walzen, walzte, gewalzt
   - + Akk. : לגלגל
+s Wanken : התנודדות
+  - ins Wanken bringen : לטלטל
 wappnen : לחמש
   - sich gegen + Akk. wappnen : להתכונן נגד משהו
 r Weg (p. -e) : דרך
@@ -1333,11 +1368,12 @@ wortgewaltig [adj.] : חזק במילים, רהוט
 e Wucht : השפעה עוצמה; חתיך
   - mit voller Wucht : בכל הכוח
   - volle Wucht : מלא עזוז
+s Wunder (= pl.) : wonder, miracle, marvel
 sich wundern : to wonder, to be surprised
+e Wut : זעם
 Wutanfall : התקף זעם
 
- Z
-===
+= Z =
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 zerrinnen, zerrann, nat zerronnen : להתפוגג, להיעלם
   - zwischen den Fingern zerrinnen : לברוח בין האצבעות
@@ -1354,6 +1390,8 @@ ziehen, zog, hat gezogen
   - in + Akk. ziehen : לעבור ל(מקום)
   - an + Akk. ziehen : לעבור ל־
   - nach + [Ort] ziehen : לעבור למקום
+s Ziel (pl. -e)
+zielbewusst : מוכוון מטרה
 s Zölibát : פרישות
 züchtig [adj.] : צנוע, טהור, בתול, חסוד
 züchtigen, züchtigte, hat züchtigt : לייסר, להעניש, למשמע, להטיל משמעת
@@ -1403,14 +1441,3 @@ e Zwischenlandung : נחיתת ביניים
 zwitschern : לצפצף
   - Die Vögel zwitschern. : הציפורים מצפצפות
 
-Auswendig gerlernt
-==================
-
-anders(he)rum (adv.) : the other way round
-lustig
-  sich über j-n lustig machen : to make fun of s.o.
-r Nachweis
-umgekehrt : the other way round
-s Vieh : בקר
-s Wunder (= pl.) : wonder, miracle, marvel
-e Wut : זעם
