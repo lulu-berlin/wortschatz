@@ -513,6 +513,8 @@ sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
 s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
+r Fluss (pl. Flüsse) : נהר; זרם, זרימה
+  - in Fluss bringen : להביא לזרימה, לגרום למשהו לזרום
 flussaufwärts : במעלה הנהר
 etw. von j-m fordern : to demand s.th. from s.o., to require, to request
   Ersatz fordern : to claim compensation
@@ -686,6 +688,9 @@ heulen : לילל
   - Es ist zum heulen : זה גורם לבכות
   - Ich hätte heulen können. : הייתי יכול לבכות.
   - Heul nicht ständig! : די לילל כל הזמן!
+hin
+  - auf + [Akk.] + hin - ל־ (כמו: „לבקשתך״)
+  - „auf Ihren Vorschlag hin״
 auf etw. hinaús|laufen : to add up to s.th., to result in s.th.
   aufs Gleiche hinauslaufen : to amount to the same thing
   auf eins hinauslaufen : to amount to the same thing
@@ -787,7 +792,7 @@ e Kundgebung : demonstration, rally
 r Kuppelbau : מבנה עם כיפה
 e Kurie (Lat. curia) : council, assembly
 
- l
+ L
 ===
 langersehnt [adj.] : נחשק זה זמן רב
 e Last (pl. e) : עול
@@ -1137,6 +1142,7 @@ j-n überrumpeln : להפתיע, להערים על
 übertragen, übertrug, übertragen [vt.] : להעביר, למסור, לשדר
 übertragen [adj.] : שנמסר
 überwinden, überwand, hat überwunden [vt.] : להתגבר על־
+  - „Der Mensch ist Etwas, das überwunden werden soll.״ [Friedrich Nietzsche, Also sprach Zarathustra]
 úm|gestalten, gestalte um, hat umgestaltet [vt.] : לשנות, לעשות טרנספורמציה, לארגן מחדש, לעצב מחדש
 úm|schwenken : לשנות צד
 úm|stimmen + Akk. : לשנות (דעה)
