@@ -12,6 +12,8 @@ abhanden|kommen (+ Dat.) : ללכת לאיבוד, להיעלם
 áb|hängen, hing ab, hat abgehangen
   - von + [Dat.] abhängen : להיות תלוי ב‏־
   - j-n abhängen : להשאיר מאחור
+abhängig [adj.] : תלוי
+  - von + [Dat.] abhängig sein : להיות תלוי ב־
 s Abkommen : הסכם, עסקה, דיל
 r Ablass : discharge, indulgence
 j-n áb|ordnen : to delegate s.o.
@@ -27,6 +29,7 @@ e Abrede : undestanding
   - Reg dich ab! : תירגע!
 áb|ringen, rang ab, hat abgerungen : to force, to wring
   j-m abringen, etwas zu tun
+áb|schließen : להשלים
 áb|schrecken, schreckte ab, hat abgeschreckt : להרתיע
 áb|schütteln + Akk. : להיפטר מ־, להתנער מ־, להשתחרר מ־
 áb|setzen, setzte ab, hat abgesetzt
@@ -61,14 +64,19 @@ allesamt : כולם, כולם ביחד
   - wir allesamt : כולנו
 allgegenwärtig : שנמצא בכל מקום
 anders(he)rum (adv.) : the other way round
+án|fangen : להתחיל
 án|greifen, griff an, angegriffen [vt.] : לתקוף, להתקיף
 r Angreifer (= pl.) : תוקף
+án|sprechen, sprach an, hat angesprochen [vt.] : לפנות למישהו; להעלות נושא לדיון
 r Anstoß : דחף (לעשות משהו)
 án|stoßen : ליזום
-aúf|begehren : למרוד
+antworten : לענות
+aúf|begehren, begehrten auf : למרוד
+s Aufbegehren : מרד
 aufbegehrend : מרדני
 r Aufbruch : התפרצות, התעוררות, עזיבה
 e Aufbruchstimmung : אווירת עזיבה
+aúf|decken [vt.] : לזהות; לחשוף
 aúf|fallen : למשוך תשומת לב, להתבלט, להיות ראוי לציון
   - nicht auffallen : לא להתבלט
 auffallend : ראוי לציון
@@ -88,6 +96,8 @@ aúf|streben : לשאוף
 aufstrebend : שאפתן
 r Auftritt : appearance, entrance, performance
   das Geschirr abspülen
+aúf|wachen : להתעורר
+aúf|wachsen : לגדול
 althergebracht : מסורתי
 ändern, änderte, geändert : לשנות
   - sich ändern : להשתנות, להתגוון, להיות מגוון
@@ -180,7 +190,8 @@ aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, �
 etw. aús|geben : to issue, to spend, to expend, to dispense
   - Die Universität gibt Studentenausweise aus.
   - Ich will mein ganzes Geld für ein neues Auto ausgeben.
-auseinander|setzen
+auseinánder|halten [vt.] : להבחין, לשים לב להבדל
+auseinánder|setzen
   sich mit j-m auseinandersetzen : to argue with s.o., to deal with s.o.
   sich mit etw.[Dat.] auseinandersetzen : to grapple with, to deal with, to
     look into
@@ -204,6 +215,7 @@ s Ausmaß (pl. -e) : מידה, היקף, מימדים
   - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
 aús|rufen : to call out, to proclaim, to call for s.th.
 s Ausrufen : proclamation, cry, exclamation
+aús|ruhen : לנוח
 aús|scheren : לשנות מסלול, לסטות מן המסלול
 Ausschluss : חריג, יוצא דופן
 ausschließlich
@@ -229,9 +241,11 @@ r Bann : ban
 e Bagatelle (pl. -n) : trifle, small matter, trivial issue
 bändigen + Akk. : לאלף, לשלוטz
 r Bannstrahl : חרם, נידוי, קללה
+bauen : לבנות
 beabsichtigen + Akk. : להתכוון, לתכנן
 beargwöhnt : נחשד
   - beargwöhnt werden - זוכה ליחס חשדני
+bedecken : לכסות
 e Bedrängnis : מצוקה, צרה, יסורים
 beharren : to persevere, to persist
   auf etw.[Dat.] beharren : to insist on s.th.
@@ -242,16 +256,25 @@ begeistern : to inspire, to excite, to thrill, to faschinate, to wow
 begeistert: impressed
 j-n begnadigen : לחון
 e Begnadigung : חנינה
+begründen [vt.] : להצדיק; לכונן
+begrüßen, begrüßte, hat begrüßt [vt.] : לברך לשלום; להעריך, לראות במשהו שינוי מבורך
+  - Die Angestellten begrüßen die neue Strategie der Firma.
+behalten, behielt, hat behalten [vt.] : לשמור
 behaupten + Akk. : לקבוע, לאשר, לטעון
   - sich gegen j-n behaupten : להתייצב כנגד מישהו
 r Beichtvater : כומר מוודה
 beí|fügen, fügte bei, beigefügt : להוסיף למשהו
   - "Er hat mit seiner Bewerbung ein Paßbild beigefügt."
+béi|steuern [vt.] : לתרום
+  - Geld beisteuern : לתרום כסף
+besprechen, besprach, hat besprochen [vt.] : לדון ב־
+bestimmen, bestimmte, hat bestimmt [vt.] : לקבוע, להחליט, לזהות, להעריך
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
 etw.[Akk.] bekanntgeben : to announce s.th.
 s Bekenntnis (pl. -se) : מסדר (דתי)
-bekunden : to manifest
-  + Akk. : to evince sth.
+bekunden : לבטא, להראות
+  - Interesse bekunden : להראות עניין
+  - sein Beileid bekunden : לנחם (אבלים)
 bejahen + Akk. : להסכים, להשיב כן
 e Belagerung : מצור
 e Belastung : עול
@@ -269,25 +292,32 @@ j-n bescheißen : to cheat s.o., to swindle s.o.
 beschleunigen, beschleunigte, hat beschleunigt
   - + Akk. : להאיץ משהו, לזרז משהו
   - sich beschleunigen : להאיץ, להגביר את התאוצה, להזדרז
+beschreiben : לתאר
+beschuldigen, beschuldigte, hat beschuldigt [vt.] : להאשים
 j-n beschwichtigen : לפייס, להרגיע
+besiegen : להביס
+bestätigen : לאשר
+berücksichtigen : לשקול
 berufen + Akk. : למַנות
   - berufen (adj.) : ממונה, כשיר
   - berufen (adv.) : באופן כשיר, באופן קומפטנטי
-beseitigen + Akk. : להיפטר מ
-bestaunen + Akk : להתפלא, להתפעל
+beseitigen [vt.] : להיפטר מ
+bestaunen [vt.] : להתפלא, להתפעל
 betragen + Akk. : מונה, אורך, מגיע לכדי [להיות, אבל למידה]
   - Die Entferunung beträgt vier Meilen.
   - Die Telefonrechnung beträgt 50 Euro.
 betreiben : to operate, to conduct, to run
+sich betrinken : להשתכר
 e Beute : שלל, טרף, ביזה
   - Die Beute wegnehmen : לקחת את השלל
 bevor|stehen : להיות צפוי, אמור לקרות
 bewahren + Akk. : לשמר, לתחזק
 sich bewahrheiten : להתממש, להיות מוכח כנכון
-bewundern : to admire
+beweisen : להוכיח
+bewundern : להתפעל, להעריץ
 etw. beziffern : to estimate, to quantify
   sich auf etw.[Akk.] beziffern : to amount to
-etw.[Akk.] bezweifeln : to doubt s.th.
+bezweifeln [vt.] : להטיל ספק ב־
 Bildungshungrig [adj.] : צמא לחינוך
 s Bindeglied (pl. -er) : מחבר
 binnen + Gen. : תוך ... בתוך ... (זמן)
@@ -319,6 +349,7 @@ dagegenhalten : לטעון כנגד
 dauerhaft : ארוך־טווח, קבוע, מתמשך
 e Deckung : coverage, backing
 r Degen : פגיון
+dekorieren : לקשט
 s Dekret : צו
 dementieren : to disclaim, to repudiate, to deny s.th.
 demotivieren : לרפות את ידיו של מישהו, לפגוע במוטיבציה
@@ -338,7 +369,7 @@ dran
   alles Drum und Dran : the works
 r Drang (pl. Dränge) : דחף
 drauf
-  gut drauf sein : to be in a good mood
+  gut drauf sein : להיות במצברוח טוב
   ziellos drauf los : all over the place
   ich pfeif drauf : I don't give a damn about it
   Scheiß drauf : don't give a shit
@@ -347,19 +378,20 @@ dreist : חצוף, חסר בושה, נמהר
 r Drill : תרגיל צבאי, אימון
 drillen
 drüben
-  da/dort drüben : over there
-  hüben und drüben : on both sides
+  - da/dort drüben : over there
+  - hüben und drüben : on both sides
 drucken : to print
 dúrch|brechen : to break through, to disrupt
 r Durchbruch : פריצת דרך; שבר, סדק
 durcheinander : messy
 dúrch|fallen : to flunk
-  in etw.[Dat.] durchfallen : to fail at s.th.
-  bei einer Prüfung durchfalen : to fail an exam
+  - in etw.[Dat.] durchfallen : to fail at s.th.
+  - bei einer Prüfung durchfalen : to fail an exam
+dúrch|führen, führte durch, hat durchgeführt [vt.] : להוציא לפועל
 etw. dúrch|setzen : to enforce, to push through, to achieve
   - Die Polizei wird die neue Vorschrift durchsetzen.
-  - Trotz der Proteste der Angestellten setzte die Geschäftsleitung die
-    Änderungen durch.
+  - Trotz der Proteste der Angestellten setzte die Geschäftsleitung die Änderungen durch.
+sich duschen : להתקלח
 düster : עגום, קודר
 
 = E =
@@ -379,20 +411,22 @@ eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
 eingedenk + [Gen.] [präp.] : מתוך שימת לב ל־, בשום לב ל־
 eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
-  eingeweiht sein : to be in the loop
-  in etw.[Akk.] eingeweiht sein : to be privy to s.th.
+  - eingeweiht sein : to be in the loop
+  - in etw.[Akk.] eingeweiht sein : to be privy to s.th.
   - Ich bin in die Pläne des Präsident nicht eingeweiht.
 Einhalt
-  etw.[Dat.] Einhalt gebieten : to put an end to s.th.
+  - etw.[Dat.] Einhalt gebieten : to put an end to s.th.
 etw.[Akk.] eín|lenken : to give in, to steer, to back down
-  in etw.[Akk.] einlenken : to turn into s.th.
+  - in etw.[Akk.] einlenken : to turn into s.th.
+eín|ordnen : to classify
 r Einschnitt (pl. -e) : חתך
 einseitig [adj.] : חד־צדדי, מוטה
 einseitig [adv.] : באופן חד־צדדי, באופן מוטה
+eín|stellen : להעסיק, למנות, לשכור את שירותיו של מישהו
 etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
   - Der Techniker richtete die Website innerhalb einer Woche ein.
-  - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit
-    eingerichtet.
+  - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit eingerichtet.
+eín|schlafen, schlief ein, ist eingeschlafen [vi.] : להירדם
 einseitig : חד־צדדי, מוטה
 eín|treffen : להגיע
 sich[Dat.] [Akk.] eín|verleiben : לכלול, לשלב, לעשות אסימילציה
@@ -400,6 +434,7 @@ e Einverleibung (pl. -n) : אסימילציה
 eín|willigen : להסכם, לתת הסכמה
 e Einwilligung : הסכמה
 r [~ s] Elter (pl. -n) : הורה
+empfehlen, empfahl, hat empfohlen [vt.] : להמליץ על־
 empor : למעלה
 empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
@@ -408,21 +443,27 @@ endgültig [adj.] : סופי, מוחלט
 endgültig [adv.] : סוף סוף, באופן מוחלט, באופן סופי, לגמרי, לחלוטין
   - [Akk.] endgültig festlegen : להביא לידי סיום, להשלים
   - endgültig festgelegt : מתוקן באופן סופי
+entdecken : לגלות
 entgehen + Dat. : לחמוק מ‏־
 entladen : לפרק
 s Entladen : פריקה
 entladen [adj.] : פרוק
+entscheiden : להחליט
+entschuldigen [vt.] : לסלוח, למחול
+  - sich entschuldigen : להתנצל
 entsenden : לשגר, לשלח, לשלוח
 entsetzen, entsetze, hat entsetzt [vt.] : להחריד, לזעזע
 s Entsetzen : זעזוע
   - blankes Entsetzen : זעזוע מוחלט
   - voller Entsetzen : מזועזע
   - sprachlos vor Entsetzen : מזועזע עד אין מילים
+entwickeln : לפתח
 erschallen, erschallte, erschallt : להשמיע קול/צליל
 erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
   - erstere ... letztere ... 
 s Emporkommen : עליה, שגשוג, נסיקה
 r Emporkömmling (pl. -e) : שאפתן, נובוריש
+essen : לאכול
 etw.[Akk.] entfachen : to ignite, to arouse, to spark
   ein Feuer entfachen
   Wut entfachen
@@ -494,6 +535,7 @@ e Ernennung : מינוי
 e Ernte (pl. -n) : יבול, בציר
 erringen, errang, errungen : להשיג, להרוויח, לזכות
 e Errungenschaft : הישג
+erschaffen : ליצור
 erschallen, erschallte, erschallt : להשמיע צליל
 erschöpfen : to exhaust, to wear out
 ersehnt : נכסף
@@ -501,7 +543,9 @@ e Erstarrung : התקבעות, התגבשות
 j-n erstechen : to stab s.o.
 r Ersthelfer (= pl.), e Ersthelferin
 erstreiten : לזכות ב־
-j-n ertappen : to catch s.o. out, to find s.o. out, to catch s.o. red-handed
+j-n ertappen : לתפוס מישהו בשעת מעשה
+  - Lass dich nicht ertappen! : תיזהר לא להיתפס!
+  - sich bei + [Dat.] ertappen : לתפוס את עצמו (עושה משהו)
 erwachen, erwachte, erwacht : לעורר, להקים
 s Erwachen : התעוררות
 erweichen : לרכך
@@ -522,11 +566,14 @@ erzwingen, erzawng, hat erzwungen [vt.] : להכריח (דבר), להכריח ש
 
 = F =
 r Fahnder (= pl.), e Fahnderin : investigator
+fahren : לנהוג, לנסוע
 r Fahrkartenschalter : ticket office, ticket counter
-fallen, fiel, gefallen
+fallen, fiel, ist gefallen [vt.] : ליפול
   - mir fiel das Herz in die Hose : נפל לי הלב לתחתונים
+  - fallen lassen : להפיל
 fällen : to fell
   ein Urteil fällen : to pronounce a sentence, to render a judgment
+fállen|lassen, ließ fallen, fallengelassen [vt.] : להפיל
 fassen, fasste, hat gefasst : להחזיק, לתפוס
   - etwas in Worte fassen : לשים במילים, לבטא במילים
   - nicht zu fassen : אין לתאר, לא יעלה על הדעת
@@ -543,6 +590,8 @@ fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
   - vertraglich festlegen : לקבוע בחוזה
   - auf + [Akk.] sich festlegen : להתחייב על
   - sich nicht festlegen wollen : לא להתחייב, לא לרצות להתחייב
+fést|stellen, stellte fest, hat festgestellt [vt.] : לזהות, לגלות; לתפוש, להבין פתאום, לשים לב
+  - Während des Gesprächs stellen wir fest, dass wir aus derselben Stadt waren. : במהלך השיחה תפשנו שאנחנו מאותה עיר.
 sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
@@ -566,6 +615,7 @@ e Förderung : promotion, support, funding, advancement, grant, encouragement
   - Wir sollten für das Forschungsprojekt eine Förderung beantragen.
   staatliche Förderung : state incentives
 fortan : מעתה ואילך,מכאן ואילך
+fórt|fahren, fuhr fort, fortgefahren : להמשיך
 fortgeschritten [adj.] : מתקדם
 fortgeschritten [adv.] : באופן מתקדם, באופן מתוחכם
 fórt|schreiten, schritt fort, ist fortgeschritten : להתקדם
@@ -573,7 +623,9 @@ r Fortschritt (pl. -e) : התקדמות
 e Freiheit
   sich die Freiheit herausnehmen : to take the liberty
   sich die Freiheit nehmen : to take the liberty
+frieren : לקפוא
 e Fronarbeit : עבודת פרך
+frühstücken, frühstückte, hat gefrühstückt : לאכול ארוחת בוקר
 führen, führte, hat geführt [vt.] : להוביל, לקחת ל־, להדריך, לנהל
   - dieser Weg führt nach ...
 e Führung : management, leadership
@@ -598,6 +650,7 @@ e Gans (pl. Gänse) : אווז
   - Die Gans schnattert. : האווז מגעגע
 geächtet : outlaw(ed)
 sich gebärden : to behave (like / as / ...)
+geben, gab, hat gegeben [vt.] : לתת
 e Geburt (pl. -en) : לידה
 r Geburtshelfer, e Geburtshelferin : מיילד/ת
 j-m etw. gebieten : to command, to demand
@@ -629,6 +682,7 @@ gemäßigt : מתון, מיושב, שקול, ממוצע
 S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
+genießen : ליהנות
 Genugtuung : סיפוק
 e Geschäftsordnung : standing orders, regulations, terms and conditions
 gerammelt
@@ -643,6 +697,7 @@ gesinnt : בעל עמדה/כוונה, מוכוון
   - fortschrittlich gesinnt : מוכוון קידמה
 e Gesinnung : עמדה, מצב, אתוס, רגש
 gesinnungstreu [adj.] : נאמן
+gestehen : להודות
 getrieben : driven, pushed
 gewähren : to concede, to confer, to impart
   j-m etw. gewähren : to grant s.th. to s.o., to award
@@ -655,6 +710,7 @@ s Gewerbe : אומנות, משלח יד
 e Gewissheit : בטחון, ודאות
 s Gewölbe : vault
 r Glanz : ברק
+glauben : להאמין
 gleich [adj.] : אותו (ה־), זהה, דומה
   - zur gleichen Zeit : באותו זמן
 gleichzeitig [adv.] : באותו זמן
@@ -695,6 +751,7 @@ halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
 vor nichts haltmachen : to stop at nothing
 s Handwerk : משלח‏־יד
+hängen : לתלות
 Häuserschlucht
 s Heer (pl. -e) : צבא
 Heimkehr : שיבה, שיבה הביתה
@@ -808,6 +865,7 @@ e Jugendherberge : youth hostel
 kannibalisch [adj.] : קניבאלי
 kannibalisch [adv.] : באופן קניבאלי
 karg : דליל
+kaufen : לקנות
 r Keil (pl. -e) : טריז
 r Kerker (= pl.) : צינוק
 e Kernfrage : השאלה המרכזית, העניין העיקרי
@@ -826,11 +884,14 @@ r Kragen (= pl.) : collar
   j-m an den Kragen wollen : to act against, to attack, to eradicate
   es geht j-m an den Kragen : to have something done against s.o.
 Knallbunt [ugs.] : בצבעים חזקים, בצבעים עליזים
+kochen : לבשל
 r Kollaps : קריסה
   - plötzlicher Kollaps : קריסה פתאומית
 kollern : להשמיע קול כמו תרנגול הודו
   - Der Truthahn kollert.
 r Kontrahent : יריב
+kopieren : להעתיק, לצלם (מסמכים)
+kosten : לעלות (כסף)
 e Kostprobe (pl. -n) : דגימה
 krepieren : למות
 e Kriegslist : תחבולות מלחמה
@@ -853,6 +914,7 @@ lästig : annoying, troublesome, irksome
 lauschen : to eavesdrop
 s Lauschen : האזנה בחשאי - eavesdropping
 s Lederwams : מעיל עור
+legen : להניח
 e Leitfigur : דמות מובילה, דמות מרכזית
 e Lektion : שיעור
   - j-m eine Lektion sein : ללמד מישהו שיעור
@@ -872,7 +934,8 @@ e List (pl. -en) : עורמה
 locker : casual, easy, loose, lax
 lockern : to become loose, to relax, to release
   - sich lockern : to become loose
-lose : רפוי
+lose : רָפוּי
+lós|lassen, ließ los, hat losgelassen [vt.] : לשחרר, להרפות, לעזוב
 r Lotse : טייס
 lotsen : להטיס (מטוס)
 r Löwe : אריה
@@ -911,6 +974,7 @@ mufflig : grumpy
 muhen : לגעות, לעשות מוּ
   - Die kuh muht.
 munter : lively, cheerful, jolly
+müssen, musste, gemusst : להיות צריך, להצטרך
 r Muskel : שריר
 muskulär : שרירי
 muskulös : שרירי
@@ -944,8 +1008,8 @@ e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
 e Niederlage (pl. -n) : defeat
 níeder|ringen, rang nieder, niedergerungen : לבלות (לגרום לבלייה), להתאבק עם מישהו
-níeder|schlagen, schlug nieder bin/hat niedergeschlagen
-  - [Akk.] niederschlagen : להביס, לדכא, להכניע
+níeder|schlagen, schlug nieder bin/hat niedergeschlagen :
+  - [Akk.] niederschlagen : להביס, לדכא, להכניע, למוטט
   - in + [Akk.] sich niederschlagen : לבוא לידי ביטוי ב־
 nimmermehr : לעולם לא עוד, שוב לא
 nörgeln [ugs.] : לרטון, להתלונן
@@ -980,7 +1044,9 @@ e Pest : מגיפה
 r Piep : צפצוףr
 piepen : לצפצף
   - Die Maus piept.
-e Pose (pl. -n) : pose
+planen, plante, hat geplant [vt.] : לתכנן
+e Pose (pl. -n) : פוזה
+posieren : לדגמן, לעמוד לפני צייר
 prall [adj.] : שופע, מלא, בולט; בוהק
   - in der prallen Sonne : בשמש הבוהקת
 prall [adv.]
@@ -996,6 +1062,7 @@ Preis : מחיר
 e Prellung : חבּורה, חבלה, מכה, חבטה
 r Proviant : צידה לדרך
   - mit Proviant beliefern : לצייד
+prüfen : לבדוק
 prügeln + Akk. : להרביץ, להכות
   sich prügeln : ללכת מכות
 r Pulverdampf : עשן יריה
@@ -1026,10 +1093,13 @@ reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
 relaxen, relaxte, relaxt : להירגע, להרגיע
+rennen : לרוץ
 riskant [adj.] : מסוכן
   - riskant spielen : להמר, לשחק באופן מסוכן
 riskieren + Akk. : לסכן, לקחת סיכון, להסתכן ב־
 r Rivale : יריב
+rückgängig : נסיגתי, שנסוג לאחור
+  - rückgängig machen : להשיב את הנעשה, להחזיר לקדמותו
 Rückhol- : return ...
   Rückholsendung : return shipment
 e Rückholung : retrieval
@@ -1046,6 +1116,7 @@ r Sachse, e Sachsin : סקסוני
 e Sackgasse (pl. -n) : דרך ללא מוצא
 r Saft : מיץ
   - im eigenen Saft schmoren : להתבשל במיץ של עצמו
+sagen, sagte, hat gesagt : להגיד
 s Sagen
   - das Sagen haben : להיות בעל הדעה, להיות בעל האמירה
 e Salve (pl. -n) : מטח אש
@@ -1074,10 +1145,16 @@ s Scheusal : זומבי, מפלצת
 schicken, schickte, geschickt 
   - j-m [Akk.] schicken : לשלוח משהו למישהו
 schief : נוטה לצד אחד, עקום
+schießen [vt.] : לירות (משהו)
 e Schießerei (pl. -en)
+schlafen, schlief, hat geschlafen [vi.] : לישון
+  - mit j-m schlafen : לשכב עם מישהו
 schläfrig : עייף, מותש
+schmelzen (schmilzt), schmolz, ist geschmolzen [vi.] : להימס
+schmelzen (schmilzt), schmolz, hat geschmolzen [vt.] : להמיס
 schnattern : לגעגע (כמו אווז)
   - Die Gans schnattert. : האווז מגעגע
+schneiden : לחתוך
 schnöde [adj.] : מלא בוז
 r Schrank (pl. Schränke) : ארון
 e Schranke (pl. -n) : גבול, שער
@@ -1089,12 +1166,17 @@ schrittweise [adj.] : רציף, עוקב; בשלבים
   - schrittweise Erweiterung : הרחבה מדורגת
   - schrittweise Umstellung : מעבר הדרגתי
 schrittweise [adv.] : בהדרגה, לאט לאט, צעד אחרי צעד
-r Schlagabtausch (um + Akk.) : exchange of blows
+r Schlagabtausch (um + Akk.) : חילופי מהלומות; חילופי דברים קשים
 r Schöngeist : אסתטיקן, בעל טעם, אנין
-e Schubkarre (pl. -n) : barrow, pushcart
+e Schubkarre (pl. -n) : מריצה
 e Schufterei : עבודת פרך
-e Schusslinie (pl. -n) : fireline
-e Schusswaffe (pl. -n)
+schuldig [adj.] : אשם
+  - schuldig sein : להיות אשם
+  - eines Verbrechens schuldig : פושע, אשם בפשע
+  - für schuldig erklärt : מואשם
+  - niemandem Rechenschaft schuldig : שאינו נותן דין וחשבון
+e Schusslinie (pl. -n) : קו האש
+e Schusswaffe (pl. -n) : נשק חם
 r Schwachkopf (pl. Schwachköpfe) : אידיוט, חסר־מוח
 r Schwachsinn (~pl.) : טיפשות, דביליות
 e Schwalbe : סנונית
@@ -1125,8 +1207,11 @@ sinken, sank, gesunken
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
 r Sold (pl. e) : פרס, גמול, שילום
+r Spaß : כיף
+  - Spaß haben : לעשות חיים, ליהנות, לכייף
 r Spatz : דרור, אנקור
   - Der Spatz piept. : הדרור מצייץ.
+spazíeren|gehen, ging spazieren, ist spazierengegangen : ללכת לטיול, ללכת לטייל
 r Spurt : ספרינט
 r Staatsdienst : השירות הציבורי
 r Staatsdiener : שליח ציבור, משרת ציבור
@@ -1134,6 +1219,7 @@ standhaft : נחוש
 e Stange (pl. -n) : מוט
   - vor der Stange : מוכן מראש, רדימייד
   - bei der Stange bleiben : להתמיד, להישאר עם זה
+starten : להתחיל
 e Sternstunde (pl. -n) : רגע קסום, רגע גדול
 im Stich lassen : leave s.o. high and dry
 r Streich (pl. -e) : trick, prank, hoax, joke
@@ -1172,6 +1258,7 @@ taugen, taugte, getaugt : להתאים, לענות ל(צורך)
 tauglich : ראוי, מתאים
 tappen : to grope
   im Dunkeln tappen : to be in the dark
+teilen : לחלק, לחלוק
 teilweise : partial(ly), partly, to some extent
 f teilZeit : משרה חלקית
 Teilzeit-Professor
@@ -1181,6 +1268,7 @@ tilgen + Akk. : לפדות, להחזיר חוב
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
 todbereit
 r Trauring : טבעת נישואים
+treffen : לפגוש
 r Treuhänder (= pl.) : אפוטרופוס, נאמן
 e Treuhänderin (pl. -nen) : אפוטרופוסית, נאמנה
 trillern : לעשות טריל, לסלסל
@@ -1199,11 +1287,13 @@ r Truthahn : תרנגול הודו
 
 = U, Ü =
 e Übereinkunft : agreement, accord
+übereinstimmen : להתאים
 r Überfall : פשיטה, התקפה, שוד
 e Überflutung : הצפה
 überhäufen : להמטיר (במתנות), להרעיף
 e Überlegenheit : עליונות, שליטה
 übernehmen, übernahm, hat übernommen [vt.] : לקבל/לקחת (אחריות; הצעה)
+überzeugen : לשכנע
 to assume (responsibity/liability), to take (an offer)
 j-n überrumpeln : להפתיע, להערים על
 übertragen, übertrug, übertragen [vt.] : להעביר, למסור, לשדר
@@ -1219,6 +1309,7 @@ umgekehrt : the other way round
 úm|stimmen + Akk. : לשנות (דעה)
 r Umsturz : הפיכה
 úm|wälzen, wälzte um, umgewälzt : למחזר, להחליף במשהו חדש, to revolutionize
+úm|wandeln : להמיר
 úm|ziehen, zog um, ist umgezogen : לעבור מקום, להגר
   - sich umziehen : להחליף בגדים
   - j-n umziehen : להחליף למישהו בגדים
@@ -1237,6 +1328,9 @@ ungenutzt : לא בשימוש, במצב סרק
 e Ungnade : חרפה, בושה
 Unkosten (pl.) : הוצאות
   - Unkosten decken : to break even
+unterscheiden [vt.] : להבחין
+  - sich unterscheiden : להיבדל, להיות מובחן, להיות שונה
+  - nicht zu unterscheiden : שאין להבחין בו
 unschlüssig : הססני, שלא הוסכם לגביו
 Unsitte : הרגל מגונה
 e Untat : פשע
@@ -1261,11 +1355,16 @@ s Urteil (pl. -e) : judgment, sentence, decision
 = V =
 vehement [adj.] : תקיף, החלטי, נחוש; זועם, רוגע
   - vehemente Kritik : ביקורת נוקבת
+sich verabschieden : להיפרד לשלום
 veräppeln : to pull s.o.'s leg
 e Verarmung : התרוששות
 e Verarmungskrise : משבר התרוששות
 j-n verarschen : to kid s.o., to take s.o. for a ride
 r Verband (pl. Verbände) : אגודה, ארגון
+verbessern : לשפר; לתקן
+  - die Sprachkenntnisse verbessern
+  - die Bildqualität verbessern
+  - der Lehrer verbesserte den Fehler des Schülers
 verblassen - לדהות
 verbannen : להחרים, להגלות
 verbannt : מוחרם
@@ -1277,6 +1376,7 @@ vereinen, vereinte, hat vereint [vt.] : לשלב, למזג, לאחד
   - [Akk.] mit + [Dat.] vereinen : לשלב משהו עם משהו
   - Kräfte vereinen : לשלב כוחות
   - sich vereinen : להתאחד
+verfassen : לחבר
 verfechten, verfocht, verfochten : להגן, לגונן
 r Verfechter, e Verfechterin : תומך, חסיד (של רעיון)
 verfinstern : להחשיך
@@ -1290,7 +1390,9 @@ vergebens : לשווא, ללא הועיל
 vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזבז
 vergelten : לגמול, להשיב
 vergilbt : שנעשה צהוב
+vergleichen : להשוות
 e Verhaftung : מעצר
+verhalten : להתנהג
 s Verhältnis (pl. -se) : יחס, קשר, מידה
   - die bestehende Verhältnisse - התנאים הקיימים, החוקים הקיימים
   - ausgewogenes Verhältnis - מידה מאוזנת
@@ -1310,6 +1412,7 @@ versammelt : assembled, convened
 verschaffen : to provide
   sich[Dat.] etw. verschaffen : to gain, to wrangle
 e Verschärfung : aggravation, worsening
+verschlimmern : להרע, להחמיר
 verschmutzt : messy
 verschüsseln : to encrypt
 verschlingen : to engulf, to swamp
@@ -1336,7 +1439,13 @@ r Verstoß : הפרה
 verstreichen + Akk. : לחלוף (זמן), לפוג
 e Verstümmelung : הטלת מום
 verstummen : להשתתק, להיעשות שקט
+verteidigen : להגן
+verteilen [vt.] : לחלק, להפיץ
 vertreten, vertrat, vertreten : לייצג, לשמש כממלא מקום, להחליף
+vertrauen : לסמוך, לתת אמון
+verurteilen : לגנות; לגזור (מאסר)
+verurteilt [adj.] : נידון
+  - zum Scheitern verurteilt sein : להיות נידון לכשלון
 verwerfen, verwarf, hat verworfen [vt.] : לדחות, לבטל, לסרב ל־
   - einen Vorschlag / eine Idee verwerfen : לדחות הצעה
   - Änderungen verwerfen : לבטל שינויים
@@ -1376,6 +1485,7 @@ e Vorwarnung : אזהרה מראש
 vórwiegend : עיקרי, ראשי, מוביל, בולט, מכריע
 
 = W =
+wählen [vt.] : לבחור
 wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
 walzen, walzte, gewalzt
@@ -1396,9 +1506,12 @@ wenden, wendete, gewendet
   - sich an j-n wenden : לפנות למישהו
   - sich gegen j-n wenden : לצאת כנגד מישהו
 r Werdegang : קריירה, סיפור חיים
+werden : להפוך ל־, להיעשות
 wesentlich : בסיסי, מהותי, חשוב, עיקרי
 r Widerpart : יריב
+widersprechen : לסתור
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
+widmen : להקדיש
 e Wiederaufnahme : חידוש
   - schnelle Wiederaufnahme : חידוש מהיר
   - Wiederaufnahme der Verhandlungen : חידוש המשא ומתן
@@ -1416,10 +1529,15 @@ e Wucht : השפעה עוצמה; חתיך
   - volle Wucht : מלא עזוז
 s Wunder (= pl.) : wonder, miracle, marvel
 sich wundern : to wonder, to be surprised
+wünschen : לאחל
+  - j-m [Akk.] wünschen : לאחל משהו למישהו
+  - sich[Dat.] [Akk.] wünschen : לרצות, לחפוץ במשהו, להיכסף למשהו
 e Wut : זעם
 Wutanfall : התקף זעם
 
 = Z =
+zählen : לספור, למנות
+zeichnen : לצייר
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 zerrinnen, zerrann, nat zerronnen : להתפוגג, להיעלם
   - zwischen den Fingern zerrinnen : לברוח בין האצבעות
@@ -1430,6 +1548,7 @@ zerschlagen (zerschlägt), zerschlug, hat zerschlagen : למחוץ, לשבור �
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
 e Zersplitterung : פיצול, פלגנות
+zerstören : להרוס
 zerstückeln, zerstückelte, zerstückelt : לחתוך לחתיכות, לפרק לחתיכות
 zeugungsfähig : שיש לו יכולת הולדה, בעל און
 ziehen, zog, hat gezogen
@@ -1465,6 +1584,7 @@ s Zunft (pl. Zünfte) : גילדה
 zurécht|kommen
   gut zurechtkommen
 zurück|drängen + Akk. : להסיג, לגרום לאויב לסגת
+zurück|geben, gab zurück, hat zurückgegeben [vt.] : להחזיר
 zurück|halten, hielt zurück, zurückgehalten : להימנע, לנהוג במתינות
   - sich zurückhalten : להימנע
 s Zurückhalten : מתינות
