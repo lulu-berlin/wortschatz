@@ -96,6 +96,7 @@ r Anstoß : דחף (לעשות משהו)
 antworten : לענות
 án|ziehen : למשוך
 applaudieren : למחוא כפיים, לשבח
+arrogant [adj.] : יהיר
 aúf|begehren, begehrten auf : למרוד
 s Aufbegehren : מרד
 aufbegehrend : מרדני
@@ -108,12 +109,16 @@ auffallend : ראוי לציון
 auffällig : conspicuous, apparent
   auffällig werden : become apparent
   Auffällig ist: ...
+aufgeblasen [adj.] [ugs.] : מלא מעצמו
 aúf|halten : לעצור, לעכב, למנוע
 aúf|lösen, löste auf, hat aufgelöst [vt.] : למוסס; לפתור; לבטל
   - den Vertrag auflösen : להפסיק את החוזה
   - sich auflösen : להתפזר (לכל עבר), להתפוגג
   - sich in Luft auflösen : להתפוגג באוויר
 aufmüpfig [adj.] : מרדני
+aufrecht [adj.] : זקוף, ישר, מאונך
+aúfrecht|erhalten, erhielt aufrecht, hat aufrechterhalten [vt.] : לשמר, לתחזק, להחזיק (בחיים), לגרום שיימשך
+  - den Kontakt aufrechterhalten : להישאר בקשר
 aúf|regen, regte auf, hat aufgeregt [vt.] :  לרגש; להתסיס, לעצבן, להציק
   - sich aufregen : להתרגש; להיות מודאג
   - sich unnötig aufregen : לדאוג בלי סיבה
@@ -268,7 +273,7 @@ auswendig : בעל־פה
 
 = B =
 backen : לאפות
-s Bad
+s Bad : בית־שימוש; אמבטיה; מרחצה
   - ein Bad nehmen : להתרחץ
 baden : לרחוץ
   - sich baden : להתרחץ
@@ -289,12 +294,12 @@ e Bedeutung : משמעות
 e Bedrängnis : מצוקה, צרה, יסורים
 sich beeilen : להזדרז
 beeindrucken [vt.] : להרשים
-  - leicht zu beeindrucken : שקל להרשימו
+  - leicht zu beeindrucken : נוח להרשים, אשר ניתן להרשימו בנקל
   - nicht zu beeindrucken : שלא ניתן להרשימו
   - tief beeindrucken : להרשים עמוקות
 r Befehl (pl. -e) : פקודה
 befehlen (befiehlt), befahl, hat befohlen [vt.] : לפקוד, להורות, לתת פקודה, לתת הוראה
-befragen : לראיין
+befragen, befragte, hat befragt [vt.] : לראיין
 befremdlich : strange, odd
 beglaubigen : לאשר (מסמך), להעיד על אותנטיות
 beharren : להתמיד, להתעקש
@@ -356,6 +361,8 @@ j-n beschwichtigen : לפייס, להרגיע
 beseitigen [vt.] : להיפטר מ
 besiegen : להביס
 besprechen, besprach, hat besprochen [vt.] : לדון ב־
+besser : יותר טוב
+  - besser werden : להרגיש טוב יותר, להחלים (ממחלה)
 bestätigen : לאשר
 bestaunen [vt.] : להתפלא, להתפעל
 bestimmen, bestimmte, hat bestimmt [vt.] : לקבוע, להחליט, לזהות, להעריך
@@ -448,6 +455,7 @@ drüben
 drucken : להדפיס
 s Drucken : דפוס
 drücken : ללחוץ, לדחוף
+dünkelhaft [adj.] : יהיר, מלא חשיבות עצמית
 dúrch|brechen : to break through, to disrupt
 r Durchbruch : פריצת דרך; שבר, סדק
 durcheinander : messy
@@ -478,6 +486,8 @@ eín|dämmern : להירדם, לשקוע בשינה
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
 eín|führen : להציג, להפגיש, לערוך היכרות
+eingebildet [adj.] : יהיר, רברבן
+  - eingebildet sein : להתייהר
 eingedenk + [Gen.] [präp.] : מתוך שימת לב ל־, בשום לב ל־
 eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
   - eingeweiht sein : to be in the loop
@@ -510,6 +520,7 @@ sich[Dat.] [Akk.] eín|verleiben : לכלול, לשלב, לעשות אסימיל
 e Einverleibung (pl. -n) : אסימילציה
 eín|willigen : להסכם, לתת הסכמה
 e Einwilligung : הסכמה
+eitel [adj.] : גאותן, שחצן; מלא מעצמו
 r [~ s] Elter (pl. -n) : הורה
 empfehlen, empfahl, hat empfohlen [vt.] : להמליץ על־
 empor : למעלה
@@ -537,7 +548,7 @@ s Entsetzen : זעזוע
   - voller Entsetzen : מזועזע
   - sprachlos vor Entsetzen : מזועזע עד אין מילים
 entwickeln : לפתח
-erreichen : להגיע
+erreichen : להגיע; להשיג
 erschallen, erschallte, erschallt : להשמיע קול/צליל
 erscheinen : להופיע
 erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
@@ -634,6 +645,7 @@ j-n ertappen : לתפוס מישהו בשעת מעשה
   - sich bei + [Dat.] ertappen : לתפוס את עצמו (עושה משהו)
 erwachen, erwachte, erwacht : לעורר, להקים
 s Erwachen : התעוררות
+erwähnen : להזכיר, לציין
 erweichen : לרכך
 erweisen, erwies, erwiesen
   - j-m [Akk.] erweisen : להראות למישהו משהו
@@ -689,6 +701,7 @@ e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
 fliehen : לברוח
 flirten : לפלרטט
+fluchen : לקלל
 s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
 r Fluss (pl. Flüsse) : נהר; זרם, זרימה
   - in Fluss bringen : להביא לזרימה, לגרום למשהו לזרום
@@ -980,6 +993,7 @@ jucken + Akk. : לגרד
 e Jugendherberge : youth hostel
 
 = K =
+kämpfen : להילחם, להיאבק
 kannibalisch [adj.] : קניבאלי
 kannibalisch [adv.] : באופן קניבאלי
 karg : דליל
@@ -1067,11 +1081,14 @@ lós|lassen, ließ los, hat losgelassen [vt.] : לשחרר, להרפות, לעז
 r Lotse : טייס
 lotsen : להטיס (מטוס)
 r Löwe : אריה
+e Lüge : שקר
+lügen : לשקר
 lustig
   - sich über j-n lustig machen : לצחוק על מישהו
 
 = M =
 machen, machte, hat gemacht [vt.] : לעשות
+markieren : לסמן
 e Marotte (pl. -n) : whim
 r Märtyrer : קדוש מעונה
 e Märtyrerin : קדושה מעונה
@@ -1228,6 +1245,7 @@ raten, riet, hat raten [vt.] : לנחש
 rauchen : לעשן
 reden : לדבר
 s Regime (pl. -s) : שלטון
+regnen : לרדת (גשם)
 e Reichsacht : imperial outlawry
 reif
   - Die Zeit ist reif.
@@ -1278,6 +1296,9 @@ r Schaden (pl. Schäden) : נזק, פגיעה
 e Schar : להקה (של ציפורים),
 e Schärpe (pl. -n) : אבנט
 schätzen : להעריך, לאמוד
+e Schau : הצגה; תערוכה
+  - eine Schau abziehen : לעשות הצגה
+schauen : להסתכל
 r Schauplatz : סצינה, תפאורה, מסגרת, זירה
 scheiden, schied, geschieden : לפרק, לפצל, להפריד
   - sich (von j-m) scheiden lassen : להתגרש ממישהו
@@ -1389,6 +1410,8 @@ standhaft : נחוש
 e Stange (pl. -n) : מוט
   - vor der Stange : מוכן מראש, רדימייד
   - bei der Stange bleiben : להתמיד, להישאר עם זה
+starr [adj.] : קשיח, נוקשה, קשה
+starren, starrte, hat gestarrt [vt.] : לבהות
 starten : להתחיל
 stehen, stand, gestanden : לעמוד
 e Sternstunde (pl. -n) : רגע קסום, רגע גדול
@@ -1441,6 +1464,8 @@ tilgen + Akk. : לפדות, להחזיר חוב
   - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
 todbereit
+töten : להרוג
+tragen : לשאת; ללבוש
 r Trauring : טבעת נישואים
 treffen : לפגוש
 r Treuhänder (= pl.) : אפוטרופוס, נאמן
@@ -1481,6 +1506,11 @@ r Umbruch : תהפוכות, מהומה
   - wirtschaftlicher Umbruch : שינוי כלכלי
   - historischer Umbruch : מהפך היסטורי
 úm|drehen : לסובב
+úm|gehen [vt.] : לעקוף
+  - mit + [Dat.] umgehen : לטפל ב־, להסתדר עם־, לעסוק ב־
+  - mit einem Problem umgehen : לטפל בבעיה
+  - mit einem Thema umgehen : לעסוק בנושא
+  - gut mit Menschen umgehen : להסתדר טוב עם אנשים
 umgekehrt : the other way round
 úm|gestalten, gestalte um, hat umgestaltet [vt.] : לשנות, לעשות טרנספורמציה, לארגן מחדש, לעצב מחדש
 úm|schwenken : לשנות צד
@@ -1554,7 +1584,7 @@ verbannt : מוחרם
 verbürgen, verbürgte, verbürgt + Akk : לאשר, לאמת, להוכיח
   - sich für + Akk. verbürgen : להעיד לטוב, לערוב ל־
 verdenken : להאשים?
-verdienen : להרוויח
+verdienen : להרוויח; להיות ראוי ל־
 j-n vereidigen : להשביע (נשיא)
 vereinen, vereinte, hat vereint [vt.] : לשלב, למזג, לאחד
   - [Akk.] mit + [Dat.] vereinen : לשלב משהו עם משהו
@@ -1609,10 +1639,10 @@ verschaffen : to provide
 e Verschärfung : aggravation, worsening
 verschleiern : לטייח, להסתיר, לטאטא מתחת לשטיח; לכסות ברעלה/בצעיף
 verschlimmern : להרע, להחמיר
-verschmutzt : messy
-verschüsseln : to encrypt
+verschlüsseln : to encrypt
 verschlingen : to engulf, to swamp
 verschlossen : סגור, חתום, נעול
+verschmutzt : messy
 verschnaufen : להתאושש
   - verschnaufen lassen : לתת (למישהו) להתאושש, לאפשר (למישהו) להתאושש
 e Verschwendung : extravagance, waste
@@ -1713,6 +1743,7 @@ r Weg (p. -e) : דרך
 e Wegnahme : הסרה
 wég|nehmen + [Akk.] : לקחת, להרחיק, to take away
 weilen : להישאר
+weinen : לבכות
 Weiteres
   - ohne Weiteres : without further ado
 wenden, wendete, gewendet
