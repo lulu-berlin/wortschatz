@@ -95,6 +95,8 @@ anerkennen : להכיר ב־, להעריך
 án|fangen : להתחיל
 án|fertigen : לייצר, להכין
 án|flehen, flehte an, hat angefleht [vt.] : להתחנן, להפציר
+sich án|freunden, frendete sich an, sich angefreundet : להתחבר
+  - mit j-m anfreunden : להתחבר עם מישהו, להיעשות חבר של מישהו
 s Angebot : הצעה; היצע; הצעת מחיר; מבחר
 án|geben, gab an, hat angegeben [vt.] : לסמן, להכריז
   - den Ton angeben : לתת את הטון, לקבוע את סדר היום
@@ -102,6 +104,7 @@ s Angebot : הצעה; היצע; הצעת מחיר; מבחר
 r Angreifer (= pl.) : תוקף
 Angst
   - Angst haben : לפחד
+án|himmeln : להעריץ
 án|kommen : להגיע
 án|kündigen : להכריז
 án|nähern 
@@ -120,6 +123,9 @@ r Anstoß : דחף (לעשות משהו)
 antworten : לענות
 án|ziehen : למשוך
 applaudieren : למחוא כפיים, לשבח
+e Arbeit : עבודה
+r Arbeiter : עובד, פועל
+e Arbeiterschaft : כוח עבודה, כלל העובדים
 arrogant [adj.] : יהיר
 aúf|begehren, begehrten auf : למרוד
 s Aufbegehren : מרד
@@ -335,18 +341,18 @@ befinden, befand, hat befunden [vt.] : למצוא (משהו בצורה כלשה�
 befragen, befragte, hat befragt [vt.] : לראיין
 befremdlich : מוזר, משונה
 beglaubigen : לאשר (מסמך), להעיד על אותנטיות
-beharren : להתמיד, להתעקש
-  - auf etw.[Dat.] beharren : להתעקש על משהו
 begegnen, begegnete, hat begegnet [vt.] : לפגוש, להיתקל ב־, לעמוד מול
 begeistern : to inspire, to excite, to thrill, to faschinate, to wow
 begeistert: מורשם, שמשהו מרשים אותו
-begleiten : ללוות
+begleiten, begleitete, hat begleitet [vt.] : ללוות
 j-n begnadigen : לחון
 e Begnadigung : חנינה
 begründen [vt.] : להצדיק; לכונן
 begrüßen, begrüßte, hat begrüßt [vt.] : לברך לשלום; להעריך, לראות במשהו שינוי מבורך
   - Die Angestellten begrüßen die neue Strategie der Firma.
 behalten, behielt, hat behalten [vt.] : לשמור
+beharren : להתמיד, להתעקש
+  - auf etw.[Dat.] beharren : להתעקש על משהו
 behaupten + Akk. : לקבוע, לאשר, לטעון
   - sich gegen j-n behaupten : להתייצב כנגד מישהו
 beheben [vt.] : לטפל ב־(בעיה), לפתור, להסדיר
@@ -359,7 +365,8 @@ beißen, biss, hat gebissen [vt.] : לנשוך, לקחת ביס
 béi|steuern [vt.] : לתרום
   - Geld beisteuern : לתרום כסף
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
-etw.[Akk.] bekanntgeben : to announce s.th.
+bekanntgeben [vt.] : להכריז על־
+  - öffentlich bekanntgeben : להודיע רשמית
 s Bekenntnis (pl. -se) : מסדר (דתי)
 bekunden : לבטא, להראות
   - Interesse bekunden : להראות עניין
@@ -403,6 +410,8 @@ beschützen, beschützte, hat beschützt [vt.] : להגן על־
 beschweren
   - sich beschweren : להתלונן
 j-n beschwichtigen : לפייס, להרגיע
+beschwören : להעלות באוב
+  - Geister beschwören : לזמן רוחות, להעלות באוב רוחות
 beseitigen [vt.] : להיפטר מ
 besiegen : להביס
 besitzen, besaß, hat besessen [vt.] : להיות הבעלים של, להחזיק ב־, שמשהו ברשותו
@@ -458,6 +467,7 @@ r Bittbrief : מכתב בקשה
 bitten, bat, hat gebeten [vt.] : לבקש
   - j-n um + [Akk.] bitten : לבקש משהו ממישהו
 s Bitten : בקשה; פניה
+e Blamage : חרפה
 bleiben : להישאר
   - übrig bleiben : להישאר
 blöken : לפעות
@@ -520,6 +530,8 @@ dreifach : כפול שלוש
 dreist : חצוף, חסר בושה, נמהר
 r Drill : תרגיל צבאי, אימון
 drillen
+e Drohne (pl. Drohnen) : רחפן, מטוס ללא טייס
+dröhnen : לזמזם
 drüben
   - da/dort drüben : over there
   - hüben und drüben : on both sides
@@ -681,6 +693,9 @@ e Erbe : ירושה
   - eine Erbe hinterlassen
 erbitten, erbat, erbeten : לבקש, לערוג 
 erbittert [adj.] : עז, פראי
+r Erdball : כדור הארץ
+  - rund um den Erdball : מסביב לעולם
+e Erde : אדמה, כדור הארץ
 erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
   - "Was in der Revolution erfochten wurde, ist das Bewusstsein, dass der Gedanke stärker, größer und gewaltiger ist als die Macht der Bajonette und Kanonen." [Die Deutschen]
 erfolgversprechend : מבטיח (צפוי להצליח)
@@ -809,6 +824,8 @@ e Förderung : promotion, support, funding, advancement, grant, encouragement
   - ich trete einer Gesellschaft zur Förderung der Wissenschaft bei.
   - Wir sollten für das Forschungsprojekt eine Förderung beantragen.
   staatliche Förderung : state incentives
+forsch [adj.] : פזיז, נמהר
+forschen : לחקור
 fortan : מעתה ואילך,מכאן ואילך
 fórt|fahren, fuhr fort, fortgefahren : להמשיך
 fórt|gehen : להסתלק
@@ -887,6 +904,10 @@ s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
 e Geltung : תוקף
   - voll zur Geltung bringen : להיכנס למלוא התוקף
+s Gelüst : תשוקה, תאווה, תיאבון
+  - ein Gelüst nach + [Dat.] haben : להשתוקק ל־
+gelüsten : להשתוקק
+  - nach + [Dat.] gelüsten : להשתוקק ל־
 r Gemahl : בעל
 gemäßigt : מתון, מיושב, שקול, ממוצע
 S Gemetzel : שחיטה, טבח
@@ -896,6 +917,10 @@ genehmigen : לאשר, להרשות
 genießen : ליהנות
 Genugtuung : סיפוק
 e Geschäftsordnung : standing orders, regulations, terms and conditions
+e Gerade : ישר (קו ישר בגיאומטריה)
+gerade [adj.] : ישר, מאוזן, זקוף
+gerade [adv.] : בדיוק הרגע, במיוחד, עכשיו, כרגע
+geradewegs [adv.] : ישירות, באופן ישיר
 gerammelt
   - gerammelt voll sein : להיות מלא עד אפס מקום
 geraten (gerät), geriet, ist geraten [vi.] : לצאת (במצב)
@@ -920,6 +945,7 @@ gesinnt : בעל עמדה/כוונה, מוכוון
   - fortschrittlich gesinnt : מוכוון קידמה
 e Gesinnung : עמדה, מצב, אתוס, רגש
 gesinnungstreu [adj.] : נאמן
+gespalten [adj.] : מפוצל
 gestehen : להודות
 getrieben : driven, pushed
 gewähren : to concede, to confer, to impart
@@ -930,6 +956,7 @@ s Gewebe : ריקמה, בד
   - bioliogisches Gewebe : ריקמה ביולוגית
 s Gewehr (pl. -e) : gun, ifle
 s Gewerbe : אומנות, משלח יד
+Gewerkschaft (pl. -en) : איגוד עובדים
 gewinnen : לנצח; להרוויח
 e Gewissheit : בטחון, ודאות
 s Gewölbe : vault
@@ -973,6 +1000,7 @@ grob : גס, קשוח, מחוספס
 groß [adj.] : גדול
 e Größe : גודל
 r Größenwahn : מגאלומניה, שגעון גדלות
+Großmannssucht : שגעון גדלות, אגומאניה
 e Gründung : establishment, foundation
 s Gründungsmythos / -us (pl. Gründungsmythen) : מיתוס מכונן
 e Gülle : דשן, זבל
@@ -1315,6 +1343,7 @@ nahen, nahte, genaht : להיות קרוב, להתקרב
 nahend : imminent, approaching, forthoming
 nass [adj.] : רטוב
   - nass werden : להירטב
+nassforsch [adj.] : נמהר
 e Neige : דעיכה, שקיעה
   - zur Neige gehen : להידלדל, להתמעט
 nennen, nannte, hat genannt [vt.] : לכנות בשם, לקרוא
@@ -1361,6 +1390,7 @@ r Orkan (pl. -e)
 Palmsonntag : Palm Sunday
 panisch : panic-fueled, freaked out
 parieren : to counter
+s Parlament : פרלמנט
 Paroli
   - [Dat.] Paroli bieten : להתייצב כנגד, לקרוא תיגר על
 passabel [adj.] : סביר, מתקבל על הדעת
@@ -1439,6 +1469,7 @@ reklamieren : to claim, to complain, to object, to protest
 relaxen, relaxte, relaxt : להירגע, להרגיע
 rennen : לרוץ
 reparieren : לתקן
+r Revoluzzer : מורד, מיליטנט
 riechen [vt.] : להריח
   - nach + [Dat.] riechen : להריח כמו, להפיץ ריח של
   - j-n nicht riechen können [ugs.] : לא לסבול מישהו
@@ -1449,6 +1480,7 @@ r Rivale : יריב
 r Rohstoff (pl. -e) : חומר גלם
 r Rosenkranz (pl. Rosenkränze) : מחרוזת תפילה
   - den Rosenkranz beten : להתפלל עם מחרוזת תפילה
+e Rotte : עדר, להקה
 rückgängig : נסיגתי, שנסוג לאחור
   - rückgängig machen : להשיב את הנעשה, להחזיר לקדמותו
 Rückhol- : return ...
@@ -1488,6 +1520,7 @@ e Schau : הצגה; תערוכה
   - eine Schau abziehen : לעשות הצגה
 schauen : להסתכל
 r Schauplatz : סצינה, תפאורה, מסגרת, זירה
+scheel [adj.] : חשדן
 scheiden, schied, geschieden : לפרק, לפצל, להפריד
   - sich (von j-m) scheiden lassen : להתגרש ממישהו
 scheinen : להיראות, להידמות
@@ -1532,6 +1565,8 @@ e Schranke (pl. -n) : גבול, שער
 schrecklich : terrible
 schreiben : לכתוב
 schreien : לצעוק
+r Schriftsetzer : סַדָּר (דפוס)
+r Schriftsteller : סופר
 schrittweise [adj.] : רציף, עוקב; בשלבים
   - schrittweise Einführung : הכרה הדרגתית
   - schrittweise Erweiterung : הרחבה מדורגת
@@ -1717,6 +1752,7 @@ e Übereinkunft : agreement, accord
 r Überfall : פשיטה, התקפה, שוד
 e Überflutung : הצפה
 überhäufen : להמטיר (במתנות), להרעיף
+überheblich [adj.] : יהיר, מתנשא
 überholen, überholte, hat überholt [vt.] : לחלוף, לעבור על פני
 e Überlegenheit : עליונות, שליטה
 übernehmen, übernahm, hat übernommen [vt.] : לקבל/לקחת (אחריות; הצעה)
@@ -1744,6 +1780,7 @@ umgekehrt : the other way round
 úm|schwenken : לשנות צד
 úm|stimmen + Akk. : לשנות (דעה)
 r Umsturz : הפיכה
+r Umstürzler : מהפכן
 úm|wälzen, wälzte um, umgewälzt : למחזר, להחליף במשהו חדש, to revolutionize
 úm|wandeln : להמיר
 úm|ziehen, zog um, ist umgezogen : לעבור מקום, להגר
@@ -1752,6 +1789,7 @@ r Umsturz : הפיכה
 umzingeln, umzingelte, hat umzingelt
   - + Akk. : להקיף
 umzingelt : מוקף
+unausgesetzt [adj.] : קבוע, ללא הרף
 unausweichlich [adj.] : בלתי־נמנע
 unausweichlich [adv.] : באופן בלתי־נמנע
 uneins : מפולג, מפוצל, מחולק
@@ -1848,6 +1886,10 @@ s Verhältnis (pl. -se) : יחס, קשר, מידה
   - die bestehende Verhältnisse - התנאים הקיימים, החוקים הקיימים
   - ausgewogenes Verhältnis - מידה מאוזנת
   - gutes Verhältnis : יחס טוב
+verharren : להישאר, להתמיד
+  - auf seinem Standpunkt verharren
+  - in + [Dat.] verharren : להתמיד ב־, להישאר ב־
+verharrt [adj.] : מוכן ומזומן; ניצב
 verhärtet : callous, hardened, obdurate
 verheeren : להרוס, להשחית
 verheerend : davastating, disastrous, fatal
@@ -1920,6 +1962,10 @@ verursachen : לגרום ל־
 verurteilen : לגנות; לגזור (מאסר)
 verurteilt [adj.] : נידון
   - zum Scheitern verurteilt sein : להיות נידון לכשלון
+verwehren : לאסור, למנוע
+  - j-n den Zutritt verwehren : לאסור את כניסתו של מישהו
+  - j-n verwehren, etwas zu tun : לאסור על מישהו לעשות משהו
+verwehrt [adj.] : מנוע
 verweigern [vt.] : לסרב, לא להסכים, למנוע, לא להרשות, לאסור
 verwerfen, verwarf, hat verworfen [vt.] : לדחות, לבטל, לסרב ל־
   - einen Vorschlag / eine Idee verwerfen : לדחות הצעה
@@ -1930,6 +1976,8 @@ s Vieh : בקר
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
 vierfach : מרובע, כפול־ארבע
+s Volk (pl. Völker) : עם
+e Völkerverbrüderung : אחוות עמים
 r Vollidiot : אידיוט מושלם
 e Vollzeit
 - Vollzeit-Programm
@@ -2003,6 +2051,7 @@ r Werdegang : קריירה, סיפור חיים
 werden (wird), wurde/ward, ist geworden/worden : להפוך ל־, להיעשות
 werfen : לזרוק
 wesentlich : בסיסי, מהותי, חשוב, עיקרי
+wettern : לגנות, לנגח
 r Widerpart : יריב
 r Widersacher : יריב
 widersprechen : לסתור
@@ -2021,6 +2070,10 @@ r Witwenschleier : רעלת אלמנה
 r Wolf (pl. Wölfe) : זאב
   - einsamer Wolf : זאב בודד
 wollen : לרצות
+s Wort (pl. Worte, Wörter) : מילה
+  - zu Wort kommen : למצוא הזדמנות לדבר
+  - Wort für Wort : מילה במילה, מילולית
+  - j-n beim Wort nehmen : לקחת מישהו במילה, לתפוס מישהו במילה
 r Wortführer : דובר
 wortgewaltig [adj.] : חזק במילים, רהוט
 e Wucht : השפעה עוצמה; חתיך
@@ -2102,6 +2155,8 @@ r Zusammenprall : התנגשות
 r Zuschlag : עלות נוספת
 zú|spitzen [vt.] : לחדד
   - sich zuspitzen : להתחדד (ויכוח), להחריף
+r Zuspruch : עידוד
+  - großen Zuspruch finden : למצוא עידוד רב, לזכות לפופולאריות
 zú|stimmen : להסכים
 zuvór|kommen : להתכונן מראש, למנוע משהו על ידי תכנון מראש
 zusámmen|fügen, fügte zusammen, zusammengefügt : לחבר, לצרף
