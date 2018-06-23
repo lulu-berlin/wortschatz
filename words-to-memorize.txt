@@ -69,6 +69,8 @@ r Allerwertester [ugs.] : תחת
 allesamt : כולם, כולם ביחד
   - wir allesamt : כולנו
 allgegenwärtig : שנמצא בכל מקום
+Almosen (pl.) : צדקה, נדבה
+  - von Almosen leben : לחיות מנדבות
 als
   - als ob
   - so tun, als ob ... : לעשות כאילו ש־
@@ -592,7 +594,9 @@ s Entsetzen : זעזוע
   - blankes Entsetzen : זעזוע מוחלט
   - voller Entsetzen : מזועזע
   - sprachlos vor Entsetzen : מזועזע עד אין מילים
+entweder ... oder ... : או ... או ...
 entwickeln : לפתח
+erhalten : לקבל
 erreichen : להגיע; להשיג
 erschallen, erschallte, erschallt : להשמיע קול/צליל
 erscheinen : להופיע
@@ -725,6 +729,10 @@ fangen : לתפוס
 fassen, fasste, hat gefasst : להחזיק, לתפוס
   - etwas in Worte fassen : לשים במילים, לבטא במילים
   - nicht zu fassen : אין לתאר, לא יעלה על הדעת
+e Fasson : סגנון, אופנה
+  - aus der Fasson geraten : לצאת מהאופנה, להפסיק להיות באופנה
+  - jeder nach seiner Fasson : כל אחד לפי דרכו
+  - jeder nach seiner Fasson selig werden : להיות שמח, כל אחד לפי דרכו
 fegen [vt.] : לטאטא
 feiern : לחגוג
 an + [Dat.] fést|halten : to abide by ..., to hold fast to ..., to stick to ...
@@ -855,6 +863,18 @@ Genugtuung : סיפוק
 e Geschäftsordnung : standing orders, regulations, terms and conditions
 gerammelt
   - gerammelt voll sein : להיות מלא עד אפס מקום
+geraten (gerät), geriet, ist geraten [vi.] : לצאת (במצב)
+  - außer Kontrollen geraten : לצאת מכלל שליטה
+  - durcheinander geraten : להסתבך, להיכנס לצרות
+  - in + [Akk.] geraten : להיכנס ל(מצב), ליפול ל־
+  - in Vergessenheit geraten : ליפול לשכחה
+  - in Panik geraten : להיכנס לפאניקה
+  - in Schwierigkeiten geraten : להיכנס לצרות
+  - in Schulden geraten : להיכנס לחובות
+  - in Unordnung geraten : להתבלגן
+  - in die Schusslinie geraten : להיכנס לקו האש
+  - aus + [Dat.] geraten : לצאת מכלל־, להפסיק להיות
+  - aus der Fasson geraten : לצאת מהאופנה, להפסיק להיות באופנה
 gescheit : חכם, מבריק, פיקח, נבון
 gescheitert : כושל, נכשל
 s Gesindel : ערב רב, אספסוף, המון
@@ -926,6 +946,10 @@ hängen : לתלות
 hassen [vt.] : לשנוא
 Häuserschlucht
 heben : להרים
+heftig [adj.] : קשה, כבד, אינטנסיבי
+heftig [adv.] : בחוזקה, ממש, בכל תוקף
+  - heftig umkämpft : נתון במחלוקת קשה
+  - zu heftig reagieren : להגיב בצורה מוגזמת
 s Heer (pl. -e) : צבא
 Heimkehr : שיבה, שיבה הביתה
 heím|kehren : לחזור הביתה
@@ -1414,7 +1438,7 @@ schmelzen (schmilzt), schmolz, ist geschmolzen [vi.] : להימס
 schmelzen (schmilzt), schmolz, hat geschmolzen [vt.] : להמיס
 schnattern : לגעגע (כמו אווז)
   - Die Gans schnattert. : האווז מגעגע
-schneiden : לחתוך
+schneiden : לחתוך, לפרוס
 schneien : לרדת (שלג)
 schnöde [adj.] : מלא בוז
 r Schrank (pl. Schränke) : ארון
@@ -1491,6 +1515,10 @@ r Spatz : דרור, אנקור
   - Der Spatz piept. : הדרור מצייץ.
 spazíeren|gehen, ging spazieren, ist spazierengegangen : ללכת לטיול, ללכת לטייל
 speichern : לשמור
+e Spende : תרומה
+spenden, spendete, hat gespendet [vt.] : לתרום
+  - an + [Akk.] spenden : לתרום ל־
+  - für einen guten Zweck spenden : לתרום לצדקה
 e Sperrung : blocking, closing, inhibition
 spielen : לשחק
 spülen : לשטוף
@@ -1736,6 +1764,7 @@ vermissen : להתגעגע ל־/אל־
   - [Akk.] vermissen lassen : להיות חסר (משהו)
 e Vermittlung : mediation, agency, operator
 vermuten : להניח, לשער
+vernichten : להשמיד, לחסל, להרוס, להחריב
 veröffentlichen, veröffentlichte, veröffentlicht [vt.] : לפרסם
 j-n verprügeln : to beat s.o. up
 verrecken : למות, ללכת פייפן, להיגמר
@@ -1851,6 +1880,7 @@ wappnen : לחמש
   - sich gegen + [Akk.] wappnen : להתכונן נגד משהו
 warten : לחכות
 waschen : לשטוף, לרחוץ
+weder ... noch ... : לא ... ולא ...
 r Weg (p. -e) : דרך
 e Wegnahme : הסרה
 wég|nehmen + [Akk.] : לקחת, להרחיק, to take away
