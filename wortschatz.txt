@@ -657,6 +657,8 @@ eín|schlafen, schlief ein, ist eingeschlafen [vi.] : להירדם
 einseitig : חד־צדדי, מוטה
 eín|treffen : להגיע
 sich[Dat.] [Akk.] eín|verleiben : לכלול, לשלב, לעשות אסימילציה
+eín|verleiben
+  - sich[Dat.] einverleiben : לכלול, לשלב, לאגד
 e Einverleibung (pl. -n) : אסימילציה
 eín|willigen : להסכם, לתת הסכמה
 e Einwilligung : הסכמה
@@ -667,6 +669,7 @@ empor : למעלה
 empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
 emsig : עסוק, חרוץ
+s Ende : סוף
 endgültig [adj.] : סופי, מוחלט
 endgültig [adv.] : סוף סוף, באופן מוחלט, באופן סופי, לגמרי, לחלוטין
   - [Akk.] endgültig festlegen : להביא לידי סיום, להשלים
@@ -975,6 +978,8 @@ geistesabwesend : פזור דעת, מפוזר, לא מרוכז
 gelähmt [adj.] : משותק
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
+geloben [vt.] : להישבע, לנדור
+  - gehorsam geloben : להישבע אמונים
 e Geltung : תוקף
   - voll zur Geltung bringen : להיכנס למלוא התוקף
 s Gelüst : תשוקה, תאווה, תיאבון
@@ -1061,6 +1066,8 @@ glücken : להצליח, להיות מוצלח
   - Es wollte einfach nicht glücken.
 e Glut : גחל
 e Gnade : חסד
+r Gott : אלוהים
+gottgefällig [adj.] : אלוהי; בהתאם לרצון האל
 r Götze (pl. -n) : אליל
 s Götzenbild : אליל, צלם
 r Götzendiener : עובד אלילים
@@ -1106,6 +1113,7 @@ s Handwerk : משלח‏־יד
 hängen : לתלות
 hassen [vt.] : לשנוא
 e Hassliebe : אהבה־שנאה, יחסי אהבה־שנאה
+s Haupt : ראש
 Häuserschlucht
 heben : להרים
 heftig [adj.] : קשה, כבד, אינטנסיבי
@@ -1237,6 +1245,7 @@ e Inhaftnahme : מעצר
 initiieren : ליזום
 innen [adv.] : פְּנִים
 innenpolitisch [adj.] : פנים־פוליטי, של פוליטיקה פנימית
+insgesamt [adv.] : בסך הכול; באופן כללי; בגדול
 inspirieren : להשרות, להאציל, לעורר
 interessiert
   - an + [Akk.] interessiert sein : להיות מעוניין ב־
@@ -1482,6 +1491,10 @@ nass [adj.] : רטוב
 nassforsch [adj.] : נמהר
 e Neige : דעיכה, שקיעה
   - zur Neige gehen : להידלדל, להתמעט
+neigen : להטות
+  - sich neigen : לנטות
+  - sich zu + [Dat.] neigen : לנטות ל־
+  - dazu neigen, etwas zu sein : לנטות להיות משהו
 nennen, nannte, hat genannt [vt.] : לכנות בשם, לקרוא
 nennenswert : ראוי לציון
 nerven [vt.] : לעצבן
@@ -1662,6 +1675,8 @@ schaden + Dat. : לפגוע במשהו
 r Schaden (pl. Schäden) : נזק, פגיעה
 e Schar : להקה (של ציפורים),
 e Schärpe (pl. -n) : אבנט
+r Schatz : אוצר
+e Schatzkammer : גנזך; חדר אוצר
 schätzen : להעריך, לאמוד
 e Schau : הצגה; תערוכה
   - eine Schau abziehen : לעשות הצגה
@@ -1765,6 +1780,7 @@ e Selbstdarstellung : self-portrayal, self-representation
 r Sendbote, e Sendbotin : emissary
 senden, sendete/sandte, gesendet/gesandt
   - j-m [Akk.] senden : לשלוח משהו למישהו
+senkrecht [adj.] : מאונך, ניצב, אנכי, בזווית ישרה
 setzen, setzte, hat gesetzt [vt.] : לשים, להציב, להניח
   - seinem Leben ein Ende setzen
 e Sicherung : protection, assurance
@@ -1818,6 +1834,8 @@ r Staatsdienst : השירות הציבורי
 r Staatsdiener : שליח ציבור, משרת ציבור
 s Staatsoberhaupt : ראש המדינה
 r Staatsoberhäupter : ראש המדינה
+r Stamm : גזע; שבט; גבעול
+stammen : לבוא מ־, להיות מיוחס ל־
 standhaft : נחוש
 e Stange (pl. -n) : מוט
   - vor der Stange : מוכן מראש, רדימייד
@@ -1829,6 +1847,7 @@ r Startschuss : יריית הפתיחה
 stehen, stand, gestanden : לעמוד
 sterben (stirbt), starb, ist gestorben [vi.] : למות
 e Sternstunde (pl. -n) : רגע קסום, רגע גדול
+stets [adv.] : תמיד
 im Stich lassen : leave s.o. high and dry
 stoppen : לעצור, להפסיק
 stoßen : לנגוח, לדחוף
@@ -1872,10 +1891,13 @@ taugen, taugte, getaugt : להתאים, לענות ל(צורך)
   - für + Akk. taugen : טוב למשהו
 tauglich : ראוי, מתאים
 taumeln : להסתחרר, להתנודד
+täuschen [vt.] : להונות, להוליך שולל
+  - sich täuschen : לשגות, לטעות
 tappen : to grope
   im Dunkeln tappen : to be in the dark
 teilen : לחלק, לחלוק
 teíl|nehmen, nahm teil, hat teilgenommen [vt.] : להשתתף, לקחת חלק
+r Teilstamm : תת־ענף (של משפחה, שבט)
 teilweise : partial(ly), partly, to some extent
 f Teilzeit : משרה חלקית
 Teilzeit-Professor
@@ -1900,6 +1922,7 @@ treffen : לפגוש
 treten : לצעוד, לבוא, לבעוט, לדרוך; להפוך
   - auf + [Akk.] treten : לדרוך על
   - in Kraft treten : לצאת מן הכוח לפועל
+e Treue : נאמנות
 r Treuhänder (= pl.) : אפוטרופוס, נאמן
 e Treuhänderin (pl. -nen) : אפוטרופוסית, נאמנה
 trillern : לעשות טריל, לסלסל
@@ -2053,9 +2076,10 @@ verfügen : to dispose, to order, to rule (that ...)
 j-m (Akk.) vergeben : לסלוח
 vergebens : לשווא, ללא הועיל
 vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזבז
-vergelten : לגמול, להשיב
-vergessen : לשכוח
-vergilbt : שנעשה צהוב
+vergelten (vergilt), vergalt, hat vergolten [vt.] : לגמול, להשיב
+vergessen (vergisst), vergaß, hat vergessen [vt.] : לשכוח
+vergilben, vergilbte, ist vergilbt : להצהיב
+vergilbt [adj.] : שנעשה צהוב
 vergleichen : להשוות
 e Verhaftung : מעצר
 verhalten : להתנהג
@@ -2075,6 +2099,7 @@ verkacken : to fuck s.th. up
 sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
   in j-n verknallt sein
 verkrüppelt [adj.] : בעל מום, שהוטל בו מום
+verkümmert
 verkünden [vt.] : להכריז, להכריז על־
 verlassen : לנטוש
 verletzen : לפצוע; לפגוע; לגרום נזק
@@ -2246,8 +2271,9 @@ e Wiederaufnahme : חידוש
   - schnelle Wiederaufnahme : חידוש מהיר
   - Wiederaufnahme der Verhandlungen : חידוש המשא ומתן
   - bei Wiederaufnahme unserer Geschäftstätigkeit : upon resumption of our businesser
-wieder|erlangen + Akk. : לשוב ל(הכרה), להשיג בחזרה
+wíeder|erlangen + Akk. : לשוב ל(הכרה), להשיג בחזרה
 wíeder|haben, hatte wieder, hat wiedergehabt [vt.] : לקבל בחזרה
+wíeder|erstehen : לקום לתחייה
 wiegen, wog, hat gewogen : לשקול
 wiehern : לצהול, לצנוף
   - Das Pferd wiehert.
