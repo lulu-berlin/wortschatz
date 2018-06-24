@@ -176,15 +176,15 @@ e Anzeige : תצוגה; מודעה, מודעת פרסומת; אינדיקציה,
   - numerische Anzeige : תצוגה מספרית
   - klare Anzeige : סימן ברור, אינדיקציה ברורה
 án|ziehen : למשוך
-án|zweifeln : to doubt, to mistrust
+án|zweifeln [vt.] : לחשוד, להטיל ספק, לא לסמוך על
 applaudieren : למחוא כפיים, לשבח
 e Arbeit : עבודה
 r Arbeiter : עובד, פועל
 e Arbeiterschaft : כוח עבודה, כלל העובדים
 arglos : תמים, לא חושד
 r Argwohn (gegen j-n) : חשד, חוסר אמון
-Arm
-  j-n auf den Arm nehmen : to pull s.o.'s leg
+Arm : זרוע
+  j-n auf den Arm nehmen : לעבוד על מישהו
 e Armut (~pl.) : עוני
   - äußerste Armut : עוני קיצוני
   - bittere Armut : עוני מר
@@ -326,7 +326,7 @@ aús|ziehen [vt.] : להוריד (בגד); לעזוב (בית)
 e Axt : גרזן
 
 = B =
-backen : לאפות
+backen, buk, hat gebacken [vt.] : לאפות
 s Bad : בית־שימוש; אמבטיה; מרחצה
   - ein Bad nehmen : להתרחץ
 baden : לרחוץ
@@ -357,6 +357,7 @@ befinden, befand, hat befunden [vt.] : למצוא (משהו בצורה כלשה�
   - sich befinden : להימצא
 befragen, befragte, hat befragt [vt.] : לראיין
 befremdlich : מוזר, משונה
+beginnen, begann, hat begonnen [vt.] : להתחיל, להחל
 beglaubigen : לאשר (מסמך), להעיד על אותנטיות
 begegnen, begegnete, hat begegnet [vt.] : לפגוש, להיתקל ב־, לעמוד מול
 begeistern [vt.] : לעורר השראה, לעודד, להלהיב, להדהים, להרשים
@@ -470,7 +471,8 @@ bewältigen [vt.] : להתמודד עם; להתגבר על; להסתדר עם; �
   - Herausforderungen bewältigen : להתמודד עם אתגרים
   - zu bewältigen : שניתן להתמודד איתו
   - Schwierigkeiten bewältigen
-bewegen, bewegte, hat bewegt [vt.] : להזיז
+bewegen, bewegte, hat bewegt [vt.] : להזיז משהו
+bewegen, bewog, hat bewegt [vt.] : להניע מישהו לעשות משהו
   - sich bewegen : לזוז
 beweisen : להוכיח
 bewundern, bewunderte, hat bewundert [vt.] : להתפעל מ־, להעריץ
@@ -482,9 +484,12 @@ etw. beziffern : to estimate, to quantify
 bezweifeln [vt.] : להטיל ספק ב־
 bezwingen [vt.] : להביס, לגבור על־, להתגבר על־
   - eine Angst bezwingen : להתגבר על פחד
+biegen, bog, hat gebogen [vt.] : לכופף; לסובב
+bieten, bot, hat geboten [vt.] : להציע; לספק
 bilden : לעשות (צורה), להוות, לבנות; לחנך; לייצר
 Bildungshungrig [adj.] : צמא לחינוך
 s Bindeglied (pl. -er) : מחבר
+binden, band, hat gebunden [vt.] : לכרוך; לקשור
 binnen + Gen. : תוך ... בתוך ... (זמן)
 bis [präp.] : עד
  - bis auf : עד ל־, חוץ מ־, מלבד
@@ -501,7 +506,9 @@ blanko [adj.] : פשוט
 blanko [adv.] : ריק, חלק
   - blanko akzeptieren : לקבל כמו שהוא
 r Blankoscheck : צ'ק פתוח
-bleiben : להישאר
+blasen (bläst), blies, hat geblasen : לנשוף
+  - j-m einen blasen [ugs.] : למצוץ למישהו, לבצע מין אוראלי
+bleiben, blieb, ist geblieben [vi.] : להישאר
   - übrig bleiben : להישאר
 blöken : לפעות
   - Das Schaf blökt. : הכבשה פועה
@@ -510,12 +517,14 @@ e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : סערה
 r Bösewicht (pl. Bösewichte, Bösewichter) : נבל
 s Bollwerk : סוללה, ביצור
-braten : לטגן
+braten (brät/bratet), briet, hat gebraten [vt.] : לטגן
 brauchen, brauchte, hat gebraucht [vt.] : להצטרף
 e Brause : טוש
 Brausekopf : הראש של הטוש
+brechen (bricht), brach, hat gebrochen [vt.] : לשבור
 brennen, brannte, hat gebrannt : לבעור, לשרוף (כאב)
 brillieren : to shine
+bringen, brachte, hat gebracht [vt.] : להביא
 brüllen : לשאוג
   - Der Ochse brüllt.
   - Der Löwe brüllt.
@@ -570,6 +579,9 @@ dreifach : כפול שלוש
 dreist : חצוף, חסר בושה, נמהר
 r Drill : תרגיל צבאי, אימון
 drillen
+dringen, drang, hat gedrungen [vt.] : לעורר (לפעולה), לדרבן; להתעקש
+dringen, drang, ist gedrungen [vi.] : לדלוף
+  - auf + [Akk.] dringen : להתעקש על־
 e Drohne (pl. Drohnen) : רחפן, מטוס ללא טייס
 dröhnen : לזמזם
 drüben
@@ -590,6 +602,7 @@ dúrch|gehen : לעבור דרך
 dúrch|setzen, setzte durch, hat durchgesetzt [vt.] : להתעקש (על זכות); לאכוף (חוק); להטיל (חוק); להעביר (חוק)
   - Die Polizei wird die neue Vorschrift durchsetzen.
   - Trotz der Proteste der Angestellten setzte die Geschäftsleitung die Änderungen durch.
+dürfen (darf), durfte, gedurft : להיות רשאי
 sich duschen : להתקלח
 düster [adj.] : עגום, קודר
 
@@ -664,7 +677,7 @@ eín|willigen : להסכם, לתת הסכמה
 e Einwilligung : הסכמה
 eitel [adj.] : גאותן, שחצן; מלא מעצמו
 r [~ s] Elter (pl. -n) : הורה
-empfehlen, empfahl, hat empfohlen [vt.] : להמליץ על־
+empfehlen (empfiehlt), empfahl, hat empfohlen [vt.] : להמליץ על־
 empor : למעלה
 empört : ממורמר, זועם כתוצאה מאי־צדק
 e Empörung : זעם, מרמור, שאט נפש
@@ -704,7 +717,7 @@ erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
 erwarten : לצפות
 s Emporkommen : עליה, שגשוג, נסיקה
 r Emporkömmling (pl. -e) : שאפתן, נובוריש
-essen : לאכול
+essen (isst), aß, hat gegessen [vt.] : לאכול
 etw.[Akk.] entfachen : to ignite, to arouse, to spark
   ein Feuer entfachen
   Wut entfachen
@@ -822,15 +835,16 @@ existieren : להיות קיים, להתקיים
 
 = F =
 r Fahnder (= pl.), e Fahnderin : investigator
-fahren : לנהוג, לנסוע
+fahren (fährt), fuhr, ist gefahren [vi.] : לנהוג, לנסוע
+fahren (fährt), fuhr, hat gefahren [vt.] : להסיע, להרכיב
 r Fahrkartenschalter : ticket office, ticket counter
-fallen, fiel, ist gefallen [vt.] : ליפול
+fallen (fällt), fiel, ist gefallen [vt.] : ליפול
   - mir fiel das Herz in die Hose : נפל לי הלב לתחתונים
   - fallen lassen : להפיל
 fällen : to fell
   ein Urteil fällen : to pronounce a sentence, to render a judgment
 fállen|lassen, ließ fallen, fallengelassen [vt.] : להפיל
-fangen : לתפוס
+fangen (fängt), fing, hat gefanen [vt.] : לתפוס
 fassen, fasste, hat gefasst : להחזיק, לתפוס
   - etwas in Worte fassen : לשים במילים, לבטא במילים
   - nicht zu fassen : אין לתאר, לא יעלה על הדעת
@@ -859,11 +873,14 @@ fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
   - sich nicht festlegen wollen : לא להתחייב, לא לרצות להתחייב
 fést|stellen, stellte fest, hat festgestellt [vt.] : לזהות, לגלות; לתפוש, להבין פתאום, לשים לב
   - Während des Gesprächs stellen wir fest, dass wir aus derselben Stadt waren. : במהלך השיחה תפשנו שאנחנו מאותה עיר.
-finden : למצוא
+finden, fand, hat gefunden [vt.] : למצוא
 sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
-fliehen : לברוח
+fliegen, flog, ist geflogen [vi.] : לטוס
+fliegen, flog, hat geflogen [vt.] : להטיס
+fliehen, floh, ist geflohen [vi.] : לברוח
+fließen, floss, ist geflossen [vi.] : לזרום (מים, נהר, וכו')
 e Flinte : רובה ציד
 flirten : לפלרטט
 fluchen : לקלל
@@ -905,7 +922,7 @@ e Freiheit : חופש
 freuen : לשמח
   - sich freuen : לשמוח
 r Frevel : פשע
-frieren : לקפוא
+frieren, fror, ist/hat gefroren [vi.] : לקפוא
 e Fronarbeit : עבודת פרך
 frühstücken, frühstückte, hat gefrühstückt : לאכול ארוחת בוקר
 führen, führte, hat geführt [vt.] : להוביל, לקחת ל־, להדריך, לנהל
@@ -918,6 +935,8 @@ e Fülle : עושר
   - eine Fülle von : עושר של, מגוון של, אוסף של, שפע של
 füllen : למלא
   - sich füllen : להתמלא, להיות מלא
+funkeln : לנצנץ (כוכבים)
+s Funkeln : ניצוץ
 furchtbar : terrible
 r Fürsprecher : advocate
 r Fußgänger, e Fußgängerin : pedestrian
@@ -936,7 +955,7 @@ gebärden, gebärdete, hat gebärdet [vt.] : לסמן (בשפת הסימנים),
   - sich gebärden : להתנהג
   - sich wie toll gebärden : להתנהג כמו משוגע
 s Gebärden (= pl.) : סימן (בשפת הסימנים)
-geben, gab, hat gegeben [vt.] : לתת
+geben (gibt), gab, hat gegeben [vt.] : לתת
   - sich[Dat.] die Hand geben : להושיט יד ללחיצה
   - sich[Dat.] alle Mühe geben : לעשות כל מאמץ
   - sich[Dat.] einen Termin geben lassen : לקבוע פגישה
@@ -978,8 +997,10 @@ geistesabwesend : פזור דעת, מפוזר, לא מרוכז
 gelähmt [adj.] : משותק
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 s Geleit (pl. -e) : escort
+gelingen, gelang, ist gelungen [vt.] : להצליח
 geloben [vt.] : להישבע, לנדור
   - gehorsam geloben : להישבע אמונים
+gelten (gilt), galt, hat gegolten : להיות תקף, להיות בתוקף
 e Geltung : תוקף
   - voll zur Geltung bringen : להיכנס למלוא התוקף
 s Gelüst : תשוקה, תאווה, תיאבון
@@ -992,7 +1013,7 @@ S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
 genehmigen : לאשר, להרשות
-genießen : ליהנות
+genießen, genoss, hat genossen [vt.] : ליהנות מ־
 Genugtuung : סיפוק
 e Geschäftsordnung : standing orders, regulations, terms and conditions
 e Gerade : ישר (קו ישר בגיאומטריה)
@@ -1013,6 +1034,7 @@ geraten (gerät), geriet, ist geraten [vi.] : לצאת (במצב)
   - in die Schusslinie geraten : להיכנס לקו האש
   - aus + [Dat.] geraten : לצאת מכלל־, להפסיק להיות
   - aus der Fasson geraten : לצאת מהאופנה, להפסיק להיות באופנה
+geschehen (geschieht), geschah, ist geschehen [vi.] : לקרות, להתרחש
 gescheit : חכם, מבריק, פיקח, נבון
 gescheitert : כושל, נכשל
 s Geschütz (pl. -e) : נשק; תותח
@@ -1042,18 +1064,21 @@ s Gewebe : ריקמה, בד
 s Gewehr (pl. -e) : gun, ifle
 s Gewerbe : אומנות, משלח יד
 Gewerkschaft (pl. -en) : איגוד עובדים
-gewinnen : לנצח; להרוויח
+gewinnen, gewann, hat gewonnen [vi.] : לנצח
+gewinnen, gewann, hat gewonnen [vt.] : להרוויח, להשיג
 gewiss [adj.] : בטוח, ודאי
 gewiss [adv.] : לבטח, בוודאי, בוודאות
   - gewiss! בוודאי!
 e Gewissheit : בטחון, ודאות
 s Gewölbe : vault
+gießen, goss, hat gegossen [vt.] : למזוג; לשפוך
 r Glanz : ברק
 glauben : להאמין
 gleich [adj.] : אותו (ה־), זהה, דומה
   - zur gleichen Zeit : באותו זמן
 gleichberechtigt [adj.] : שווה (בערכו), בעל ערך שווה
 e Gleichberechtigung : שוויון (זכויות)
+gliechen, glich, hat geglichen [vt.] : לדמות ל־, להיות זהה ל־
 s Gleichgewicht : שיווי־משקל
 gleichgültig [adj.] : אדיש
 e Gleichgültigkeit : אדישות
@@ -1071,10 +1096,11 @@ gottgefällig [adj.] : אלוהי; בהתאם לרצון האל
 r Götze (pl. -n) : אליל
 s Götzenbild : אליל, צלם
 r Götzendiener : עובד אלילים
-gratulieren : לברך "מזל טוב"
+graben (gräbt), grub, hat gegraben [vt.] : לחפור
+gratulieren, gratulierte, hat gratuliert : לברך "מזל טוב"
   - Gratuliere! : מזל טוב!
 r Gräuel (= pl.) : זוועה, מעשה נפשע
-greifen : לתפוס
+greifen, griff, hat gegriffen [vt.] : לתפוס
 s Gremium (pl. Gremien) : מועצה, ועד מנהל
 r Grimm : זעם, חימה
 r Groll : תרעומת, טינה
@@ -1101,6 +1127,7 @@ s Gut : נכס; רכוש; אחוזה
 r Gutsherr : בעל אחוזה 
 
 = H =
+haben (hat), hatte, hat gehabt [vt.] : להיות ל־, להחזיק ב־, להיות הבעלים של־
 habhaft
   einer Sache[Gen.] habhaft werden : to get hold of s.th.
 halbmast [adv.]
@@ -1110,7 +1137,8 @@ halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
 vor nichts haltmachen : to stop at nothing
 s Handwerk : משלח‏־יד
-hängen : לתלות
+hängen, hängte, hat gehängt : לתלות (כביסה)
+hängen, hing, hat gehängt : להיות תלוי (פוסטר), להיאחז במשהו
 hassen [vt.] : לשנוא
 e Hassliebe : אהבה־שנאה, יחסי אהבה־שנאה
 s Haupt : ראש
@@ -1612,8 +1640,8 @@ reden : לדבר
 s Regime (pl. -s) : שלטון
 regnen : לרדת (גשם)
 e Reichsacht : imperial outlawry
-reif
-  - Die Zeit ist reif.
+reif [adj.] : בשל; בוגר; מפותח
+  - Die Zeit ist reif. : בשלה העת
 rein [adj.] : טהור
   - reinsten Wassers : מן הסוג הטוב ביותר
 reiten : לרכב
