@@ -43,6 +43,7 @@ e Abrede : undestanding
 áb|schließen : להשלים; לנעול 
 áb|schrecken, schreckte ab, hat abgeschreckt : להרתיע
 áb|schütteln + Akk. : להיפטר מ־, להתנער מ־, להשתחרר מ־
+áb|schwören : לוותר על־, למשוך את ידיו מ־
 áb|setzen, setzte ab, hat abgesetzt
   - j-n absetzen : להוריד מישהו איפשהו (ממכונית, בהסעה)
 áb|spülen : wash up
@@ -195,6 +196,7 @@ artikulieren : לבטא, להביע
 aúf|begehren, begehrten auf : למרוד
 s Aufbegehren : מרד
 aufbegehrend : מרדני
+aufbrausend : מהיר־חימה
 r Aufbruch : התפרצות, התעוררות, עזיבה
 e Aufbruchstimmung : אווירת עזיבה
 aúf|decken [vt.] : לזהות; לחשוף
@@ -236,7 +238,6 @@ r Auftritt : appearance, entrance, performance
 aúf|wachen : להתעורר
 aúf|wachsen : לגדול
 althergebracht : מסורתי
-aufbrausend : מהיר־חימה
 j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   - Der Lehrer forderte die Schüler, pünktlich zu sein.
   - Die Website forderte mich auf, ein neues Passwort einzugeben.
@@ -388,6 +389,8 @@ béi|steuern [vt.] : לתרום
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
 bekanntgeben [vt.] : להכריז על־
   - öffentlich bekanntgeben : להודיע רשמית
+bekehrt [adj.] : מומר
+e Bekehrung : המרה, המרת דת
 s Bekenntnis (pl. -se) : מסדר (דתי)
 bekunden : לבטא, להראות
   - Interesse bekunden : להראות עניין
@@ -642,8 +645,8 @@ eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
   - eingeweiht sein : to be in the loop
   - in etw.[Akk.] eingeweiht sein : to be privy to s.th.
   - Ich bin in die Pläne des Präsident nicht eingeweiht.
-Einhalt
-  - etw.[Dat.] Einhalt gebieten : to put an end to s.th.
+r Einhalt : סוף
+  - etw.[Dat.] Einhalt gebieten : לרסן; לשים למשהו סוף
 eín|jagen
   - j-m einen Schreck(en) einjagen : להפחיד מישהו
   - j-m Angst einjagen : להפחיד מישהו
@@ -705,7 +708,14 @@ s Entsetzen : זעזוע
   - sprachlos vor Entsetzen : מזועזע עד אין מילים
 entweder ... oder ... : או ... או ...
 entwickeln : לפתח
-ergreifen [vt.] : לקחת; לתפוס; ללכוד
+erachten, erachtete, hat erachtet [vt.] : לשקול; לראות כ־, לתפוש כ־
+  - als notwendig erachten : לראות כהכרחי
+  - als sinnvoll erachten : לראות כמתקבל על הדעת
+s Erachten : דֵעה
+  - meines Erachtens : לדעתי
+e Erachtung : דֵעה
+  - meiner Erachtung nach : לדעתי
+ergreifen, ergriff, hat ergriffen [vt.] : לקחת; לתפוס; ללכוד
 erhalten : לקבל
 ermutigen [vt.] : לעודד
   - j-n ermutigen, etwas zu tun : לעודד מישהו לעשות משהו
@@ -964,11 +974,13 @@ geben (gibt), gab, hat gegeben [vt.] : לתת
   - sich[Akk.] unnahbar geben : לשחק את עצמו קשה להשגה
   - sich[Akk.] wichtig geben : לעשות את עצמו חשוב
   - sich[Akk.] zu erkennen geben : לחשוף את זהותו
+gebieten [vt.] : לדרוש
+  - [Dat.] [Akk.] gebieten : לדרוש משהו ממישהו
+  - [Dat.] Einhalt gebieten : לרסן; לשים למשהו סוף
 geboren [adj.] : נולד
   - geboren werden : להיוולד
 e Geburt (pl. -en) : לידה
 r Geburtshelfer, e Geburtshelferin : מיילד/ת
-j-m etw. gebieten : to command, to demand
 e Gebühr (pl. -en) : שכר, עלות, אגרה, עמלה
 gedrillt
   - hart gedrillt
@@ -1135,6 +1147,7 @@ halbmast [adv.]
   halbmast flaggen
 halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
+e Halle (pl. -n) : אולם; מסדרון, פרוזדור; היכל
 vor nichts haltmachen : to stop at nothing
 s Handwerk : משלח‏־יד
 hängen, hängte, hat gehängt : לתלות (כביסה)
@@ -1566,6 +1579,7 @@ organisiern [vt.] : לארגן
 r Orkan (pl. -e)
 
 = P =
+s Pack (pl. -s) : להקה (של כלבים, זאבים, וכו')
 Palmsonntag : Palm Sunday
 panisch : panic-fueled, freaked out
 parieren : to counter
@@ -1629,6 +1643,7 @@ rasant : במהירות, בקצב מסחרר
 rasch [adj.] : מהיר, זריז
 raten, riet, hat raten [vt.] : לנחש
 rauchen : לעשן
+räudig [adj.] : mangy
 s Recht : זכות
 rechtfertigen, rechtfertigte, hat gerechtfertigt [vt.] : להצדיק
   - sich rechtfertigen : להצדיק את עצמו
@@ -1941,6 +1956,8 @@ todbereit
 r Ton (pl. Tone, Töne) : צליל
   - den Ton angeben : לתת את הטון, לקבוע את סדר היום
   - den richtigen Ton treffen : למצוא את הצליל המתאים, להתאים למקום ולסיטואציה
+s Tor : שער
+e Torhalle : אולם השער ?
 töten : להרוג
 tragen : לשאת; ללבוש
 trainieren [vt.] : לתרגל, להתאמן
@@ -1953,6 +1970,7 @@ treten : לצעוד, לבוא, לבעוט, לדרוך; להפוך
 e Treue : נאמנות
 r Treuhänder (= pl.) : אפוטרופוס, נאמן
 e Treuhänderin (pl. -nen) : אפוטרופוסית, נאמנה
+treulos [adj.] : בלתי נאמן, בוגדני
 trillern : לעשות טריל, לסלסל
   - Die Lerche trillt. : העפרוני מצייץ.
 trinken : לשתות
@@ -1982,13 +2000,17 @@ e Überflutung : הצפה
 überholen, überholte, hat überholt [vt.] : לחלוף, לעבור על פני
 e Überlegenheit : עליונות, שליטה
 übernehmen, übernahm, hat übernommen [vt.] : לקבל/לקחת (אחריות; הצעה)
-überzeugen : לשכנע
-to assume (responsibity/liability), to take (an offer)
 j-n überrumpeln : להפתיע, להערים על
 übertragen, übertrug, übertragen [vt.] : להעביר, למסור, לשדר
 übertragen [adj.] : שנמסר
 überwinden, überwand, hat überwunden [vt.] : להתגבר על־
   - „Der Mensch ist Etwas, das überwunden werden soll.״ [Friedrich Nietzsche, Also sprach Zarathustra]
+überzeugen : לשכנע
+überziehen, überzog, hat überzogen [vt.] : לכסות; למשוך משיכת יתר (מחשבון)
+über|ziehen, zog über, hat übergezogen [vt.] : ללבוש
+  - j-m [Akk.] überziehen : להלביש למישהו משהו
+  - sich[Dat.] [Akk.] überziehen : ללבוש משהו
+s Überziehen : כיסוי, הגנה
 übrig [adj.] : שנשאר
   - übrig bleiben : להישאר
 umarmen : לחבק
@@ -2019,6 +2041,7 @@ umzingelt : מוקף
 unausgesetzt [adj.] : קבוע, ללא הרף
 unausweichlich [adj.] : בלתי־נמנע
 unausweichlich [adv.] : באופן בלתי־נמנע
+unabdingbar [adj.] : חיוני, הכרחי
 uneins : מפולג, מפוצל, מחולק
 unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
@@ -2127,7 +2150,7 @@ verkacken : to fuck s.th. up
 sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
   in j-n verknallt sein
 verkrüppelt [adj.] : בעל מום, שהוטל בו מום
-verkümmert
+verkümmert [adj.] : stunted
 verkünden [vt.] : להכריז, להכריז על־
 verlassen : לנטוש
 verletzen : לפצוע; לפגוע; לגרום נזק
@@ -2145,6 +2168,8 @@ veröffentlichen, veröffentlichte, veröffentlicht [vt.] : לפרסם
 j-n verprügeln : to beat s.o. up
 verrecken : למות, ללכת פייפן, להיגמר
 versammelt : assembled, convened
+versäumen [vt.] : להחמיץ, להחטיא, להזניח, להשמיט
+  - eine Gelegenheit versäumen : להחמיץ הזדמנות
 verschaffen : to provide
   sich[Dat.] etw. verschaffen : to gain, to wrangle
 e Verschärfung : aggravation, worsening
@@ -2203,15 +2228,21 @@ verwerfen, verwarf, hat verworfen [vt.] : לדחות, לבטל, לסרב ל־
   - einen Vorschlag / eine Idee verwerfen : לדחות הצעה
   - Änderungen verwerfen : לבטל שינויים
 sich verwicklichen, verwirklichte sich, hat sich verwirklicht : להתממש, לבוא לידי מימוש, להתגשם
+verwildert [adj.] : פרוע
 verzeihen : לסלוח
 s Vieh : בקר
+viel [adj.] : רב(ים)
+viel [adv.] : הרבה
 vielerorts : בהרבה מקומות
   - Der Handel mit Elfenbein ist vielerorts verboten.
+e Vielgötterei : פוליתאיזם
+r Vielgötterglaube : אמונה פוליתאיסטית, פוליתאיזם
+e Vielgötterwelt : העולם הפוליתאיסטי
 vierfach : מרובע, כפול־ארבע
 s Volk (pl. Völker) : עם
 e Völkerverbrüderung : אחוות עמים
 r Vollidiot : אידיוט מושלם
-e Vollzeit
+e Vollzeit : משרה מלאה; פעילות שנמשכת בכל שעות העבודה
 - Vollzeit-Programm
 - Vollzeit-Berufstätige
 - Vollzeit-Professor
