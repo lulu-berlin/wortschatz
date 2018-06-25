@@ -273,6 +273,8 @@ e Auftaktkundgebung : initial demonstration
 aúf|tischen : להגיש (אוכל)
 aúf|wachen : להתעורר
 aúf|wachsen : לגדול
+aúf|werfen, warf auf, hat aufgeworfen [vt.] : להעלות, לעורר, להציב
+  - Fragen aufwerfen : לעורר שאלות
 aús|bleiben : להישאר בחוץ, להיעדר, לא להופיע
 s Ausbleiben : היעדרות
 aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, לברוח לחופשי
@@ -532,6 +534,7 @@ blasen (bläst), blies, hat geblasen : לנשוף
 blau [adj.] : כחול
 bleiben, blieb, ist geblieben [vi.] : להישאר
   - übrig bleiben : להישאר
+  - sitzen bleiben : להישאר לשבת
 blöken : לפעות
   - Das Schaf blökt. : הכבשה פועה
 blutdurchtränkt : ספוג בדם
@@ -1204,6 +1207,7 @@ e Halle (pl. -n) : אולם; מסדרון, פרוזדור; היכל
 vor nichts haltmachen : to stop at nothing
 e Hand (pl. Hände) : יד, כף יד
   - j-m freie Hand lassen : לתת למישהו יד חופשית
+  - Hände halten : להחזיק ידיים
 s Handwerk : משלח‏־יד
 hängen, hängte, hat gehängt : לתלות (כביסה)
 hängen, hing, hat gehängt : להיות תלוי (פוסטר), להיאחז במשהו
@@ -1622,6 +1626,8 @@ nah [adj.] : קרוב
 nahen, nahte, genaht : להיות קרוב, להתקרב
   - sich ([Dat.]) nahen [veralt.] : להתקרב ל־
 nahend : imminent, approaching, forthoming
+e Nase (pl. -n) : אף
+  - die Nase putzen : לקנח את האף
 nass [adj.] : רטוב
   - nass werden : להירטב
 nassforsch [adj.] : נמהר
@@ -1642,6 +1648,7 @@ níeder|ringen, rang nieder, niedergerungen : לבלות (לגרום לבליי�
 níeder|schlagen, schlug nieder bin/hat niedergeschlagen :
   - [Akk.] niederschlagen : להביס, לדכא, להכניע, למוטט
   - in + [Akk.] sich niederschlagen : לבוא לידי ביטוי ב־
+niesen, nieste, geniest : להתעטש
 nimmermehr : לעולם לא עוד, שוב לא
 nörgeln [ugs.] : לרטון, להתלונן
   - meckern und nörgen : to bitch and moan
@@ -1722,6 +1729,7 @@ s Pulver : אבקה
 r Pulverdampf : עשן יריה
 s Pulverfass : חבית אבקת שריפה
 putzen : לנקות
+  - die Nase putzen : לקנח את האף
 
 = Q =
 quaken, quakte, hat gequakt [vt.] : לגעגע
@@ -1950,6 +1958,8 @@ singen : לשיר; לצייץ (ציפור)
   - Der Vogel singt.
 sinken, sank, gesunken
   - mir sank das Herz in die Hose : נפל לי הלב לתחתונים
+sitzen, saß, ist gesessen : לשבת
+  - sitzen bleiben : להישאר לשבת
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
 so [adv.]
@@ -1998,7 +2008,10 @@ starr [adj.] : קשיח, נוקשה, קשה
 starren, starrte, hat gestarrt [vt.] : לבהות
 starten : להתחיל
 r Startschuss : יריית הפתיחה
+r Stau (pl. -s) : פקק תנועה
+  - im Stau stehen : לעמוד בפקק
 stehen, stand, gestanden : לעמוד
+  - im Stau stehen : לעמוד בפקק
 sterben (stirbt), starb, ist gestorben [vi.] : למות
 e Sternstunde (pl. -n) : רגע קסום, רגע גדול
 stets [adv.] : תמיד
@@ -2006,6 +2019,8 @@ im Stich lassen : leave s.o. high and dry
 stoppen : לעצור, להפסיק
 stoßen : לנגוח, לדחוף
   - auf +[Akk.] stoßen : להיתקל ב־
+e Strafe : עונש
+  - eine Strafe verbüßen : לרַצות עונש
 e Straße (pl. -n) : רחוב
 r Streich (pl. -e) : trick, prank, hoax, joke
 r Streifen (= pl.) : רצועה, סרט, פס
@@ -2234,8 +2249,12 @@ verblassen - לדהות
 verbannen : להחרים, להגלות
 verbannt : מוחרם
 verbieten : לאסור
+verbringen, verbrachte, hat verbracht [vt.] : להעביר (זמן), לבלות (זמן)
+  - Zeit verbringen : להעביר את הזמן
 verbürgen, verbürgte, verbürgt + Akk : לאשר, לאמת, להוכיח
   - sich für + Akk. verbürgen : להעיד לטוב, לערוב ל־
+verbüßen, verbüßte, verbüßt [vt.] : לרַצות (עונש)
+  - eine Strafe verbüßen : לרַצות עונש
 r Verdacht (pl. -e, Verdächte) : חשד
   - Verdacht erregen : לעורר חשד
 verdächtig [adj.] : חשוד
@@ -2315,6 +2334,8 @@ verschlossen : סגור, חתום, נעול
 verschmutzt : messy
 verschnaufen : להתאושש
   - verschnaufen lassen : לתת (למישהו) להתאושש, לאפשר (למישהו) להתאושש
+verschwenden, verschwendete, hat verschwendet [vt.] : לבזבז
+  - Zeit verschwenden : לבזבז זמן
 e Verschwendung : extravagance, waste
   - Eine Verschwendung meiner kostbaren Zeit
   - Die Verschwendung natürlicher Ressourcen
@@ -2436,6 +2457,8 @@ wappnen : לחמש
   - sich gegen + [Akk.] wappnen : להתכונן נגד משהו
 warten : לחכות
 waschen : לשטוף, לרחוץ
+wedeln, wedelte, hat gewedelt : לכשכש
+  - mit dem Schwanz wedeln : לכשכש בזנב
 weder ... noch ... : לא ... ולא ...
 r Weg (p. -e) : דרך
 weg von [präp.] : הרחק מ־
@@ -2459,11 +2482,12 @@ wesentlich : בסיסי, מהותי, חשוב, עיקרי
 wettern : לגנות, לנגח
 s Wettrüsten : מירוץ חימוש
 r Widerpart : יריב
+widerrúfen : to revoke, to withdraw, to rescind, to repeal
 r Widersacher : יריב
 sich widersetzen, widersetzte sich, hat sich widersetzt
   - sich[Akk.] [Dat.] widersetzen : להתריס כנגד, להתנגד ל־, לעמוד כנגד, לא לציית ל־
-widersprechen : לסתור
-widerrúfen : to revoke, to withdraw, to rescind, to repeal
+widersprechen, widersprach, widersprochen : לסתור
+  - j-m widersprechen : להמרות את פיו של מישהו
 widmen : להקדיש
 e Wiederaufnahme : חידוש
   - schnelle Wiederaufnahme : חידוש מהיר
@@ -2507,6 +2531,7 @@ zeigen [vt.] : להראות; לסמן
 e Zeit : זמן
   - Die Zeit ist um. : נגמר הזמן.
   - Wurde auch zeit : הגיע הזמן באמת
+  - Zeit verbringen : להעביר את הזמן
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 Zermürbend [adj.] : מתיש, מפרך
 zerrinnen, zerrann, nat zerronnen : להתפוגג, להיעלם
