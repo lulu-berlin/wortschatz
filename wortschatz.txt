@@ -101,6 +101,7 @@ Almosen (pl.) : צדקה, נדבה
 als : כ, כמו
   - als ob
   - so tun, als ob ... : לעשות כאילו ש־
+alt [adj.] : זקן
 althergebracht : מסורתי
 e Ampel (pl. -n) : רמזור
 án|beten : להעריץ
@@ -673,6 +674,7 @@ einen : לאחד
 eín|beziehen, bezog ein, hat einbezogen [vt.] : לכלול, לערב, לצרף
 eín|dämmen + Akk. : לעצור, לשים סוף ל־, לחסום
 eín|dämmern : להירדם, לשקוע בשינה
+einfach [adj.] : פשוט, קל
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
 eín|führen : להציג, להפגיש, לערוך היכרות
@@ -912,6 +914,7 @@ e Fasson : סגנון, אופנה
   - aus der Fasson geraten : לצאת מהאופנה, להפסיק להיות באופנה
   - jeder nach seiner Fasson : כל אחד לפי דרכו
   - jeder nach seiner Fasson selig werden : להיות שמח, כל אחד לפי דרכו
+faul [adj.] : עצלן
 s Faustpfand : קלף מיקוח
 fegen [vt.] : לטאטא
 feiern : לחגוג
@@ -939,6 +942,7 @@ finden, fand, hat gefunden [vt.] : למצוא
 sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
+fleißig [adj.] : חרוץ
 fliegen, flog, ist geflogen [vi.] : לטוס
 fliegen, flog, hat geflogen [vt.] : להטיס
 fliehen, floh, ist geflohen [vi.] : לברוח
@@ -1222,6 +1226,7 @@ s Handwerk : משלח‏־יד
 hängen, hängte, hat gehängt : לתלות (כביסה)
 hängen, hing, hat gehängt : להיות תלוי (פוסטר), להיאחז במשהו
 hassen [vt.] : לשנוא
+hässlich [adj.] : מכוער
 e Hassliebe : אהבה־שנאה, יחסי אהבה־שנאה
 s Haupt : ראש
 r Hauptbahnhof (pl. Hauptbahnhöfe) : תחנת רכבת מרכזית
@@ -1396,6 +1401,11 @@ jedenfalls [adv.] : איך שלא יהיה, בכל מקרה
 jucken + Akk. : לגרד
   - es juckt mich : זה מגרד לי
 e Jugendherberge : אכסנית נוער
+jugendlich [adj.] : צעיר
+r Jugendliche : בחור
+e Jugendliche : בחורה
+jung [adj.] : צעיר
+r Junge (pl. Jungen, Jungs [ugs.]) : ילד, נער
 
 = K =
 kämmen, kämmte hat gekämmt [vt.] : לסרק, לסרוק
@@ -1420,6 +1430,7 @@ e Kirche (pl. -n) : כנסיה
 kläglich : אומלל
 klar [adj.] : ברור
   - Für mich ist ganz klar, dass : לי לגמרי ברור ש
+klein [adj.] : קטן
 e Kleinigkeit (pl. -en) : פרט קטן, עניין קטן, עניין פעוט
   - das ist eine Kleinigkeit! : זה עניין פעוט!
   - eine Kleinigkeit zu sich nehmen : לאכול משהו קטן
@@ -1513,6 +1524,7 @@ leiten : להדריך
 e Leitfigur : דמות מובילה, דמות מרכזית
 e Lektion : שיעור
   - j-m eine Lektion sein : ללמד מישהו שיעור
+leicht [adj.] : קל
 leihen [vt.] : להלוות
 e Leine (pl. -n) : רצועה, חבל, חוט
   - an der Leine / an die Leine : ברצועה
@@ -1806,6 +1818,7 @@ r Revoluzzer : מורד, מיליטנט
 riechen [vt.] : להריח
   - nach + [Dat.] riechen : להריח כמו, להפיץ ריח של
   - j-n nicht riechen können [ugs.] : לא לסבול מישהו
+riesig [adj.] : ענק
 ringen : להיאבק
 s Ringen : מאבק, היאבקות
 riskant [adj.] : מסוכן
@@ -1915,6 +1928,7 @@ r Schnurrbart : שפם
 e Schnurrbartspitze (pl. -n) : קצה השפם
 schnurren : לגרגר (כמו חתול)
 s Schnurren : גרגור (של חתול)
+schön [adj.] : יפה
 r Schrank (pl. Schränke) : ארון
 e Schranke (pl. -n) : גבול, שער
   - in Die Schranken weisen : להגביל, לשים גבול
@@ -1940,6 +1954,7 @@ schuldig [adj.] : אשם
   - niemandem Rechenschaft schuldig : שאינו נותן דין וחשבון
 e Schusslinie (pl. -n) : קו האש
 e Schusswaffe (pl. -n) : נשק חם
+schwach [adj.] : חלש
 r Schwachkopf (pl. Schwachköpfe) : אידיוט, חסר־מוח
 r Schwachsinn (~pl.) : טיפשות, דביליות
 e Schwalbe : סנונית
@@ -1948,6 +1963,7 @@ r Schwan (pl. Schwäne) : ברבור
 schwarz [adj.] : שחור
   - Es ist nicht alles schwarz oder weiß im Leben : לא הכול שחור-לבן בחיים
 schweigen : להיות בשקט, לשתוק
+schwer [adj.] : כבד
 s Schwert : חרב
 schwierig [adj.] : קשה, מסובך, מורכב
 e Schwierigkeit : קושי, בעיה
@@ -2029,6 +2045,7 @@ standhaft : נחוש
 e Stange (pl. -n) : מוט
   - vor der Stange : מוכן מראש, רדימייד
   - bei der Stange bleiben : להתמיד, להישאר עם זה
+stark [adj.] : חזק
 starr [adj.] : קשיח, נוקשה, קשה
 starren, starrte, hat gestarrt [vt.] : לבהות
 starten : להתחיל
@@ -2540,6 +2557,7 @@ wiehern : לצהול, לצנוף
   - Das Pferd wiehert.
 e Wiese : דשא
   - auf der Wiese liegen : לשכב על הדשא
+winzig [adj.] : זעיר
 r Witwenschleier : רעלת אלמנה
 r Wolf (pl. Wölfe) : זאב
   - einsamer Wolf : זאב בודד
