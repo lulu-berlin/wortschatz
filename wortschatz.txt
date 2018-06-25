@@ -513,6 +513,7 @@ blanko [adv.] : ריק, חלק
 r Blankoscheck : צ'ק פתוח
 blasen (bläst), blies, hat geblasen : לנשוף
   - j-m einen blasen [ugs.] : למצוץ למישהו, לבצע מין אוראלי
+blau [adj.] : כחול
 bleiben, blieb, ist geblieben [vi.] : להישאר
   - übrig bleiben : להישאר
 blöken : לפעות
@@ -524,6 +525,7 @@ r Bösewicht (pl. Bösewichte, Bösewichter) : נבל
 s Bollwerk : סוללה, ביצור
 braten (brät/bratet), briet, hat gebraten [vt.] : לטגן
 brauchen, brauchte, hat gebraucht [vt.] : להצטרף
+braun [adj.] : חום
 e Brause : טוש
 Brausekopf : הראש של הטוש
 brechen (bricht), brach, hat gebrochen [vt.] : לשבור
@@ -595,6 +597,7 @@ drüben
 drucken : להדפיס
 s Drucken : דפוס
 drücken : ללחוץ, לדחוף
+dunkelgrün [adj.] : ירוק בהיר
 dünkelhaft [adj.] : יהיר, מלא חשיבות עצמית
 dúrch|brechen : to break through, to disrupt
 r Durchbruch : פריצת דרך; שבר, סדק
@@ -1017,6 +1020,7 @@ gehören : להשתייך, להיות שייך ל־
 geistesabwesend : פזור דעת, מפוזר, לא מרוכז
 gelähmt [adj.] : משותק
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
+gelb [adj.] : צהוב
 s Geleit (pl. -e) : escort
 gelingen, gelang, ist gelungen [vt.] : להצליח
 geloben [vt.] : להישבע, לנדור
@@ -1112,6 +1116,7 @@ glücken : להצליח, להיות מוצלח
   - Es wollte einfach nicht glücken.
 e Glut : גחל
 e Gnade : חסד
+gold [adj.] : בצבע זהב
 r Gott : אלוהים
 gottgefällig [adj.] : אלוהי; בהתאם לרצון האל
 r Götze (pl. -n) : אליל
@@ -1120,6 +1125,7 @@ r Götzendiener : עובד אלילים
 graben (gräbt), grub, hat gegraben [vt.] : לחפור
 gratulieren, gratulierte, hat gratuliert : לברך "מזל טוב"
   - Gratuliere! : מזל טוב!
+grau [adj.] : אפור
 r Gräuel (= pl.) : זוועה, מעשה נפשע
 greifen, griff, hat gegriffen [vt.] : לתפוס
 s Gremium (pl. Gremien) : מועצה, ועד מנהל
@@ -1145,6 +1151,7 @@ Großmannssucht : שגעון גדלות, אגומאניה
 e Gründung : establishment, foundation
 s Gründungsmythos / -us (pl. Gründungsmythen) : מיתוס מכונן
 e Gülle : דשן, זבל
+grün [adj.] : ירוק
 s Gut : נכס; רכוש; אחוזה
 r Gutsherr : בעל אחוזה 
 
@@ -1183,6 +1190,7 @@ heiraten : להתחתן
 heissen : להיקרא
 heizen : לחמם
 helfen : לעזור
+hellblau [adj.] : כחול בהיר
 r Henker : תליין
 e Henne : תרנגולת; ציפור ממין נקבה
   - Die Henne gluckt. : התרנגולת מקרקרת
@@ -1441,6 +1449,7 @@ letztere [adj.] : האחרון, ההוא (בניגוד ל"זה")
 lieben, liebte, hat geliebt [vt.] : לאהוב
 r Liebeskummer (~pl.) : כאב לב, להיות חולה אהבה
 liefern : לשלוח
+lila [adj.] : סגול
 e List (pl. -en) : עורמה
 locker : casual, easy, loose, lax
 lockern : to become loose, to relax, to release
@@ -1596,6 +1605,7 @@ r Ohrendruck : ear pressure
 e Ohrfeige (pl. -n) : סטירת לחי
 e Ölsardine (pl. -n) : סרדינים בשמן
   - wie die Ölsardinen : כמו סרדינים (על צפיפות)
+orange [adj.] : כתום
 r Orden (= pl.) : מסדר; מדליה
 ordnen [vt.] : לארגן
 organisiern [vt.] : לארגן
@@ -1702,8 +1712,10 @@ riskant [adj.] : מסוכן
 riskieren + Akk. : לסכן, לקחת סיכון, להסתכן ב־
 r Rivale : יריב
 r Rohstoff (pl. -e) : חומר גלם
+rosa [adj.] : ורוד
 r Rosenkranz (pl. Rosenkränze) : מחרוזת תפילה
   - den Rosenkranz beten : להתפלל עם מחרוזת תפילה
+rot [adj.] : אדום
 e Rotte : עדר, להקה
 rücken : לזוז
 r Rücken (= pl.) : גב
@@ -2019,6 +2031,7 @@ r Truthahn : תרנגול הודו
   - Die Truthahn kollert.
 e Tür (pl. -en) : דלת
   - hinter verschlossenen Türen : בחדרי חדרים
+türkis [adj.] : טורקיז
 
 = U, Ü =
 übel [adj.] : רע, נורא
@@ -2278,6 +2291,7 @@ e Vielgötterei : פוליתאיזם
 r Vielgötterglaube : אמונה פוליתאיסטית, פוליתאיזם
 e Vielgötterwelt : העולם הפוליתאיסטי
 vierfach : מרובע, כפול־ארבע
+violett [adj.] : סגול
 s Volk (pl. Völker) : עם
 e Völkerverbrüderung : אחוות עמים
 r Vollidiot : אידיוט מושלם
