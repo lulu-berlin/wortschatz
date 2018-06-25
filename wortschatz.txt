@@ -197,8 +197,9 @@ r Arbeiter : עובד, פועל
 e Arbeiterschaft : כוח עבודה, כלל העובדים
 arglos : תמים, לא חושד
 r Argwohn (gegen j-n) : חשד, חוסר אמון
-Arm : זרוע
-  j-n auf den Arm nehmen : לעבוד על מישהו
+Arm : זרוע, יד
+  - j-n auf den Arm nehmen : לעבוד על מישהו
+  - Mir ist der Arm eingeschlafen : נרדמה לי היד
 e Armut (~pl.) : עוני
   - äußerste Armut : עוני קיצוני
   - bittere Armut : עוני מר
@@ -206,6 +207,10 @@ arrogant [adj.] : יהיר
 Arsch
   im Arsch : fucked up, messed up
 artikulieren : לבטא, להביע
+auch : גם
+  - oder was auch immer : או מה שזה לא יהיה
+  - oder wann auch immer : או מתי שזה לא יהיה
+  - oder wer auch immer : או מי שזה לא יהיה
 aúf|begehren, begehrten auf : למרוד
 s Aufbegehren : מרד
 aufbegehrend : מרדני
@@ -363,6 +368,8 @@ beabsichtigen [vt.] : להתכוון, לתכנן
 beantragen [vt.] : להגיש בקשה
 beargwöhnt : נחשד
   - beargwöhnt werden - זוכה ליחס חשדני
+r Bedarf : צורך
+  - kein Bedarf : אין צורך
 bedecken : לכסות
 e Bedeutung : משמעות
   - von Bedeutung sein : להיות חשוב, להיות בעל־חשיבות
@@ -854,6 +861,8 @@ e Errungenschaft : הישג
 erschaffen : ליצור
 erschallen, erschallte, erschallt : להשמיע צליל
 erschöpfen : to exhaust, to wear out
+erschrecken : להבהיל
+  - Ich wollte dich nicht erschrecken : לא התכוונתי להבהיל אותך
 ersehnt : נכסף
 e Erstarrung : התקבעות, התגבשות
 j-n erstechen : to stab s.o.
@@ -1114,6 +1123,7 @@ e Gesinnung : עמדה, מצב, אתוס, רגש
 gesinnungstreu [adj.] : נאמן
 gespalten [adj.] : מפוצל
 s Gespenst (pl. -er) : רוח רפאים
+  - Ich glaube nicht an Gespenster : אני לא מאמין ברוחות־רפאים
   - Gespenster-Seherei
 gestehen : להודות
 gesträubt [adj.] : פרוע
@@ -1326,6 +1336,8 @@ e Höchstleistung : שיא הכוח, שיא העוצמה, שיא היעילות
 höchstpersönlich : אישי ביותר
 r Hof (pl. Höfe) : חצר
 höflich [adj.] : מנומס
+e Höhenangst : פחד גבהים
+  - Höhenangst haben : לפחד מגבהים, יש לו פחד גבהים
 r Höhepunkt (pl. -e) : נקודת שיא
 hören, hörte, hat gehört [vt.] : לשמוע
 s Hotel (pl. -s) : מלון
@@ -1334,6 +1346,10 @@ s Hotel (pl. -s) : מלון
 r Idiot (pl. -en) : אידיוט
 e Idiotin (pl. -nen) : אידיוטית
 ignorieren : להתעלם מ־
+immer [adv.]
+  - oder was auch immer : או מה שזה לא יהיה
+  - oder wann auch immer : או מתי שזה לא יהיה
+  - oder wer auch immer : או מי שזה לא יהיה
 imposant : impressive, monumental
 imstande (~im Stande) [adv.] : מסוגל
   - imstande sein : להיות מסוגל
@@ -1354,6 +1370,9 @@ innen [adv.] : פְּנִים
 innenpolitisch [adj.] : פנים־פוליטי, של פוליטיקה פנימית
 insgesamt [adv.] : בסך הכול; באופן כללי; בגדול
 inspirieren : להשרות, להאציל, לעורר
+r Instinkt (pl. -e) : אינסטינקט
+instinktiv [adv.] : באופן אינסטינקטיבי
+  - ich habe instinktiv gehandelt : פעלתי באינסטינקטיביות
 interessiert
   - an + [Akk.] interessiert sein : להיות מעוניין ב־
 r Intimfeind : אויב מושבע, ארכי‏־אויב
@@ -1389,6 +1408,8 @@ kannibalisch [adv.] : באופן קניבאלי
 karg : דליל
 kaufen : לקנות
 r Keil (pl. -e) : טריז
+kennen, kannte, hat gekannt [vt.] : להכיר
+  - Ich kenne jemanden, der jemanden kennt : אני מכיר מישהו שמכיר מישהו
 r Kerker (= pl.) : צינוק
 e Kernfrage : השאלה המרכזית, העניין העיקרי
 r Ketzer : כופר
@@ -1397,6 +1418,8 @@ s Keuchen : נשימה כבדה
 s Kino (pl. -s) : בית קולנוע
 e Kirche (pl. -n) : כנסיה
 kläglich : אומלל
+klar [adj.] : ברור
+  - Für mich ist ganz klar, dass : לי לגמרי ברור ש
 e Kleinigkeit (pl. -en) : פרט קטן, עניין קטן, עניין פעוט
   - das ist eine Kleinigkeit! : זה עניין פעוט!
   - eine Kleinigkeit zu sich nehmen : לאכול משהו קטן
@@ -1667,6 +1690,8 @@ ob
   - als ob
   - so tun, als ob ... : לעשות כאילו ש־
 r Ochse : שור
+oder : או
+  - oder was auch immer : או מה שזה לא יהיה
 offenbaren : to reveal, to disclose
   sich offenbaren : to manifest itself
 öffnen : לפתוח
@@ -2016,6 +2041,8 @@ sterben (stirbt), starb, ist gestorben [vi.] : למות
 e Sternstunde (pl. -n) : רגע קסום, רגע גדול
 stets [adv.] : תמיד
 im Stich lassen : leave s.o. high and dry
+stimmen, stimmte, hat gestimmt : להיות נכון
+  - Das stimmt meiner Meinung nach nicht : לדעתי זה לא נכון
 stoppen : לעצור, להפסיק
 stoßen : לנגוח, לדחוף
   - auf +[Akk.] stoßen : להיתקל ב־
@@ -2159,6 +2186,11 @@ j-n überrumpeln : להפתיע, להערים על
 s Überziehen : כיסוי, הגנה
 übrig [adj.] : שנשאר
   - übrig bleiben : להישאר
+e Uhr (pl. -en) : שעון
+r Uhrzeiger : מחוג
+r Uhrzeigersinn : כיוון השעון
+  - im Uhrzeigersinn : עם כיוון השעון
+  - gegen den Uhrzeigersinn : נגד כיוון השעון
 um [adv.]
   - Die Zeit ist um. : נגמר הזמן.
 umarmen : לחבק
@@ -2175,6 +2207,8 @@ umgekehrt : the other way round
 úm|gestalten, gestalte um, hat umgestaltet [vt.] : לשנות, לעשות טרנספורמציה, לארגן מחדש, לעצב מחדש
 úm|reißen [vt.] : להתוות
 úm|schwenken : לשנות צד
+umsonst [adv.] : לשווא
+  - Das war nicht umsonst : זה לא היה לשווא
 úm|stimmen + Akk. : לשנות (דעה)
 r Umsturz : הפיכה
 r Umstürzler : מהפכן
@@ -2206,7 +2240,10 @@ e Untat : פשע
 untätig : לא פעיל
 únter|gehen, ging unter, ist untergegangen [vi.] : לשקוע (שמש); לרדת למטה; להפסיד
 únter|legen + Akk. : לשים מתחת
-untersagt : prohibited
+r Unterricht (pl. -e) : שיעור
+  - Heute ist kein Unterricht : היום אין שיעור
+unterrichten, unterrichtete, hat unterrichtet [vt.] : ללמד, להעביר שיעור
+untersagt : אסור, מנוע
 unterschreiben : לחתום
 unterscheiden, unterschied, hat unterschieden [vt.] : להבחין
   - sich unterscheiden : להיבדל, להיות מובחן, להיות שונה
