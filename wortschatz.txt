@@ -4,9 +4,9 @@
   - nach rechts abbiegen : לפנות ימינה
 áb|danken : לוותר על כס המלוכה, להתפטר
 e Abdankung : ויתור על כס המלכות, התפטרות
-r Abend : ערב
+r Abend (pl. -e) : ערב
   - zu Abend essen : לאכול ארוחת ערב
-áb|feuern : to fire off
+áb|feuern, feuerte ab, hat abgefeuert [vt.] : לירות, לשגר
 e Abgabe : שחרור, העברה, מס
 áb|grenzen : להגביל, לסמן את הגבול
   - sich von + [Dat.] abgrenzen : להיות מובחן מ־, להיבדל מ־
@@ -30,9 +30,10 @@ j-n áb|ordnen : to delegate s.o.
 áb|raten, riet ab, hat abgeraten : לייעץ נגד, לשכנע לא לעשות משהו
   - j-m von + [Dat.] abraten : לשכנע מישהו לא לעשות משהו
 s Abraten : ריפוי ידיים, שכנוע נגדי; גירוש
-e Abrede : undestanding
-  mündliche Abrede : oral agreement
-  etw. in Abrede stellen : to deny s.th., to disavow s.th.
+e Abrede : הבנה, הסכמה, הסכם
+  - mündliche Abrede : הסכמה בעל פה
+  - etw. in Abrede stellen : to deny s.th., to disavow s.th.
+  - eine Abrede treffen : להסכים באופן לא פורמאלי
 áb|reißen : to tear s.th. off, to demolish, to tear down
   sich abreißen : to be torn, to tear off (v.i.)
 áb|regen, regte ab, abgeregt
@@ -44,6 +45,12 @@ e Abrede : undestanding
 áb|schrecken, schreckte ab, hat abgeschreckt : להרתיע
 áb|schütteln + Akk. : להיפטר מ־, להתנער מ־, להשתחרר מ־
 áb|schwören : לוותר על־, למשוך את ידיו מ־
+s Abseits : הערה צדדית; בידוד
+abseits [adv.] : הרחק, הצידה
+  - sich abseits halten : hold oneself apart
+  - sich von + [Dat.] abseits halten : keep aloof from sth.
+abseits + [Dat.] [präp.] : הרחק מ־
+  - abseits von + [Dat.] : הרחק מ־
 áb|setzen, setzte ab, hat abgesetzt
   - j-n absetzen : להוריד מישהו איפשהו (ממכונית, בהסעה)
 áb|spülen : wash up
@@ -58,7 +65,7 @@ abwendbar [adj.] : נמנע, שניתן להימנע ממנו
 áb|wischen, wischte ab, hat abgewischt [vt.] :
   - [Akk.] (von + [Dat.]) abwischen : לנגב משהו הרחק ממשהו
   - [Akk.] abwischen : לנגב משהו כדי לנקותו
-s Achselzucken : shrug
+s Achselzucken : משיכת כתף
 j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
 achten : to respect, to esteem
   auf etw. achten : to pay attention to s.th., to take care of s.th.
@@ -92,6 +99,7 @@ Almosen (pl.) : צדקה, נדבה
 als : כ, כמו
   - als ob
   - so tun, als ob ... : לעשות כאילו ש־
+e Ampel (pl. -n) : רמזור
 án|beten : להעריץ
 án|bieten, bot an, hat angeboten [vt.] : להציע
 ändern, änderte, geändert : לשנות
@@ -326,19 +334,25 @@ auswendig : בעל־פה
   - etw. auswendig können : לדעת בעל־פה
   - etw. auswendig aufsagen : לצטט מהזכרון
 aús|ziehen [vt.] : להוריד (בגד); לעזוב (בית)
+s Auto (pl. -s) : רכב, אוטו
 e Axt : גרזן
 
 = B =
 backen, buk, hat gebacken [vt.] : לאפות
+r Bäcker (= pl.) : אופֶה
+e Bäckerei (pl. -en) : מאפיה
+e Bäckerin (pl. Bäckerinnen) : אופָה
 s Bad : בית־שימוש; אמבטיה; מרחצה
   - ein Bad nehmen : להתרחץ
 baden : לרחוץ
   - sich baden : להתרחץ
 e Bahn : רכבת, מסילה, מסלול
+r Bahnhof (pl. Bahnhöfe) : תחנת רכבת
 r Bann : חרם
   - j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 e Bagatelle (pl. -n) : trifle, small matter, trivial issue
 bändigen [vt.] : לאלף, לשלוט
+e Bank (pl. -en) : בנק
 r Bannstrahl : חרם, נידוי, קללה
 bauen : לבנות
 beabsichtigen [vt.] : להתכוון, לתכנן
@@ -539,17 +553,24 @@ brummen : לנהום
   - Der Bär brummt.
 r Buchhalter (= pl.), e Buchhalterin
 s Bündnis : ברית; קואליציה
+r Bürgersteig (pl. -e) : מדרכה
 bürsten : להבריש
+r Bus (pl. Busse) : אוטובוס
 Buße : כפרה
   - Buße tun : לעשות תשובה, לכפר
 büßen : לכפר
   - für + [Akk.] büßen : לכפר על
+Bushaltestelle (pl. -n) : תחנת אוטובוס
 
 = C =
 chillen, chillte, gechillt [ugs.] : להירגע
 
 = D =
 dagegenhalten : לטעון כנגד
+daheim [adv.] : בבית
+  - daheim bleiben : להישאר בבית
+  - weg von daheim : הרחק מן הבית
+s Daheim : הבית
 danken : להודות
 dauerhaft : ארוך־טווח, קבוע, מתמשך
 davón|laufen : לברוח מ־
@@ -597,6 +618,7 @@ drüben
 drucken : להדפיס
 s Drucken : דפוס
 drücken : ללחוץ, לדחוף
+e Druckerei (pl. -en) : בית דפוס
 dunkelgrün [adj.] : ירוק בהיר
 dünkelhaft [adj.] : יהיר, מלא חשיבות עצמית
 dúrch|brechen : to break through, to disrupt
@@ -655,6 +677,9 @@ r Einhalt : סוף
 eín|jagen
   - j-m einen Schreck(en) einjagen : להפחיד מישהו
   - j-m Angst einjagen : להפחיד מישהו
+eín|kaufen, kaufte ein, hat eingekauft [vt.] : לעשות קניות, לקנות
+s Einkaufen : קניות, שופינג
+s Einkaufszentrum (pl. Einkaufszentren) : קניון
 eín|kreisen [vt.] : לבודד, להקיף, לכתר
   - ein Problem einkreisen : לבחון בעיה מכל הכיוונים
 eín|laden [vt.] : להזמין
@@ -858,6 +883,7 @@ r Fahnder (= pl.), e Fahnderin : investigator
 fahren (fährt), fuhr, ist gefahren [vi.] : לנהוג, לנסוע
 fahren (fährt), fuhr, hat gefahren [vt.] : להסיע, להרכיב
 r Fahrkartenschalter : ticket office, ticket counter
+s Fahrrad (pl. Fahrräder) : אופניים
 fallen (fällt), fiel, ist gefallen [vt.] : ליפול
   - mir fiel das Herz in die Hose : נפל לי הלב לתחתונים
   - fallen lassen : להפיל
@@ -905,8 +931,11 @@ fliehen, floh, ist geflohen [vi.] : לברוח
 fließen, floss, ist geflossen [vi.] : לזרום (מים, נהר, וכו')
 e Flinte : רובה ציד
 flirten : לפלרטט
+r Floh (pl. Flöhe) : פשפש
+r Flohmarkt (pl. Flohmärkte) : שוק פשפשים
 fluchen : לקלל
 s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
+r Flughafen (pl. Flughäfen) : נמל תעופה, שדה תעופה
 r Fluss (pl. Flüsse) : נהר; זרם, זרימה
   - in Fluss bringen : להביא לזרימה, לגרום למשהו לזרום
 flussaufwärts : במעלה הנהר
@@ -961,8 +990,9 @@ funkeln : לנצנץ (כוכבים)
 s Funkeln : ניצוץ
 furchtbar : terrible
 r Fürsprecher : advocate
-r Fußgänger, e Fußgängerin : pedestrian
-e Fußgängerzone
+r Fuß (pl. Füße) : כף רגל
+r Fußgänger, e Fußgängerin : הולך רגל
+e Fußgängerzone (pl -n) : מדרחוב
 r Fußmarsch (pl. Fußmärsche) : צעדה
 s Fußvolk : חיל רגלים
 
@@ -971,6 +1001,7 @@ gackern : לקרקר (כמו תרנגול)
   - Die Henne gackert. : התרנגולת מקרקרת
 e Gans (pl. Gänse) : אווז
   - Die Gans schnattert. : האווז מגעגע
+e Gasse, (pl. -n) : סמטה
 geächtet : outlaw(ed)
 e Gebärde : מחווה
 gebärden, gebärdete, hat gebärdet [vt.] : לסמן (בשפת הסימנים), לחוות
@@ -1159,6 +1190,7 @@ r Gutsherr : בעל אחוזה
 haben (hat), hatte, hat gehabt [vt.] : להיות ל־, להחזיק ב־, להיות הבעלים של־
 habhaft
   einer Sache[Gen.] habhaft werden : to get hold of s.th.
+r Hafen (pl. Häfen) : נמל
 halbmast [adv.]
   auf halbmast flaggen / wehen
   halbmast flaggen
@@ -1172,6 +1204,7 @@ hängen, hing, hat gehängt : להיות תלוי (פוסטר), להיאחז ב�
 hassen [vt.] : לשנוא
 e Hassliebe : אהבה־שנאה, יחסי אהבה־שנאה
 s Haupt : ראש
+r Hauptbahnhof (pl. Hauptbahnhöfe) : תחנת רכבת מרכזית
 Häuserschlucht
 heben : להרים
 heftig [adj.] : קשה, כבד, אינטנסיבי
@@ -1281,8 +1314,11 @@ hóch|fahren, fuhr hoch, hat hochgefahren [vt.] : להתחיל, לאתחל, למ
 e Hochstimmung : התעלות, התרוממות רוח
 e Höchstleistung : שיא הכוח, שיא העוצמה, שיא היעילות
 höchstpersönlich : אישי ביותר
+r Hof (pl. Höfe) : חצר
+höflich [adj.] : מנומס
 r Höhepunkt (pl. -e) : נקודת שיא
 hören, hörte, hat gehört [vt.] : לשמוע
+s Hotel (pl. -s) : מלון
 
 = I =
 r Idiot (pl. -en) : אידיוט
@@ -1348,6 +1384,8 @@ e Kernfrage : השאלה המרכזית, העניין העיקרי
 r Ketzer : כופר
 keuchen, keuchte, gekeucht : להתנשם ולהתנשף
 s Keuchen : נשימה כבדה
+s Kino (pl. -s) : בית קולנוע
+e Kirche (pl. -n) : כנסיה
 kläglich : אומלל
 e Kleinigkeit (pl. -en) : פרט קטן, עניין קטן, עניין פעוט
   - das ist eine Kleinigkeit! : זה עניין פעוט!
@@ -1381,9 +1419,13 @@ kosten : לעלות (כסף)
 e Kostprobe (pl. -n) : דגימה
 e Kraft : כוח, פעולה
 s Kräftemessen : מבחן כוח
+r Kraftwagen (= pl.) : רכב ממונע
 krank [adj.] : חולה
   - krank werden : להיעשות חולה
+s Krankenhaus (pl. Krankenhäuser) : בית חולים
+e Krankheit : מחלה
 krepieren : למות
+e Kreuzung : צומת
 r Krieg (pl. -e) : מלחמה
 r Krieger (= pl.) : לוחם
 e Kriegserklärung : הכרזת מלחמה
@@ -1403,7 +1445,8 @@ küssen, küsste, hat geküsst [vt.] : לנשק
 
 = L =
 laden, lud, hat geladen [vt.] : לטעון
-e Landstraße : כביש (בין כפרים), אוטוסטראדה
+e Lampe (pl. -n) : מנורה
+e Landstraße (pl. -n) : כביש (בין כפרים), אוטוסטראדה
 lang [adj.] : ארוך
   - seit langem : מזמן
 lang [präp.] : לאורך
@@ -1416,6 +1459,7 @@ längst [adv.] : זה זמן רב
   - längst nicht
 e Last (pl. e) : עול
 lästerlich : מנואץ
+r Lastkraftwagen (= pl.) : משאית
 lästig : מעצבן, מציק, מכביד, מפריע
   - Viele Kinder finden ihre kleinen Geschwister manchmal lästig.
 lauschen : להאזין; להאזין בחשאי
@@ -1451,6 +1495,7 @@ r Liebeskummer (~pl.) : כאב לב, להיות חולה אהבה
 liefern : לשלוח
 lila [adj.] : סגול
 e List (pl. -en) : עורמה
+r LKW (= pl.) [kurz für Lastkraftwagen] : משאית
 locker : casual, easy, loose, lax
 lockern : to become loose, to relax, to release
   - sich lockern : to become loose
@@ -1481,6 +1526,7 @@ makellos [adj.] : ללא פגם, מושלם
 malen, malte, hat gemalt : לצבוע, לצייר
 e Maske (pl. -n) : מסכה
 r Maskenball : נשף מסכות
+r Markt (pl. Märkte) : שוק
 markieren : לסמן
 e Marotte (pl. -n) : whim
 r Märtyrer : קדוש מעונה
@@ -1520,11 +1566,18 @@ r Mittelpunkt (pl. -e) : מרכז, נקודת אמצע, נקודה מרכזית
 mít|tragen, trug mit, hat mitgetragen [vt.] : לתמוך ב־, להצטרף ל־, לעזור לשאת
 mitunter : לפעמים, מדי פעם, מפעם לפעם
 e Mobilmachung : גיוס
+s Mofa (pl. -s) [kurz für Motorfahrrad] : טוסטוס
 mögen, mochte, hat gemocht : לחבב
+r Morgen (= pl.) : בוקר
+s Morgen : המחרת
 morgen [adv.] : מחר
   - von heute auf morgen : מהיום למחר
 morsch [adj.] : רקוב
+e Moschee (pl. -n) : מסגד
 motivieren : להמריץ, לדרבן, לתת מוטיבציה
+r Motor (pl. -en) : מנוע
+s Motorfahrrad (pl. Motorfahrräder) : טוסטוס
+s Motorrad (pl. Motorräder) : אופנוע
 müde [adj.] : עייף
   - müde werden : להתעייף
 mufflig : grumpy
@@ -1616,6 +1669,9 @@ s Pack (pl. -s) : להקה (של כלבים, זאבים, וכו')
 Palmsonntag : Palm Sunday
 panisch : panic-fueled, freaked out
 parieren : to counter
+r Park (pl. -s) : פארק
+parken, parkte, hat geparkt [vt.] : לחנות
+r Parkplatz (pl. Parkplätz) : חניון
 s Parlament : פרלמנט
 Paroli
   - [Dat.] Paroli bieten : להתייצב כנגד, לקרוא תיגר על
@@ -1919,6 +1975,7 @@ r Staatsdienst : השירות הציבורי
 r Staatsdiener : שליח ציבור, משרת ציבור
 s Staatsoberhaupt : ראש המדינה
 r Staatsoberhäupter : ראש המדינה
+s Stadion (pl. Stadien) : אצטדיון
 r Stamm : גזע; שבט; גבעול
 stammen : לבוא מ־, להיות מיוחס ל־
 standhaft : נחוש
@@ -1937,7 +1994,9 @@ im Stich lassen : leave s.o. high and dry
 stoppen : לעצור, להפסיק
 stoßen : לנגוח, לדחוף
   - auf +[Akk.] stoßen : להיתקל ב־
+e Straße (pl. -n) : רחוב
 r Streich (pl. -e) : trick, prank, hoax, joke
+r Streifen (= pl.) : רצועה, סרט, פס
 r Streit : argument, conflict, quarrel, conflict, fight
 streiten : להתווכח
 strecken [vt.] : למתוח
@@ -1961,6 +2020,9 @@ e Sorge (pl. -n) : דאגה, בעיה
 suchen
   - nach + [Dat.] suchen : לחפש
 e Sühne : כפרה
+super [adj.] : נפלא, נהדר, אחלה
+r Supermarkt (pl. Supermärkte) : סופרמרקט
+e Synagoge (pl. -n) : בית כנסת
 
 = T =
 Tagelöhner : פועל־יום
@@ -1968,6 +2030,8 @@ Tagelöhnerin : פועלת יום
 tagen, tagte, hat getagt : להיוועד, לקיים פגישה
   - Das Gremium tagt einmal im Monat.
 r Taktgeber : clock, master clock, timer
+r Tank : מכל; טנק
+e Tankstelle : תחנת דלק
 tanzen : לרקוד
 taufen : להטביל
 taugen, taugte, getaugt : להתאים, לענות ל(צורך)
@@ -1987,9 +2051,12 @@ teilweise : partial(ly), partly, to some extent
 f Teilzeit : משרה חלקית
 Teilzeit-Professor
 Teilzeit-Praktikum
+s Theater (= pl.) : תאטרון
 r Thron : כס המלכות
   - das Thron besteigen : לעלות על כס המלכות
 r Thronfolger : יורש העצר
+tief [adj.] : עמוק; נמוך
+e Tiefgarage (pl. -n) : חניון תת־קרקעי
 tilgen + Akk. : לפדות, להחזיר חוב
   - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
@@ -2032,6 +2099,9 @@ r Truthahn : תרנגול הודו
 e Tür (pl. -en) : דלת
   - hinter verschlossenen Türen : בחדרי חדרים
 türkis [adj.] : טורקיז
+turnen : להתעמל
+s Turnen : גימנסטיקה, התעמלות
+e Turnhalle (pl. -n) : אולם ספורט, אולם התעמלות
 
 = U, Ü =
 übel [adj.] : רע, נורא
@@ -2339,7 +2409,7 @@ vórwiegend : עיקרי, ראשי, מוביל, בולט, מכריע
 = W =
 r Waffenschmied : יצרן נשק
 e Waffenschmiede : נשקיה
-r Wagen : רכב, קרון, כרכרה
+r Wagen (= pl.) : רכב, קרון, כרכרה
 wagen [vt.] : להעז, להסתכן ב־
 wählen [vt.] : לבחור
 wahrhaben : להכיר בכך ש־
@@ -2356,6 +2426,8 @@ warten : לחכות
 waschen : לשטוף, לרחוץ
 weder ... noch ... : לא ... ולא ...
 r Weg (p. -e) : דרך
+weg von [präp.] : הרחק מ־
+  - weg von daheim : הרחק מן הבית
 e Wegnahme : הסרה
 wég|nehmen + [Akk.] : לקחת, להרחיק, to take away
 weilen : להישאר
@@ -2414,6 +2486,8 @@ Wutanfall : התקף זעם
 
 = Z =
 zählen : לספור, למנות
+s Zebra (pl. -s) : זברה
+r Zebrastreifen (= pl.) : מעבר חצייה
 zeichnen : לצייר
 zeigen [vt.] : להראות; לסמן
 e Zeit : זמן
@@ -2430,7 +2504,7 @@ zerschlagen (zerschlägt), zerschlug, hat zerschlagen : למחוץ, לשבור �
 zersetzen : to decompose, to degrade
   sich zersetzen : to decay, to disintegrate, to rot
 e Zersplitterung : פיצול, פלגנות
-zerstören : להרוס
+zerstören, zerstörte, hat zerstört [vt.] : להרוס
 zerstückeln, zerstückelte, zerstückelt : לחתוך לחתיכות, לפרק לחתיכות
 zeugungsfähig : שיש לו יכולת הולדה, בעל און
 ziehen, zog, hat gezogen
@@ -2441,6 +2515,7 @@ s Ziel (pl. -e)
 zielbewusst : מוכוון מטרה
 zittern : לרעוד, לרטוט
 s Zölibát : פרישות
+r Zoo (pl. -s) : גן חיות
 züchtig [adj.] : צנוע, טהור, בתול, חסוד
 züchtigen, züchtigte, hat züchtigt : לייסר, להעניש, למשמע, להטיל משמעת
 zucken : לעוות, למשוך בכתפיים, להניד
@@ -2490,21 +2565,21 @@ r Zusammenhang (pl. Zusammenhänge) : הקשר, קונטקסט
 r Zusammenprall : התנגשות
 zusámmen|schweißen : לרתך יחד
 r Zuschlag : עלות נוספת
-zú|spitzen [vt.] : לחדד
+zú|spitzen, spitzte zu, hat zugespitzt [vt.] : לחדד
   - sich zuspitzen : להתחדד (ויכוח), להחריף
-r Zuspruch : עידוד
+r Zuspruch (pl. Zusprüche) : עידוד
   - großen Zuspruch finden : למצוא עידוד רב, לזכות לפופולאריות
-zú|stimmen : להסכים
+zú|stimmen, stimmte zu, hat zugestimmt : להסכים
 zuvór|kommen : להתכונן מראש, למנוע משהו על ידי תכנון מראש
 zú|wenden, wendete zu/wandte zu, hat zugewendet/zugewandt [vt.] : להפנות; להקצות
   - j-m das Gesicht zuwenden : להפנות את המבט למישהו
   - [Dat.] Aufmerksamkeit zuwenden : להפנות תשומת לב ל־
   - sich[Akk.] [Dat.] zuwenden : לפנות ל
-zweideutig : דו־משמעי, משתמע לשתי פנים, שנוי במחלוקת, עמום, מעורפל
-zweifach : כפול
+zweideutig [adj.] : דו־משמעי, משתמע לשתי פנים, שנוי במחלוקת, עמום, מעורפל
+zweifach [adj.] : כפול
 r Zwiespalt (pl. Zwiespalte / Zwiespälte) : אנטגוניזם, דיכוטומיה, ניגוד
 e Zwietracht : קונפליקט, עימות, סכסוך
 e Zwischenlandung : נחיתת ביניים
-zwitschern : לצפצף
+zwitschern, zwitscherte, hat gezwischert : לצפצף
   - Die Vögel zwitschern. : הציפורים מצפצפות
 
