@@ -73,6 +73,8 @@ e Ahnentafel : לוח שמציג את אילן היוחסין של האבות ה
 ähnlich [adj.] : דומה
   - ähnlich sehen : להיראות דומה
 ähnlich + [Dat.] [präp.] : דומה ל־, בדומה ל־, בהיותו דומה ל־
+e Ahnung (pl. -en) : מושג, רעיון
+  - Ich habe keine Ahnung : אין לי מושג
 akkurat [adj.] : מדויק, מסודר
 akkurat [adv.] : בדיוק רב; בדיוק! ממש!
 akzeptieren [vt.] : לקבל, להסכים
@@ -241,8 +243,8 @@ althergebracht : מסורתי
 j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   - Der Lehrer forderte die Schüler, pünktlich zu sein.
   - Die Website forderte mich auf, ein neues Passwort einzugeben.
-  j-n zum Tanz auffordern : to ask s.o. for a dance
-  j-n auffordern, Farbe zu bekennen : to call s.o.'s bluff
+  - j-n zum Tanz auffordern : להזמין מישהו לרקוד
+  - j-n auffordern, Farbe zu bekennen : לחשוף את הבלוף של מישהו
 e Aufforderung : request, invitation, solicitation, reminder
   letzte Aufforderung : last reminder
 aúf|gabeln, gabelte auf, hat aufgegabelt
@@ -399,9 +401,9 @@ bejahen [vt.] : להסכים, להשיב כן
 e Belagerung : מצור
 e Belastung : עול
 belegen : to prove, to verify, to substantiate
-  j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
-beleidigen : להעליב
-bellen : לנבוח
+  - j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
+beleidigen, belidigte, hat beleidigt [vt.] : להעליב
+bellen, bellte, hat gebellt : לנבוח
   - Der Hund bellt.
 bemerken, bemerkte, hat bemerkt : להבחין במשהו מבלי לחפש או בלי כוונה
 e Bemerkung (pl. -en) : הערה, אבחנה
@@ -796,6 +798,11 @@ erhoffen, erhoffte, erhofft
   - das Beste erhoffen : לקוות לטוב
   - sich[Dat.] [Akk.] erhoffen : לייחל למשהו
   - sich[Dat.] [Akk.] von j-m erhoffen : לצפות למשהו ממישהו
+erinnern, erinnerte, hat erinnert : להזכיר
+  - an + [Akk.] erinnern : להזכיר משהו
+  - sich an + [Akk.] erinnern : להיזכר במשהו; לזכור משהו
+e Erinnerung (pl. -en) : זכרון
+  - Mir wird immer in Errinerung bleiben, wie ... : לנצח יהיה חרוט בזכרוני איך
 j-n erhören : להישמע לתפילתו של מישהו
 erkennen, erkannte, hat erkannt [vt.] : להכיר; לזהות; לתפוש
 erklären, erklärte, hat erklärt : להבהיר, להסביר
@@ -868,6 +875,7 @@ feiern : לחגוג
 an + [Dat.] fést|halten : to abide by ..., to hold fast to ..., to stick to ...
 fertig [adj.] : מוכן
   - sich fertig machen : להתכונן; להתלבש לאירוע
+  - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
 fést|frieren, fror fest, festgefroren : לקפוא
 festigen [vt.] : לחזק; לבצר
 fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
@@ -884,6 +892,7 @@ fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
 fést|stellen, stellte fest, hat festgestellt [vt.] : לזהות, לגלות; לתפוש, להבין פתאום, לשים לב
   - Während des Gesprächs stellen wir fest, dass wir aus derselben Stadt waren. : במהלך השיחה תפשנו שאנחנו מאותה עיר.
 finden, fand, hat gefunden [vt.] : למצוא
+  - Wie findest du das? : מה דעתך לגבי זה? איך אתה מוצא את זה?
 sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
@@ -1128,6 +1137,7 @@ grunzen : לנאוק
   - Das Schwein grunzt.
 gruppieren, gruppierte, hat gruppiert [vt.] : לקבץ
 grob : גס, קשוח, מחוספס
+  - grob geschätzt : בהערכה גסה
 groß [adj.] : גדול
 e Größe : גודל
 r Größenwahn : מגאלומניה, שגעון גדלות
@@ -1217,6 +1227,8 @@ heulen : לילל
   - Es ist zum heulen : זה גורם לבכות
   - Ich hätte heulen können. : הייתי יכול לבכות.
   - Heul nicht ständig! : די לילל כל הזמן!
+heute [adv.] : היום
+  - von heute auf morgen : מהיום למחר
 hin
   - auf + [Akk.] + hin - ל־ (כמו: „לבקשתך״)
   - „auf Ihren Vorschlag hin״
@@ -1293,6 +1305,7 @@ interessiert
 r Intimfeind : אויב מושבע, ארכי‏־אויב
 involvieren : לערב
 sich irren : לשגות
+  - Wenn ich mich nicht irre : אם אני לא טועה
 irritieren [vt.] : לבלבל; לעצבן
 r Irrtum : שגיאה
   - großer Irrtum : שגיאה גדולה
@@ -1399,6 +1412,9 @@ lästig : מעצבן, מציק, מכביד, מפריע
   - Viele Kinder finden ihre kleinen Geschwister manchmal lästig.
 lauschen : להאזין; להאזין בחשאי
 s Lauschen : האזנה בחשאי
+leben, lebte, hat gelebt [vi.] : לחיות
+  - leben und leben lassen : חיה ותן לחיות
+s Leben : חיים
 s Lederwams : מעיל עור
 legen, legte, hat gelegt : להניח
 lehren : ללמד
@@ -1429,7 +1445,11 @@ e List (pl. -en) : עורמה
 locker : casual, easy, loose, lax
 lockern : to become loose, to relax, to release
   - sich lockern : to become loose
-lose : רָפוּי
+s Los : פור; כרטיס לוטו; אוסף, אצווה
+los! [interj.] : קדימה!; יאללה!
+  - Auf die Plätze, fertig, los! : למקומות, היכון, צא
+los [adj.] : רפוי
+los [adv.] : לדרך
 e Losung : סלוגן
 e Lösung : פתרון
 lós|lassen, ließ los, hat losgelassen [vt.] : לשחרר, להרפות, לעזוב
@@ -1492,6 +1512,8 @@ mít|tragen, trug mit, hat mitgetragen [vt.] : לתמוך ב־, להצטרף ל�
 mitunter : לפעמים, מדי פעם, מפעם לפעם
 e Mobilmachung : גיוס
 mögen, mochte, hat gemocht : לחבב
+morgen [adv.] : מחר
+  - von heute auf morgen : מהיום למחר
 morsch [adj.] : רקוב
 motivieren : להמריץ, לדרבן, לתת מוטיבציה
 müde [adj.] : עייף
@@ -1511,6 +1533,7 @@ nách|geben + Dat. : להיכנע (ליצר), לוותר (בעקבות לחץ)
 s Nachhinein : דיעבד
   - im Nachhinein : בדיעבד
   - [Akk.] im Nachhinein anzweifeln : to second guess
+  - im Nachhinein ist man immer schlauer : קל להיות חכם בדיעבד
 in + Dat. nách|stehen : להיות נחות ב־/מבחינת־
   - im Rang nachstehen | to rank behind
 nách|steuern : to readjust s.th.
@@ -1596,6 +1619,8 @@ piepen : לצפצף
   - Die Maus piept.
 pinkeln : להשתין
 planen, plante, hat geplant [vt.] : לתכנן
+r Platz (pl. Plätze) : מקום
+  - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
 plaudern : לפטפט
 e Pose (pl. -n) : פוזה
 posieren : לדגמן, לעמוד לפני צייר
@@ -1720,7 +1745,8 @@ e Schar : להקה (של ציפורים),
 e Schärpe (pl. -n) : אבנט
 r Schatz : אוצר
 e Schatzkammer : גנזך; חדר אוצר
-schätzen : להעריך, לאמוד
+schätzen, schätzte, hat geschätzt : להעריך, לאמוד
+  - grob geschätzt : בהערכה גסה
 e Schau : הצגה; תערוכה
   - eine Schau abziehen : לעשות הצגה
 schauen : להסתכל
@@ -1756,6 +1782,8 @@ schlagen : להכות
 schlemmen : לסעוד
 schläfrig : עייף, מותש
 schließen : לסגור
+schilmm [adj.] : גרוע, רע, חמור
+  - Am schlimmsten war ... : מה שהיה הכי גרוע זה ש...
 schlüpfen : להחליק לתוך (מעיל); לבקוע מביצה
 r Schluss (pl. Schlüsse) : סוף; סיכום; מסקנה
   - zum Schluss : לבסוף, בסופו של דבר
@@ -1804,6 +1832,8 @@ r Schwachsinn (~pl.) : טיפשות, דביליות
 e Schwalbe : סנונית
   - Die Schwalbe zwitschert. : הסנונית מצפצפת
 r Schwan (pl. Schwäne) : ברבור
+schwarz [adj.] : שחור
+  - Es ist nicht alles schwarz oder weiß im Leben : לא הכול שחור-לבן בחיים
 schweigen : להיות בשקט, לשתוק
 s Schwert : חרב
 schwierig [adj.] : קשה, מסובך, מורכב
@@ -1987,8 +2017,14 @@ trügen [vt.] : להשלות, להוליך שולל
 trügerisch [adj.] : מתעתע; מוליך שולל; מטעה
 r Truthahn : תרנגול הודו
   - Die Truthahn kollert.
+e Tür (pl. -en) : דלת
+  - hinter verschlossenen Türen : בחדרי חדרים
 
 = U, Ü =
+übel [adj.] : רע, נורא
+  - j-m ist übel : להרגיש רע; להרגיש בחילה
+  - [Akk.] übel nehmen : לקחת משהו בדרך הלא נכונה
+  - Das ist gar nicht so übel : זה בכלל לא כל־כך נורא
 üben, übte hat geübt : לתרגל
 e Übereinkunft : agreement, accord
 übereinstimmen : להתאים
@@ -2013,6 +2049,8 @@ j-n überrumpeln : להפתיע, להערים על
 s Überziehen : כיסוי, הגנה
 übrig [adj.] : שנשאר
   - übrig bleiben : להישאר
+um [adv.]
+  - Die Zeit ist um. : נגמר הזמן.
 umarmen : לחבק
 r Umbruch : תהפוכות, מהומה
   - wirtschaftlicher Umbruch : שינוי כלכלי
@@ -2178,6 +2216,7 @@ verschlimmern : להרע, להחמיר
 verschlüsseln : to encrypt
 verschlingen : to engulf, to swamp
 verschlossen : סגור, חתום, נעול
+  - hinter verschlossenen Türen : בחדרי חדרים
 verschmutzt : messy
 verschnaufen : להתאושש
   - verschnaufen lassen : לתת (למישהו) להתאושש, לאפשר (למישהו) להתאושש
@@ -2307,6 +2346,8 @@ e Wegnahme : הסרה
 wég|nehmen + [Akk.] : לקחת, להרחיק, to take away
 weilen : להישאר
 weinen : לבכות
+weiß [adj.] : לבן
+  - Es ist nicht alles schwarz oder weiß im Leben : לא הכול שחור-לבן בחיים
 Weiteres
   - ohne Weiteres : without further ado
 e Weltgeltung : מעמד בינלאומי
@@ -2361,6 +2402,9 @@ Wutanfall : התקף זעם
 zählen : לספור, למנות
 zeichnen : לצייר
 zeigen [vt.] : להראות; לסמן
+e Zeit : זמן
+  - Die Zeit ist um. : נגמר הזמן.
+  - Wurde auch zeit : הגיע הזמן באמת
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 Zermürbend [adj.] : מתיש, מפרך
 zerrinnen, zerrann, nat zerronnen : להתפוגג, להיעלם
