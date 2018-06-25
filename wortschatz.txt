@@ -74,6 +74,8 @@ ade! [interj.] : להתראות! נאמר בפרידה לזמן רב
 Adleraugen : עיני נץ
   - Adleraugen haben : להיות בעל עיני נץ, לראות היטב
 r Affront : עלבון
+agieren, agierte, hat agiert : לפעול, לנהוג
+  - mit kühlem Kopf agieren : לפעול בקור רוח
 r Ahn (pl. -en) : אב קדמון; קדמון; אבותינו
   - Unsere Ahnen stammen aus ...
 e Ahnentafel : לוח שמציג את אילן היוחסין של האבות הקדמונים
@@ -99,6 +101,7 @@ Almosen (pl.) : צדקה, נדבה
 als : כ, כמו
   - als ob
   - so tun, als ob ... : לעשות כאילו ש־
+althergebracht : מסורתי
 e Ampel (pl. -n) : רמזור
 án|beten : להעריץ
 án|bieten, bot an, hat angeboten [vt.] : להציע
@@ -220,7 +223,17 @@ aúf|fassen : לתפוש, להבין, לקחת כ־
   - als + [Akk.] auffassen : לראות כ־, לתפוש כ־, לקחת כ־
   - [Akk.] als Scherz auffassen : לקחת משהו כבדיחה
   - [Akk.] falsch auffassen : להבין לא נכון
+j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
+  - Der Lehrer forderte die Schüler, pünktlich zu sein.
+  - Die Website forderte mich auf, ein neues Passwort einzugeben.
+  - j-n zum Tanz auffordern : להזמין מישהו לרקוד
+  - j-n auffordern, Farbe zu bekennen : לחשוף את הבלוף של מישהו
+e Aufforderung : request, invitation, solicitation, reminder
+  letzte Aufforderung : last reminder
+aúf|gabeln, gabelte auf, hat aufgegabelt
+  - + Akk. : לאסוף מישהו (באוטו)
 aufgeblasen [adj.] [ugs.] : מלא מעצמו
+aufgezehrt : אכול, משומש, ממוצה
 aúf|halten : לעצור, לעכב, למנוע
 aúf|kreuzen : להופיע (פתאום)
 aúf|lösen, löste auf, hat aufgelöst [vt.] : למוסס; לפתור; לבטל
@@ -245,19 +258,6 @@ aúf|streben : לשאוף
 aufstrebend : שאפתן
 r Auftritt : appearance, entrance, performance
   das Geschirr abspülen
-aúf|wachen : להתעורר
-aúf|wachsen : לגדול
-althergebracht : מסורתי
-j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
-  - Der Lehrer forderte die Schüler, pünktlich zu sein.
-  - Die Website forderte mich auf, ein neues Passwort einzugeben.
-  - j-n zum Tanz auffordern : להזמין מישהו לרקוד
-  - j-n auffordern, Farbe zu bekennen : לחשוף את הבלוף של מישהו
-e Aufforderung : request, invitation, solicitation, reminder
-  letzte Aufforderung : last reminder
-aúf|gabeln, gabelte auf, hat aufgegabelt
-  - + Akk. : לאסוף מישהו (באוטו)
-aufgezehrt : אכול, משומש, ממוצה
 j-n aúf|muntern : לשמח, לעודד, להצהיל
 aúf|polieren + Akk. : להבריק, לחדש (תדמית)
 j-n aúf|rütteln : לעורר, להלהיב (לידי פעולה)
@@ -271,6 +271,8 @@ r Aufschub : עיכוב, דחיה, השהיה
 r Auftakt (pl. -e) : kick-off, prelude, opening
 e Auftaktkundgebung : initial demonstration
 aúf|tischen : להגיש (אוכל)
+aúf|wachen : להתעורר
+aúf|wachsen : לגדול
 aús|bleiben : להישאר בחוץ, להיעדר, לא להופיע
 s Ausbleiben : היעדרות
 aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, לברוח לחופשי
@@ -966,6 +968,8 @@ fortgeschritten [adj.] : מתקדם
 fortgeschritten [adv.] : באופן מתקדם, באופן מתוחכם
 fórt|schreiten, schritt fort, ist fortgeschritten : להתקדם
 r Fortschritt (pl. -e) : התקדמות
+e Frage (pl. -n) : שאלה
+  - Fragen aufwerfen : לעורר שאלות
 fragen : לשאול
 e Freiheit : חופש
   sich die Freiheit herausnehmen : to take the liberty
@@ -1198,6 +1202,8 @@ halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
 e Halle (pl. -n) : אולם; מסדרון, פרוזדור; היכל
 vor nichts haltmachen : to stop at nothing
+e Hand (pl. Hände) : יד, כף יד
+  - j-m freie Hand lassen : לתת למישהו יד חופשית
 s Handwerk : משלח‏־יד
 hängen, hängte, hat gehängt : לתלות (כביסה)
 hängen, hing, hat gehängt : להיות תלוי (פוסטר), להיאחז במשהו
@@ -1414,6 +1420,8 @@ kollern : להשמיע קול כמו תרנגול הודו
   - Der Truthahn kollert.
 können (kann), konnte, hat gekonnt [vt.] : להיות יכול, להיות מסוגל
 r Kontrahent : יריב
+r Kopf (pl. Köpfe) : ראש
+  - mit kühlem Kopf agieren : לפעול בקור רוח
 kopieren : להעתיק, לצלם (מסמכים)
 kosten : לעלות (כסף)
 e Kostprobe (pl. -n) : דגימה
@@ -1437,6 +1445,8 @@ r Kuckuck : קוקיה
   - Der Kuckuck ruft. : הקוקיה קוראת
   - Was zum Kuckuck soll das heißen? : מה לעזאזל אתה מנסה לומר?
 r Kuckucksruf : קריאת הקוקיה
+kühl [adj.] : קריר, רגוע
+  - mit kühlem Kopf agieren : לפעול בקור רוח
 e Kundgebung : הפגנה, עצרת
 r Kunstfehler : רשלנות פושעת
 r Kuppelbau : מבנה עם כיפה
@@ -1732,6 +1742,8 @@ rasant : במהירות, בקצב מסחרר
   - rasant steigende Kosten
   - sich rasant entwickeln : להתקדם בקצב מסחרר
 rasch [adj.] : מהיר, זריז
+e Rate (pl. -n) : תשלום
+  - [Akk.] in Raten bezahlen : לשלם משהו בתשלומים
 raten, riet, hat raten [vt.] : לנחש
 rauchen : לעשן
 räudig [adj.] : mangy
@@ -2463,6 +2475,8 @@ wíeder|erstehen : לקום לתחייה
 wiegen, wog, hat gewogen : לשקול
 wiehern : לצהול, לצנוף
   - Das Pferd wiehert.
+e Wiese : דשא
+  - auf der Wiese liegen : לשכב על הדשא
 r Witwenschleier : רעלת אלמנה
 r Wolf (pl. Wölfe) : זאב
   - einsamer Wolf : זאב בודד
