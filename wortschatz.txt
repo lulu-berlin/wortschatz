@@ -356,6 +356,8 @@ s Bad : בית־שימוש; אמבטיה; מרחצה
   - ein Bad nehmen : להתרחץ
 baden : לרחוץ
   - sich baden : להתרחץ
+e Badewanne (pl. -n) : אמבטיה
+s Badezimmer (= pl.) : חדר רחצה
 e Bahn : רכבת, מסילה, מסלול
 r Bahnhof (pl. Bahnhöfe) : תחנת רכבת
 r Bann : חרם
@@ -489,7 +491,7 @@ betragen + Akk. : מונה, אורך, מגיע לכדי [להיות, אבל למ
 betreiben : to operate, to conduct, to run
 betreten : להיכנס
 sich betrinken : להשתכר
-s Bett : מיטה
+s Bett (pl. -en) : מיטה
   - ins Bett gehen : ללכת למיטה, ללכת לישון
 beurteilen : לשפוט, להעריך, לקבוע
 e Beute : שלל, טרף, ביזה
@@ -548,6 +550,7 @@ blöken : לפעות
 blutdurchtränkt : ספוג בדם
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : סערה
+r Boden (pl. Böden) : רצפה
 r Bösewicht (pl. Bösewichte, Bösewichter) : נבל
 s Bollwerk : סוללה, ביצור
 braten (brät/bratet), briet, hat gebraten [vt.] : לטגן
@@ -587,6 +590,7 @@ s Daheim : הבית
 danken : להודות
 dauerhaft : ארוך־טווח, קבוע, מתמשך
 davón|laufen : לברוח מ־
+e Decke (= pl.) : תקרה; שמיכה
 e Deckung : coverage, backing
 r Degen : פגיון
 dekorieren : לקשט
@@ -646,6 +650,7 @@ dúrch|setzen, setzte durch, hat durchgesetzt [vt.] : להתעקש (על זכו�
   - Die Polizei wird die neue Vorschrift durchsetzen.
   - Trotz der Proteste der Angestellten setzte die Geschäftsleitung die Änderungen durch.
 dürfen (darf), durfte, gedurft : להיות רשאי
+e Dusche (pl. -n) : מקלחת
 sich duschen : להתקלח
 düster [adj.] : עגום, קודר
 
@@ -918,11 +923,19 @@ faul [adj.] : עצלן
 s Faustpfand : קלף מיקוח
 fegen [vt.] : לטאטא
 feiern : לחגוג
-an + [Dat.] fést|halten : to abide by ..., to hold fast to ..., to stick to ...
+s Fenster (= pl.) : חלון
+fern [adj.] : רחוק, מרוחק
+férn|sehen, sah fern, ferngesehen : לצפות בטלוויזיה
+s Fernsehen : טלוויזיה
+  - Fernsehen schauen : לצפות בטלוויזיה
+  - [Akk.] im Fernsehen zeigen : לשדר בטלוויזיה
+  - [Akk.] im Fernsehen übertragen : לשדר בטלוויזיה
+r Fernseher (= pl.) : טלוויזיה
 fertig [adj.] : מוכן
   - sich fertig machen : להתכונן; להתלבש לאירוע
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
 fést|frieren, fror fest, festgefroren : לקפוא
+an + [Dat.] fést|halten : to abide by ..., to hold fast to ..., to stick to ...
 festigen [vt.] : לחזק; לבצר
 fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
   - die nächsten Schritte festlegen : להחליט על הצעדים הבאים
@@ -954,6 +967,7 @@ r Flohmarkt (pl. Flohmärkte) : שוק פשפשים
 fluchen : לקלל
 s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
 r Flughafen (pl. Flughäfen) : נמל תעופה, שדה תעופה
+r Flur (pl. -e) : מסדרון
 r Fluss (pl. Flüsse) : נהר; זרם, זרימה
   - in Fluss bringen : להביא לזרימה, לגרום למשהו לזרום
 flussaufwärts : במעלה הנהר
@@ -1021,6 +1035,7 @@ gackern : לקרקר (כמו תרנגול)
   - Die Henne gackert. : התרנגולת מקרקרת
 e Gans (pl. Gänse) : אווז
   - Die Gans schnattert. : האווז מגעגע
+e Gardine (pl. -n) : וילון
 e Gasse, (pl. -n) : סמטה
 geächtet : outlaw(ed)
 e Gebärde : מחווה
@@ -1113,6 +1128,8 @@ geraten (gerät), geriet, ist geraten [vi.] : לצאת (במצב)
 geschehen (geschieht), geschah, ist geschehen [vi.] : לקרות, להתרחש
 gescheit : חכם, מבריק, פיקח, נבון
 gescheitert : כושל, נכשל
+s Geschirr (pl. -e) : כלים
+r Geschirrspüler (= pl.) : מדיח כלים
 s Geschütz (pl. -e) : נשק; תותח
 r Geselle
 r Geselle (pl. -n) : עוזר, מסייע, בן לוויה, שכיר יום
@@ -1339,6 +1356,7 @@ hóch|fahren, fuhr hoch, hat hochgefahren [vt.] : להתחיל, לאתחל, למ
 e Hochstimmung : התעלות, התרוממות רוח
 e Höchstleistung : שיא הכוח, שיא העוצמה, שיא היעילות
 höchstpersönlich : אישי ביותר
+r Hocker (= pl.) : שרפרף
 r Hof (pl. Höfe) : חצר
 höflich [adj.] : מנומס
 e Höhenangst : פחד גבהים
@@ -1435,8 +1453,10 @@ e Kleinigkeit (pl. -en) : פרט קטן, עניין קטן, עניין פעוט
   - das ist eine Kleinigkeit! : זה עניין פעוט!
   - eine Kleinigkeit zu sich nehmen : לאכול משהו קטן
 r Klerus : כמורה; ממסד דתי
+s Klima : אקלים
+e Klimaanlage (pl. -n) : מזגן
 e Klinge (pl. -n) : להב
-klingen : להישמע; לצלצלkl
+klingen : להישמע; לצלצל
   - nach + [Dat.] klingen : להישמע כמו 
 klingeln : להשמיע צלצול, לצלצל בדלת
 knallen, knallte, hat geknallt [vt.] : להטיח, לדפוק, להכות בחוזקה
@@ -1456,6 +1476,7 @@ r Kollaps : קריסה
   - plötzlicher Kollaps : קריסה פתאומית
 kollern : להשמיע קול כמו תרנגול הודו
   - Der Truthahn kollert.
+e Kommode (pl. -n) : שידה
 können (kann), konnte, hat gekonnt [vt.] : להיות יכול, להיות מסוגל
 r Kontrahent : יריב
 r Kopf (pl. Köpfe) : ראש
@@ -1479,6 +1500,7 @@ r Kriegsgrund : עילה למלחמה, קזוס בלי
 e Kriegslist : תחבולות מלחמה
 kriegsmüde [adj.] : עייף מן המלחמה
 r Kriegsschauplatz : זירת המלחמה
+e Küche (pl. -n) : מטבח
 r Kuckuck : קוקיה
   - Der Kuckuck ruft. : הקוקיה קוראת
   - Was zum Kuckuck soll das heißen? : מה לעזאזל אתה מנסה לומר?
@@ -1632,7 +1654,9 @@ müde [adj.] : עייף
 mufflig : grumpy
 muhen : לגעות, לעשות מוּ
   - Die kuh muht.
-munter : lively, cheerful, jolly
+r Müll : אשפה
+r Mülleimer (= pl.) : פח אשפה
+munter : מלא שמחת חיים, עליז, שמח
 müssen, musste, gemusst : להיות צריך, להצטרך
 r Muskel : שריר
 muskulär : שרירי
@@ -1648,8 +1672,10 @@ s Nachhinein : דיעבד
 in + Dat. nách|stehen : להיות נחות ב־/מבחינת־
   - im Rang nachstehen | to rank behind
 nách|steuern : to readjust s.th.
+e Nacht (pl. Nächte) : לילה
 e Nachtigall : זמיר
   - Die Nachtigall schlägt. : הזמיר מצייץ
+r Nachttisch (pl. -e) : שידת לילה
 nách|trauern, trauerte nach, nachgetrauert
   - + Dat. : להתאבל על, להתחרט על
 r Nachweis
@@ -1704,6 +1730,7 @@ ob
 r Ochse : שור
 oder : או
   - oder was auch immer : או מה שזה לא יהיה
+r Ofen (pl. Öfen) : תנור
 offenbaren : to reveal, to disclose
   sich offenbaren : to manifest itself
 öffnen : לפתוח
@@ -1800,6 +1827,7 @@ rechtfertigen, rechtfertigte, hat gerechtfertigt [vt.] : להצדיק
 rechts [adv.] : ימינה, מימין
   - nach rechts abbiegen : לפנות ימינה
 reden : לדבר
+s Regal (pl. -e) : מדף
 s Regime (pl. -s) : שלטון
 regnen : לרדת (גשם)
 e Reichsacht : imperial outlawry
@@ -1889,6 +1917,7 @@ scheitern, scheiterte, ist gescheitert : להיכשל
   - kläglich scheitern : להיכשל בגדול
 s Scheitern : כשלון
   - endgültiges Scheitern : כשלון מוחלט, כשלון סופי
+r Schemel (= pl.) : שרפרף
 scherzen : להתבדח
 s Scheusal : זומבי, מפלצת
 schicken, schickte, geschickt 
@@ -1904,6 +1933,7 @@ s Schlachten : שחיטה
 r Schlachtruf : קריאת קרב
 schlafen, schlief, hat geschlafen [vi.] : לישון
   - mit j-m schlafen : לשכב עם מישהו
+s Schlafzimmer (= pl.) : חדר שינה
 schlagen : להכות
 schlemmen : לסעוד
 schläfrig : עייף, מותש
@@ -1946,6 +1976,7 @@ schrittweise [adv.] : בהדרגה, לאט לאט, צעד אחרי צעד
 r Schlagabtausch (um + Akk.) : חילופי מהלומות; חילופי דברים קשים
 r Schöngeist : אסתטיקן, בעל טעם, אנין
 e Schubkarre (pl. -n) : מריצה
+e Schublade (pl. -n) : מגירה
 e Schufterei : עבודת פרך
 schuldig [adj.] : אשם
   - schuldig sein : להיות אשם
@@ -1983,6 +2014,7 @@ r Sendbote, e Sendbotin : emissary
 senden, sendete/sandte, gesendet/gesandt
   - j-m [Akk.] senden : לשלוח משהו למישהו
 senkrecht [adj.] : מאונך, ניצב, אנכי, בזווית ישרה
+r Sessel (= pl.) : כורסה
 setzen, setzte, hat gesetzt [vt.] : לשים, להציב, להניח
   - seinem Leben ein Ende setzen
 e Sicherung : protection, assurance
@@ -2005,7 +2037,8 @@ r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
 so [adv.]
   - so tun, als ob ... : לעשות כאילו ש־
-r Sold (pl. e) : פרס, גמול, שילום
+s Sofa (pl. -s) : ספה
+r Sold (pl. -e) : פרס, גמול, שילום
 e Spannung : מתח
   - Spannung aufbauen : לבנות מתח
 spannungsaufbauend : באופן שבונה מתח
@@ -2024,12 +2057,14 @@ spenden, spendete, hat gespendet [vt.] : לתרום
   - an + [Akk.] spenden : לתרום ל־
   - für einen guten Zweck spenden : לתרום לצדקה
 e Sperrung : blocking, closing, inhibition
+r Spiegel (= pl.) : מראה
 spielen : לשחק
 s Spielfeld : מגרש משחקים
 sprengen, sprengte, hat gesprengt [vt.] : לנפץ, לפוצץ
   - die Grenzen sprengen : למתוח את הגבולות
 e Sprengkraft : כוח נפץ
 r Sprengmeister : מומחה להריסה (בפיצוץ)
+s Spülbecken (= pl.) : כיור (במטבח)
 spülen : לשטוף
   - Geschirr spülen : לשטוף כלים
 r Spurt : ספרינט
@@ -2072,6 +2107,7 @@ r Streit : argument, conflict, quarrel, conflict, fight
 streiten : להתווכח
 strecken [vt.] : למתוח
 e Streitmacht : כוח צבאי
+r Stuhl (pl. Stühle) : כיסא
 stürzen : ליפול
   - Ich rutschte auf nassem Laub aus und stürzte zu Boden.
   - Der Junge stürzte von einem Stuhl, aber er verletzte sich nicht.
@@ -2122,6 +2158,7 @@ teilweise : partial(ly), partly, to some extent
 f Teilzeit : משרה חלקית
 Teilzeit-Professor
 Teilzeit-Praktikum
+r Teppich (pl. -e) : שטיח
 s Theater (= pl.) : תאטרון
 r Thron : כס המלכות
   - das Thron besteigen : לעלות על כס המלכות
@@ -2131,6 +2168,7 @@ e Tiefgarage (pl. -n) : חניון תת־קרקעי
 tilgen + Akk. : לפדות, להחזיר חוב
   - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
+r Tisch (pl. -e) : שולחן
 toben : לזעום; להתפרע
 todbereit
 r Ton (pl. Tone, Töne) : צליל
@@ -2191,8 +2229,9 @@ e Überflutung : הצפה
 e Überlegenheit : עליונות, שליטה
 übernehmen, übernahm, hat übernommen [vt.] : לקבל/לקחת (אחריות; הצעה)
 j-n überrumpeln : להפתיע, להערים על
-übertragen, übertrug, übertragen [vt.] : להעביר, למסור, לשדר
+übertragen, übertrug, hat übertragen [vt.] : להעביר, למסור, לשדר
 übertragen [adj.] : שנמסר
+e Übertragung (pl. -en) : העברה; שידור
 überwinden, überwand, hat überwunden [vt.] : להתגבר על־
   - „Der Mensch ist Etwas, das überwunden werden soll.״ [Friedrich Nietzsche, Also sprach Zarathustra]
 überzeugen : לשכנע
@@ -2483,6 +2522,7 @@ s Vorgehen : גישה
 vorhanden [adj.] : בנמצא, בהישג יד
   - vorhanden sein : להיות בנמצא, להיות בהישג יד
   - nicht vorhanden sein : לא להימצא, להיות חסר
+r Vorhang (pl. Vorhänge) : וילון
 e Vorherrschaft : עליונות
 vorhér|sehen, sah vorher, hat vorhergesehen [vt.] : לחזות
 s Vorhersehen : תחזית
@@ -2505,6 +2545,7 @@ wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
 walzen, walzte, gewalzt
   - + Akk. : לגלגל
+e Wand (pl. Wände) : קיר
 r Wandel (= pl.) : המרה; שינוי
   - im Wandel : במצב של שינוי
 s Wanken : התנודדות
@@ -2512,7 +2553,10 @@ s Wanken : התנודדות
 wappnen : לחמש
   - sich gegen + [Akk.] wappnen : להתכונן נגד משהו
 warten : לחכות
+s Waschbecken (= pl.) : כיור
 waschen : לשטוף, לרחוץ
+e Waschmaschine (pl. -n) : מכונת כביסה
+r Wasserhahn (pl. Wasserhähne) : ברז
 wedeln, wedelte, hat gewedelt : לכשכש
   - mit dem Schwanz wedeln : לכשכש בזנב
 weder ... noch ... : לא ... ולא ...
@@ -2559,6 +2603,8 @@ e Wiese : דשא
   - auf der Wiese liegen : לשכב על הדשא
 winzig [adj.] : זעיר
 r Witwenschleier : רעלת אלמנה
+e Wohnung (pl. -en) : דירה
+s Wohnzimmer (= pl.) : סלון
 r Wolf (pl. Wölfe) : זאב
   - einsamer Wolf : זאב בודד
 wollen : לרצות
@@ -2609,6 +2655,7 @@ ziehen, zog, hat gezogen
   - nach + [Ort] ziehen : לעבור למקום
 s Ziel (pl. -e)
 zielbewusst : מוכוון מטרה
+s Zimmer (= pl.) : חדר
 zittern : לרעוד, לרטוט
 s Zölibát : פרישות
 r Zoo (pl. -s) : גן חיות
