@@ -24,6 +24,8 @@ abhängig [adj.] : תלוי
 s Abkommen : הסכם, עסקה, דיל
 r Ablass : פליטה; אינדולגנציה
 áb|legen : לקחת; להניח; לעשות
+áb|lesen (liest ab), las ab, hat abgelesen [vt.] : לקרוא, לקחת קריאה (של מונה גז/חשמל)
+  - den Zähler ablesen : לקרוא את המונה (חשמל/גז)
 j-n áb|ordnen : to delegate s.o.
   j-n als Delegierten abordnen
   j-n abordnen, etw. zu tun
@@ -414,6 +416,9 @@ beí|fügen, fügte bei, beigefügt : להוסיף למשהו
   - "Er hat mit seiner Bewerbung ein Paßbild beigefügt."
 beí|pflichten : לאמץ (חוק, רעיון), להסכים עם־
 beißen, biss, hat gebissen [vt.] : לנשוך, לקחת ביס
+  - sich[Dat.] auf die Zunge beißen : לנשוך לעצמו את הלשון
+  - sich[Dat.] auf die Lippen beißen : לנשוך לעצמו את השפתיים
+s Beißen : נשיכה
 béi|steuern [vt.] : לתרום
   - Geld beisteuern : לתרום כסף
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
@@ -530,11 +535,12 @@ bis [präp.] : עד
  - bis zu diesem Zeitpunkt : עד רגע זה
  - bis hin zu : עד לידי, עד כדי
 bislang : so far, to date, yet
+r Biss : נשיכה; טעימה, ביס
 r Bittbrief : מכתב בקשה
 bitten, bat, hat gebeten [vt.] : לבקש
   - j-n um + [Akk.] bitten : לבקש משהו ממישהו
 s Bitten : בקשה; פניה
-e Blamage : חרפה
+e Blamage (pl. -n) : חרפה
 blanko [adj.] : פשוט
 blanko [adv.] : ריק, חלק
   - blanko akzeptieren : לקבל כמו שהוא
@@ -588,6 +594,12 @@ daheim [adv.] : בבית
   - weg von daheim : הרחק מן הבית
 s Daheim : הבית
 danken : להודות
+dár|stellen, stellte dar, hat dargestellt [vt.] : להוות; לייצג; להציג; לתאר (בקווים כלליים); לשרטט; לחקות; להציב
+  - Problem darstellen : להוות בעיה
+  - ein Gefahr darstellen : להוות סיכון
+  - bildlich darstellen : לאייר
+  - stark vereinfacht darstellen : להציג באופן מפושט
+  - zeichnerisch darstellen : לתאר, לצייר
 dauerhaft : ארוך־טווח, קבוע, מתמשך
 davón|laufen : לברוח מ־
 e Decke (= pl.) : תקרה; שמיכה
@@ -620,10 +632,13 @@ drauf
   ziellos drauf los : all over the place
   ich pfeif drauf : I don't give a damn about it
   Scheiß drauf : don't give a shit
+drehen, drehte, hat gedreht [vt.] : לסובב; לצלם (סרט), להסריט
+  - einen Film drehen : לצלם סרט
+  - sich drehen : להסתובב
 dreifach : כפול שלוש
 dreist : חצוף, חסר בושה, נמהר
 r Drill : תרגיל צבאי, אימון
-drillen
+drillen, drillte, hat gedrillt : לתרגל, לאמן, לעשות תרגיל
 dringen, drang, hat gedrungen [vt.] : לעורר (לפעולה), לדרבן; להתעקש
 dringen, drang, ist gedrungen [vi.] : לדלוף
   - auf + [Akk.] dringen : להתעקש על־
@@ -820,6 +835,8 @@ s Erachten : opnion
   meines Erachtens : in my opinion
 e Erbe : ירושה
   - eine Erbe hinterlassen
+erben, erbte, hat geerbt [vt.] : לרשת
+  - von j-m [Akk.] erben : לרשת משהו ממישהו
 erbitten, erbat, erbeten : לבקש, לערוג 
 erbittert [adj.] : עז, פראי
 r Erdball : כדור הארץ
@@ -950,6 +967,8 @@ fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
   - sich nicht festlegen wollen : לא להתחייב, לא לרצות להתחייב
 fést|stellen, stellte fest, hat festgestellt [vt.] : לזהות, לגלות; לתפוש, להבין פתאום, לשים לב
   - Während des Gesprächs stellen wir fest, dass wir aus derselben Stadt waren. : במהלך השיחה תפשנו שאנחנו מאותה עיר.
+r Film (pl. -e) : סרט
+  - einen Film drehen : לצלם סרט
 finden, fand, hat gefunden [vt.] : למצוא
   - Wie findest du das? : מה דעתך לגבי זה? איך אתה מוצא את זה?
 sich fit fühlen : to feel fit
@@ -1239,6 +1258,8 @@ vor nichts haltmachen : to stop at nothing
 e Hand (pl. Hände) : יד, כף יד
   - j-m freie Hand lassen : לתת למישהו יד חופשית
   - Hände halten : להחזיק ידיים
+s Handtuch : מגבת
+  - das Handtuch werfen : לזרוק את המגבת
 s Handwerk : משלח‏־יד
 hängen, hängte, hat gehängt : לתלות (כביסה)
 hängen, hing, hat gehängt : להיות תלוי (פוסטר), להיאחז במשהו
@@ -1490,6 +1511,8 @@ r Kraftwagen (= pl.) : רכב ממונע
 krank [adj.] : חולה
   - krank werden : להיעשות חולה
 s Krankenhaus (pl. Krankenhäuser) : בית חולים
+r Krankenwagen : אמבולנס
+  - einen Krankenwagen rufen : לקרוא לאמבולנס
 e Krankheit : מחלה
 krepieren : למות
 e Kreuzung : צומת
@@ -1565,6 +1588,8 @@ lieben, liebte, hat geliebt [vt.] : לאהוב
 r Liebeskummer (~pl.) : כאב לב, להיות חולה אהבה
 liefern : לשלוח
 lila [adj.] : סגול
+e Lippe (pl. -n) : שפה
+  - sich auf die Lippen beißen : לנשוך את השפתיים
 e List (pl. -en) : עורמה
 r LKW (= pl.) [kurz für Lastkraftwagen] : משאית
 locker : casual, easy, loose, lax
@@ -1656,7 +1681,11 @@ muhen : לגעות, לעשות מוּ
   - Die kuh muht.
 r Müll : אשפה
 r Mülleimer (= pl.) : פח אשפה
+r Mund (pl. Münder) : פה
+mündlich : בעל פה, אוראלי, מילולי
 munter : מלא שמחת חיים, עליז, שמח
+e Münze (pl. -n) : מטבע
+  - eine Münze werfen : להטיל מטבע
 müssen, musste, gemusst : להיות צריך, להצטרך
 r Muskel : שריר
 muskulär : שרירי
@@ -1669,6 +1698,8 @@ s Nachhinein : דיעבד
   - im Nachhinein : בדיעבד
   - [Akk.] im Nachhinein anzweifeln : to second guess
   - im Nachhinein ist man immer schlauer : קל להיות חכם בדיעבד
+nách|schlagen, schlug nach, hat nachgeschlagen : לחפש (ערך במילון, ספר), להיוועץ בספר
+  - in einem Wörterbuch nachschlagen : לחפש במילון
 in + Dat. nách|stehen : להיות נחות ב־/מבחינת־
   - im Rang nachstehen | to rank behind
 nách|steuern : to readjust s.th.
@@ -1869,6 +1900,7 @@ Rückhol- : return ...
   Rückholsendung : return shipment
 e Rückholung : retrieval
 rück|rufen : to recall s.th. ???
+rufen, rief, hat gerufen [vt.] : לקרוא ל־
 r Ruß (pl. -e) : זוהמה, טינפות, לכלוך
 r Rutsch
   - in einem Rutsch : במכה אחת, בפעם אחת, בבת אחת
@@ -1926,15 +1958,21 @@ schief : נוטה לצד אחד, עקום
 schießen [vt.] : לירות (משהו)
 e Schießerei (pl. -en)
 s Schild : שלט; מגן; תגית
+schildern, schilderte, hat geschildert [vt.] : לתאר
 schillernd [adj.] : מהמם, מסנוור
 e Schlacht : קרב
 schlachten : לשחוט
 s Schlachten : שחיטה
 r Schlachtruf : קריאת קרב
+r Schlaf : שינה
 schlafen, schlief, hat geschlafen [vi.] : לישון
   - mit j-m schlafen : לשכב עם מישהו
+schläfrig [adj.] : מנומנם
+e Schläfrigkeit (pl. -en) : עייפות, מותשות
 s Schlafzimmer (= pl.) : חדר שינה
-schlagen : להכות
+schlagen, schlug, hat geschlagen [vt.] : להכות
+r Schlag (pl. Schläge) : מכה
+e Schlagsahne : שמנת מתוקה
 schlemmen : לסעוד
 schläfrig : עייף, מותש
 schließen : לסגור
@@ -2006,6 +2044,8 @@ r Seelsorger : pastor
 e Seemacht : הכוח הימי
 sein, war, ist gewesen : להיות
 sein [poss. pron.] : שלו
+s Segel (= pl.) : מפרש
+  - j-m den Wind aus den Segeln nehmen : להוציא למישהו את הרוח מהמפרשים
 segeln, segelte, gesegelt : לשוט, להפליג
 segnen : לברך
 selbig : אותו (אחד)
@@ -2392,6 +2432,8 @@ verheeren : להרוס, להשחית
 verheerend : davastating, disastrous, fatal
 e Verherrlichung : האדרה, גלוריפיקציה
 verkacken : to fuck s.th. up
+verkleiden, verkleidete, hat verkleidet [vt.] : להסתיר, לסגור בקופסה
+  - sich als + [Nom.] verkleiden : להתחפש למשהו
 sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
   in j-n verknallt sein
 verkrüppelt [adj.] : בעל מום, שהוטל בו מום
@@ -2474,7 +2516,7 @@ verwehren : לאסור, למנוע
   - j-n verwehren, etwas zu tun : לאסור על מישהו לעשות משהו
 verwehrt [adj.] : מנוע
 verweigern [vt.] : לסרב, לא להסכים, למנוע, לא להרשות, לאסור
-verwerfen, verwarf, hat verworfen [vt.] : לדחות, לבטל, לסרב ל־
+verwerfen (verwirft), verwarf, hat verworfen [vt.] : לדחות, לבטל, לסרב ל־
   - einen Vorschlag / eine Idee verwerfen : לדחות הצעה
   - Änderungen verwerfen : לבטל שינויים
 sich verwicklichen, verwirklichte sich, hat sich verwirklicht : להתממש, לבוא לידי מימוש, להתגשם
@@ -2514,6 +2556,8 @@ s Vordringen : התקדמות
 vorerst : for now, for the time being לעת עתה
 vor|fahren :  : לנסוע מקדימה
 Vorfahren (pl.) : אבות(יי), אבות קדומים
+vór|führen, führte vor, hat vorgeführt [vt.] : להציג, להביא בפני
+  - j-n einem Richter vorführen : להביא מישהו בפני שופט
 vór|gehen, ging vor, vorgegangen : להמשיך, להתקדם; להוביל; לבוא קודם
 s Vorgehen : גישה
   - das Vorgehen ändern : לשנות את הגישה
@@ -2533,6 +2577,8 @@ vór|stellen, stellte vor, hat vorgestellt [vt.] : להציג (בפני)
   - sich[Dat.] [Akk.] vorstellen : לדמיין משהו
 e Vorwahl : area code, prefix
 e Vorwarnung : אזהרה מראש
+vór|werfen (wirft vor), warf vor, hat vorgeworfen [vt.] : להאשים
+  - j-m [Akk.] vorwerfen : להאשים מישהו במשהו
 vórwiegend : עיקרי, ראשי, מוביל, בולט, מכריע
 
 = W =
@@ -2557,6 +2603,7 @@ s Waschbecken (= pl.) : כיור
 waschen : לשטוף, לרחוץ
 e Waschmaschine (pl. -n) : מכונת כביסה
 r Wasserhahn (pl. Wasserhähne) : ברז
+wecken, weckte, hat geweckt [vt.] : להעיר
 wedeln, wedelte, hat gewedelt : לכשכש
   - mit dem Schwanz wedeln : לכשכש בזנב
 weder ... noch ... : לא ... ולא ...
@@ -2565,8 +2612,16 @@ weg von [präp.] : הרחק מ־
   - weg von daheim : הרחק מן הבית
 e Wegnahme : הסרה
 wég|nehmen + [Akk.] : לקחת, להרחיק, to take away
-weilen : להישאר
-weinen : לבכות
+s Weh : צער, צר
+  - mit Ach und Weh : בצער ובכאב
+weh [adj.] : כואב
+weh [adv.] : בכאב
+e Wehe (pl. -n) : ציר(י) לידה
+wehen, wehte, hat geweht : לנשוב (רוח); להתנופף ברוח (דגל)
+  - die Fahne weht im Wind. : הדגל מתנופף ברוח
+weilen, weilte, hat geweilt : להישאר
+weinen, weinte, hat geweint [vi.] : לבכות
+  - sich in den Schlaf weinen : לבכות את עצמו לשינה, לבכות ולהירדם
 weiß [adj.] : לבן
   - Es ist nicht alles schwarz oder weiß im Leben : לא הכול שחור-לבן בחיים
 Weiteres
@@ -2577,7 +2632,8 @@ wenden, wendete, gewendet
   - sich gegen j-n wenden : לצאת כנגד מישהו
 r Werdegang : קריירה, סיפור חיים
 werden (wird), wurde/ward, ist geworden/worden : להפוך ל־, להיעשות
-werfen : לזרוק
+werfen (wirft), warf, hat geworfen [vt.] : לזרוק, להטיל
+  - eine Münze werfen : להטיל מטבע
 wesentlich : בסיסי, מהותי, חשוב, עיקרי
 wettern : לגנות, לנגח
 s Wettrüsten : מירוץ חימוש
@@ -2601,6 +2657,8 @@ wiehern : לצהול, לצנוף
   - Das Pferd wiehert.
 e Wiese : דשא
   - auf der Wiese liegen : לשכב על הדשא
+r Wind : רוח
+  - j-m den Wind aus den Segeln nehmen : להוציא למישהו את הרוח מהמפרשים
 winzig [adj.] : זעיר
 r Witwenschleier : רעלת אלמנה
 e Wohnung (pl. -en) : דירה
@@ -2612,6 +2670,8 @@ s Wort (pl. Worte, Wörter) : מילה
   - zu Wort kommen : למצוא הזדמנות לדבר
   - Wort für Wort : מילה במילה, מילולית
   - j-n beim Wort nehmen : לקחת מישהו במילה, לתפוס מישהו במילה
+s Wörterbuch (pl. Wörterbücher) : מילון
+  - in einem Wörterbuch nachschlagen : לחפש במילון
 r Wortführer : דובר
 wortgewaltig [adj.] : חזק במילים, רהוט
 e Wucht : השפעה עוצמה; חתיך
@@ -2626,10 +2686,15 @@ e Wut : זעם
 Wutanfall : התקף זעם
 
 = Z =
-zählen : לספור, למנות
+zählen, zählte, hat gezählt : לספור, למנות; להימנות בין־, להשתייך ל
+  - das Geld zählen : לספור את הכסף
+  - zu + [Dat.] zählen : להשתייך ל־, להימנות בין
+s Zählen : ספירה
+Zähler (= pl.) : מונה
 s Zebra (pl. -s) : זברה
 r Zebrastreifen (= pl.) : מעבר חצייה
-zeichnen : לצייר
+zeichnen, zeichnete, hat gezeichnet [vt.] : לצייר
+e Zeichnung (pl. -en) : רישום, ציור; סקיצה
 zeigen [vt.] : להראות; לסמן
 e Zeit : זמן
   - Die Zeit ist um. : נגמר הזמן.
