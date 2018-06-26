@@ -2356,6 +2356,8 @@ vernichten : להשמיד, לחסל, להרוס, להחריב
 veröffentlichen, veröffentlichte, veröffentlicht [vt.] : לפרסם
 j-n verprügeln : to beat s.o. up
 verrecken : למות, ללכת פייפן, להיגמר
+verrückt [adj.] : משוגע
+  - nach + [Dat.] verrückt sein : להיות משוגע על
 versammelt : assembled, convened
 versäumen [vt.] : להחמיץ, להחטיא, להזניח, להשמיט
   - eine Gelegenheit versäumen : להחמיץ הזדמנות
