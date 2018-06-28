@@ -238,16 +238,19 @@ antworten, antwortete, hat geantwortet [vt.] : לענות ל־
   - auf + [Akk.] antworten : לענות על
   - auf eine Frage antworten : לענות על שאלה
 j-m etw. án|vertrauen : לסמוך על מישהו עם משהו to confide
-e Anzeige : תצוגה; מודעה, מודעת פרסומת; אינדיקציה, סימן
+e Anzeige : תצוגה; מודעה, מודעת פרסומת; אינדיקציה, סימן; תלונה
   - akustische Anzeige : הודעה קולית
   - numerische Anzeige : תצוגה מספרית
   - klare Anzeige : סימן ברור, אינדיקציה ברורה
+  - eine Anzeige erstatten : להגיש תלונה
+  - eine Anzeige einreichen : להגיש תלונה
 án|ziehen, zog an, angezogen : למשוך; להיות מושך ל־; להדק (ברגים); ללבוש
   - sich[Akk.] anziehen : להתלבש
   - sich[Dat.] [Akk.] anziehen : להתלבש ב־, ללבוש
 án|zweifeln [vt.] : לחשוד, להטיל ספק, לא לסמוך על
 applaudieren : למחוא כפיים, לשבח
-e Arbeit : עבודה
+e Arbeit : עֲבוֹדָה
+  - "Man drücke die Leute mit arbeit" [Lutherbibel, Ex 5:9] = תִּכְבַּד הָעֲבֹדָה עַל־הָאֲנָשִׁים [שמות ה ט]
 r Arbeiter : עובד, פועל
 e Arbeiterschaft : כוח עבודה, כלל העובדים
 arglos : תמים, לא חושד
@@ -407,6 +410,8 @@ e Aussicht (auf + [Akk.]) : סיכוי, אפשרות, פוטנציאל; נוף, 
 aús|sprechen (spricht aus), sprach aus, hat ausgesprochen [vt.] : לבטא
 aús|stoßen, stieß aus, hat ausgestoßen [vt.] : לפלוט; להוציא
 s Ausstoßen : פליטה
+aús|strecken : לפרוס; לשלוח (יד)
+  - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
 aús|treiben [vt.] : לגרש
   - "Vnd treib Adam aus / vnd lagert fur den garten Eden den Cherubim mit einem blossen hawenden Schwert / zu bewaren den weg zu dem Bawm des Lebens" [Lutherbibel, Gen 3:24] = וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים [בראשית ג כד]
 r Ausweg : מוצא, דרך החוצה, מפלט
@@ -1100,6 +1105,9 @@ erst [adv.] : רק; בהתחלה
   - erst danach : רק אחר כך
   - gerade erst : רק לאחרונה
 e Erstarrung : התקבעות, התגבשות
+erstatten [vt.] : לפצות; להגיש (תלונה, דו"ח), לדווח על־
+  - eine Anzeige erstatten : להגיש תלונה
+  - eine Meldung erstatten : להגיש דו"ח
 j-n erstechen : to stab s.o.
 erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
   - erstere ... letztere ... 
@@ -1146,6 +1154,8 @@ e Ewigkeit : נצח
   - in Ewigkeit : לנצח
   - in alle Ewigkeit : לנצח; לנצח נצחים
   - seit einer Ewigkeit [ugs.] : במשך דורות
+ewiglich [adv.] : לנצח; לעולם
+  - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
 existieren : להיות קיים, להתקיים
 
 = F =
@@ -1171,6 +1181,7 @@ e Fasson : סגנון, אופנה
   - jeder nach seiner Fasson : כל אחד לפי דרכו
   - jeder nach seiner Fasson selig werden : להיות שמח, כל אחד לפי דרכו
 faul [adj.] : עצלן
+faulenzen : להתעצל; להתבטל
 s Faustpfand : קלף מיקוח
 fegen [vt.] : לטאטא
 feiern : לחגוג
@@ -1564,6 +1575,7 @@ hált|machen, machte halt, hat haltgemacht [auch: Halt machen]
 e Hand (pl. Hände) : יד, כף יד
   - j-m freie Hand lassen : לתת למישהו יד חופשית
   - Hände halten : להחזיק ידיים
+  - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
 handeln, handelte, hat gehandelt : לפעול, לעשות מעשה; לסחור
   - "Du hast mit mir gehandelt / nicht wie man handeln sol" [Lutherbibel, Gen 20:9] = מַעֲשִׂים אֲשֶׁר לֹא־יֵעָשׂוּ עָשִׂיתָ עִמָּדִי
 s Handtuch : מגבת
@@ -1572,6 +1584,7 @@ s Handwerk : משלח‏־יד
 hängen, hängte, hat gehängt : לתלות (כביסה)
 hängen, hing, hat gehängt : להיות תלוי (פוסטר), להיאחז במשהו
 hassen [vt.] : לשנוא
+  - "WEnn jemand zwey Weiber hat / Eine die er lieb hat / vnd eine die er hasset" [Lutherbibel, Dtn 21:15] = כִּי־תִהְיֶיןָ לְאִישׁ שְׁתֵּי נָשִׁים הָאַחַת אֲהוּבָה וְהָאַחַת שְׂנוּאָה [דברים כא טו]
 hässlich [adj.] : מכוער
 e Hassliebe : אהבה־שנאה, יחסי אהבה־שנאה
 s Haupt : ראש
@@ -2023,6 +2036,8 @@ letztere [adj.] : האחרון, ההוא (בניגוד ל"זה")
 s Licht (pl. -er) : אור
   - "VND Gott sprach / Es werde Liecht / Vnd es ward Liecht" [Lutherbibel, Gen 1:3] = וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר [בראשית א ג]
 lieb [adj.] : יקר, אהוב, חביב
+  - j-n lieb haben : לאהוב מישהו
+  - "WEnn jemand zwey Weiber hat / Eine die er lieb hat / vnd eine die er hasset" [Lutherbibel, Dtn 21:15] = כִּי־תִהְיֶיןָ לְאִישׁ שְׁתֵּי נָשִׁים הָאַחַת אֲהוּבָה וְהָאַחַת שְׂנוּאָה [דברים כא טו]
 lieben, liebte, hat geliebt [vt.] : לאהוב
   - j-n bedingungslos lieben : לאהוב מישהו ללא תנאים
 r Liebeskummer (~pl.) : כאב לב, להיות חולה אהבה
