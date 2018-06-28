@@ -396,7 +396,9 @@ e Aussicht (auf + [Akk.]) : סיכוי, אפשרות, פוטנציאל; נוף, 
   - Die Aussicht auf dauerhaften Frieden : הסיכוי לשלום מתמשך
   - schöne Aussicht : נוף יפה
   - mit Aussicht auf ... : עם נוף ל־
-aús|sprechen : לבטא
+aús|sprechen (spricht aus), sprach aus, hat ausgesprochen [vt.] : לבטא
+aús|stoßen, stieß aus, hat ausgestoßen [vt.] : לפלוט; להוציא
+s Ausstoßen : פליטה
 r Ausweg : מוצא, דרך החוצה, מפלט
 auswärtig : חיצוני
 auswärts : החוצה
@@ -406,6 +408,7 @@ auswendig : בעל־פה
   - etw. auswendig lernen : ללמוד בעל־פה
   - etw. auswendig können : לדעת בעל־פה
   - etw. auswendig aufsagen : לצטט מהזכרון
+e Auswertung : הערכה
 aús|ziehen [vt.] : להוריד (בגד); לעזוב (בית)
 s Auto (pl. -s) : רכב, אוטו
 e Axt : גרזן
@@ -481,6 +484,12 @@ begeistert: מורשם, שמשהו מרשים אותו
 begleiten, begleitete, hat begleitet [vt.] : ללוות
 j-n begnadigen : לחון
 e Begnadigung : חנינה
+begraben [vt.] : לקבור
+begraben [adj.] : קבור
+  - lebendig begraben : קבור בעודו בחיים
+  - tot und begraben sein : להיות מת וקבור
+  - Da liegt der Hund begraben. : פה קבור הכלב
+  - unter einem Berg von Arbeit begraben sein : להיות קבור תחת הררי עבודה
 begrenzbar [adj.] : שניתן לסיים אותו
 begrenzen [vt.] : להגביל
 begrenzt [adj.] : מוגבל, סופי
@@ -542,6 +551,10 @@ bereit [adj.] : מוכן
 bereiten [vt.] : להכין
   - j-m Sorgen bereiten : להדאיג מישהו
 bereít|stellen, stellte bereit, hat bereitgestellt [vt.] : לספק
+r Berg (pl. -e) : הר
+  - unter einem Berg von Arbeit begraben sein : להיות קבור תחת הררי עבודה
+bergab [adv.] : במורד ההר
+bergauf [adv.] : במעלה ההר
 berichten : לדווח
 berüchtigt : ידוע לשמצה
 berücksichtigen : לשקול
@@ -604,6 +617,7 @@ bewältigen [vt.] : להתמודד עם; להתגבר על; להסתדר עם; �
 bewegen, bewegte, hat bewegt [vt.] : להזיז משהו
 bewegen, bewog, hat bewegt [vt.] : להניע מישהו לעשות משהו
   - sich bewegen : לזוז
+r Beweis (pl. -e) : הוכחה; עדות; הדגמה; טיעון
 beweisen : להוכיח
 bewundern, bewunderte, hat bewundert [vt.] : להתפעל מ־, להעריץ
 bezahlen [vt.] : לשלם על־
@@ -657,6 +671,8 @@ s Blutvergießen : שפיכות דמים
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : סערה
 r Boden (pl. Böden) : רצפה
+böig [adj.] : מתפרץ (רוח)
+  - böiger Wind : רוח מתפרצת
 r Bösewicht (pl. Bösewichte, Bösewichter) : נבל
 s Bollwerk : סוללה, ביצור
 r Brand : שריפה
@@ -979,6 +995,9 @@ r Erbfeind : אויב נצחי, "אויב תורשתי"
 e Erbfeindschaft : איבה נצחית שמועברת מדור לדור
 erbitten, erbat, erbeten : לבקש, לערוג 
 erbittert [adj.] : עז, פראי
+erbringen [vt.] : להעביר; לספק; להמציא (עדות, הוכחה)
+  - Leistungen erbringen : לספק שירותים
+  - Nachweis erbringen : להמציא הוכחה
 r Erdball : כדור הארץ
   - rund um den Erdball : מסביב לעולם
 e Erde : אדמה, כדור הארץ
@@ -1017,6 +1036,7 @@ erklären, erklärte, hat erklärt : להבהיר, להסביר
 erlauben : להרשות
 erleichtern [vt.] : להקל על־
 e Erleichterung : הקלה
+erleiden [vt.] : לסבול; לספוג
 r Erlöser : מושיע
 ermutigen [vt.] : לעודד
   - j-n ermutigen, etwas zu tun : לעודד מישהו לעשות משהו
@@ -1067,6 +1087,8 @@ erweisen, erwies, erwiesen : להראות
   - Meine erste Idee erwies sich als richtig.
   - Der Umzug von einer Stadt in die andere erwies sich als sehr teuer.
 erweitern + Akk. : להרחיב
+erwischen [vt.] : לתפוס (רכבת); להשיג
+  - erwischt werden : להיתפס
 s Exempel : דוגמה
   - als Exempel : לדוגמה
   - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
@@ -1083,6 +1105,8 @@ es [pron.] : זה
 essen (isst), aß, hat gegessen [vt.] : לאכול
 etablieren : להקים, לייסד, להשתית
 e Ethik : אתיקה, מוסר
+etliche [m.b.] : מספר ...
+  - etliche Stunden : מספר שעות
 euer [poss.pron.] : שלכן; שלכם
 ewig [adj.] : נצחי
 e Ewigkeit : נצח
@@ -1538,6 +1562,8 @@ herab|hängen : להיות תלוי למטה
 heran [adv.] : קרוב
 herán|kommen, kam heran, herangekommen : לגשת
   - (an + [Akk.]) näher herankommen : להתקרב (ל־)
+herán|wachsen : לגדול
+S Heranwachsen : גדילה; התבגרות
 heraús|drängen : למלא עד אפס מקום, לצופף to croud out
 heraús|finden : לגלות
 heraús|fordern, forderte heraus, hat herausgefordert [vt.] : להציב אתגר; להזמין לדו־קרב
@@ -1645,6 +1671,9 @@ e Höhenangst : פחד גבהים
 r Höhepunkt (pl. -e) : נקודת שיא
 hören, hörte, hat gehört [vt.] : לשמוע
 s Hotel (pl. -s) : מלון
+r Hund (pl. -e) : כלב
+  - einen Hund ausführen : להוציא כלב לטיול
+  - Da liegt der Hund begraben. : פה קבור הכלב
 
 = I =
 ich [pron.] : אני, אנוכי
@@ -1887,6 +1916,10 @@ legen, legte, hat gelegt : להניח
 lehren : ללמד
 leiden, litt, hat gelitten [vt.] : לסבול
   - unter + [Dat.] leiden : לסבול מ־
+e Leistung (pl. -en) : ביצועים; תשלום; שירות; תועלת; כוח; מאמץ; יכולת; הישג
+  - große Leitsung : הישג משמעותי
+  - Leistungen erbringen : לספק שירותים
+  - einen Beweis erbringen : לספק הוכחה
 leiten, lietete, hat geleitet [vt.] : להדריך
 Leit- [K.] : מוביל, מרכזי
 e Leitfigur : דמות מובילה, דמות מרכזית
@@ -2118,6 +2151,7 @@ e Not (pl. Nöte) : צורך; מקרה חירום; צרה
 r Notfall (pl. Notfälle) : מקרה חירום
 notfalls [adv.] : in case of emergency
 notieren [vt.] : לציין (בכתב), לכתוב הערה, להעיר (בכתב)
+e Notlandung : נחיתת חירום
 notwendig [adj.] : נחוץ, חיוני
 e Notwendigkeit : צורך, נחיצות
 nutzen, nutzte, hat genutzt [vt.] : להשתמש ב־, לעשות שימוש ב, לנצל, לנכס
@@ -2209,8 +2243,8 @@ r Proviant : צידה לדרך
   - mit Proviant beliefern : לצייד
 prüfen : לבדוק
 r Prügel : אלה
-prügeln + Akk. : להרביץ, להכות
-  sich prügeln : ללכת מכות
+prügeln [vt.] : להרביץ, להכות
+  - sich prügeln : ללכת מכות
 s Pulver : אבקה
 r Pulverdampf : עשן יריה
 s Pulverfass : חבית אבקת שריפה
@@ -2456,11 +2490,16 @@ r Schöngeist : אסתטיקן, בעל טעם, אנין
 e Schubkarre (pl. -n) : מריצה
 e Schublade (pl. -n) : מגירה
 e Schufterei : עבודת פרך
+e Schuld (pl. -en) : אשמה; חוב
+  - j-m (für + [Akk.]) die Schuld geben : להאשים מישהו (במשהו)
+  - für + [Akk.] die Schuld tragen : לשאת באשמה על משהו
+  - eigene Schuld : אשמתי שלי
 schuldig [adj.] : אשם
   - schuldig sein : להיות אשם
   - eines Verbrechens schuldig : פושע, אשם בפשע
   - für schuldig erklärt : מואשם
   - niemandem Rechenschaft schuldig : שאינו נותן דין וחשבון
+e Schuldzuweisung : האשמה; הפניית האשמה
 e Schusslinie (pl. -n) : קו האש
 e Schusswaffe (pl. -n) : נשק חם
 schwach [adj.] : חלש
@@ -2587,6 +2626,10 @@ r Stau (pl. -s) : פקק תנועה
 stehen, stand, hat/ist gestanden [vi.] : לעמוד
   - auf + [Akk.] stehen : להיות בעניין של; לאהוב משהו או לעשות משהו; להיות להוט אחרי; להתעניין ב־
   - im Stau stehen : לעמוד בפקק
+e Stelle (pl. -n) : מקום; מיקום; משרה
+stellen, stellte, hat gestellt [vt.] : להעמיד; להציב; לשים; להניח
+e Stellung : עמדה
+e Stellungnahme (pl. -n) : דעה; גילוי דעת
 sterben (stirbt), starb, ist gestorben [vi.] : למות
 e Sternstunde (pl. -n) : רגע קסום, רגע גדול
 stets [adv.] : תמיד
@@ -2703,6 +2746,10 @@ trainieren [vt.] : לתרגל, להתאמן
 s Trainiren : אימון
 r Trauring : טבעת נישואים
 treffen : לפגוש
+treppab [adv.] : במורד המדרגות
+treppauf [adv.] : במעלה המדרגות
+e Treppe (pl. -n) : מדרגה
+s Treppenhaus : חדר מדרגות
 treten : לצעוד, לבוא, לבעוט, לדרוך; להפוך
   - auf + [Akk.] treten : לדרוך על
   - in Kraft treten : לצאת מן הכוח לפועל
@@ -2833,6 +2880,8 @@ unten [adv.] : למטה
 unter [präp.] : מתחת ל־, תחת
 unterbrechen (unterbricht), unterbrach, hat unterbrochen [vt.] : לקטוע באמצע, להפסיק, לעצור באמצע
 únter|gehen, ging unter, ist untergegangen [vi.] : לשקוע (שמש); לרדת למטה; להפסיד
+s Unterholz
+  - aus dem Unterholz kommen : לבוא מבין השיחים
 únter|legen + Akk. : לשים מתחת
 r Unterricht (pl. -e) : שיעור
   - Heute ist kein Unterricht : היום אין שיעור
@@ -2861,6 +2910,7 @@ unversöhnlich [adj.] : שלא ניתן לפייס אותו, שאינו סולח
 unverständlich [adj.] : בלתי מובן
 unordentlich : messy
 e Unsumme : enormous amount, enormous sum
+s Unwesen : מצב נוראי; מצב מחריד
 unwiederbringlich : שלא ניתן להשיבו
 unzuverlässig [adj.] : בלתי אמין, מפוקפק
 unzuverlässig [adv.] : באופן בלתי אמין, באופן מפוקפק
@@ -3354,6 +3404,8 @@ r Zusammenhalt : לכידות
 r Zusammenhang (pl. Zusammenhänge) : הקשר, קונטקסט
 r Zusammenprall : התנגשות
 zusámmen|schweißen : לרתך יחד
+zusámmen|stoßen : להתנגש
+  - mit + [Dat.] zusammenstoßen : להתנגש ב־, להתנגש עם־
 r Zuschlag : עלות נוספת
 zú|spitzen, spitzte zu, hat zugespitzt [vt.] : לחדד
   - sich zuspitzen : להתחדד (ויכוח), להחריף
