@@ -766,6 +766,7 @@ drucken : להדפיס
 s Drucken : דפוס
 drücken : ללחוץ, לדחוף
 e Druckerei (pl. -en) : בית דפוס
+du [pron.] : את; אתה
 r Duft : ניחוח, ריח טוב
 dulden [vt.] : לסבול, לשאת, לעמוד ב־
 s Dulden : סובלנות
@@ -794,6 +795,7 @@ dürfen (darf), durfte, gedurft : להיות רשאי
 e Dusche (pl. -n) : מקלחת
 sich duschen : להתקלח
 düster [adj.] : עגום, קודר
+duzen [vt.] : לפנות באופן לא רשמי (ב־du)
 
 = E =
 ebenbürtig : שווה, ראוי
@@ -898,7 +900,7 @@ endgültig [adv.] : סוף סוף, באופן מוחלט, באופן סופי, �
   - [Akk.] endgültig festlegen : להביא לידי סיום, להשלים
   - endgültig festgelegt : מתוקן באופן סופי
 entdecken : לגלות
-etw.[Akk.] entfachen : לעורר, להצית
+entfachen [vt.] : לעורר, להצית
   - ein Feuer entfachen : להצית אש
   - Wut entfachen : לעורר זעם
   - Fanatismus entfachen
@@ -961,6 +963,7 @@ entstehen : to arise, to develop, to come into being/existence
 entthronen : להדיח מעל כס המלכות
 entweder ... oder ... : או ... או ...
 entwickeln : לפתח
+er [pron.] : הוא
 erachten, erachtete, hat erachtet [vt.] : לשקול; לראות כ־, לתפוש כ־
   - als notwendig erachten : לראות כהכרחי
   - als sinnvoll erachten : לראות כמתקבל על הדעת
@@ -1076,9 +1079,11 @@ erzwingen, erzawng, hat erzwungen [vt.] : להכריח (דבר), להכריח ש
   - eine Entscheidung erzwingen : להביא להכרעה
   - Zahlung erzwingen : לחייב תשלום
   - eine andere Anordnung erzwingen : לחייב סדר חלופי
+es [pron.] : זה
 essen (isst), aß, hat gegessen [vt.] : לאכול
 etablieren : להקים, לייסד, להשתית
 e Ethik : אתיקה, מוסר
+euer [poss.pron.] : שלכן; שלכם
 ewig [adj.] : נצחי
 e Ewigkeit : נצח
   - in Ewigkeit : לנצח
@@ -1228,6 +1233,7 @@ e Furcht : פחד, אימה
   - j-n Furcht überkommen : להתמלא אימה
 furchtbar [adj.] : נורא
 r Fürsprecher : חסיד, תומך, מצדד
+s Fürwort : כינוי גוף
 r Fuß (pl. Füße) : כף רגל
 r Fußgänger, e Fußgängerin : הולך רגל
 e Fußgängerzone (pl -n) : מדרחוב
@@ -1641,9 +1647,15 @@ hören, hörte, hat gehört [vt.] : לשמוע
 s Hotel (pl. -s) : מלון
 
 = I =
+ich [pron.] : אני, אנוכי
+s Ich : האגו, האני
 r Idiot (pl. -en) : אידיוט
 e Idiotin (pl. -nen) : אידיוטית
 ignorieren : להתעלם מ־
+ihr [pron.] : אתן; אתם
+ihr [poss.pron.] : שלה
+ihr [poss.pron.] : שלהן; שלהם
+Ihr [poss.pron.] : שלכן (בכבוד); שלכם (בכבוד)
 immer [adv.]
   - oder was auch immer : או מה שזה לא יהיה
   - oder wann auch immer : או מתי שזה לא יהיה
@@ -1922,6 +1934,9 @@ los! [interj.] : קדימה!; יאללה!
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא
 los [adj.] : רפוי
 los [adv.] : לדרך
+löschen [vt.] : למחוק
+s Löschen : מחיקה
+e Löschung : ביטול; מחיקה
 e Losung : סלוגן
 e Lösung : פתרון
 lós|lassen, ließ los, hat losgelassen [vt.] : לשחרר, להרפות, לעזוב
@@ -2174,6 +2189,8 @@ politisch [adj.] : פוליטי
   - politisch korrekt : פוליטיקלי קורקט
 e Pose (pl. -n) : פוזה
 posieren : לדגמן, לעמוד לפני צייר
+possessiv [adj.] : של שייכות; רכושני
+s Possessivpronomen (= pl.) : כינוי שייכות
 prall [adj.] : שופע, מלא, בולט; בוהק
   - in der prallen Sonne : בשמש הבוהקת
 prall [adv.]
@@ -2187,6 +2204,7 @@ e Predigt (pl. -e) : דרשה
 Preis : מחיר
   - um jeden Preis : בכל מחיר
 e Prellung : חבּורה, חבלה, מכה, חבטה
+s Pronomen (= pl.) : כינוי גוף
 r Proviant : צידה לדרך
   - mit Proviant beliefern : לצייד
 prüfen : לבדוק
@@ -2489,11 +2507,15 @@ e Sicht : תצפית, נקודת מבט, פרספקטיבה
   - aus Sicht + [Gen.] : מנקודת המבט של
   - aus heutiger Sicht : מנקודת המבט של היום
   - aus soziologischer Sicht : מנקודת מבט סוציולוגית
+sie [pron.] : היא
+sie [pron.] : הם; הן
+Sie [pron.] : את (בכבוד); אתה (בכבוד); אתן (בכבוד); אתם (בכבוד)
 sieden : לרתוח
   - Das Wasser siedet. המים רותחים
   - Der Eintopf siedet eine Wiele. הנזיד מתבשל זמן מה
   - Sie ließ die Suppe eine halbe Stunde lang sieden. היא הניחה למרק לרתוח במשך חצי שעה
 r Siedepunkt : נקודת הרתיחה
+siezen [vt.] : לפנות בפניית כבוד (Sie), לפנות בנימוס
 singen : לשיר; לצייץ (ציפור)
   - Der Vogel singt.
 sinken, sank, gesunken
@@ -3194,6 +3216,7 @@ e Wiese : דשא
 r Wind : רוח
   - j-m den Wind aus den Segeln nehmen : להוציא למישהו את הרוח מהמפרשים
 winzig [adj.] : זעיר
+wir [pron.] : אנחנו, אנו
 wirken, wirkte, hat gewirkt [vt.] : להשפיע, להיות בעל השפעה של; להיראות, להידמות; לפעול
   - auf + [Akk.] wirken : להשפיע על
   - als Katalysator wirken : לפעול כקטליזטור
