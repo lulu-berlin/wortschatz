@@ -7,6 +7,7 @@ ab + [Dat.] [präp.] : מ־; החל מ־
 áb|biegen : לפנות
   - nach links abbiegen : לפנות שמאלה
   - nach rechts abbiegen : לפנות ימינה
+áb|brechen [vt.] : לבטל; להפסיק; לעצור באמצע
 áb|danken : לוותר על כס המלוכה, להתפטר
 e Abdankung : ויתור על כס המלכות, התפטרות
 r Abend (pl. -e) : ערב
@@ -59,8 +60,11 @@ abseits [adv.] : הרחק, הצידה
   - sich von + [Dat.] abseits halten : keep aloof from sth.
 abseits + [Dat.] [präp.] : הרחק מ־
   - abseits von + [Dat.] : הרחק מ־
+áb|senden [vt.] : לשלוח (מכתב), לשגר (מכתב)
+  - einen Brief absenden : לשלוח מכתב
 áb|setzen, setzte ab, hat abgesetzt
   - j-n absetzen : להוריד מישהו איפשהו (ממכונית, בהסעה)
+e Absendung : משלוח
 áb|spülen : לשטוף כלים
   - das Geschirr abspülen : לשטוף את הכלים
 e Abstammung : מוצא, מקור, ייחוס
@@ -196,11 +200,14 @@ e Anreicherung : enrichment
   - sich ansagen : להכריז על עצמו
   - den Kampf ansagen : להכריז מלחמה
 s Ansagen (= pl.) : הכרזות
+án|schauen [vt.] : להסתכל על
+  - sich[Dat.] [Akk.] anschauen : להסתכל על משהו
 án|schließen : לחבר, לצרף, לקשור יחד
 án|schreiben, schrieb an, hat angeschrieben [vt.] : לכתוב למישהו
 án|setzen : לקבוע זמן
 e Ansicht (pl. -en) : מבט; דיעה; אמונה
 án|sprechen, sprach an, hat angesprochen [vt.] : לפנות למישהו; להעלות נושא לדיון
+ansprechend [adj.] : מוצא חן, מושך, מלבב
 án|steigen : להתגבר, לעלות
 án|stimmen, stimmte an, angestimmt : לפצוח (בשיר)
 r Anstoß : דחף (לעשות משהו)
@@ -451,6 +458,7 @@ begrenzbar [adj.] : שניתן לסיים אותו
 begrenzen [vt.] : להגביל
 begrenzt [adj.] : מוגבל, סופי
 begründen [vt.] : להצדיק; לכונן
+e Begründung : סיבה, הצדקה, עילה, הסבר
 begrüßen, begrüßte, hat begrüßt [vt.] : לברך לשלום; להעריך, לראות במשהו שינוי מבורך
   - Die Angestellten begrüßen die neue Strategie der Firma.
 behalten, behielt, hat behalten [vt.] : לשמור
@@ -809,6 +817,8 @@ etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן מ�
   - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit eingerichtet.
 eín|schlafen, schlief ein, ist eingeschlafen [vi.] : להירדם
 einseitig : חד־צדדי, מוטה
+eín|tragen [vt.] : לרשום, להכניס לרשימה, להוסיף לרשימה
+  - sich eintragen : להירשם
 eín|treffen : להגיע
 sich[Dat.] [Akk.] eín|verleiben : לכלול, לשלב, לעשות אסימילציה
 eín|verleiben
@@ -923,8 +933,10 @@ erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
   - "Was in der Revolution erfochten wurde, ist das Bewusstsein, dass der Gedanke stärker, größer und gewaltiger ist als die Macht der Bajonette und Kanonen." [Die Deutschen]
 erfolgversprechend : מבטיח (צפוי להצליח)
 erfüllen : למלא (צורך, בקשה)
-ergeben + Akk. : להניב, להפיק, להוביל ל, לייצר
-  - sich ergeben : לקרות, להיות המקרה
+ergeben, ergab, hat ergeben [vt.] : להניב, להפיק, להוביל ל, לייצר
+  - sich ergeben : לקרות, להיות המקרה; להיכנע
+  - sich aus + [Dat.] ergeben : לצאת מ־, לעלות מ־
+  - sich von selbst ergeben : להסתדר מעצמו
 ergreifen + Akk. : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח)
 erheben, erhob, hat erhoben [vt.] : להרים, לרומם; להטיל; לסקור, לערוך סקר
   - gegen + [Akk.] Anklage erheben : להטיל כתב אישום כנגד
@@ -934,14 +946,13 @@ erheben, erhob, hat erhoben [vt.] : להרים, לרומם; להטיל; לסקו
   - das Gemüt erheben : לרומם את הרוח
 erhebend : מרומם(־רוח)
 e Erhebung : סקר; מעלה; הפקה, שליפה, הוצאה
-erhoffen, erhoffte, erhofft
-  - + Akk. : לקוות ל‏־
+erhoffen, erhoffte, hat erhofft [vt.] : לקוות ל
   - das Beste erhoffen : לקוות לטוב
   - sich[Dat.] [Akk.] erhoffen : לייחל למשהו
   - sich[Dat.] [Akk.] von j-m erhoffen : לצפות למשהו ממישהו
 erinnern, erinnerte, hat erinnert : להזכיר
   - an + [Akk.] erinnern : להזכיר משהו
-  - sich an + [Akk.] erinnern : להיזכר במשהו; לזכור משהו
+  - sich an + [Akk.] erinnern : לזכור משהו; להיזכר במשהו
 e Erinnerung (pl. -en) : זכרון
   - Mir wird immer in Errinerung bleiben, wie ... : לנצח יהיה חרוט בזכרוני איך
 j-n erhören : להישמע לתפילתו של מישהו
@@ -1848,6 +1859,7 @@ Mitleid
 e Mitsprache : אמירה (במובן של: הזכות או הסמכות לומר משהו)
 r Mittag : צהריים
   - zu Mittag essen : לאכול ארוחת צהריים
+e Mitteilung : הודעה; מסר; הכרזה, הצהרה
 r Mittelpunkt (pl. -e) : מרכז, נקודת אמצע, נקודה מרכזית
 mít|tragen, trug mit, hat mitgetragen [vt.] : לתמוך ב־, להצטרף ל־, לעזור לשאת
 mitunter : לפעמים, מדי פעם, מפעם לפעם
@@ -1927,6 +1939,7 @@ neigen : להטות
 nennen, nannte, hat genannt [vt.] : לכנות בשם, לקרוא
 nennenswert : ראוי לציון
 nerven [vt.] : לעצבן
+nervös [adj.] : עצבני, לחוץ
 e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
 níeder|brennen [vt.] : לשרוף, להבעיר, להעלות באש, לכלות בשריפה
@@ -1939,8 +1952,14 @@ niesen, nieste, geniest : להתעטש
 nimmermehr : לעולם לא עוד, שוב לא
 nörgeln [ugs.] : לרטון, להתלונן
   - meckern und nörgen : to bitch and moan
-notfalls : in case of emergency
+e Not (pl. Nöte) : צורך; מקרה חירום; צרה
+  - zur Not : במקרה הצורך
+r Notfall (pl. Notfälle) : מקרה חירום
+notfalls [adv.] : in case of emergency
 notieren [vt.] : לציין (בכתב), לכתוב הערה, להעיר (בכתב)
+notwendig [adj.] : נחוץ, חיוני
+e Notwendigkeit : צורך, נחיצות
+nutzen, nutzte, hat genutzt [vt.] : להשתמש ב־, לעשות שימוש ב, לנצל, לנכס
 nützen, nützte, hat genützt : להיות שימושי, להיות בעל־שימוש, לשמש
   - j-m nützt : לשמש מישהו
   - nichts nützen/nutzen : חסר תועלת
@@ -2431,6 +2450,11 @@ r Taktgeber : clock, master clock, timer
 r Tank : מכל; טנק
 e Tankstelle : תחנת דלק
 tanzen, tanzte, hat getanzt : לרקוד
+e Tasche (pl. -n) : כיס; תיק
+s Taschenbuch (pl. Taschenbücher) : ספר כיס
+s Taschengeld : דמי כיס, כסף כיס, קיצבה
+e Taschenlampe (pl. -n) : פנס כיס
+s Taschentuch (pl. Taschentücher) : ממחטה
 e Tat (pl. -en) : מעשה
   - in die Tat umsetzen : לתרגם למעשים
 r Tau : טל
@@ -2561,6 +2585,9 @@ umgekehrt : the other way round
 úm|gestalten, gestalte um, hat umgestaltet [vt.] : לשנות, לעשות טרנספורמציה, לארגן מחדש, לעצב מחדש
 úm|reißen [vt.] : להתוות
 úm|schwenken : לשנות צד
+sich úm|sehen (sieht sich um), sah sich um, hat sich umgesehen : להסתכל סביב
+  - sich auf + [Dat.] umsehen : להסתכל סביב על־
+  - sich nach + [Dat.] umsehen : להסתכל סביב ולחפש משהו
 úm|setzen, setzte um, hat umgesetzt
   - in die Tat umsetzen : לתרגם למעשים
 umsonst [adv.] : לשווא
@@ -2600,6 +2627,7 @@ unten [adv.] : למטה
   - unten erwähnt [adj.] : הנזכר למטה
   - dort unten : שם למטה
 unter [präp.] : מתחת ל־, תחת
+unterbrechen (unterbricht), unterbrach, hat unterbrochen [vt.] : לקטוע באמצע, להפסיק, לעצור באמצע
 únter|gehen, ging unter, ist untergegangen [vi.] : לשקוע (שמש); לרדת למטה; להפסיד
 únter|legen + Akk. : לשים מתחת
 r Unterricht (pl. -e) : שיעור
@@ -2710,6 +2738,8 @@ verkrüppelt [adj.] : בעל מום, שהוטל בו מום
 verkümmert [adj.] : stunted
 verkünden [vt.] : להכריז, להכריז על־
 verlassen : לנטוש
+verlaufen : לרוץ
+  - sich verlaufen : ללכת לאיבוד
 verletzen : לפצוע; לפגוע; לגרום נזק
 e Verletzung : הפרה; נזק; פגיעה; פציעה
 sich (in j-n) verlieben : להתאהב (במישהו)
@@ -2945,6 +2975,12 @@ e Wiese : דשא
 r Wind : רוח
   - j-m den Wind aus den Segeln nehmen : להוציא למישהו את הרוח מהמפרשים
 winzig [adj.] : זעיר
+wirken, wirkte, hat gewirkt [vt.] : להשפיע, להיות בעל השפעה של; להיראות, להידמות; לפעול
+  - auf + [Akk.] wirken : להשפיע על
+  - als Katalysator wirken : לפעול כקטליזטור
+  - [präd.] wirken : להיראות, להידמות
+  - freunlich wirken : להיראות ידידותי
+  - nervös wirken : להיראות עצבני
 r Witwenschleier : רעלת אלמנה
 wohl [adv.] : היטב; ככל הנראה; אולי
 e Wohnung (pl. -en) : דירה
@@ -2968,7 +3004,7 @@ sich wundern : לתהות, להתפלא
 wünschen : לאחל; לחשוק ב־, להיכסף ל־, לחפוץ, לבקש
   - j-m [Akk.] wünschen : לאחל משהו למישהו
   - j-m einen guten Morgen wünschen : לאחל למישהו בוקר טוב
-  - sich[Dat.] [Akk.] wünschen : לרצות, לחפוץ במשהו, להיכסף למשהו
+  - sich[Dat.] [Akk.] wünschen : לרצות, לחפוץ במשהו, להיכסף למשהו; לאחל לעצמו משהו
 e Wut : זעם
 Wutanfall : התקף זעם
 
