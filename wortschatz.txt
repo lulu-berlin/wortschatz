@@ -99,6 +99,7 @@ e Ahnung (pl. -en) : מושג, רעיון
   - Ich habe keine Ahnung : אין לי מושג
 akkurat [adj.] : מדויק, מסודר
 akkurat [adv.] : בדיוק רב; בדיוק! ממש!
+akut [adj.] : אקוטי; בוער, דוחק
 r Akzent : מבטא; טעם, הטעמה
 akzentlos [adv.] : בלי מבטא
   - akzentlos sprechen : לדבר בלי מבטא
@@ -167,6 +168,8 @@ angriffslustig [adj.] : תוקפני, אגרסיבי
 e Angst (pl. Ängste) : פחד, חרדה
   - Angst haben : לפחד
 án|haften : להיצמד, לדבוק
+án|halten [vt] : להמשיך
+  - Es wird nicht lange anhalten : זה לא יימשך לאורך זמן
 r Anhänger : follower, supporter. adherent
 án|himmeln, himmelte an, angehimmelt : להעריץ
 Anhöhe : גבעה
@@ -214,6 +217,10 @@ r Anstoß : דחף (לעשות משהו)
 án|stoßen : ליזום
 etw. án|streben : to strive, to aspire to, to strive for, to aim at
   - eine Stelle anstreben
+án|strengen : לנסות
+  - sich anstrengen : להתאמץ (לעשות משהו), לעשות מאמץ
+anstrengend [adj.] : מתיש, מאמץ, מפרך
+e Anstrengung : מאמץ
 antworten, antwortete, hat geantwortet [vt.] : לענות ל־
   - auf + [Akk.] antworten : לענות על
   - auf eine Frage antworten : לענות על שאלה
@@ -297,6 +304,7 @@ aúf|reiben : לבלות, לשחוק, לרפט, להתיש, להלאות, ליי
 r Aufruf (pl. -e) : קריאה, הזמנה
 aúf|rufen [vt.] : לקרוא ל־; לזמן; לפתוח (אתר אינטרנט), להעלות (אתר אינטרנט)
 r Aufruhr : מהומה, התפרעות
+r Aufrührer : מורד, מתפרע
 r Aufschwung : שיפור; גידול; צמיחה
 aúf|streben : לשאוף
 aufstrebend : שאפתן
@@ -329,16 +337,18 @@ aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, �
   - "Der Gefangene nutzte die Chance, um auszubrechen."
 aús|breiten [vt.] : להרחיב, לפרוש, לפשוט
   - sich ausbreiten : להתפשט, להתרחב
+aús|dehnen [vt.] : להרחיב
+  - sich ausdehnen : להתרחב
 aús|drücken : לבטא
 ausfindig machen : למצוא מישהו (שמיקומו לא ידוע)
 aús|geben, gab aus, hat ausgegeben [vt.] : to issue, to spend, to expend, to dispense להוציא (כסף)
   - Die Universität gibt Studentenausweise aus.
   - Ich will mein ganzes Geld für ein neues Auto ausgeben.
+ausgedehnt [adj.] : מורחב, נרחב
 auseinánder|halten [vt.] : להבחין, לשים לב להבדל
-auseinánder|setzen
-  sich mit j-m auseinandersetzen : to argue with s.o., to deal with s.o.
-  sich mit etw.[Dat.] auseinandersetzen : to grapple with, to deal with, to
-    look into
+auseinánder|setzen, setzte auseinander, hat auseinandergesetzt : להסביר משהו למישהו
+  - j-m [Akk.] auseinandersetzen : להסביר משהו למישהו
+  - sich mit [Dat.] auseinandersetzen : להתווכח עם־, להתמודד עם־
 e Auseinandersetzung : argument, dispute, debate, discussion
 aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
   wegen Regen ausfallen : to be rained off
@@ -476,6 +486,10 @@ beißen, biss, hat gebissen [vt.] : לנשוך, לקחת ביס
   - sich[Dat.] auf die Zunge beißen : לנשוך לעצמו את הלשון
   - sich[Dat.] auf die Lippen beißen : לנשוך לעצמו את השפתיים
 s Beißen : נשיכה
+s Beispiel : דוגמה
+  - zum Beispiel : לדוגמה
+beispielhaft [adj.] : מופתי; לדוגמה, שמהווה דוגמה
+beispielsweise [adv.] : לדוגמה
 béi|steuern [vt.] : לתרום
   - Geld beisteuern : לתרום כסף
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
@@ -505,6 +519,7 @@ beobachten : להתבונן ב־, לצפות ב־, לבחון את, להשקיף
 s Beobachten : התבוננות, אבחנה
 e Beobachtung : אבחנה; מחקר; מעקב
 beraten : לייעץ
+berauben [vt.] : לשדוד, לנשל
 bereit [adj.] : מוכן
 bereiten [vt.] : להכין
   - j-m Sorgen bereiten : להדאיג מישהו
@@ -684,6 +699,10 @@ e Deutung : analysis, interpretation
 deuten : לפרש
 e Devise : מוטו
 dezimieren + Akk. : להשמיד, להכחיד
+dies : זה
+s Diesseits : העולם הזה
+  - im Diesseits : בעולם הזה
+diesseits [präp.] : בצד הזה של־
 e Differenz
 dösen : לנמנם
 dran
@@ -735,6 +754,7 @@ dúrch|fallen : to flunk
   - bei einer Prüfung durchfalen : to fail an exam
 dúrch|führen, führte durch, hat durchgeführt [vt.] : להוציא לפועל
 dúrch|gehen : לעבור דרך
+dúrch|halten : להתמיד, להחזיק מעמד
 dúrch|setzen, setzte durch, hat durchgesetzt [vt.] : להתעקש (על זכות); לאכוף (חוק); להטיל (חוק); להעביר (חוק)
   - Die Polizei wird die neue Vorschrift durchsetzen.
   - Trotz der Proteste der Angestellten setzte die Geschäftsleitung die Änderungen durch.
@@ -841,10 +861,17 @@ endgültig [adv.] : סוף סוף, באופן מוחלט, באופן סופי, �
   - [Akk.] endgültig festlegen : להביא לידי סיום, להשלים
   - endgültig festgelegt : מתוקן באופן סופי
 entdecken : לגלות
+etw.[Akk.] entfachen : לעורר, להצית
+  - ein Feuer entfachen : להצית אש
+  - Wut entfachen : לעורר זעם
+  - Fanatismus entfachen
+  - neu entfachen : לעורר מחדש, להצית מחדש
 entfesseln : לשחרר, להתיר את הרסן
 entgegen|sehen + Dat. : לצפות ל־
 entgegen|stehen + Dat. : למנוע; להתנגד ל
-entgehen + Dat. : לחמוק מ‏־
+entgehen, entging, ist entgangen : לחמוק
+  - [Dat.] entgehen : לחמוק מ־, לברוח מ־
+  - sich[Dat.] [Akk.] entgehen lassen : להחמיץ משהו
 enthalten [vt.] : לכלול
   - sich ([Gen.]) enthalten : להימנע מ־
 entladen : לפרק
@@ -901,29 +928,12 @@ s Erachten : דֵעה
   - meines Erachtens : לדעתי
 e Erachtung : דֵעה
   - meiner Erachtung nach : לדעתי
-ergreifen, ergriff, hat ergriffen [vt.] : לקחת; לתפוס; ללכוד
-erhalten : לקבל
-ermutigen [vt.] : לעודד
-  - j-n ermutigen, etwas zu tun : לעודד מישהו לעשות משהו
-erreichen : להגיע; להשיג
-erschallen, erschallte, erschallt : להשמיע קול/צליל
-erscheinen : להופיע
-erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
-  - erstere ... letztere ... 
-erwarten : לצפות
-essen (isst), aß, hat gegessen [vt.] : לאכול
-etw.[Akk.] entfachen : to ignite, to arouse, to spark
-  ein Feuer entfachen
-  Wut entfachen
-  Fanatismus entfachen
-  neu entfachen : to reawaken, to rekindle
-etw. erachten : to consider s.th.
-s Erachten : opnion
-  meines Erachtens : in my opinion
 e Erbe : ירושה
-  - eine Erbe hinterlassen
+  - eine Erbe hinterlassen : להשאיר ירושה, להוריש
 erben, erbte, hat geerbt [vt.] : לרשת
   - von j-m [Akk.] erben : לרשת משהו ממישהו
+r Erbfeind : אויב נצחי, "אויב תורשתי"
+e Erbfeindschaft : איבה נצחית שמועברת מדור לדור
 erbitten, erbat, erbeten : לבקש, לערוג 
 erbittert [adj.] : עז, פראי
 r Erdball : כדור הארץ
@@ -937,7 +947,8 @@ ergeben, ergab, hat ergeben [vt.] : להניב, להפיק, להוביל ל, ל�
   - sich ergeben : לקרות, להיות המקרה; להיכנע
   - sich aus + [Dat.] ergeben : לצאת מ־, לעלות מ־
   - sich von selbst ergeben : להסתדר מעצמו
-ergreifen + Akk. : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח)
+ergreifen, ergriff, hat ergriffen [vt.] : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח); לקחת; ללכוד
+erhalten : לקבל
 erheben, erhob, hat erhoben [vt.] : להרים, לרומם; להטיל; לסקור, לערוך סקר
   - gegen + [Akk.] Anklage erheben : להטיל כתב אישום כנגד
   - (auf + [Akk.]) Steuern erheben : להטיל מיסים (על משהו)
@@ -961,6 +972,7 @@ erklären, erklärte, hat erklärt : להבהיר, להסביר
 erlauben : להרשות
 r Erlöser : מושיע
 ermutigen [vt.] : לעודד
+  - j-n ermutigen, etwas zu tun : לעודד מישהו לעשות משהו
 e Ernennung : מינוי
 e Ernte (pl. -n) : יבול, בציר
 erobern [vt.] : לכבוש; להשתלט על
@@ -968,10 +980,12 @@ e Eroberung : כיבוש
 r Eroberungskrieg : מלחמת כיבוש
 erraten, erriet, hat erraten [vt.] : לנחש נכונה
 erraten [adj.] : שנוחש נכונה
+erreichen : להגיע; להשיג
 erringen, errang, errungen : להשיג, להרוויח, לזכות
 e Errungenschaft : הישג
 erschaffen : ליצור
-erschallen, erschallte, erschallt : להשמיע צליל
+erschallen, erschallte, erschallt : להשמיע קול/צליל
+erscheinen : להופיע
 erschöpfen : to exhaust, to wear out
 erschrecken : להבהיל
   - Ich wollte dich nicht erschrecken : לא התכוונתי להבהיל אותך
@@ -985,6 +999,8 @@ erst [adv.] : רק; בהתחלה
   - gerade erst : רק לאחרונה
 e Erstarrung : התקבעות, התגבשות
 j-n erstechen : to stab s.o.
+erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
+  - erstere ... letztere ... 
 r Ersthelfer (= pl.), e Ersthelferin
 erstreiten : לזכות ב־
 j-n ertappen : לתפוס מישהו בשעת מעשה
@@ -993,6 +1009,7 @@ j-n ertappen : לתפוס מישהו בשעת מעשה
 erwachen, erwachte, erwacht : לעורר, להקים
 s Erwachen : התעוררות
 erwähnen [vt.] : להזכיר, לציין
+erwarten : לצפות
 erweichen, erweichte, hat erweicht [vt.] : לרכך
 erweisen, erwies, erwiesen : להראות
   - j-m [Akk.] erweisen : להראות למישהו משהו
@@ -1001,6 +1018,9 @@ erweisen, erwies, erwiesen : להראות
   - Meine erste Idee erwies sich als richtig.
   - Der Umzug von einer Stadt in die andere erwies sich als sehr teuer.
 erweitern + Akk. : להרחיב
+s Exempel : דוגמה
+  - als Exempel : לדוגמה
+  - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
 erzählen, erzählte, hat erzählt [vt.] : לספר
   - j-m etwas unter vier Augen erzählen : לספר למישהו משהו בארבע עיניים
 s Erzgebirge : הרי המחצב, בגבול בין סקסוניה בגרמניה לבין צ'כיה
@@ -1010,6 +1030,7 @@ erzwingen, erzawng, hat erzwungen [vt.] : להכריח (דבר), להכריח ש
   - eine Entscheidung erzwingen : להביא להכרעה
   - Zahlung erzwingen : לחייב תשלום
   - eine andere Anordnung erzwingen : לחייב סדר חלופי
+essen (isst), aß, hat gegessen [vt.] : לאכול
 etablieren : להקים, לייסד, להשתית
 e Ethik : אתיקה, מוסר
 ewig [adj.] : נצחי
@@ -1340,11 +1361,16 @@ gottgefällig [adj.] : אלוהי; בהתאם לרצון האל
 r Götze (pl. -n) : אליל
 s Götzenbild : אליל, צלם
 r Götzendiener : עובד אלילים
+s Grab (pl. Gräber) : קבר
 graben (gräbt), grub, hat gegraben [vt.] : לחפור
+r Graben : שוחה
+s Graben : חפירה
 gratulieren, gratulierte, hat gratuliert : לברך "מזל טוב"
   - Gratuliere! : מזל טוב!
 grau [adj.] : אפור
 r Gräuel (= pl.) : זוועה, מעשה נפשע
+grausam [adj.] : מחריד, אכזרי
+e Grausamkeit : אכזריות
 greifen, griff, hat gegriffen [vt.] : לתפוס
 s Gremium (pl. Gremien) : מועצה, ועד מנהל
 r Grimm : זעם, חימה
@@ -1629,7 +1655,10 @@ r Keil (pl. -e) : טריז
 kennen, kannte, hat gekannt [vt.] : להכיר
   - Ich kenne jemanden, der jemanden kennt : אני מכיר מישהו שמכיר מישהו
 r Kerker (= pl.) : צינוק
+r Kern (pl. -e) : עיקר; לב, ליבה
+Kern- [K.] : העיקרי, המרכזי
 e Kernfrage : השאלה המרכזית, העניין העיקרי
+s Kerngebiet : האזור המרכזי
 r Ketzer : כופר
 keuchen, keuchte, gekeucht : להתנשם ולהתנשף
 s Keuchen : נשימה כבדה
@@ -1726,6 +1755,7 @@ lang [adj.] : ארוך
   - seit langem : מזמן
 lang [präp.] : לאורך
   - da lang
+langanhaltend [adj.] : מתמשך
 lange [adv.] : זמן רב, זה זמן רב
 langersehnt [adj.] : נחשק זה זמן רב
 längst [adv.] : זה זמן רב
@@ -1747,8 +1777,11 @@ legen, legte, hat gelegt : להניח
 lehren : ללמד
 leiden, litt, hat gelitten [vt.] : לסבול
   - unter + [Dat.] leiden : לסבול מ־
-leiten : להדריך
+leiten, lietete, hat geleitet [vt.] : להדריך
+Leit- [K.] : מוביל, מרכזי
 e Leitfigur : דמות מובילה, דמות מרכזית
+e Leitidee : רעיון מרכזי
+s Leitmotiv : תימה מרכזית, לייטמוטיב
 e Lektion : שיעור
   - j-m eine Lektion sein : ללמד מישהו שיעור
 r Leib : גוף; בשר; רחם
@@ -1815,6 +1848,10 @@ r Makel : פגם
   - ohne Makel : ללא פגם
 makellos [adj.] : ללא פגם, מושלם
 malen, malte, hat gemalt : לצבוע, לצייר
+r Mangel : ליקוי; חֶסֶר, מחסור
+Mangel- [K.] : מחסור ב־
+mangelernährt [adj.] : שסובל מתת־תזונה
+e Mangelernährung : תת־תזונה
 e Maske (pl. -n) : מסכה
 r Maskenball : נשף מסכות
 r Markt (pl. Märkte) : שוק
@@ -2009,7 +2046,10 @@ passen, passte, hat gepasst : להתאים
   - zu + [Dat.] passen : להתאים ל־ (בגד)
   - etwas passt j-m : זה מתאים למישהו, זה נוח למישהו
 e Pest : מגיפה
-r Piep : צפצוףr
+e Pfalz : רוֹזנוּת
+s Pfand : ערבון
+r Pfennig (pl. -e) : מטבע קטן בעל ערך מועט
+r Piep : צפצוף
 piepen : לצפצף
   - Die Maus piept.
 pinkeln : להשתין
@@ -2292,6 +2332,8 @@ e Schwierigkeit : קושי, בעיה
   - in Schwierigkeiten geraten : להיכנס לקשיים
 schwimmen : לשחות
 schwören : להישבע
+r Schwur (pl. Schwüre) : שבועה
+  - seinen Schwur brechen : להפר את שבועתו
 r Seelsorger : pastor
 e Seemacht : הכוח הימי
 sein (ist), war, ist gewesen : להיות
@@ -2386,6 +2428,8 @@ starr [adj.] : קשיח, נוקשה, קשה
 starren, starrte, hat gestarrt [vt.] : לבהות
 starten : להתחיל
 r Startschuss : יריית הפתיחה
+statuieren : להציב
+  - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
 r Stau (pl. -s) : פקק תנועה
   - im Stau stehen : לעמוד בפקק
 stehen, stand, hat/ist gestanden [vi.] : לעמוד
@@ -2435,6 +2479,8 @@ suchen
 e Sühne : כפרה
 super [adj.] : נפלא, נהדר, אחלה
 r Supermarkt (pl. Supermärkte) : סופרמרקט
+s Symbol : סימבול, סמל
+symbolhaft [adj.] : סימבולי, סמלי
 e Synagoge (pl. -n) : בית כנסת
 
 = T =
@@ -2697,8 +2743,15 @@ vereinen, vereinte, hat vereint [vt.] : לשלב, למזג, לאחד
   - Kräfte vereinen : לשלב כוחות
   - sich vereinen : להתאחד
 verfassen : לחבר
+r Verfasser : מחבר
+e Verfasserin : מְחַבֶּרֶת
 verfechten, verfocht, verfochten : להגן, לגונן
 r Verfechter, e Verfechterin : תומך, חסיד (של רעיון)
+verfügen [vt.] : להורות, לצוות, לפסוק
+e Verfügung : רשות
+  - zur Verfügung : לרשות־
+  - zur Verfügung stellen : לספק
+  - j-m zur Verfügung stehen : לעמוד לרשות־
 verhängen : לאכוף, לכפות
   - eine Strafe verhängen : לאכוף עונש
 verfinstern : להחשיך
@@ -2721,6 +2774,12 @@ s Verhältnis (pl. -se) : יחס, קשר, מידה
   - die bestehende Verhältnisse - התנאים הקיימים, החוקים הקיימים
   - ausgewogenes Verhältnis - מידה מאוזנת
   - gutes Verhältnis : יחס טוב
+verhandeln [vt.] : לשאת ולתת; להתמקח, לעמוד על המקח; לשפוט
+  - über + [Akk.] verhandlen : לשאת ולתת על־
+  - um + [Akk.] verhandeln : להתמקח על־
+  - [Akk.] verhandeln : לשפוט
+s Verhandeln : משא ומתן; התמקחות, עמידה על המקח
+e Verhandlung : שימוע; משא ומתן; מהלך המשפט
 verharren : להישאר, להתמיד
   - auf seinem Standpunkt verharren
   - in + [Dat.] verharren : להתמיד ב־, להישאר ב־
@@ -2808,6 +2867,7 @@ verstummen : להשתתק, להיעשות שקט
 versuchen, versuchte, hat versucht [vt.] : לנסות
 verteidigen : להגן
 verteilen [vt.] : לחלק, להפיץ
+vertilgen [vt.] : להשמיד, לחסל
 vertreten, vertrat, vertreten : לייצג, לשמש כממלא מקום, להחליף
 vertrauen : לסמוך, לתת אמון
 verursachen : לגרום ל־
@@ -2960,6 +3020,7 @@ sich widersetzen, widersetzte sich, hat sich widersetzt
 widersprechen, widersprach, widersprochen : לסתור
   - j-m widersprechen : להמרות את פיו של מישהו
 widmen : להקדיש
+  - sich [Dat.] widmen : לקחת על עצמו, לעסוק ב־, להתמודד עם
 e Wiederaufnahme : חידוש
   - schnelle Wiederaufnahme : חידוש מהיר
   - Wiederaufnahme der Verhandlungen : חידוש המשא ומתן
@@ -2992,6 +3053,8 @@ s Wort (pl. Worte, Wörter) : מילה
   - zu Wort kommen : למצוא הזדמנות לדבר
   - Wort für Wort : מילה במילה, מילולית
   - j-n beim Wort nehmen : לקחת מישהו במילה, לתפוס מישהו במילה
+r Wortbruch : הפרה של הבטחה
+wortbrüchig werden : להפר הבטחה
 s Wörterbuch (pl. Wörterbücher) : מילון
   - in einem Wörterbuch nachschlagen : לחפש במילון
 r Wortführer : דובר
@@ -3115,6 +3178,12 @@ zú|wenden, wendete zu/wandte zu, hat zugewendet/zugewandt [vt.] : להפנות;
   - j-m das Gesicht zuwenden : להפנות את המבט למישהו
   - [Dat.] Aufmerksamkeit zuwenden : להפנות תשומת לב ל־
   - sich[Akk.] [Dat.] zuwenden : לפנות ל
+r Zwang : כוח; כפיה, כורח, אילוץ
+e Zwangsarbeit : עבודת כפייה
+zwangsläufig [adj.] : בלתי נמנע
+zwangsläufig [adv.] : באופן בלתי נמנע, בהכרח
+e Zwangsumsiedlung : העברת אוכלוסין בכפייה, טרנספר, גירוש
+zwangsweise [adv.] : באופן מחייב, בהכרח
 zweideutig [adj.] : דו־משמעי, משתמע לשתי פנים, שנוי במחלוקת, עמום, מעורפל
 zweifach [adj.] : כפול
 r Zwiespalt (pl. Zwiespalte / Zwiespälte) : אנטגוניזם, דיכוטומיה, ניגוד
