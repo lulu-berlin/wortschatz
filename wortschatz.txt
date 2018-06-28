@@ -184,6 +184,7 @@ Anhöhe : גבעה
   - gut ankommen : להגיע בשלום
   - bei j-m gut ankommen : להתקבל יפה על ידי־
 án|kündigen : להכריז
+e Anlage (pl. -n) : השקעה; מערכת; מתקן
 anlässlich + Gen. : לְרֶגֶל
 s Anliegen (= pl.) : חשש, עניין מדאיג, בקשה
 sich án|maßen, maßte sich an, hat sich angemaßt
@@ -709,7 +710,12 @@ s Bussi [ugs.] : נשיקה
 bützen [vt.] [ugs.] : לנשק
 
 = C =
+e Chance : סיכוי; הזדמנות
+r Check : בדיקה
+checken [vt.] : לבדוק
+s Chi : צ'י
 chillen, chillte, gechillt [ugs.] : להירגע
+e Chose : עסק; עניין
 
 = D =
 dagegenhalten : לטעון כנגד
@@ -717,6 +723,7 @@ daheim [adv.] : בבית
   - daheim bleiben : להישאר בבית
   - weg von daheim : הרחק מן הבית
 s Daheim : הבית
+dämlich [adj.] : טיפש
 danken : להודות
 dár|stellen, stellte dar, hat dargestellt [vt.] : להוות; לייצג; להציג; לתאר (בקווים כלליים); לשרטט; לחקות; להציב
   - Problem darstellen : להוות בעיה
@@ -785,6 +792,8 @@ drücken : ללחוץ, לדחוף
 e Druckerei (pl. -en) : בית דפוס
 du [pron.] : את; אתה
 r Duft : ניחוח, ריח טוב
+dumm [adj.] : טיפש; טיפשי
+r Dummkopf [ugs.] : טיפש, מטומטם
 dulden [vt.] : לסבול, לשאת, לעמוד ב־
 s Dulden : סובלנות
 dunkelgrün [adj.] : ירוק בהיר
@@ -1271,6 +1280,7 @@ r Fußgänger, e Fußgängerin : הולך רגל
 e Fußgängerzone (pl -n) : מדרחוב
 r Fußmarsch (pl. Fußmärsche) : צעדה
 s Fußvolk : חיל רגלים
+futsch [adj.] : גמור, אבוד, הלך לעזאזל
 
 = G =
 gackern : לקרקר (כמו תרנגול)
@@ -1689,6 +1699,7 @@ ich [pron.] : אני, אנוכי
 s Ich : האגו, האני
 r Idiot (pl. -en) : אידיוט
 e Idiotin (pl. -nen) : אידיוטית
+igitt [interj.] : איכס
 ignorieren : להתעלם מ־
 ihr [pron.] : אתן; אתם
 ihr [poss.pron.] : שלה
@@ -2270,6 +2281,9 @@ prügeln [vt.] : להרביץ, להכות
 s Pulver : אבקה
 r Pulverdampf : עשן יריה
 s Pulverfass : חבית אבקת שריפה
+e Puppe (pl -n) : בובה
+s Puppenhaus : בית בובות
+s Puppenspiel : הצגת בובות
 putzen : לנקות
   - die Nase putzen : לקנח את האף
 
@@ -2619,6 +2633,7 @@ e Spannung : מתח
 spannungsaufbauend : באופן שבונה מתח
 sparen [vt.] : לשמור, לחסוך
   - Geld sparen : לחסוך כסף
+r Spargel (= pl.) : אספרגוס
 spärlich : מפוזר, דליל, sparse
 r Spaß : כיף
   - Spaß haben : לעשות חיים, ליהנות, לכייף
@@ -2635,6 +2650,7 @@ e Sperrung : blocking, closing, inhibition
 r Spiegel (= pl.) : מראה
 spielen : לשחק
 s Spielfeld : מגרש משחקים
+r Spinat : תרד
 sprengen, sprengte, hat gesprengt [vt.] : לנפץ, לפוצץ
   - die Grenzen sprengen : למתוח את הגבולות
 e Sprengkraft : כוח נפץ
@@ -2960,6 +2976,7 @@ s Unwesen : מצב נוראי; מצב מחריד
 unwiederbringlich : שלא ניתן להשיבו
 unwillkürlich [adj.] : לא רצוני
 unwillkürlich [adv.] : בעל כורחו; באופן אוטומטי; בניגוד לרצונו
+unwürdig [adj.] : לא ראוי
 unzuverlässig [adj.] : בלתי אמין, מפוקפק
 unzuverlässig [adv.] : באופן בלתי אמין, באופן מפוקפק
 e Urne (pl. -n) : כד, קנקן
@@ -2996,6 +3013,8 @@ verbüßen, verbüßte, verbüßt [vt.] : לרַצות (עונש)
 r Verdacht (pl. -e, Verdächte) : חשד
   - Verdacht erregen : לעורר חשד
 verdächtig [adj.] : חשוד
+verdammen, verdammte, hat verdammt [vt.] : לדון; לדון לגיהנום
+verdammt [interj.] : לעזאזל
 verdenken : להאשים?
 verdienen [vt.] : להרוויח; להיות ראוי ל־
 j-n vereidigen : להשביע (נשיא)
@@ -3008,6 +3027,9 @@ r Verfasser : מחבר
 e Verfasserin : מְחַבֶּרֶת
 verfechten, verfocht, verfochten : להגן, לגונן
 r Verfechter, e Verfechterin : תומך, חסיד (של רעיון)
+verfluchen [vt.] : לקלל; להטיל קללה
+verflucht [adj.] : מקולל
+verflucht [interj.] : לעזאזל!
 verfügen [vt.] : להורות, לצוות, לפסוק
 e Verfügung : רשות
   - zur Verfügung : לרשות־
@@ -3361,6 +3383,8 @@ wünschen : לאחל; לחשוק ב־, להיכסף ל־, לחפוץ, לבקש
 e Würde (pl. -n) : כבוד; ערך עצמי
   - in Würde : בְּחֵן, בכבוד
   - seine Würde : כבודו
+würdig [adj.] : ראוי
+  - [Gen.] würdig : ראוי ל־
 e Wurst (pl. Würste) : נקניקיה
 e Wut : זעם
 r Wutanfall : התקף זעם
@@ -3439,6 +3463,8 @@ r Zulauf : כניסה, זרם, שטף
 zú|laufen : לעשות דק
   - auf + Akk. zulaufen : ללכת לקראת מישהו, להתקרב ל
 zuletzt : אחרון, לבסוף, לאחרונה
+zuliebe [präp.] : לטובת
+  - [Dat.] + zuliebe : לטובת־, לשם־, למען־
 zumutbar [adj.] : מתקבל על הדעת
   - gerecht und zumutbar : צודק ומתקבל על הדעת
 zú|muten [vt.] : לצפות
