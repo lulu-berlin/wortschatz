@@ -286,6 +286,7 @@ j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   - j-n auffordern, Farbe zu bekennen : לחשוף את הבלוף של מישהו
 e Aufforderung : request, invitation, solicitation, reminder
   letzte Aufforderung : last reminder
+aúf|führen [vt.] : לבצע; לערוך רשימה
 aúf|gabeln, gabelte auf, hat aufgegabelt
   - + Akk. : לאסוף מישהו (באוטו)
 aufgeblasen [adj.] [ugs.] : מלא מעצמו
@@ -427,6 +428,7 @@ e Bahn : רכבת, מסילה, מסלול
 r Bahnhof (pl. Bahnhöfe) : תחנת רכבת
 r Bann : חרם
   - j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
+e Bannmeile : איזור ניטראלי
 e Bagatelle (pl. -n) : trifle, small matter, trivial issue
 bändigen [vt.] : לאלף, לשלוט
 e Bank (pl. -en) : בנק
@@ -436,6 +438,10 @@ beabsichtigen [vt.] : להתכוון, לתכנן
 beantragen [vt.] : להגיש בקשה
 beargwöhnt : נחשד
   - beargwöhnt werden - זוכה ליחס חשדני
+beauftragen [vt.] : להורות; למנות
+beauftragt [adj.] : ממונה
+r Beauftragte : הממונֶה
+e Beauftragte : הממונָה
 r Bedarf : צורך
   - kein Bedarf : אין צורך
 bedecken : לכסות
@@ -448,6 +454,8 @@ bedingungslos [adv.] : ללא תנאים
   - j-n bedingungslos lieben : לאהוב מישהו ללא תנאים
 e Bedrängnis : מצוקה, צרה, יסורים
 sich beeilen : להזדרז
+beerdigen [vt.] : לקבור
+e Beerdigung : לוויה; קבורה
 beeindrucken [vt.] : להרשים
   - leicht zu beeindrucken : נוח להרשים, אשר ניתן להרשימו בנקל
   - nicht zu beeindrucken : שלא ניתן להרשימו
@@ -530,6 +538,7 @@ e Beobachtung : אבחנה; מחקר; מעקב
 beraten : לייעץ
 berauben [vt.] : לשדוד, לנשל
 bereit [adj.] : מוכן
+  - sich bereit erklären : להיות מוכן (לעשות משהו)
 bereiten [vt.] : להכין
   - j-m Sorgen bereiten : להדאיג מישהו
 bereít|stellen, stellte bereit, hat bereitgestellt [vt.] : לספק
@@ -600,6 +609,7 @@ bewundern, bewunderte, hat bewundert [vt.] : להתפעל מ־, להעריץ
 bezahlen [vt.] : לשלם על־
   - eine Rechnung bezahlen : לשלם את החשבון
   - für + [Akk.] bezahlen : לשלם עבור משהו
+bezaubernd [adj.] : מקסים
 etw. beziffern : to estimate, to quantify
   sich auf etw.[Akk.] beziffern : to amount to
 bezweifeln [vt.] : להטיל ספק ב־
@@ -641,7 +651,9 @@ bleiben, blieb, ist geblieben [vi.] : להישאר
   - sitzen bleiben : להישאר לשבת
 blöken : לפעות
   - Das Schaf blökt. : הכבשה פועה
+s Blut : דם
 blutdurchtränkt : ספוג בדם
+s Blutvergießen : שפיכות דמים
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : סערה
 r Boden (pl. Böden) : רצפה
@@ -845,6 +857,8 @@ s Einnässen : הרטבה
 eín|ordnen : למיין, לסווג
 eín|packen : לארוז
 eín|reißen [vt.] : להרוס, להפיל, למוטט
+eín|schätzen [vt.] : להעריך, לעשות הערכה, לתת הערכה
+e Einschätzung : הערכה
 r Einschnitt (pl. -e) : חתך
 eín|schreiben
   - sich einschreiben : להירשם (ללימודים)
@@ -995,7 +1009,11 @@ e Erinnerung (pl. -en) : זכרון
 j-n erhören : להישמע לתפילתו של מישהו
 erkennen, erkannte, hat erkannt [vt.] : להכיר; לזהות; לתפוש
 erklären, erklärte, hat erklärt : להבהיר, להסביר
+  - sich erklären : להכריז על עצמו
+  - sich bereit erklären : להיות מוכן (לעשות משהו)
 erlauben : להרשות
+erleichtern [vt.] : להקל על־
+e Erleichterung : הקלה
 r Erlöser : מושיע
 ermutigen [vt.] : לעודד
   - j-n ermutigen, etwas zu tun : לעודד מישהו לעשות משהו
@@ -1158,7 +1176,8 @@ e Förderung : promotion, support, funding, advancement, grant, encouragement
   - Die Regierung stellte eine Förderung für das Projekt bereit.
   - ich trete einer Gesellschaft zur Förderung der Wissenschaft bei.
   - Wir sollten für das Forschungsprojekt eine Förderung beantragen.
-  staatliche Förderung : state incentives
+  - staatliche Förderung : state incentives
+e Formel (pl. -n) : נוסחה; נוסח
 forsch [adj.] : פזיז, נמהר
 forschen : לחקור
 fortan : מעתה ואילך,מכאן ואילך
@@ -1186,6 +1205,8 @@ r Frevel : פשע
 frieren, fror, ist/hat gefroren [vi.] : לקפוא
 fromm [adj.] : אדוק, קנאי, חסוד, צדקני
 e Fronarbeit : עבודת פרך
+e Front (pl. -en) : חזית
+e Frontscheibe : שמש
 r Frosch : צפרדע
   - Sei kein Frosch! : נראה אם אתה מעז!
 frühstücken, frühstückte, hat gefrühstückt : לאכול ארוחת בוקר
@@ -1245,6 +1266,8 @@ geboren [adj.] : נולד
 e Geburt (pl. -en) : לידה
 r Geburtshelfer, e Geburtshelferin : מיילד/ת
 e Gebühr (pl. -en) : שכר, עלות, אגרה, עמלה
+r Gedanke (pl. -n) : מחשבה; רעיון
+s Gedankenspiel (pl. -e) : משחק מחשבתי
 gedrillt
   - hart gedrillt
 e Geduld : סבלנות
@@ -1350,6 +1373,8 @@ s Gespenst (pl. -er) : רוח רפאים
   - Ich glaube nicht an Gespenster : אני לא מאמין ברוחות־רפאים
   - Gespenster-Seherei
 gestehen : להודות
+gestern [adv.] : אתמול
+gestrig [adj.] : של אתמול
 gesträubt [adj.] : פרוע
 getrieben : driven, pushed
 gewähren : to concede, to confer, to impart
@@ -1407,6 +1432,8 @@ grausam [adj.] : מחריד, אכזרי
 e Grausamkeit : אכזריות
 greifen, griff, hat gegriffen [vt.] : לתפוס
 s Gremium (pl. Gremien) : מועצה, ועד מנהל
+e Grenze (pl. -n) : גבול
+r Grenzzaun : גדר הגבול
 r Grimm : זעם, חימה
 r Groll : תרעומת, טינה
   - einen Groll (auf j-n) haben : לנטור טינה (למישהו)
@@ -1660,10 +1687,21 @@ r Irrweg : סטיה, עיקול
 
 = J =
 e Jagd : ציד
-jäh : abrupt(ly), sudden(ly)
+jäh : לפתע, פתאום
   - Ich bemerkte eine jähe Veränderung in seiner Stimmung.
 jämmerlich [adj.] : אומלל
 jämmerlich [adv.] : להחריד
+je [adv.] : לכל אחד; אי פעם
+  - je [komp.] ... desto [komp.] ... : ככל שיותר ... כך יותר ...
+  - je nach [präp.] : בהתאם ל־
+  - mehr denn je : יותר מאי פעם
+je [präp.] : ל־, פֶּר
+  - Der Ölpreis je Barrel : מחיר הנפט פֶּר חבית
+  - je Kopf : לנפש
+  - je Tag : ליום
+  - je Stück : ליחידה
+je [interj.]
+  - Oh je! : אוי וויי
 jedenfalls [adv.] : איך שלא יהיה, בכל מקרה
 jeder/jede/jedes [pron./m.b.] : כל
   - auf jeden Fall : בכל מקרה
@@ -1672,7 +1710,7 @@ jener/jene/jenes [pron.] : ההוא/ההיא
   - zu jener Zeit : בזמן ההוא
   - in jener Zeit : בימים ההם
   - aus jener Zeit : מהתקופה ההיא
-jucken + Akk. : לגרד
+jucken [vt.] : לגרד
   - es juckt mich : זה מגרד לי
 e Jugendherberge : אכסנית נוער
 jugendlich [adj.] : צעיר
@@ -1696,6 +1734,8 @@ r Kater : חתול; הנגאובר
 e Katze : חתולה
 kauen, kaute, hat gekaut [vt.] : ללעוס
 r/s Kaugummi : גומי לעיסה, מסטיק
+r Kauf (pl. Käufe) : קניה
+  - in Kauf nehmen : לקבל; לקחת (בהשלמה)
 kaufen : לקנות
 r Keil (pl. -e) : טריז
 kennen, kannte, hat gekannt [vt.] : להכיר
@@ -1804,7 +1844,9 @@ laden, lud, hat geladen [vt.] : לטעון
 s Lamm : טלה, שה
 Lammfleisch : בשר טלה
 e Lampe (pl. -n) : מנורה
+s Land (pl. Länder) : ארץ
 e Landstraße (pl. -n) : כביש (בין כפרים), אוטוסטראדה
+r Landtag : מועצה/פרלמנט של מדינה פדרלית
 lang [adj.] : ארוך
   - seit langem : מזמן
 lang [präp.] : לאורך
@@ -2064,6 +2106,8 @@ notieren [vt.] : לציין (בכתב), לכתוב הערה, להעיר (בכת�
 notwendig [adj.] : נחוץ, חיוני
 e Notwendigkeit : צורך, נחיצות
 nutzen, nutzte, hat genutzt [vt.] : להשתמש ב־, לעשות שימוש ב, לנצל, לנכס
+s Nutzen : שימוש; תועלת; רווח
+  - zum Nutzen : לטובת־; לתועלת־
 nützen, nützte, hat genützt : להיות שימושי, להיות בעל־שימוש, לשמש
   - j-m nützt : לשמש מישהו
   - nichts nützen/nutzen : חסר תועלת
@@ -2251,6 +2295,8 @@ Rückhol- : return ...
   Rückholsendung : return shipment
 e Rückholung : retrieval
 rück|rufen : to recall s.th. ???
+e Rücksicht : התייחסות; שימת לב; זהירות
+rücksichtslos [adj.] : פזיז, חסר זהירות; אכזרי, חסר רחמים
 rufen, rief, hat gerufen [vt.] : לקרוא ל־
 r Rülps : גיהוק
 rülpsen : לגהק
@@ -2536,6 +2582,7 @@ e Straße (pl. -n) : רחוב
 r Streich (pl. -e) : trick, prank, hoax, joke
 r Streifen (= pl.) : רצועה, סרט, פס
 r Streit : argument, conflict, quarrel, conflict, fight
+  - Streit um + [Akk.] : מאבק על־
 streiten : להתווכח
 strecken [vt.] : למתוח
 e Streitmacht : כוח צבאי
@@ -2620,6 +2667,9 @@ tilgen + Akk. : לפדות, להחזיר חוב
 r Tisch (pl. -e) : שולחן
 toben : לזעום; להתפרע
 todbereit
+toll [adj.] : נפלא, אדיר, מעולה, פנטסטי; משוגע
+toll [interj.] : וואו!
+s Tollhaus : בית משוגעים
 r Ton (pl. Tone, Töne) : צליל
   - den Ton angeben : לתת את הטון, לקבוע את סדר היום
   - den richtigen Ton treffen : למצוא את הצליל המתאים, להתאים למקום ולסיטואציה
@@ -2778,6 +2828,11 @@ unterstützen : לתמוך
 untersuchen : לבחון, לבדוק, לחקור
 e Untersuchung : חקירה; בחינה; ניתוח
 r Untertan, e Untertanin : subject (of a kingdom)
+unterzeichnen [vt.] : לחתום
+s Unterzeichnen : חתימה
+r Unterzeichner : החתום מטה
+Unterzeichnerstaat (pl. -en) : המדינה החתומה
+e Unterzeichnung : חתימה
 unüberhörbar : שלא ניתן לטעות בו
 unverhofft : לא צפוי, מפתיע
 unversöhnlich [adj.] : שלא ניתן לפייס אותו, שאינו סולח
@@ -3030,6 +3085,9 @@ e Vorherrschaft : עליונות
 vorhér|sehen, sah vorher, hat vorhergesehen [vt.] : לחזות
 s Vorhersehen : תחזית
 e Vorliebe : העדפה, חיבה
+vór|nehmen [vt.] : לבצע; להוציא לפועל
+  - Änderungen vornehmen : לבצע שינויים
+  - sich[Dat.] vornehmen : לקחת על עצמו
 r Vorort : פרוור
 vór|stehen : לבלוט החוצה
 vór|stellen, stellte vor, hat vorgestellt [vt.] : להציג (בפני)
@@ -3046,6 +3104,12 @@ e Waffenschmiede : נשקיה
 r Wagen (= pl.) : רכב, קרון, כרכרה
 wagen [vt.] : להעז, להסתכן ב־
 wählen [vt.] : לבחור
+r Wahn : הזיה, אשליה; שגעון; שגיון
+r Wahnsinn : שגעון; טירוף
+wahnsinnig [adj.] : משוגע, מטורף
+  - wahnsinnig werden : להשתגע, לצאת מדעתו
+  - j-n wahnsinnig machen : לשגע מישהו, להוציא מישהו מהכלים, להוציא מישהו מדעתו
+wahnsinnig [adv.] : באופן מדהים, בצורה יוצאת דופן
 wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
 r Wald (pl. Wälder) : יער
@@ -3175,6 +3239,8 @@ zart [adj.] : עדין, רך
 zärtlich [adj.] : רך, ענוג, עדין, נעים
   - j-m gegenüber zärtlich werden : להתעלס
 e Zärtlichkeit : עדינות, רכות, נעימות, חיבה
+r Zauber : קסם; כישוף
+e Zauberformel : לחש קסמים
 s Zebra (pl. -s) : זברה
 r Zebrastreifen (= pl.) : מעבר חצייה
 s Zeichen : סימן
@@ -3237,6 +3303,10 @@ r Zulauf : כניסה, זרם, שטף
 zú|laufen : לעשות דק
   - auf + Akk. zulaufen : ללכת לקראת מישהו, להתקרב ל
 zuletzt : אחרון, לבסוף, לאחרונה
+zumutbar [adj.] : מתקבל על הדעת
+  - gerecht und zumutbar : צודק ומתקבל על הדעת
+zú|muten [vt.] : לצפות
+  - j-m [Akk.] zumuten : לצפות למשהו ממישהו
 zunächst [adv.] : בהתחלה, דבר ראשון, מלכתחילה
 zünden [vt.] : להבעיר
   - sich zünden : לבעור, לעלות באש
