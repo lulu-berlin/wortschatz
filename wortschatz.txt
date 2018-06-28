@@ -12,12 +12,14 @@ ab + [Dat.] [präp.] : מ־; החל מ־
 e Abdankung : ויתור על כס המלכות, התפטרות
 r Abend (pl. -e) : ערב
   - zu Abend essen : לאכול ארוחת ערב
+  - "Da ward aus abend vnd morgen der erste Tag" [Lutherbibel, Gen 1:5] = וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם אֶחָד [בראשית א ה]
 áb|feuern, feuerte ab, hat abgefeuert [vt.] : לירות, לשגר
 e Abgabe : שחרור, העברה, מס
 áb|grenzen : להגביל, לסמן את הגבול
   - sich von + [Dat.] abgrenzen : להיות מובחן מ־, להיבדל מ־
 abgefuckt : fucked up
 r Abgrund : תהום
+  - "Der abgrund spricht / Sie ist in mir nicht" [Lutherbibel Hi 28:14] = תְּהוֹם אָמַר לֹא בִי־הִיא [איוב כח יד]
 áb|haken, hakte ab, abgehakt
   - + Akk. : לסמן (פריט ברשימה שהושלם), להשלים משימה ולשכוח ממנה
 abhanden|kommen (+ Dat.) : ללכת לאיבוד, להיעלם
@@ -68,6 +70,7 @@ e Absendung : משלוח
 áb|spülen : לשטוף כלים
   - das Geschirr abspülen : לשטוף את הכלים
 e Abstammung : מוצא, מקור, ייחוס
+áb|stellen, stellte ab, hat abgestellt [vt.] : להחנות; להניח בצד; להפסיק, לשים סוף ל־
 (j-m) áb|treten + Akk. : להקצות משהו למישהו, להעביר משהו למישהו, לוותר על משהו לטובת מישהו
 áb|trotzten, trotzte ab, hat abgetrotzt [vt.] : להשיג בכוח, לחטוף
 abwendbar [adj.] : נמנע, שניתן להימנע ממנו
@@ -300,6 +303,7 @@ aúf|lösen, löste auf, hat aufgelöst [vt.] : למוסס; לפתור; לבטל
   - den Vertrag auflösen : להפסיק את החוזה
   - sich auflösen : להתפזר (לכל עבר), להתפוגג
   - sich in Luft auflösen : להתפוגג באוויר
+aúf|muntern [vt.] : לעודד
 aufmüpfig [adj.] : מרדני
 aúf|passen : לשים לב
 aufrecht [adj.] : זקוף, ישר, מאונך
@@ -718,6 +722,8 @@ chillen, chillte, gechillt [ugs.] : להירגע
 e Chose : עסק; עניין
 
 = D =
+da [adv.] : בנמצא; שם; כאן
+da [konj.] : משום ש־, שכן, כי
 dagegenhalten : לטעון כנגד
 daheim [adv.] : בבית
   - daheim bleiben : להישאר בבית
@@ -743,7 +749,8 @@ s Dekret : צו
 dementieren : to disclaim, to repudiate, to deny s.th.
 demotivieren : לרפות את ידיו של מישהו, לפגוע במוטיבציה
 denken, dachte, hat gedacht [vt.] : לחשוב
-denn
+denn [konj.] : כי
+denn [part.]
   - es sei denn, (dass) ... : אלא אם
 r Depp (pl. -en) : דביל, סתום
 derart [adv.] : בצורה כזאת; כל כך; במידה כזאת; כה
@@ -1055,6 +1062,9 @@ erleichtern [vt.] : להקל על־
 e Erleichterung : הקלה
 erleiden [vt.] : לסבול; לספוג
 r Erlöser : מושיע
+ermuntern [vt.] : לעודד מישהו
+  - zu + [Dat.] ermuntern : לעודד ל־(פעולה כלשהי)
+  - ermuntern, etwas zu tun : לעודד לעשות משהו
 ermutigen [vt.] : לעודד
   - j-n ermutigen, etwas zu tun : לעודד מישהו לעשות משהו
 ernähren, ernährte, hat ernährt [vt.] : להאכיל, להזין
@@ -1189,7 +1199,14 @@ r Film (pl. -e) : סרט
   - einen Film drehen : לצלם סרט
 finden, fand, hat gefunden [vt.] : למצוא
   - Wie findest du das? : מה דעתך לגבי זה? איך אתה מוצא את זה?
-sich fit fühlen : to feel fit
+finster [adj.] : חשוך
+  - finster sein : חושך
+  - "vnd es war finster auff der Tieffe" [Lutherbibel, Gen 1:2] = וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם [בראשית א ב]
+e Finsternis (pl. -se) : חֹשֶׁךְ
+  - "Da scheidet Gott das Liecht vom Finsternis" [Lutherbibel, Gen 1:4] = וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ [בראשית א ד]
+fühlen : להרגיש
+  - sich [präd.] fühlen : להרגיש (באופן מסוים)
+  - sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
 fleißig [adj.] : חרוץ
@@ -1297,6 +1314,7 @@ gebärden, gebärdete, hat gebärdet [vt.] : לסמן (בשפת הסימנים),
   - sich gebärden : להתנהג
   - sich wie toll gebärden : להתנהג כמו משוגע
 s Gebärden (= pl.) : סימן (בשפת הסימנים)
+s Gebell : נביחה
 geben (gibt), gab, hat gegeben [vt.] : לתת
   - sich[Dat.] die Hand geben : להושיט יד ללחיצה
   - sich[Dat.] alle Mühe geben : לעשות כל מאמץ
@@ -1348,7 +1366,11 @@ gehorchen : לציית
   - j-m gehorchen : לציית למישהו
   - j-m nicht gehorchen : לא לציית למישהו, להמרות את פיו של מישהו
 gehören : להשתייך, להיות שייך ל־
+e Geige : כינור
+geigen : לנגן בכינור
 geil [adj.] : חרמן; מגניב; מיוחם
+r Geist (pl. -er) : רוח; רוח רפאים
+  - "Vnd der Geist Gottes schwebet auff dem Wasser" [Lutherbibel, Gen 1:2] = וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם [בראשית א ב]
 geistesabwesend : פזור דעת, מפוזר, לא מרוכז
 gelähmt [adj.] : משותק
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
@@ -1635,7 +1657,11 @@ hinaús|laufen (läuft hinaus) :
   - es läuft darauf hinaus
 hin oder her : בין אם כך ובין אם כך, לא משנה אם כך או כך
 hinab : down
-auf j-n hinab|sehen : to look down on s.o.
+hináb|sehen :
+  - auf j-n hinabsehen : to look down on s.o.
+hinaús|wollen
+  - auf + [Akk.] hinauswollen : לשאוף ל־; לכוון ל־; לחתור ל־
+  - Ich verstehe nicht, worauf Sie hinauswollen : אני לא מבין לאן אתה חותר
 hín|geben, gab hin, hingegeben : להעניק; להקריב
   - sein Leben hingeben : להקריב את חייו
 hín|nehmen, nahm hin, hingenommen [vt.] : לקבל, להסכים ל
@@ -1688,6 +1714,7 @@ höflich [adj.] : מנומס
 e Höhenangst : פחד גבהים
   - Höhenangst haben : לפחד מגבהים, יש לו פחד גבהים
 r Höhepunkt (pl. -e) : נקודת שיא
+s Holz : עץ
 hören, hörte, hat gehört [vt.] : לשמוע
 s Hotel (pl. -s) : מלון
 r Hund (pl. -e) : כלב
@@ -1713,6 +1740,9 @@ immerhin [adv.] : לפחות; איך שלא יהיה, בכל מקרה
 imposant : impressive, monumental
 imstande (~im Stande) [adv.] : מסוגל
   - imstande sein : להיות מסוגל
+in [präp.] : בְּ; אל־
+  - in + [Dat.] : בְּ־, בתוך־
+  - in + [Akk.] : אל־, ל־, לתוך־
 indes : אולם; בינתיים
 indessen [adv.] : בינתיים
 indessen [konj.] : בעוד ש־
@@ -1767,6 +1797,9 @@ jedenfalls [adv.] : איך שלא יהיה, בכל מקרה
 jeder/jede/jedes [pron./m.b.] : כל
   - auf jeden Fall : בכל מקרה
   - jeden Tag : כל יום
+jeher
+  - seit jeher : מאז ומעולם
+  - von jeher : מאז ומעולם
 jener/jene/jenes [pron.] : ההוא/ההיא
   - zu jener Zeit : בזמן ההוא
   - in jener Zeit : בימים ההם
@@ -1826,6 +1859,7 @@ klappen, klappte, hat geklappt [vi.] [ugs.] : להצליח, להסתדר, לעב
 klappen, klappte, hat geklappt [vt.] : לקפל
 klar [adj.] : ברור
   - Für mich ist ganz klar, dass : לי לגמרי ברור ש
+s Klavier : פסנתר
 klein [adj.] : קטן
 e Kleinigkeit (pl. -en) : פרט קטן, עניין קטן, עניין פעוט
   - das ist eine Kleinigkeit! : זה עניין פעוט!
@@ -1872,6 +1906,8 @@ krähen : לקרוא (תרנגול)
   - Der Hahn kräht : התרנגול קורא
 krank [adj.] : חולה
   - krank werden : להיעשות חולה
+  - krank im Bett liegen : לשכב חולה במיטה
+  - "das ich fur Liebe kranck lige" [Lutherbibel, Hhld 5:8] = שֶׁחוֹלַת אַהֲבָה אָנִי [שיר השירים ה ח]
 s Krankenhaus (pl. Krankenhäuser) : בית חולים
 r Krankenwagen : אמבולנס
   - einen Krankenwagen rufen : לקרוא לאמבולנס
@@ -1879,6 +1915,7 @@ e Krankheit : מחלה
 krepieren : למות
 e Kreuzung : צומת
 r Krieg (pl. -e) : מלחמה
+  - "Denn wo sich ein Krieg erhübe / möchten sie sich auch zu vnsern Feinden Schlahen" [Lutherbible, Ex 1:10] =  וְהָיָה כִּי־תִקְרֶאנָה מִלְחָמָה וְנוֹסַף גַּם־הוּא עַל־שֹׂנְאֵינוּ [שמות א י]
 r Krieger (= pl.) : לוחם
 e Kriegserklärung : הכרזת מלחמה
 r Kriegsgrund : עילה למלחמה, קזוס בלי
@@ -1973,6 +2010,8 @@ lernen : ללמוד
 lesen : לקרוא
 letztere [adj.] : האחרון, ההוא (בניגוד ל"זה")
   - erstere ... letztere ...
+s Licht (pl. -er) : אור
+  - "VND Gott sprach / Es werde Liecht / Vnd es ward Liecht" [Lutherbibel, Gen 1:3] = וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר [בראשית א ג]
 lieb [adj.] : יקר, אהוב, חביב
 lieben, liebte, hat geliebt [vt.] : לאהוב
   - j-n bedingungslos lieben : לאהוב מישהו ללא תנאים
@@ -2053,6 +2092,8 @@ mehrheitlich [adv.] : על פי החלטת הרוב, באופן כללי
 meilenweit : מרוחק מיילים רבים; במרחק אלפי פרסאות
 meist [adv.] : לרוב, ברוב המקרים, בדרך כלל
 meistens [adv.] : בדרך כלל, לרוב, ברוב המקרים
+r Mensch : אָדָם
+  - "Vnd sie waren beide nacket / der Mensch vnd sein Weib" [Lutherbibel Gen 2:25] = וַיִּהְיוּ שְׁנֵיהֶם עֲרוּמִּים הָאָדָם וְאִשְׁתּוֹ [בראשית ב כה]
 merken, merkte, hat gemerkt - לבחון באופן מכוון וכך לשים לב למשהו vgl. bemerken
   - + Akk. : לשים לב (ש־), לבוא לשימת ליבו של מישהו, להבחין, להסתכל ולראות
 meutern : למרוד
@@ -2144,6 +2185,8 @@ nachweislich [adv.] : באופן שניתן להציגו או להוכיחו
 e Nachwelt (pl. -en) : next generations
 nách|werfen 
   - Geld einwerfen : להכניס עוד מטבעות למכונה
+nackt [adj.] : עירום
+  - "Vnd sie waren beide nacket / der Mensch vnd sein Weib" [Lutherbibel Gen 2:25] = וַיִּהְיוּ שְׁנֵיהֶם עֲרוּמִּים הָאָדָם וְאִשְׁתּוֹ [בראשית ב כה]
 r Nagel : ציפורן; מסמר
 e Nagelprobe : מבחן ליטמוס
 nah [adj.] : קרוב
@@ -2212,7 +2255,7 @@ offenbaren : to reveal, to disclose
 oft [adv.] : לעתים קרובות
 öfter [adv.] : לעתים יותר קרובות; מדי פעם
 ohnehin [adv.] : כבר; בכל מקרה
-r Ohrendruck : ear pressure
+r Ohrendruck : לחץ באוזניים
 e Ohrfeige (pl. -n) : סטירת לחי
 e Ölsardine (pl. -n) : סרדינים בשמן
   - wie die Ölsardinen : כמו סרדינים (על צפיפות)
@@ -2225,7 +2268,9 @@ r Orkan (pl. -e)
 = P =
 s Pack (pl. -s) : להקה (של כלבים, זאבים, וכו')
 Palmsonntag : Palm Sunday
-panisch : panic-fueled, freaked out
+e Panik : פאניקה
+  - in Panik geraten : להיכנס לפאניקה
+panisch : בפאניקה
 parieren : to counter
 r Park (pl. -s) : פארק
 parken, parkte, hat geparkt [vt.] : לחנות
@@ -2241,6 +2286,9 @@ e Pest : מגיפה
 e Pfalz : רוֹזנוּת
 s Pfand : ערבון
 r Pfennig (pl. -e) : מטבע קטן בעל ערך מועט
+pflanzen : לשתול; לטעת
+  - "VND Gott der HERR pflanzet einen Garten in Eden" [Lutherbibel, Gen 2:8] = וַיִּטַּע יהוה אֱלֹהִים גַּן־בְּעֵדֶן [בראשית ב ח]
+s Piano : פסנתר
 r Piep : צפצוף
 piepen : לצפצף
   - Die Maus piept.
@@ -2266,7 +2314,7 @@ prallen : לבהוק
 r Pranger : pillory [`amud qalon]
   an den Pranger stellen
 e Pracht : פאר, הוד, הדר
-prächtig : magnificent, splendid
+prächtig [adj.] : מפואר, מהודר, מלא הוד והדר
 e Predigt (pl. -e) : דרשה
 Preis : מחיר
   - um jeden Preis : בכל מחיר
@@ -2565,6 +2613,8 @@ schwarz [adj.] : שחור
   - Es ist nicht alles schwarz oder weiß im Leben : לא הכול שחור-לבן בחיים
 schweigen : להיות בשקט, לשתוק
 schwer [adj.] : כבד
+schwér|fallen, fiel schwer, hat schwergefallen : להיות קשה (למישהו)
+  - Es fällt j-m schwer : זה קשה למישהו
 s Schwert : חרב
 schwierig [adj.] : קשה, מסובך, מורכב
 e Schwierigkeit : קושי, בעיה
@@ -2574,6 +2624,8 @@ schwimmen : לשחות
 schwören : להישבע
 r Schwur (pl. Schwüre) : שבועה
   - seinen Schwur brechen : להפר את שבועתו
+e Seele (pl. -n) : ׁנשמה; נֶפֶש
+  - "Vnd also ward der Mensch eine lebendige Seele" [Lutherbibel, Gen 2:7] = וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה [בראשית ב ז]
 r Seelsorger : pastor
 e Seemacht : הכוח הימי
 sein (ist), war, ist gewesen : להיות
@@ -2615,6 +2667,12 @@ singen : לשיר; לצייץ (ציפור)
   - Der Vogel singt.
 sinken, sank, gesunken
   - mir sank das Herz in die Hose : נפל לי הלב לתחתונים
+r Sinn (pl. -e) : חוש; משמעות; מטרה; שכל
+  - Sinn machen : להיות הגיוני, להתקבל על הדעת
+  - keinen Sinn machen : לא להתקבל על הדעת
+sinnen : להרהר
+s Sinnen : הרהורים
+sinnlich [adj.] : חושני
 sitzen, saß, ist gesessen : לשבת
   - sitzen bleiben : להישאר לשבת
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
@@ -2787,6 +2845,8 @@ r Thron : כס המלכות
   - das Thron besteigen : לעלות על כס המלכות
 r Thronfolger : יורש העצר
 tief [adj.] : עמוק; נמוך
+e Tiefe : עומק; תהום
+  - "vnd es war finster auff der Tieffe" [Lutherbibel, Gen 1:2] = וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם [בראשית א ב]
 e Tiefgarage (pl. -n) : חניון תת־קרקעי
 tilgen + Akk. : לפדות, להחזיר חוב
   - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
@@ -2800,14 +2860,19 @@ s Tollhaus : בית משוגעים
 r Ton (pl. Tone, Töne) : צליל
   - den Ton angeben : לתת את הטון, לקבוע את סדר היום
   - den richtigen Ton treffen : למצוא את הצליל המתאים, להתאים למקום ולסיטואציה
-s Tor : שער
+s Tor (pl. -e) : שער
+r Tor (pl. -en) : טיפש
 e Torhalle : אולם השער ?
 töten : להרוג
 tragen : לשאת; ללבוש
 trainieren [vt.] : לתרגל, להתאמן
 s Trainiren : אימון
 r Trauring : טבעת נישואים
-treffen : לפגוש
+treffen (trifft), traf, hat getroffen [vt.] : לפגוש; לקלוע
+  - gut treffen : לקלוע היטב
+  - sich (mit j-m) treffen : להיפגש (עם מישהו)
+s Treffen : פגישה
+r Treffpunkt : נקודת מפגש
 treppab [adv.] : במורד המדרגות
 treppauf [adv.] : במעלה המדרגות
 e Treppe (pl. -n) : מדרגה
@@ -2920,11 +2985,14 @@ unausgesetzt [adj.] : קבוע, ללא הרף
 unausweichlich [adj.] : בלתי־נמנע
 unausweichlich [adv.] : באופן בלתי־נמנע
 unabdingbar [adj.] : חיוני, הכרחי
+und : וְ־
 uneins : מפולג, מפוצל, מחולק
 e Unendlichkeit : אינסוף
 unerfreulich : unpleasant, annoying
 unerhört : מזעזע, שלא נשמע כמותו
 unerklärlich : שלא ניתן להסבירו
+r Unfug : שטויות; מעשה קונדס; נזק; רעה
+  - Mach keinen Unfug! : אל תעשה שטויות
 ungelegen : לא נוח, לא מתאים
   - ungelegen kommen : להיות לא נוח, לבוא בזמן לא טוב, לא להיות מתאים
 ungenutzt : לא בשימוש, במצב סרק
@@ -3079,12 +3147,14 @@ sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
 verkrüppelt [adj.] : בעל מום, שהוטל בו מום
 verkümmert [adj.] : stunted
 verkünden [vt.] : להכריז, להכריז על־
-verlassen : לנטוש
+verlassen : לנטוש; לעזוב
+  - "Darumb / wird ein Man seinen Vater vnd seine Mutter verlassen" [Lutherbibel, Gen 2:24] = עַל־כֵּן יַעֲזָב־אִישׁ אֶת־אָבִיו וְאֶת־אִמּוֹ [בראשית ב כד]
 verlaufen : לרוץ
   - sich verlaufen : ללכת לאיבוד
 verletzen : לפצוע; לפגוע; לגרום נזק
 e Verletzung : הפרה; נזק; פגיעה; פציעה
 sich (in j-n) verlieben : להתאהב (במישהו)
+s Verlieben : התאהבות
 verlieren : להפסיד
 vermeiden : להימנע מ־
 vermissen : להתגעגע ל־/אל־
@@ -3097,6 +3167,9 @@ veröffentlichen, veröffentlichte, veröffentlicht [vt.] : לפרסם
 sich verpissen : להסתלק
   - verpiss dich! : תסתלק מפה!, עוף מפה!
 j-n verprügeln : to beat s.o. up
+r Verrat : בגידה
+verraten [adj.] : לבגוד; לחשוף; לגלות
+r Verräter (= pl.) : בוגד
 verrecken : למות, ללכת פייפן, להיגמר
 verrückt [adj.] : משוגע
   - nach + [Dat.] verrückt sein : להיות משוגע על
@@ -3188,6 +3261,8 @@ vierfach : מרובע, כפול־ארבע
 violett [adj.] : סגול
 s Volk (pl. Völker) : עם
 e Völkerverbrüderung : אחוות עמים
+vollenden, vollendete, hat vollendet [vt.] : לסיים; לְכַלּוֹת
+  - "Vnd also volendet Gott am siebenden tage seine Werck die er machet" [Lutherbibel, Gen 2:2] = וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה [בראשית ב ב]
 r Vollidiot : אידיוט מושלם
 e Vollzeit : משרה מלאה; פעילות שנמשכת בכל שעות העבודה
 - Vollzeit-Programm
@@ -3196,6 +3271,7 @@ e Vollzeit : משרה מלאה; פעילות שנמשכת בכל שעות העב
 - Vollzeit-Schriftsteller
 e Vollzeitstelle : משרה מלאה
 von [präp.] : מן, מ־
+  - von + [Dat.] : מ־, מן
 vor [präp.] : לפני; מפני; מ־(רגש)
   - vor Angst : מפחד
   - vor Freude : משמחה
@@ -3233,6 +3309,7 @@ vór|nehmen [vt.] : לבצע; להוציא לפועל
   - Änderungen vornehmen : לבצע שינויים
   - sich[Dat.] vornehmen : לקחת על עצמו
 r Vorort : פרוור
+r Vorrat (pl. Vorräte) : מלאי
 vór|stehen : לבלוט החוצה
 vór|stellen, stellte vor, hat vorgestellt [vt.] : להציג (בפני)
   - sich[Dat.] [Akk.] vorstellen : לדמיין משהו
@@ -3243,6 +3320,8 @@ vór|werfen (wirft vor), warf vor, hat vorgeworfen [vt.] : להאשים
 vórwiegend : עיקרי, ראשי, מוביל, בולט, מכריע
 
 = W =
+wach [adj.] : ער
+wachen : לשמור; להיות ער
 r Waffenschmied : יצרן נשק
 e Waffenschmiede : נשקיה
 r Wagen (= pl.) : רכב, קרון, כרכרה
@@ -3257,8 +3336,7 @@ wahnsinnig [adv.] : באופן מדהים, בצורה יוצאת דופן
 wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
 r Wald (pl. Wälder) : יער
-walzen, walzte, gewalzt
-  - + Akk. : לגלגל
+walzen, walzte, gewalzt [vt.] : לגלגל
 e Wand (pl. Wände) : קיר
   - mit dem Rücken zur Wand stehen : לעמוד עם הגב אל הקיר
 r Wandel (= pl.) : המרה; שינוי
@@ -3279,6 +3357,9 @@ wedeln, wedelte, hat gewedelt : לכשכש
   - mit dem Schwanz wedeln : לכשכש בזנב
 weder ... noch ... : לא ... ולא ...
 r Weg (p. -e) : דרך
+weg [adv.] : הרחק
+  - weit weg : הרחק
+  - weg von + [Dat.] : הרחק מן־
 weg von [präp.] : הרחק מ־
   - weg von daheim : הרחק מן הבית
 e Wegnahme : הסרה
@@ -3355,6 +3436,7 @@ wirken, wirkte, hat gewirkt [vt.] : להשפיע, להיות בעל השפעה �
 r Witwenschleier : רעלת אלמנה
 r Witz : בדיחה
 witzig [adj.] : מצחיק
+wobei [adv.] : שבאמצעותו, שבעזרתו
 wohl [adv.] : היטב; ככל הנראה; אולי
 e Wohnung (pl. -en) : דירה
 s Wohnzimmer (= pl.) : סלון
