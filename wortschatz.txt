@@ -2276,6 +2276,15 @@ putzen : לנקות
 = Q =
 quaken, quakte, hat gequakt [vt.] : לגעגע
   - Die Ente quakt. : הברווז מגעגע
+e Qual : עינוי
+quälen [vt.] : לענות
+  - sich quälen : להתאמץ, להתענות
+e Qualität : איכות
+qualitativ [adj.] : איכותי
+r Quell : מקור
+e Quelle (pl. -n) : מעין; באר
+e Quittung : קבלה
+e Quote (pl. -n) : מידה; כמות; קווטה
 
 = R =
 rammeln, rammelte, gerammelt
