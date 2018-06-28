@@ -973,6 +973,8 @@ erlauben : להרשות
 r Erlöser : מושיע
 ermutigen [vt.] : לעודד
   - j-n ermutigen, etwas zu tun : לעודד מישהו לעשות משהו
+ernähren, ernährte, hat ernährt [vt.] : להאכיל, להזין
+  - sich ernähren : ליזון 
 e Ernennung : מינוי
 e Ernte (pl. -n) : יבול, בציר
 erobern [vt.] : לכבוש; להשתלט על
@@ -1171,6 +1173,10 @@ füllen, füllte, hat gefüllt [vt.] : למלא
   - sich füllen : להתמלא, להיות מלא
 funkeln : לנצנץ (כוכבים)
 s Funkeln : ניצוץ
+e Funktion : פונקציה; תפקוד, פעילות; תפקיד; תכונה
+funktionieren, funktionierte, hat funktioniert : לפעול, לתפקד
+e Furcht : פחד, אימה
+  - j-n Furcht überkommen : להתמלא אימה
 furchtbar [adj.] : נורא
 r Fürsprecher : חסיד, תומך, מצדד
 r Fuß (pl. Füße) : כף רגל
@@ -1668,6 +1674,11 @@ s Kind (pl. -er) : ילד
 s Kino (pl. -s) : בית קולנוע
 e Kirche (pl. -n) : כנסיה
 kläglich : אומלל
+e Klappe : בקע, פתח, חריץ
+  - Halt die Klappe : סתום את הפה
+klappen, klappte, hat geklappt [vi.] [ugs.] : להצליח, להסתדר, לעבוד
+  - reibungslos klappen : להסתדר בלי חיכוכים
+klappen, klappte, hat geklappt [vt.] : לקפל
 klar [adj.] : ברור
   - Für mich ist ganz klar, dass : לי לגמרי ברור ש
 klein [adj.] : קטן
@@ -2130,6 +2141,13 @@ regnen, regnete, hat geregnet [vi.] : לרדת (גשם)
   - stark regnen : יורד גשם חזק
 reiben, rieb, hat gerieben [vt.] : לשפשף
   - sich die Augen reiben : לשפשף את העיניים
+e Reibung : חיכוך
+reibungslos [adj.] : חלק
+reibungslos [adv.] : באופן חלק, בלי חיכוכים
+  - reibungslos ablaufen : לעבוד בלי חיכוכים
+  - reibungslos funktionieren : לפעול באופן חלק
+  - reibungslos klappen : להסתדר בלי חיכוכים
+  - reibungslos verlaufen : לעבוד בלי חיכוכים
 e Reichsacht : imperial outlawry
 reif [adj.] : בשל; בוגר; מפותח
   - Die Zeit ist reif. : בשלה העת
