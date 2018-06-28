@@ -134,6 +134,8 @@ als : כ, כמו
   - als ob
   - so tun, als ob ... : לעשות כאילו ש־
 alt [adj.] : זקן
+r Altar : מִזְבֵּחַ
+  - "vnd sihe / fur der thür am Tempel des Herrn / zwischen der Halle vnd dem Alter." [Lutherbibel, Ez 8:16] = וְהִנֵּה־פֶתַח הֵיכַל יהוה בֵּין הָאוּלָם וּבֵין הַמִּזְבֵּחַ [יחזקאל ח טז]
 althergebracht : מסורתי
 e Ampel (pl. -n) : רמזור
 an [präp.] : על; ליד; אל
@@ -405,6 +407,8 @@ e Aussicht (auf + [Akk.]) : סיכוי, אפשרות, פוטנציאל; נוף, 
 aús|sprechen (spricht aus), sprach aus, hat ausgesprochen [vt.] : לבטא
 aús|stoßen, stieß aus, hat ausgestoßen [vt.] : לפלוט; להוציא
 s Ausstoßen : פליטה
+aús|treiben [vt.] : לגרש
+  - "Vnd treib Adam aus / vnd lagert fur den garten Eden den Cherubim mit einem blossen hawenden Schwert / zu bewaren den weg zu dem Bawm des Lebens" [Lutherbibel, Gen 3:24] = וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים [בראשית ג כד]
 r Ausweg : מוצא, דרך החוצה, מפלט
 auswärtig : חיצוני
 auswärts : החוצה
@@ -443,6 +447,8 @@ bändigen [vt.] : לאלף, לשלוט
 e Bank (pl. -en) : בנק
 r Bannstrahl : חרם, נידוי, קללה
 bauen : לבנות
+r Baum (pl. Bäume) : עֵץ
+  - "Vnd treib Adam aus / vnd lagert fur den garten Eden den Cherubim mit einem blossen hawenden Schwert / zu bewaren den weg zu dem Bawm des Lebens" [Lutherbibel, Gen 3:24] = וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים [בראשית ג כד]
 beabsichtigen [vt.] : להתכוון, לתכנן
 beantragen [vt.] : להגיש בקשה
 beargwöhnt : נחשד
@@ -1537,7 +1543,8 @@ s Gut : נכס; רכוש; אחוזה
 r Gutsherr : בעל אחוזה 
 
 = H =
-s Haar (pl. -e) : שערה
+s Haar (pl. -e) : שערה; שיער
+  - "Aber das har seines heubts fieng an wider zu wachsen / wo es bschoren war." [Lutherbibel, Ri 16:22] = וַיָּחֶל שְׂעַר־רֹאשׁוֹ לְצַמֵּחַ כַּאֲשֶׁר גֻּלָּח [שופטים טז כב]
 s Haarwaschmittel : שמפו
 haben (hat), hatte, hat gehabt [vt.] : להיות ל־, להחזיק ב־, להיות הבעלים של־
 habhaft
@@ -1549,13 +1556,16 @@ halbmast [adv.]
   halbmast flaggen
 halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
-e Halle (pl. -n) : אולם; מסדרון, פרוזדור; היכל
+e Halle (pl. -n) : אוּלָם; מסדרון, פרוזדור; היכל
+  - "vnd sihe / fur der thür am Tempel des Herrn / zwischen der Halle vnd dem Alter." [Lutherbibel, Ez 8:16] = וְהִנֵּה־פֶתַח הֵיכַל יהוה בֵּין הָאוּלָם וּבֵין הַמִּזְבֵּחַ [יחזקאל ח טז]
 e Halterung : כַּן, תושבת
 hált|machen, machte halt, hat haltgemacht [auch: Halt machen]
   - vor nichts haltmachen : to stop at nothing
 e Hand (pl. Hände) : יד, כף יד
   - j-m freie Hand lassen : לתת למישהו יד חופשית
   - Hände halten : להחזיק ידיים
+handeln, handelte, hat gehandelt : לפעול, לעשות מעשה; לסחור
+  - "Du hast mit mir gehandelt / nicht wie man handeln sol" [Lutherbibel, Gen 20:9] = מַעֲשִׂים אֲשֶׁר לֹא־יֵעָשׂוּ עָשִׂיתָ עִמָּדִי
 s Handtuch : מגבת
   - das Handtuch werfen : לזרוק את המגבת
 s Handwerk : משלח‏־יד
@@ -2306,6 +2316,8 @@ e Pose (pl. -n) : פוזה
 posieren : לדגמן, לעמוד לפני צייר
 possessiv [adj.] : של שייכות; רכושני
 s Possessivpronomen (= pl.) : כינוי שייכות
+prahlen, prahlte, geprahlt : להתיהר, להיות יהיר, להתרברב; לעלוז
+  - "Wie lange sollen di Gottlosen pralen?" [Lutherbibel, Ps 94:3] = עַד־מָתַי רְשָׁעִים יַעֲלֹזוּ [תהילים צד ג]
 prall [adj.] : שופע, מלא, בולט; בוהק
   - in der prallen Sonne : בשמש הבוהקת
 prall [adv.]
@@ -2616,6 +2628,7 @@ schwer [adj.] : כבד
 schwér|fallen, fiel schwer, hat schwergefallen : להיות קשה (למישהו)
   - Es fällt j-m schwer : זה קשה למישהו
 s Schwert : חרב
+  - "Vnd treib Adam aus / vnd lagert fur den garten Eden den Cherubim mit einem blossen hawenden Schwert / zu bewaren den weg zu dem Bawm des Lebens" [Lutherbibel, Gen 3:24] = וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים [בראשית ג כד]
 schwierig [adj.] : קשה, מסובך, מורכב
 e Schwierigkeit : קושי, בעיה
   - Schwierigkeiten bewältigen : להתמודד עם קשיים
@@ -2894,6 +2907,11 @@ trompeten : לחצצר; להשמיע קול כמו פיל
   - Der Elefant trompetet.
 r Tross (pl. -e) : ציוד צבאי, קיטבג
 r Trottel (= pl.) : טיפש
+trotz [präp.] : למרות
+  - trotz + [Gen.] [präp.] : למרות־
+r Trotz : התרסה; כֵּסֶל
+  - "Denn der HERR ist dein trotz" [Lutherbibel, Spr 3:26] = כִּי־יהוה יִהְיֶה בְכִסְלֶךָ [משלי ג כו]
+trotzdem [adv.] : למרות הכול; למרות זאת; בכל זאת
 r Trotzkopf (pl. Trotzköpfe) : עקשן
 trotzten + Dat. : to defy, to outdare, to brave, to affront
 trügen [vt.] : להשלות, להוליך שולל
@@ -3116,6 +3134,7 @@ vergebens : לשווא, ללא הועיל
 vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזבז
 vergelten (vergilt), vergalt, hat vergolten [vt.] : לגמול, להשיב
 vergessen (vergisst), vergaß, hat vergessen [vt.] : לשכוח
+  - "MEin Kind / Vergiss meins gesetzes nicht" [Lutherbibel, Spr 3:1] = בְּנִי תּוֹרָתִי אַל־תִּשְׁכָּח [משלי ג א]
 vergilben, vergilbte, ist vergilbt : להצהיב
 vergilbt [adj.] : שנעשה צהוב
 vergleichen : להשוות
