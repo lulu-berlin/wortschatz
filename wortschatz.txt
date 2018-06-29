@@ -136,7 +136,13 @@ als : כ, כמו
 alt [adj.] : זקן
 r Altar : מִזְבֵּחַ
   - "vnd sihe / fur der thür am Tempel des Herrn / zwischen der Halle vnd dem Alter." [Lutherbibel, Ez 8:16] = וְהִנֵּה־פֶתַח הֵיכַל יהוה בֵּין הָאוּלָם וּבֵין הַמִּזְבֵּחַ [יחזקאל ח טז]
+r Alte : זקן; חבוב (פנייה ידידותית)
+e Alte : זקנה
+s Alter (= pl.) : גיל; תקופה
 althergebracht : מסורתי
+r Amok : אמוק
+  - Amok fahren : להשתולל, להתפרע
+  - Amok laufen : לרוץ ריצת אמוק
 e Ampel (pl. -n) : רמזור
 an [präp.] : על; ליד; אל
 án|beten : להעריץ
@@ -480,6 +486,7 @@ beeindrucken [vt.] : להרשים
   - leicht zu beeindrucken : נוח להרשים, אשר ניתן להרשימו בנקל
   - nicht zu beeindrucken : שלא ניתן להרשימו
   - tief beeindrucken : להרשים עמוקות
+e Beere (pl. -n) : גרגר יער
 r Befehl (pl. -e) : פקודה
 befehlen (befiehlt), befahl, hat befohlen [vt.] : לפקוד, להורות, לתת פקודה, לתת הוראה
 befinden, befand, hat befunden [vt.] : למצוא (משהו בצורה כלשהי)
@@ -620,6 +627,9 @@ betreten : להיכנס
 sich betrinken : להשתכר
 s Bett (pl. -en) : מיטה
   - ins Bett gehen : ללכת למיטה, ללכת לישון
+r Beton : בטון
+betonen [vt.] : להדגיש
+e Betonung : טעם (במילה; ההברה המודגשת); הטעמה; הדגשה
 beurteilen : לשפוט, להעריך, לקבוע
 e Beute : שלל, טרף, ביזה
   - Die Beute wegnehmen : לקחת את השלל
@@ -677,6 +687,7 @@ blasen (bläst), blies, hat geblasen : לנשוף
 blass [adj.] : חיוור; דהוי
   - blass werden : להחוויר, להיעשות חיוור
 blau [adj.] : כחול
+s Blatt (pl. Blätter) : גליון; עלה; עמוד; נייר
 bleiben, blieb, ist geblieben [vi.] : להישאר
   - übrig bleiben : להישאר
   - sitzen bleiben : להישאר לשבת
@@ -1035,7 +1046,10 @@ erbringen [vt.] : להעביר; לספק; להמציא (עדות, הוכחה)
 r Erdapfel (pl. Erdäpfel) [österr.] : תפוח אדמה
 r Erdball : כדור הארץ
   - rund um den Erdball : מסביב לעולם
+e Erdbeere (pl. -n) : תות, תות שדה
 e Erde : אדמה, כדור הארץ
+e Erdkunde : גיאוגרפיה
+erdkundlich [adj.] : גיאוגרפי
 erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
   - "Was in der Revolution erfochten wurde, ist das Bewusstsein, dass der Gedanke stärker, größer und gewaltiger ist als die Macht der Bajonette und Kanonen." [Die Deutschen]
 erfolgversprechend : מבטיח (צפוי להצליח)
@@ -1227,6 +1241,7 @@ fühlen : להרגיש
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
 fleißig [adj.] : חרוץ
+flennen : ליבב, לבכות בכי תמרורים
 fliegen, flog, ist geflogen [vi.] : לטוס
 fliegen, flog, hat geflogen [vt.] : להטיס
 fliehen, floh, ist geflohen [vi.] : לברוח
@@ -1357,7 +1372,7 @@ e Geduld : סבלנות
 geduldig [adj.] : סבלני
   - geduldig sein : להיות סבלני
 geduldig [adv.] : בסבלנות
-e Gefahr : סכנה, סיכון
+e Gefahr (pl. -en) : סכנה, סיכון
   - Gefahr laufen, ... zu + Inf. : להסתכן ב...
 r Gefährte (Gen. -n, pl. -n) : בן־לוויה, חבר (לארגון/מאמץ)
 e Gefährtin (pl. -nen) : בת־לוויה, חברה (לארגון/מאמץ)
@@ -1512,6 +1527,8 @@ s Grab (pl. Gräber) : קבר
 graben (gräbt), grub, hat gegraben [vt.] : לחפור
 r Graben : שוחה
 s Graben : חפירה
+r Granatapfel (pl. Granatäpfel) : רימון
+r Granatapfelbaum : עץ רימון
 gratulieren, gratulierte, hat gratuliert : לברך "מזל טוב"
   - Gratuliere! : מזל טוב!
 grau [adj.] : אפור
@@ -1598,6 +1615,7 @@ heftig [adv.] : בחוזקה, ממש, בכל תוקף
   - heftig umkämpft : נתון במחלוקת קשה
   - zu heftig reagieren : להגיב בצורה מוגזמת
 s Heer (pl. -e) : צבא
+e Heidelbeere (pl. -n) : אוכמניה
 s Heim : הבית
 heim [adv.] : הביתה
 Heimkehr : שיבה, שיבה הביתה
@@ -1667,6 +1685,7 @@ heulen, heulte, geheult : לילל
   - Heul nicht ständig! : די לילל כל הזמן!
 heute [adv.] : היום
   - von heute auf morgen : מהיום למחר
+e Himbeere (pl. -n) : פטל
 hin
   - auf + [Akk.] + hin - ל־ (כמו: „לבקשתך״)
   - „auf Ihren Vorschlag hin״
@@ -1737,7 +1756,8 @@ höflich [adj.] : מנומס
 e Höhenangst : פחד גבהים
   - Höhenangst haben : לפחד מגבהים, יש לו פחד גבהים
 r Höhepunkt (pl. -e) : נקודת שיא
-s Holz : עץ
+s Holz (pl. Hölzer) : עץ
+Hoppla [interj.] : אופס; הופלה
 hören, hörte, hat gehört [vt.] : לשמוע
 s Hotel (pl. -s) : מלון
 r Hund (pl. -e) : כלב
@@ -1778,6 +1798,7 @@ s Infragestellen : questioning
 inhaftieren, inhaftierte, inhaftiert : לעצור, להחזיק במעצר, לשים במעצר
 e Inhaftierung : מעצר
 e Inhaftnahme : מעצר
+r Inhalt (pl. -e) : תוכן; נושא; עצם העניין
 initiieren : ליזום
 innen [adv.] : פְּנִים
 innenpolitisch [adj.] : פנים־פוליטי, של פוליטיקה פנימית
@@ -1827,6 +1848,7 @@ jener/jene/jenes [pron.] : ההוא/ההיא
   - zu jener Zeit : בזמן ההוא
   - in jener Zeit : בימים ההם
   - aus jener Zeit : מהתקופה ההיא
+s Johannisbrot : חרוב
 jucken [vt.] : לגרד
   - es juckt mich : זה מגרד לי
 e Jugendherberge : אכסנית נוער
@@ -1913,6 +1935,7 @@ kollern : להשמיע קול כמו תרנגול הודו
   - Der Truthahn kollert.
 komisch [adj.] : מוזר; משונה
 e Kommode (pl. -n) : שידה
+e Konfitüre (pl. -n) : ריבה
 können (kann), konnte, hat gekonnt [vt.] : להיות יכול, להיות מסוגל
 r Kontrahent : יריב
 r Kopf (pl. Köpfe) : ראש
@@ -1973,8 +1996,11 @@ s Lamm : טלה, שה
 Lammfleisch : בשר טלה
 e Lampe (pl. -n) : מנורה
 s Land (pl. Länder) : ארץ
+landen : לנחות
+e Lanschaft (pl. -en) : נוף; כפר, האזור הכפרי
 e Landstraße (pl. -n) : כביש (בין כפרים), אוטוסטראדה
 r Landtag : מועצה/פרלמנט של מדינה פדרלית
+e Landwirtschaft : חלקאות
 lang [adj.] : ארוך
   - seit langem : מזמן
 lang [präp.] : לאורך
@@ -1993,6 +2019,13 @@ lästern [vt.] : לנאץ, לחלל, לטמא; לרכל, ללכלך על־
 r Lastkraftwagen (= pl.) : משאית
 lästig : מעצבן, מציק, מכביד, מפריע
   - Viele Kinder finden ihre kleinen Geschwister manchmal lästig.
+s Laub : עלווה
+e Laube : סוכה; סככה
+r Lauf (pl. Läufe) : ריצה; מירוץ; קנה (של רובה); מסלול
+  - Lauf der Dinge : השתלשלות האירועים
+  - gut laufen : לעבוד כמו שצריך, להסתדר טוב
+  - Amok laufen : לרוץ ריצה אמוק
+laufen : לרוץ; ללכת; להתקדם; לעבוד
 lauschen : להאזין; להאזין בחשאי
 s Lauschen : האזנה בחשאי
 leben, lebte, hat gelebt [vi.] : לחיות
@@ -2109,6 +2142,8 @@ e Mauer : חומה
 s Mauerfall : נפילת חומת ברלין
 s Maul : לוע
   - Halt das Maul : שתוק ת'פה
+r Maulbeerbaum : עץ תות
+e Maulbeere (pl. -n) : תות עץ
 meckern : לפעות; להתלונן
   - Die Ziege meckert.
   - meckern und nörgeln : to bitch and moan
@@ -2495,6 +2530,8 @@ sagen, sagte, hat gesagt [vt.] : להגיד
 s Sagen
   - das Sagen haben : להיות בעל הדעה, להיות בעל האמירה
 r Salat : סלט; חסה
+e Salbe : משחה
+r Salbei : מרווה
 e Salve (pl. -n) : מטח אש
 e Sammelwut : אספנות כפייתית
 r Sarg (pl. Särge) : ארון קבורה
@@ -2691,6 +2728,7 @@ sieden : לרתוח
   - Sie ließ die Suppe eine halbe Stunde lang sieden. היא הניחה למרק לרתוח במשך חצי שעה
 r Siedepunkt : נקודת הרתיחה
 siezen [vt.] : לפנות בפניית כבוד (Sie), לפנות בנימוס
+e Silbe (pl. -n) : הברה
 singen : לשיר; לצייץ (ציפור)
   - Der Vogel singt.
 sinken, sank, gesunken
@@ -2817,13 +2855,18 @@ e Sünde (pl. -n) : חטא; עוול; פשע
 sündigen : לחטוא
 e Sorge (pl. -n) : דאגה, בעיה
   - j-m Sorgen bereiten : להדאיג מישהו
-suchen
+suchen, suchte, hat gesucht [vt.] : לחפש
   - nach + [Dat.] suchen : לחפש
+e Sucht (pl. Süchte, Suchten) : התמכרות
+süchtig [adj.] : מכור
+  - nach + [Dat.] süchtig werden : להיעשות מכור ל־
+  - süchtig machend [adj.] : ממכר
 e Sühne : כפרה
 super [adj.] : נפלא, נהדר, אחלה
 r Supermarkt (pl. Supermärkte) : סופרמרקט
 s Symbol : סימבול, סמל
 symbolhaft [adj.] : סימבולי, סמלי
+symbolisieren [vt.] : לסמל
 e Synagoge (pl. -n) : בית כנסת
 
 = T =
@@ -2882,6 +2925,9 @@ tilgen + Akk. : לפדות, להחזיר חוב
 r Tisch (pl. -e) : שולחן
 toben : לזעום; להתפרע
 todbereit
+e Toilette : בית שימוש
+  - auf Toilette gehen : ללכת לבית שימוש
+  - auf Toilette sitzen : לשבת על האסלה
 toll [adj.] : נפלא, אדיר, מעולה, פנטסטי; משוגע
 toll [interj.] : וואו!
 s Tollhaus : בית משוגעים
@@ -3080,6 +3126,7 @@ unwillkürlich [adv.] : בעל כורחו; באופן אוטומטי; בניגו
 unwürdig [adj.] : לא ראוי
 unzuverlässig [adj.] : בלתי אמין, מפוקפק
 unzuverlässig [adv.] : באופן בלתי אמין, באופן מפוקפק
+Ups [interj.] : אופס
 e Urne (pl. -n) : כד, קנקן
 s Urteil (pl. -e) : משפט; שיפוט; החלטה, פסיקה
   - das Urteil fällen : לפסוק
@@ -3181,6 +3228,8 @@ sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
 verkrüppelt [adj.] : בעל מום, שהוטל בו מום
 verkümmert [adj.] : stunted
 verkünden [vt.] : להכריז, להכריז על־
+verlangen [vt.] : לדרוש; לבקש; לתבוע; לקרוא ל; להתעקש על־
+s Verlangen : דרישה; חשק, דחף, תאווה
 verlassen : לנטוש; לעזוב
   - "Darumb / wird ein Man seinen Vater vnd seine Mutter verlassen" [Lutherbibel, Gen 2:24] = עַל־כֵּן יַעֲזָב־אִישׁ אֶת־אָבִיו וְאֶת־אִמּוֹ [בראשית ב כד]
 verlaufen : לרוץ
