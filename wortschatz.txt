@@ -574,6 +574,7 @@ bereit [adj.] : מוכן
   - sich bereit erklären : להיות מוכן (לעשות משהו)
 bereiten [vt.] : להכין
   - j-m Sorgen bereiten : להדאיג מישהו
+e Bereitschaft (pl. -en) : נכונות, הסכמה, מוכנות
 bereít|stellen, stellte bereit, hat bereitgestellt [vt.] : לספק
 r Berg (pl. -e) : הר
   - unter einem Berg von Arbeit begraben sein : להיות קבור תחת הררי עבודה
@@ -721,6 +722,7 @@ brüllen : לשאוג
   - Der Löwe brüllt.
 brummen : לנהום
   - Der Bär brummt.
+brünstig [adj.] : מיוחם
 r Buchhalter (= pl.), e Buchhalterin
 s Bündnis : ברית; קואליציה
 r Bürgersteig (pl. -e) : מדרכה
@@ -1159,6 +1161,7 @@ erzwingen, erzawng, hat erzwungen [vt.] : להכריח (דבר), להכריח ש
 es [pron.] : זה
 essen (isst), aß, hat gegessen [vt.] : לאכול
 etablieren : להקים, לייסד, להשתית
+e Etage (pl. -n) : קומה
 e Ethik : אתיקה, מוסר
 etliche [m.b.] : מספר ...
   - etliche Stunden : מספר שעות
@@ -1420,6 +1423,10 @@ gelüsten : להשתוקק
   - nach + [Dat.] gelüsten : להשתוקק ל־
 r Gemahl : בעל
 gemäßigt : מתון, מיושב, שקול, ממוצע
+e Gemeinde (pl. -n) : קהילה
+gemeinsam [adj.] : משותף; הדדי
+gemeinsam [adv.] : ביחד, יחד, יחדיו
+e Gemeinschaft (pl. -en) : קהילה; חיים משותפים
 S Gemetzel : שחיטה, טבח
 s Gemüt (pl. -er) : mind
   - die Gemüter beruhigen - להרגיע את הרוחות
@@ -1462,6 +1469,8 @@ s Geschütz (pl. -e) : נשק; תותח
 r Geselle
 r Geselle (pl. -n) : עוזר, מסייע, בן לוויה, שכיר יום
 e Gesellin : עוזרת, מסייעת, בת לוויה, שכירת יום
+e Gesellschaft (pl. -en) : חברה
+gesellschaftlich [adj.] : חברתי
 s Gesetz (pl. -e) : חוק
 s Gesindel : ערב רב, אספסוף, המון
 gesinnt : בעל עמדה/כוונה, מוכוון
@@ -2026,11 +2035,15 @@ r Lauf (pl. Läufe) : ריצה; מירוץ; קנה (של רובה); מסלול
   - gut laufen : לעבוד כמו שצריך, להסתדר טוב
   - Amok laufen : לרוץ ריצה אמוק
 laufen : לרוץ; ללכת; להתקדם; לעבוד
+laufend [adj.] : נוכחי
+läufig [adj.] : מיוחם
 lauschen : להאזין; להאזין בחשאי
 s Lauschen : האזנה בחשאי
 leben, lebte, hat gelebt [vi.] : לחיות
   - leben und leben lassen : חיה ותן לחיות
 s Leben : חיים
+r Lebenslauf : קורות חיים
+s Lebensmittel : מצרכים; מצרכי מזון; אוכל
 s Lederwams : מעיל עור
 legen, legte, hat gelegt : להניח
 lehren : ללמד
@@ -2279,8 +2292,9 @@ níeder|schlagen, schlug nieder bin/hat niedergeschlagen :
   - in + [Akk.] sich niederschlagen : לבוא לידי ביטוי ב־
 niesen, nieste, geniest : להתעטש
 nimmermehr : לעולם לא עוד, שוב לא
+s Niveau : רמה; סטנדרט
 nörgeln [ugs.] : לרטון, להתלונן
-  - meckern und nörgen : to bitch and moan
+  - meckern und nörgeln : to bitch and moan
 e Not (pl. Nöte) : צורך; מקרה חירום; צרה
   - zur Not : במקרה הצורך
 r Notfall (pl. Notfälle) : מקרה חירום
@@ -2434,6 +2448,9 @@ e Rate (pl. -n) : תשלום
   - [Akk.] in Raten bezahlen : לשלם משהו בתשלומים
 raten, riet, hat raten [vt.] : לנחש
 r Ratschlag (pl. Ratschläge) : עצה
+r Raub : שוד
+rauben [vt.] : לשדוד
+s Rauben : שדידה
 rauchen : לעשן
 r Raucher : מעשן
 räudig [adj.] : mangy
@@ -2823,6 +2840,7 @@ r Stiel (pl. -e) : ידית; מקל; גרעין (של פרי)
   - Eis am Stiel : שלגון, קרטיב, ארטיק
 stimmen, stimmte, hat gestimmt : להיות נכון
   - Das stimmt meiner Meinung nach nicht : לדעתי זה לא נכון
+r Stock : קומה; מקל
 stoppen : לעצור, להפסיק
 stoßen : לנגוח, לדחוף
   - auf +[Akk.] stoßen : להיתקל ב־
@@ -2982,6 +3000,9 @@ r Truthahn : תרנגול הודו
 e Tunte (pl. -n) [ugs.] : הומו
 e Tür (pl. -en) : דלת
   - hinter verschlossenen Türen : בחדרי חדרים
+r Türke : טורקי
+e Türkei : טורקיה
+e Türkin : טורקיה
 türkis [adj.] : טורקיז
 turnen : להתעמל
 s Turnen : גימנסטיקה, התעמלות
@@ -3221,6 +3242,8 @@ verheeren : להרוס, להשחית
 verheerend : davastating, disastrous, fatal
 e Verherrlichung : האדרה, גלוריפיקציה
 verkacken : to fuck s.th. up
+r Verkehr : תנועה; קשר
+verkehren : לתפעל, להפעיל
 verkleiden, verkleidete, hat verkleidet [vt.] : להסתיר, לסגור בקופסה
   - sich als + [Nom.] verkleiden : להתחפש למשהו
 sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
@@ -3387,6 +3410,7 @@ r Vorhang (pl. Vorhänge) : וילון
 e Vorherrschaft : עליונות
 vorhér|sehen, sah vorher, hat vorhergesehen [vt.] : לחזות
 s Vorhersehen : תחזית
+vorläufig [adj.] : זמני, ארעי, ראשוני, טנטטיבי
 e Vorliebe : העדפה, חיבה
 vór|nehmen [vt.] : לבצע; להוציא לפועל
   - Änderungen vornehmen : לבצע שינויים
