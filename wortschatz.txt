@@ -420,6 +420,8 @@ e Aussicht (auf + [Akk.]) : סיכוי, אפשרות, פוטנציאל; נוף, 
   - Die Aussicht auf dauerhaften Frieden : הסיכוי לשלום מתמשך
   - schöne Aussicht : נוף יפה
   - mit Aussicht auf ... : עם נוף ל־
+aús|spionieren [vt.] : לעקוב אחרי־; לרגל אחרי־
+s Ausspioniren : ריגול
 aús|sprechen (spricht aus), sprach aus, hat ausgesprochen [vt.] : לבטא
 aús|stoßen, stieß aus, hat ausgestoßen [vt.] : לפלוט; להוציא
 s Ausstoßen : פליטה
@@ -629,34 +631,35 @@ besorgt [adj.] : מודאג
 besprechen, besprach, hat besprochen [vt.] : לדון ב־
 besser : יותר טוב
   - besser werden : להרגיש טוב יותר, להחלים (ממחלה)
-bestätigen : לאשר
-bestaunen [vt.] : להתפלא, להתפעל
-bestellen : להזמין (במסעדה; בחנות)
+bestätigen, bestätigte, hat bestätigt : לאשר
+bestaunen, bestaunte, hat bestaunt [vt.] : להתפלא, להתפעל
+bestellen, bestellte, hat bestellt : להזמין (במסעדה; בחנות)
 bestimmen, bestimmte, hat bestimmt [vt.] : לקבוע, להחליט, לזהות, להעריך
 beten, betete, hat gebetet : להתפלל
   - zu Gott beten : להתפלל לאלהים
   - für + [Akk.] beten : להתפלל ל־
   - den Rosenkranz beten : להתפלל עם מחרוזת תפילה
-betragen + Akk. : מונה, אורך, מגיע לכדי [להיות, אבל למידה]
+betrachten, betrachtete, hat betrachtet [vt.] : לשקול
+betragen, betrug, hat betragen : מונה, אורך, מגיע לכדי [להיות, אבל למידה]
   - Die Entferunung beträgt vier Meilen.
   - Die Telefonrechnung beträgt 50 Euro.
-betreiben : to operate, to conduct, to run
-betreten : להיכנס
-sich betrinken : להשתכר
+betreiben, betrieb, hat betrieben : לתפעל; לקחת חלק ב־; לשקוד, לעסוק ב‏־; לנהל; להריץ
+betreten, betrat, hat betreten : להיכנס
+sich betrinken, betrank sich, hat sich betrunken : להשתכר
 betröppelt [adj.] : מדוכדך
 s Bett (pl. -en) : מיטה
   - ins Bett gehen : ללכת למיטה, ללכת לישון
 r Beton : בטון
-betonen [vt.] : להדגיש
+betonen, betonte, hat betont [vt.] : להדגיש
 e Betonung : טעם (במילה; ההברה המודגשת); הטעמה; הדגשה
-beurteilen : לשפוט, להעריך, לקבוע
+beurteilen, beurteilte, hat beurteilt : לשפוט, להעריך, לקבוע
 e Beute : שלל, טרף, ביזה
   - Die Beute wegnehmen : לקחת את השלל
-bevor|stehen : להיות צפוי, אמור לקרות
+bevor|stehen, stand bevor, hat/ist bevorgestanden : להיות צפוי, אמור לקרות
 bevorzugen, bevorzugte, hat bevorzugt [vt.] : להעדיף
-bewahren [vt.] : לשמר, לתחזק
+bewahren, bewahrte, hat bewahrt [vt.] : לשמר, לתחזק
 sich bewahrheiten : להתממש, להיות מוכח כנכון
-bewältigen [vt.] : להתמודד עם; להתגבר על; להסתדר עם; לנהל את
+bewältigen, bewältigte, hat bewältigt [vt.] : להתמודד עם; להתגבר על; להסתדר עם; לנהל את
   - Herausforderungen bewältigen : להתמודד עם אתגרים
   - zu bewältigen : שניתן להתמודד איתו
   - Schwierigkeiten bewältigen
@@ -664,9 +667,9 @@ bewegen, bewegte, hat bewegt [vt.] : להזיז משהו
 bewegen, bewog, hat bewegt [vt.] : להניע מישהו לעשות משהו
   - sich bewegen : לזוז
 r Beweis (pl. -e) : הוכחה; עדות; הדגמה; טיעון
-beweisen : להוכיח
+beweisen, bewies, hat bewiesen : להוכיח
 bewundern, bewunderte, hat bewundert [vt.] : להתפעל מ־, להעריץ
-bezahlen [vt.] : לשלם על־
+bezahlen, bezahlte, hat bezahlt [vt.] : לשלם על־
   - eine Rechnung bezahlen : לשלם את החשבון
   - für + [Akk.] bezahlen : לשלם עבור משהו
 bezaubernd [adj.] : מקסים
@@ -674,8 +677,8 @@ beziehen, bezog, hat bezogen [vt.] : להשיג; לקבל; למשוך
   - sich (auf + [Akk.]) beziehen : להתייחס ל־
 e Beziehung (pl. -en) : יחס; קשר; מערכת יחסים; אופן
 Beziehungsweise [adv.] : או לחלופין; או; ו־; ו/או; בהתאמה
-etw. beziffern : to estimate, to quantify
-  sich auf etw.[Akk.] beziffern : to amount to
+beziffern, bezifferte, hat bezieffer : לאמוד, לתת אומדן
+  sich auf etw.[Akk.] beziffern : להיאמד ב־
 r Bezug (pl. Bezüge) : יחס; התייחסות;
   - in Bezug auf + [Akk.] [präp.] : ביחס ל־
 bezüglich [präp.] : ביחס ל־
@@ -702,7 +705,7 @@ bitten, bat, hat gebeten [vt.] : לבקש
   - j-n um + [Akk.] bitten : לבקש משהו ממישהו
 s Bitten : בקשה; פניה
 e Blamage (pl. -n) : חרפה
-blamieren
+blamieren, blamierte, hat blamiert : לבייש; להביך
   - sich blamieren : להביך את עצמו, לעשות מעצמו צחוק
 blamiert [adv.] : מבויש
 blanko [adj.] : פשוט
@@ -718,7 +721,7 @@ s Blatt (pl. Blätter) : גליון; עלה; עמוד; נייר
 bleiben, blieb, ist geblieben [vi.] : להישאר
   - übrig bleiben : להישאר
   - sitzen bleiben : להישאר לשבת
-blöken : לפעות
+blöken, blökte, hat geblökt : לפעות
   - Das Schaf blökt. : הכבשה פועה
 s Blut : דם
 blutdurchtränkt : ספוג בדם
@@ -750,7 +753,7 @@ brüllen : לשאוג
 brummen : לנהום
   - Der Bär brummt.
 brünstig [adj.] : מיוחם
-e Brust : שד; חזה
+e Brust (pl. Brüste) : שד; חזה
 e Brustwarze : פטמה
 r Buchhalter (= pl.), e Buchhalterin
 s Bündnis : ברית; קואליציה
@@ -1260,6 +1263,7 @@ fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
   - sich nicht festlegen wollen : לא להתחייב, לא לרצות להתחייב
 fést|stellen, stellte fest, hat festgestellt [vt.] : לזהות, לגלות; לתפוש, להבין פתאום, לשים לב
   - Während des Gesprächs stellen wir fest, dass wir aus derselben Stadt waren. : במהלך השיחה תפשנו שאנחנו מאותה עיר.
+e Figur (pl. -en) : גזרה, פיגורה; דמות; פסלון
 r Film (pl. -e) : סרט
   - einen Film drehen : לצלם סרט
 finden, fand, hat gefunden [vt.] : למצוא
@@ -1269,7 +1273,7 @@ finster [adj.] : חשוך
   - "vnd es war finster auff der Tieffe" [Lutherbibel, Gen 1:2] = וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם [בראשית א ב]
 e Finsternis (pl. -se) : חֹשֶׁךְ
   - "Da scheidet Gott das Liecht vom Finsternis" [Lutherbibel, Gen 1:4] = וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ [בראשית א ד]
-fühlen : להרגיש
+fühlen, fühlte, hat gefühlt : להרגיש
   - sich [präd.] fühlen : להרגיש (באופן מסוים)
   - sich fit fühlen : to feel fit
 e Flagge (pl. -n)
@@ -1346,7 +1350,7 @@ r Frosch : צפרדע
 frühstücken, frühstückte, hat gefrühstückt : לאכול ארוחת בוקר
 führen, führte, hat geführt [vt.] : להוביל, לקחת ל־, להדריך, לנהל
   - dieser Weg führt nach ...
-e Führung : management, leadership
+e Führung : הנהלה; הנהגה
 e Fülle : עושר
   - große Fülle : מגוון רחב
   - unendliche Fülle : שפע אינסופי
@@ -2132,10 +2136,11 @@ e Leine (pl. -n) : רצועה, חבל, חוט
   - von der Leine lassen : לשחרר מן הרצועה
 e Lerche : עפרוני
   - Die Lerche trillert. : העפרוני מצייץ
-lernen : ללמוד
-lesen : לקרוא
+lernen, lernte, hat gelernt [vt.] : ללמוד
+lesen (liest), las, hat gelesen [vt.] : לקרוא
 letztere [adj.] : האחרון, ההוא (בניגוד ל"זה")
   - erstere ... letztere ...
+Leute (pl.) : אנשים
 s Licht (pl. -er) : אור
   - "VND Gott sprach / Es werde Liecht / Vnd es ward Liecht" [Lutherbibel, Gen 1:3] = וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר [בראשית א ג]
 lieb [adj.] : יקר, אהוב, חביב
@@ -2557,6 +2562,7 @@ reif [adj.] : בשל; בוגר; מפותח
   - Die Zeit ist reif. : בשלה העת
 rein [adj.] : טהור
   - reinsten Wassers : מן הסוג הטוב ביותר
+rein [adv.] : לגמרי
 reiten, ritt, hat/ist geritten : לרכב
 s Reiten : רכיבה על סוס
 reklamieren : to claim, to complain, to object, to protest
@@ -2603,6 +2609,7 @@ rufen, rief, hat gerufen [vt.] : לקרוא ל־
 r Rülps : גיהוק
 rülpsen : לגהק
 s Rülpsen : גיהוק
+r Rum (pl. Rums, Rume) : רום
 runter|schlucken, schluckte runter, hat runtergeschluckt [vt.] : לבלוע; לשתות בלגימה אחת
 r Ruß (pl. -e) : זוהמה, טינפות, לכלוך
 r Rutsch : החלקה
@@ -2883,6 +2890,7 @@ spielen : לשחק
 s Spielfeld : מגרש משחקים
 r Spinat : תרד
 e Spinne : עכביש
+r Spion : מרגל
 sprengen, sprengte, hat gesprengt [vt.] : לנפץ, לפוצץ
   - die Grenzen sprengen : למתוח את הגבולות
 e Sprengkraft : כוח נפץ
@@ -3592,7 +3600,10 @@ weh [adv.] : בכאב
 e Wehe (pl. -n) : ציר(י) לידה
 wehen, wehte, hat geweht : לנשוב (רוח); להתנופף ברוח (דגל)
   - die Fahne weht im Wind. : הדגל מתנופף ברוח
+weil [konj] : כי; משום ש־; מכיוון ש־
+e Weile : שהות
 weilen, weilte, hat geweilt : להישאר
+r Wein (pl. -e) : יין
 weinen, weinte, hat geweint [vi.] : לבכות
   - sich in den Schlaf weinen : לבכות את עצמו לשינה, לבכות ולהירדם
 weiß [adj.] : לבן
@@ -3658,6 +3669,7 @@ r Witwenschleier : רעלת אלמנה
 r Witz : בדיחה
 witzig [adj.] : מצחיק
 wobei [adv.] : שבאמצעותו, שבעזרתו
+r Wodka : וודקה
 wohl [adv.] : היטב; ככל הנראה; אולי
 e Wohnung (pl. -en) : דירה
 s Wohnzimmer (= pl.) : סלון
@@ -3815,6 +3827,7 @@ zwangsläufig [adj.] : בלתי נמנע
 zwangsläufig [adv.] : באופן בלתי נמנע, בהכרח
 e Zwangsumsiedlung : העברת אוכלוסין בכפייה, טרנספר, גירוש
 zwangsweise [adv.] : באופן מחייב, בהכרח
+zwanzig : עשרים
 zwar [adv.] : אמנם
   - und zwar : ואכן
 zwei : שתיים; שני; שתי
