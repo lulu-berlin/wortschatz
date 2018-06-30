@@ -15,9 +15,9 @@ r Abend (pl. -e) : ערב
   - "Da ward aus abend vnd morgen der erste Tag" [Lutherbibel, Gen 1:5] = וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם אֶחָד [בראשית א ה]
 áb|feuern, feuerte ab, hat abgefeuert [vt.] : לירות, לשגר
 e Abgabe (pl. -n) : שחרור, העברה, מס
-áb|grenzen : להגביל, לסמן את הגבול
+áb|grenzen, grenzte ab, hat abgegrenzt : להגביל, לסמן את הגבול
   - sich von + [Dat.] abgrenzen : להיות מובחן מ־, להיבדל מ־
-abgefuckt : fucked up
+abgefuckt [adj.] [ugs.] : דפוק לגמרי
 r Abgrund : תהום
   - "Der abgrund spricht / Sie ist in mir nicht" [Lutherbibel Hi 28:14] = תְּהוֹם אָמַר לֹא בִי־הִיא [איוב כח יד]
 áb|haken, hakte ab, abgehakt
@@ -31,7 +31,7 @@ abhanden|kommen, kam abhanden, ist abhandengekommen : ללכת לאיבוד, ל�
 abhängig [adj.] : תלוי
   - von + [Dat.] abhängig sein : להיות תלוי ב־
 s Abkommen : הסכם, עסקה, דיל
-r Ablass : פליטה; אינדולגנציה
+r Ablass (pl. Ablässe) : פליטה; אינדולגנציה
 áb|legen : לקחת; להניח; לעשות
 áb|lesen (liest ab), las ab, hat abgelesen [vt.] : לקרוא, לקחת קריאה (של מונה גז/חשמל)
   - den Zähler ablesen : לקרוא את המונה (חשמל/גז)
@@ -92,6 +92,7 @@ ackern [vt.] : לחרוש
 ade! [interj.] : להתראות! נאמר בפרידה לזמן רב
 Adleraugen : עיני נץ
   - Adleraugen haben : להיות בעל עיני נץ, לראות היטב
+r Affe (pl. -n) : קוף
 r Affront : עלבון
 agieren, agierte, hat agiert : לפעול, לנהוג
   - mit kühlem Kopf agieren : לפעול בקור רוח
@@ -268,6 +269,7 @@ r Argwohn (gegen j-n) : חשד, חוסר אמון
 Arm : זרוע, יד
   - j-n auf den Arm nehmen : לעבוד על מישהו
   - Mir ist der Arm eingeschlafen : נרדמה לי היד
+r Ärmel (= pl.) : שרוול
 e Armut (~pl.) : עוני
   - äußerste Armut : עוני קיצוני
   - bittere Armut : עוני מר
@@ -464,6 +466,8 @@ e Bagatelle (pl. -n) : trifle, small matter, trivial issue
 bändigen [vt.] : לאלף, לשלוט
 e Bank (pl. -en) : בנק
 r Bannstrahl : חרם, נידוי, קללה
+r Bär : דוב
+r Bart : זקן
 bauen : לבנות
 r Baum (pl. Bäume) : עֵץ
   - "Vnd treib Adam aus / vnd lagert fur den garten Eden den Cherubim mit einem blossen hawenden Schwert / zu bewaren den weg zu dem Bawm des Lebens" [Lutherbibel, Gen 3:24] = וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים [בראשית ג כד]
@@ -739,12 +743,15 @@ brennen, brannte, hat gebrannt : לבעור, לשרוף (כאב)
 brillieren, brillierte, hat brilliert : לזהור, להיות מבריק, להיות גאוני
 bringen, brachte, hat gebracht [vt.] : להביא
   - ein Kind zur Welt bringen : להביא ילד לעולם
+r Bruder : אח
 brüllen : לשאוג
   - Der Ochse brüllt.
   - Der Löwe brüllt.
 brummen : לנהום
   - Der Bär brummt.
 brünstig [adj.] : מיוחם
+e Brust : שד; חזה
+e Brustwarze : פטמה
 r Buchhalter (= pl.), e Buchhalterin
 s Bündnis : ברית; קואליציה
 r Bürgersteig (pl. -e) : מדרכה
@@ -1436,6 +1443,9 @@ geil [adj.] : חרמן; מגניב; מיוחם
 r Geist (pl. -er) : רוח; רוח רפאים
   - "Vnd der Geist Gottes schwebet auff dem Wasser" [Lutherbibel, Gen 1:2] = וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם [בראשית א ב]
 geistesabwesend : פזור דעת, מפוזר, לא מרוכז
+e Geisteshaltung : הלך רוח, גישה, מצב רוח
+r Geisteszustand : הלך רוח
+s Gelächter : צחוק
 gelähmt [adj.] : משותק
 s Geländer (= pl.) : railing(s), handrail [ma`aqe]
 gelb [adj.] : צהוב
@@ -1549,6 +1559,7 @@ e Gleichgültigkeit : אדישות
 gleichrangig [adj.] : שווה־מעמד, בעל מעמד שווה, חשוב באותה מידה
 e Gleichrangigkeit : מעמד שווה
 gleichzeitig [adv.] : באותו זמן
+s Glück : שמחה; מזל
 glucken : לקרקר
   - Die Henne gluckt. : התרנגולת מקרקרת
 glücken : להצליח, להיות מוצלח
@@ -1633,6 +1644,7 @@ e Hand (pl. Hände) : יד, כף יד
   - j-m freie Hand lassen : לתת למישהו יד חופשית
   - Hände halten : להחזיק ידיים
   - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
+r Handel : מסחר
 handeln, handelte, hat gehandelt : לפעול, לעשות מעשה; לסחור
   - "Du hast mit mir gehandelt / nicht wie man handeln sol" [Lutherbibel, Gen 20:9] = מַעֲשִׂים אֲשֶׁר לֹא־יֵעָשׂוּ עָשִׂיתָ עִמָּדִי
 s Handtuch : מגבת
@@ -1671,6 +1683,7 @@ heissen : להיקרא
 heizen : לחמם
 helfen, half, hat geholfen : לעזור
 hellblau [adj.] : כחול בהיר
+s Hemd : חולצה
 r Henker : תליין
 e Henne : תרנגולת; ציפור ממין נקבה
   - Die Henne gluckt. : התרנגולת מקרקרת
@@ -1987,6 +2000,8 @@ r Kontrahent : יריב
 r Kopf (pl. Köpfe) : ראש
   - mit kühlem Kopf agieren : לפעול בקור רוח
 kopieren : להעתיק, לצלם (מסמכים)
+r Korb : סל, סלסלה
+  - [Dat.] einen Korb geben : לדחות; לסרב; לזרוק
 korrekt [adj.] : נכון, מדויק
 kosten : לעלות (כסף)
 e Kostprobe (pl. -n) : דגימה
@@ -2030,7 +2045,7 @@ r Kuppelbau : מבנה עם כיפה
 e Kurie (Lat. curia) : הקוריה הרומאית
   - Römische Kurie : הקוריה הרומאית
 kuschelig [adj.] : מתרפק, נוח להתכרבל
-kuscheln : להתכרבל
+kuscheln : להתכרבל; להתגפף
   - sich aneinander kuscheln : להתכרבל ביחד
 küssen, küsste, hat geküsst [vt.] : לנשק
 
@@ -2084,6 +2099,7 @@ leben, lebte, hat gelebt [vi.] : לחיות
 s Leben : חיים
 r Lebenslauf : קורות חיים
 s Lebensmittel : מצרכים; מצרכי מזון; אוכל
+s Lebensmittelgeschäft : מכולת
 s Lederwams : מעיל עור
 legen, legte, hat gelegt : להניח
 lehren : ללמד
@@ -2128,6 +2144,8 @@ lieb [adj.] : יקר, אהוב, חביב
 lieben, liebte, hat geliebt [vt.] : לאהוב
   - j-n bedingungslos lieben : לאהוב מישהו ללא תנאים
 r Liebeskummer (~pl.) : כאב לב, להיות חולה אהבה
+liebkosen [vt.] : לחבק; ללטף
+e Liebkosung : ליטוף
 e Liebste : אהובה
 r Liebster : יקירי; אהוב
 liefern : לשלוח
@@ -2210,6 +2228,7 @@ mehrheitlich [adv.] : על פי החלטת הרוב, באופן כללי
 meilenweit : מרוחק מיילים רבים; במרחק אלפי פרסאות
 meist [adv.] : לרוב, ברוב המקרים, בדרך כלל
 meistens [adv.] : בדרך כלל, לרוב, ברוב המקרים
+e Melancholie : מלנכוליה
 r Mensch : אָדָם
   - "Vnd sie waren beide nacket / der Mensch vnd sein Weib" [Lutherbibel Gen 2:25] = וַיִּהְיוּ שְׁנֵיהֶם עֲרוּמִּים הָאָדָם וְאִשְׁתּוֹ [בראשית ב כה]
 merken, merkte, hat gemerkt - לבחון באופן מכוון וכך לשים לב למשהו vgl. bemerken
@@ -2219,10 +2238,11 @@ miauen : לעשות מיאו
   - Die Katze miaut.
 mieten, mietete, hat gemietet [vt.] : לשכור
 e Mietskaserne : בית מגורים, בניין
+r Militärdiesnt : שירות צבאי
 r Minister : שר
 e Ministerin : שרה
 r Ministerpräsident : ראש ממשלה
-r Missbrauch (pl. Missbräuche) : abuse, misuse, violation
+r Missbrauch (pl. Missbräuche) : התעללות; שימוש לרעה
   - Der Missbrauch von Alkohol
   - Der Missbrauch der Bibliothekscomputer ist untersagt
 r Missstand (pl. Misstände) : grievance, drawback, fault, defect
@@ -2302,7 +2322,7 @@ nách|trauern, trauerte nach, nachgetrauert
 r Nachweis : ראיה; אישור
 nachweislich [adj.] : שניתן להציגו או להוכיחו
 nachweislich [adv.] : באופן שניתן להציגו או להוכיחו
-e Nachwelt (pl. -en) : next generations
+e Nachwelt (pl. -en) : הדורות הבאים
 nách|werfen 
   - Geld einwerfen : להכניס עוד מטבעות למכונה
 nackt [adj.] : עירום
@@ -2332,7 +2352,7 @@ nervös [adj.] : עצבני, לחוץ
 e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
 níeder|brennen [vt.] : לשרוף, להבעיר, להעלות באש, לכלות בשריפה
-e Niederlage (pl. -n) : defeat
+e Niederlage (pl. -n) : תבוסה
 níeder|ringen, rang nieder, niedergerungen : לבלות (לגרום לבלייה), להתאבק עם מישהו
 níeder|schlagen, schlug nieder bin/hat niedergeschlagen :
   - [Akk.] niederschlagen : להביס, לדכא, להכניע, למוטט
@@ -2370,8 +2390,8 @@ r Ochse : שור
 oder : או
   - oder was auch immer : או מה שזה לא יהיה
 r Ofen (pl. Öfen) : תנור
-offenbaren : to reveal, to disclose
-  sich offenbaren : to manifest itself
+offenbaren : לחשוף
+  sich offenbaren : לחשוף את עצמו; לבוא לידי ביטוי
 öffnen : לפתוח
 oft [adv.] : לעתים קרובות
 öfter [adv.] : לעתים יותר קרובות; מדי פעם
@@ -2384,7 +2404,7 @@ orange [adj.] : כתום
 r Orden (= pl.) : מסדר; מדליה
 ordnen [vt.] : לארגן
 organisiern [vt.] : לארגן
-r Orkan (pl. -e)
+r Orkan (pl. -e) : הוריקן
 
 = P =
 s Pack (pl. -s) : להקה (של כלבים, זאבים, וכו')
@@ -2429,19 +2449,25 @@ possessiv [adj.] : של שייכות; רכושני
 s Possessivpronomen (= pl.) : כינוי שייכות
 prahlen, prahlte, geprahlt : להתיהר, להיות יהיר, להתרברב; לעלוז
   - "Wie lange sollen di Gottlosen pralen?" [Lutherbibel, Ps 94:3] = עַד־מָתַי רְשָׁעִים יַעֲלֹזוּ [תהילים צד ג]
+e Prahlerei : רברבנות
 prall [adj.] : שופע, מלא, בולט; בוהק
   - in der prallen Sonne : בשמש הבוהקת
 prall [adv.]
   - prall gefüllt : מלא עד אפס מקום
 prallen : לבהוק
-r Pranger : pillory [`amud qalon]
-  an den Pranger stellen
+r Pranger : עמוד קלון
+  an den Pranger stellen : להעמיד אל עמוד הקלון; להוקיע
+prangern : להוקיע
 e Pracht : פאר, הוד, הדר
 prächtig [adj.] : מפואר, מהודר, מלא הוד והדר
 e Predigt (pl. -e) : דרשה
 Preis : מחיר
   - um jeden Preis : בכל מחיר
 e Prellung : חבּורה, חבלה, מכה, חבטה
+r Professional : מומחה
+r Profi : מומחה
+profitieren : להרוויח
+  - von + [Dat.] profitieren : להרוויח מ־
 s Pronomen (= pl.) : כינוי גוף
 r Proviant : צידה לדרך
   - mit Proviant beliefern : לצייד
@@ -2469,7 +2495,7 @@ qualitativ [adj.] : איכותי
 r Quell : מקור
 e Quelle (pl. -n) : מעין; באר
 e Quere
-  - (j-m) in die Quere kommen : לבוא (למישהו) לא טוב
+  - (j-m) in die Quere kommen : להפריע ל־; להיות למישהו בדרך
 e Quittung : קבלה
 e Quote (pl. -n) : מידה; כמות; קווטה
 
@@ -2652,6 +2678,7 @@ scherzen : להתבדח
 s Scheusal : זומבי, מפלצת
 schicken, schickte, geschickt 
   - j-m [Akk.] schicken : לשלוח משהו למישהו
+s Schicksal : גורל
 schief [adj.] : נוטה לצד אחד, עקום
 schier [adj.] : מוחלט, גמור, ותו לא
   - schierer Zufall : צרוף מקרים מוחלט
@@ -2855,6 +2882,7 @@ r Spiegel (= pl.) : מראה
 spielen : לשחק
 s Spielfeld : מגרש משחקים
 r Spinat : תרד
+e Spinne : עכביש
 sprengen, sprengte, hat gesprengt [vt.] : לנפץ, לפוצץ
   - die Grenzen sprengen : למתוח את הגבולות
 e Sprengkraft : כוח נפץ
@@ -2899,6 +2927,8 @@ sterben (stirbt), starb, ist gestorben [vi.] : למות
 e Sternstunde (pl. -n) : רגע קסום, רגע גדול
 stets [adv.] : תמיד
 im Stich lassen : leave s.o. high and dry
+sticken : לרקום
+e Stickerei : רקמה
 r Stiel (pl. -e) : ידית; מקל; גרעין (של פרי)
   - Eis am Stiel : שלגון, קרטיב, ארטיק
 stimmen, stimmte, hat gestimmt : להיות נכון
@@ -2917,8 +2947,11 @@ r Streit : argument, conflict, quarrel, conflict, fight
 streiten : להתווכח
 strecken [vt.] : למתוח
 e Streitmacht : כוח צבאי
+r Strick : חבל
+stricken [vt.] : לסרוג
+s Stricken : סריגה
 r Stuhl (pl. Stühle) : כיסא
-stürzen : ליפול
+stürzen : ליפול; להתרסק
   - Ich rutschte auf nassem Laub aus und stürzte zu Boden.
   - Der Junge stürzte von einem Stuhl, aber er verletzte sich nicht.
   - von + Dat. stürzen : ליפול ממשהו
@@ -2962,7 +2995,10 @@ r Tagesanbruch : שחר, עלות השחר
 r Taktgeber : clock, master clock, timer
 r Tank : מכל; טנק
 e Tankstelle : תחנת דלק
+r Tanz : ריקוד
 tanzen, tanzte, hat getanzt : לרקוד
+e Tanzfläche : רחבת הריקודים
+e Tanzparty : מסיבת ריקודים
 e Tasche (pl. -n) : כיס; תיק
 s Taschenbuch (pl. Taschenbücher) : ספר כיס
 s Taschengeld : דמי כיס, כסף כיס, קיצבה
@@ -2980,8 +3016,8 @@ tauglich : ראוי, מתאים
 taumeln : להסתחרר, להתנודד
 täuschen [vt.] : להונות, להוליך שולל
   - sich täuschen : לשגות, לטעות
-tappen : to grope
-  im Dunkeln tappen : to be in the dark
+tappen : לגשש
+  im Dunkeln tappen : לגשש באפלה
 teilen : לחלק, לחלוק
 teíl|nehmen, nahm teil, hat teilgenommen [vt.] : להשתתף, לקחת חלק
 r Teilstamm : תת־ענף (של משפחה, שבט)
@@ -3022,6 +3058,9 @@ töten : להרוג
 tragen : לשאת; ללבוש
 trainieren [vt.] : לתרגל, להתאמן
 s Trainiren : אימון
+e Trauer : שכול; יגון; צער
+traurig [adj.] : עצוב
+e Traurigkeit : עצבות
 r Trauring : טבעת נישואים
 treffen (trifft), traf, hat getroffen [vt.] : לפגוש; לקלוע
   - gut treffen : לקלוע היטב
@@ -3162,7 +3201,7 @@ ungelegen : לא נוח, לא מתאים
 ungenutzt : לא בשימוש, במצב סרק
 e Ungnade : חרפה, בושה
 Unkosten (pl.) : הוצאות
-  - Unkosten decken : to break even
+  - Unkosten decken : לכסות את ההוצאות
 unschlüssig : הססני, שלא הוסכם לגביו
 Unsitte : הרגל מגונה
 e Untat : פשע
@@ -3193,12 +3232,13 @@ unterstellen, unterstellte, unterstellt : לרמוז
 unterstützen : לתמוך
 untersuchen : לבחון, לבדוק, לחקור
 e Untersuchung : חקירה; בחינה; ניתוח
-r Untertan, e Untertanin : subject (of a kingdom)
+r Untertan, e Untertanin : נתין (של ממלכה)
 unterzeichnen [vt.] : לחתום
 s Unterzeichnen : חתימה
 r Unterzeichner : החתום מטה
 Unterzeichnerstaat (pl. -en) : המדינה החתומה
 e Unterzeichnung : חתימה
+untröstlich [adj.] : שלא ניתן לנחם אותו; שבור לב
 unüberhörbar : שלא ניתן לטעות בו
 unverhofft : לא צפוי, מפתיע
 unversöhnlich [adj.] : שלא ניתן לפייס אותו, שאינו סולח
@@ -3284,6 +3324,8 @@ vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזב
 vergelten (vergilt), vergalt, hat vergolten [vt.] : לגמול, להשיב
 vergessen (vergisst), vergaß, hat vergessen [vt.] : לשכוח
   - "MEin Kind / Vergiss meins gesetzes nicht" [Lutherbibel, Spr 3:1] = בְּנִי תּוֹרָתִי אַל־תִּשְׁכָּח [משלי ג א]
+vergewaltigen : לאנוס
+e Vergewaltigung : אונס
 vergilben, vergilbte, ist vergilbt : להצהיב
 vergilbt [adj.] : שנעשה צהוב
 vergleichen : להשוות
@@ -3303,16 +3345,16 @@ verharren : להישאר, להתמיד
   - auf seinem Standpunkt verharren
   - in + [Dat.] verharren : להתמיד ב־, להישאר ב־
 verharrt [adj.] : מוכן ומזומן; ניצב
-verhärtet : callous, hardened, obdurate
+verhärtet [adj.] : מוקשה
 verheeren : להרוס, להשחית
-verheerend : davastating, disastrous, fatal
+verheerend : הרה אסון
 e Verherrlichung : האדרה, גלוריפיקציה
 verkacken : to fuck s.th. up
 r Verkehr : תנועה; קשר
 verkehren : לתפעל, להפעיל
 verkleiden, verkleidete, hat verkleidet [vt.] : להסתיר, לסגור בקופסה
   - sich als + [Nom.] verkleiden : להתחפש למשהו
-sich in j-n verknallen : to fall for s.o., to have a crush on s.o.
+sich in j-n verknallen : להתאהב במישהו
   in j-n verknallt sein
 verkrüppelt [adj.] : בעל מום, שהוטל בו מום
 verkümmert [adj.] : stunted
@@ -3542,6 +3584,7 @@ weg von [präp.] : הרחק מ־
   - weg von daheim : הרחק מן הבית
 e Wegnahme : הסרה
 wég|nehmen + [Akk.] : לקחת, להרחיק, to take away
+wég|werfen : לזרוק; להיפטר מ־
 s Weh : צער, צר
   - mit Ach und Weh : בצער ובכאב
 weh [adj.] : כואב
@@ -3761,7 +3804,7 @@ zú|spitzen, spitzte zu, hat zugespitzt [vt.] : לחדד
 r Zuspruch (pl. Zusprüche) : עידוד
   - großen Zuspruch finden : למצוא עידוד רב, לזכות לפופולאריות
 zú|stimmen, stimmte zu, hat zugestimmt : להסכים
-zuvór|kommen : להתכונן מראש, למנוע משהו על ידי תכנון מראש
+zuvór|kommen, kam zuvor, ist zuvorgekommen [vi.] : להתכונן מראש, למנוע משהו על ידי תכנון מראש
 zú|wenden, wendete zu/wandte zu, hat zugewendet/zugewandt [vt.] : להפנות; להקצות
   - j-m das Gesicht zuwenden : להפנות את המבט למישהו
   - [Dat.] Aufmerksamkeit zuwenden : להפנות תשומת לב ל־
@@ -3772,6 +3815,8 @@ zwangsläufig [adj.] : בלתי נמנע
 zwangsläufig [adv.] : באופן בלתי נמנע, בהכרח
 e Zwangsumsiedlung : העברת אוכלוסין בכפייה, טרנספר, גירוש
 zwangsweise [adv.] : באופן מחייב, בהכרח
+zwar [adv.] : אמנם
+  - und zwar : ואכן
 zwei : שתיים; שני; שתי
 zweideutig [adj.] : דו־משמעי, משתמע לשתי פנים, שנוי במחלוקת, עמום, מעורפל
 zweifach [adj.] : כפול
