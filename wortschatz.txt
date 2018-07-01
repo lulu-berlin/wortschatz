@@ -2547,6 +2547,8 @@ miauen : לעשות מיאו
   - Die Katze miaut.
 mieten, mietete, hat gemietet [vt.] : לשכור
 e Mietskaserne : בית מגורים, בניין
+e Milch (pl. Milche, Milchen) : חלב
+r Milchreis : פודינג אורז
 r Militärdiesnt : שירות צבאי
 r Minister : שר
 e Ministerin : שרה
@@ -2688,6 +2690,7 @@ níeder|schlagen, schlug nieder bin/hat niedergeschlagen :
 níeder|schreiben : לרשום; לכתוב (במחברת, פנקס, וכו'); לתעד בכתב
 niesen, nieste, geniest : להתעטש
 nimmermehr : לעולם לא עוד, שוב לא
+r Nippel (= pl.) : פטמה
 s Niveau : רמה; סטנדרט
 s Nomen (= pl.) : שם־עצם
 r Nord : רוח הצפון
@@ -2705,6 +2708,7 @@ notieren [vt.] : לציין (בכתב), לכתוב הערה, להעיר (בכת�
 e Notlandung : נחיתת חירום
 notwendig [adj.] : נחוץ, חיוני
 e Notwendigkeit : צורך, נחיצות
+e Nutte (pl. -n) [ugs.] : זונה
 nutzen, nutzte, hat genutzt [vt.] : להשתמש ב־, לעשות שימוש ב, לנצל, לנכס
 s Nutzen : שימוש; תועלת; רווח
   - zum Nutzen : לטובת־; לתועלת־
@@ -2769,6 +2773,7 @@ passen, passte, hat gepasst : להתאים
   - zu + [Dat.] passen : להתאים ל־ (בגד)
   - etwas passt j-m : זה מתאים למישהו, זה נוח למישהו
 s Patt : פַּט (תיקו בשחמט)
+r Penis (pl. Penes, Penisse) : פין
 e Pest : מגיפה
 e Pfalz : רוֹזנוּת
 s Pfand : ערבון
@@ -2890,6 +2895,7 @@ r Raubvogel : ציפור טרף
 rauchen : לעשן
 r Raucher : מעשן
 räudig [adj.] : מטונף, מרופט, קמצני
+real [adj.] : אמיתי
 rechnen [vt.] : לחשב
   - mit + [Dat.] rechnen : לצפות ל־; לקחת בחשבון; להיות מוכן ל־; לסמוך על־
 e Rechnung (pl. -en) : חשבון
@@ -2926,6 +2932,9 @@ reif [adj.] : בשל; בוגר; מפותח
 rein [adj.] : טהור
   - reinsten Wassers : מן הסוג הטוב ביותר
 rein [adv.] : לגמרי
+r Reis : אורז
+e Reise : טיול
+reisen : לטייל
 reiten, ritt, hat/ist geritten : לרכב
 s Reiten : רכיבה על סוס
 reklamieren : to claim, to complain, to object, to protest
@@ -3043,6 +3052,7 @@ e Schau : הצגה; תערוכה
 schauen : להסתכל
 r Schauplatz : סצינה, תפאורה, מסגרת, זירה
 scheel [adj.] : חשדן
+e Scheide (pl. -n) : נדן; פות
 scheiden, schied, geschieden : לפרק, לפצל, להפריד
   - sich (von j-m) scheiden lassen : להתגרש ממישהו
 scheinen : להיראות, להידמות
@@ -3090,6 +3100,7 @@ schlagen, schlug, hat geschlagen [vt.] : להכות
 r Schlag (pl. Schläge) : מכה
   - Das ist ein Schlag unter die Gürtellinie : זו מכה מתחת לחגורה
 e Schlagsahne : שמנת מתוקה
+e Schlampe (pl. -n) [ugs.] : פרוצה, שרלילה
 r Schleim (pl. -e) : ליחה
 schlemmen, schlemmte, hat geschlemmt : לסעוד
 schläfrig [adj.] : עייף, מותש
@@ -3120,6 +3131,7 @@ schnattern, schnatterte, hat geschnattert : לגעגע (כמו אווז)
 schneiden, schnitt, hat geschnitten : לחתוך, לפרוס
 schneien, schneite, hat geschneit : לרדת (שלג)
 schnöde [adj.] : מלא בוז
+r Schnüffler : בלש פרטי
 r Schnurrbart (pl Schnurrbärte) : שפם
   - mit Schnurrbart : עם שפם
 e Schnurrbartspitze (pl. -n) : קצה השפם
@@ -3497,6 +3509,7 @@ tilgen + Akk. : לפדות, להחזיר חוב
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
 r Tisch (pl. -e) : שולחן
   - vom Tisch sein : לא עומד על הפרק; לא על סדר היום
+e Titte (pl. -n) [ugs.] : שד, ציצי
 toben : לזעום; להתפרע
 e Toilette : בית שימוש
   - auf Toilette gehen : ללכת לבית שימוש
@@ -3738,6 +3751,7 @@ s Urteil (pl. -e) : משפט; שיפוט; החלטה, פסיקה
   - das Urteil fällen : לפסוק
 
 = V =
+e Vagina : נרתיק, וגינה
 vehement [adj.] : תקיף, החלטי, נחוש; זועם, רוגע
   - vehemente Kritik : ביקורת נוקבת
 sich verabschieden : להיפרד לשלום
