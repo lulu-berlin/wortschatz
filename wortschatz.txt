@@ -389,6 +389,8 @@ auseinánder|setzen, setzte auseinander, hat auseinandergesetzt : להסביר �
 e Auseinandersetzung : argument, dispute, debate, discussion
 aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
   wegen Regen ausfallen : to be rained off
+aús|führen [vt.] : לבצע; להוציא לפועל
+e Ausführung : ביצוע
 aús|halten : לשאת, לסבול, להתמודד עם קשיים
 aús|harren - להתמיד, לשקוד, להתעקש
 ausgeliefert
@@ -398,6 +400,7 @@ aús|leihen, lieh aus, hat ausgeliehen [vt.] : ללוות
 aús|liefern : to supply, to surrender, to deliver, to ship
   etw. ausliefern : to deliver, to roll out, to ship
   j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
+aús|löschen : למחוק; לחסל
 aús|nehmen + Akk. : להוציא מן הכלל
   - sich ausnehmen : להיראות, להיות מוצג
 aús|nutzen, nutzte aus, hat ausgenutzt [vt.] : לנצל, לעשות שימוש
@@ -406,6 +409,7 @@ aús|nutzen, nutzte aus, hat ausgenutzt [vt.] : לנצל, לעשות שימוש
 s Ausmaß (pl. -e) : מידה, היקף, מימדים
   - Zum Glück war das Ausmaß des Schadens begrenzt.
   - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
+aús|radieren : למחוק
 aús|rollen
   - j-m den roten Teppich ausrollen : לפרוש בפני מישהו שטיח אדום
 aús|rufen : להכריז (על משהו כמשהו); לקרוא לבעל מקצוע לבוא
@@ -834,6 +838,7 @@ s Diesseits : העולם הזה
   - im Diesseits : בעולם הזה
 diesseits [präp.] : בצד הזה של־
 e Differenz
+s Dorf (pl. Dörfer) : כפר
 dösen : לנמנם
 dran
   gut dran (sein) : להיות במצב טוב
@@ -964,6 +969,7 @@ eín|laden [vt.] : להזמין
 eín|leiten : להתחיל, לפתוח, ליזום
 eín|lenken [vt.] : to give in, to steer, to back down
   - in etw.[Akk.] einlenken : להפוך למשהו
+eín|lösen, löste ein, hat eingelöst : לפדות; לממש
 s Einnässen : הרטבה
 eín|ordnen : למיין, לסווג
 eín|packen : לארוז
@@ -1022,6 +1028,7 @@ entfachen [vt.] : לעורר, להצית
   - Wut entfachen : לעורר זעם
   - Fanatismus entfachen
   - neu entfachen : לעורר מחדש, להצית מחדש
+entfernen [vt.] : להרחיק; לסלק; להעלים; להיפטר מ־
 entfesseln : לשחרר, להתיר את הרסן
 entgegen|sehen + Dat. : לצפות ל־
 entgegen|stehen + Dat. : למנוע; להתנגד ל
@@ -1042,9 +1049,10 @@ entlohnen, entlohnte, entlohnt
   - j-n (für + [Akk.]) entlohnen : לשלם למישהו על משהו
 s Entmachten : disempowerment
 j-n entmachten : to disempower s.o., to deprive s.o. of power
-an + Dat. entrichten
+entrichten, entrichtete, hat entrichtet : לשלם; להעניק
+  - an + [Akk.] entrichten : לשלם ל־
   - eine Gebühr entrichten : לשלם אגרה
-  - j-m seinen Tribut einrichten : to pay tribute to s.o.
+  - j-m seinen Tribut einrichten : לתת כבוד ל־, להוקיר, לשבח
 entlang [präp.] : לאורך
   - entlang + [Gen.] [präp.] : לאורך
   - [Gen.] + entlang [präp.] : לאורך
@@ -1056,13 +1064,15 @@ entlassen, entließ, hat entlassen [vt.] : לשחרר; לפטר
   - aus einer Verpflichtung entlassen sein
 entlassen [adj.] : משוחרר
 entmutigen, entmutigte, entmutigt : לרפות את ידיו של מישהו, לפגוע במוטיבציה
-entrinnen, entrann, entronnen
-  - + Dat. : לחמוק מ־
-s Entrinnen : בריחה
-entscheiden : להחליט
-entschließen, entschloss, entschlossen
+entreißen, entriss, hat entrissen [vt.] : למשוך בכוח; להוציא בכוח; לחטוף (משהו ממישהו)
+entrinnen, entrann, ist entronnen : לחמוק
+  - [Dat.] entrinnen : לחמוק מ־
+s Entrinnen : בריחה; התחמקות
+entscheiden, entschied, hat entschieden : להחליט; לקבוע (אם); לפסוק
+sich entschließen, entschloss sich, hat sich entschlossen : להחליט
   - sich entschließen, etwas zu tun : להחליט לעשות משהו
-entschlossen : determined, resolute, intent
+  - sich anders entschließen : לשנות את דעתו
+entschlossen [adj.] : החלטי, נחרץ, נחוש
   - entschlossen sein : להיות נחוש (בהחלטה)
 entschuldigen [vt.] : לסלוח, למחול
   - sich entschuldigen : להתנצל
@@ -1143,7 +1153,10 @@ erlauben : להרשות
 erleichtern [vt.] : להקל על־
 e Erleichterung : הקלה
 erleiden [vt.] : לסבול; לספוג
+erlösen : להושיע
+  - j-n von + [Dat.] erlösen : להושיע מישהו ממשהו
 r Erlöser : מושיע
+e Erlösung : ישועה
 ermuntern [vt.] : לעודד מישהו
   - zu + [Dat.] ermuntern : לעודד ל־(פעולה כלשהי)
   - ermuntern, etwas zu tun : לעודד לעשות משהו
@@ -1263,6 +1276,9 @@ faulenzen : להתעצל; להתבטל
 s Faustpfand : קלף מיקוח
 fegen [vt.] : לטאטא
 feiern : לחגוג
+r Fels (pl. -en) : סלע; צוק
+r Felsen  (= pl.) : סלע; צוק
+r Felsendom : כיפת הסלע
 s Fenster (= pl.) : חלון
 fern [adj.] : רחוק, מרוחק
 férn|sehen, sah fern, ferngesehen : לצפות בטלוויזיה
@@ -1274,8 +1290,13 @@ r Fernseher (= pl.) : טלוויזיה
 fertig [adj.] : מוכן
   - sich fertig machen : להתכונן; להתלבש לאירוע
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
+s Fest : פסטיבל
+fest [adj.] : קבוע; יציב; מהודק; חזק; רגיל
 fést|frieren, fror fest, festgefroren : לקפוא
-an + [Dat.] fést|halten : to abide by ..., to hold fast to ..., to stick to ...
+fést|halten (hält fest), hielt fest, hat festgehalten : לתפוס; לתעד; להחזיק (באמונה, תפישה); לעצור (חשוד)
+  - an + [Dat.] festhalten : to abide by ..., to hold fast to ..., to stick to ...
+  - sich festhalten : להחזיק חזק; לתפוס (כדי לא ליפול)
+s Festhalten : תפיסה
 festigen [vt.] : לחזק; לבצר
 fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
   - die nächsten Schritte festlegen : להחליט על הצעדים הבאים
@@ -1288,6 +1309,7 @@ fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
   - vertraglich festlegen : לקבוע בחוזה
   - auf + [Akk.] sich festlegen : להתחייב על
   - sich nicht festlegen wollen : לא להתחייב, לא לרצות להתחייב
+s Festnetz : קו טלפון נייח
 fést|stellen, stellte fest, hat festgestellt [vt.] : לזהות, לגלות; לתפוש, להבין פתאום, לשים לב
   - Während des Gesprächs stellen wir fest, dass wir aus derselben Stadt waren. : במהלך השיחה תפשנו שאנחנו מאותה עיר.
 e Figur (pl. -en) : גזרה, פיגורה; דמות; פסלון
@@ -1416,6 +1438,7 @@ gebärden, gebärdete, hat gebärdet [vt.] : לסמן (בשפת הסימנים),
   - sich gebärden : להתנהג
   - sich wie toll gebärden : להתנהג כמו משוגע
 s Gebärden (= pl.) : סימן (בשפת הסימנים)
+s Gebein (pl. -e) : שלד
 s Gebell : נביחה
 geben (gibt), gab, hat gegeben [vt.] : לתת
   - sich[Dat.] die Hand geben : להושיט יד ללחיצה
@@ -1453,6 +1476,7 @@ r Gefallen (= pl.) : טובה
   - j-m einen Gefallen tun : לעשות למישהו טובה
 gefasst [adj.] : רגוע, שקול, מסוכם
   - kurz gefasst : מסוכם בקצרה
+s Gefolge : פמליה
 s Gefüge : מבנה, מארג, מסגרת
   - soziales Gefüge : מארג חברתי
 gegen [präp.] : נגד, כנגד
@@ -1464,6 +1488,11 @@ e Gegenwart : הווה; נוכחות
 r Gegenzug : מהלך נגדי
 geglückt [adj.] : מוצלח
   - j-m geglückt sein : להצליח למישהו
+geheim [adj.] : סודי
+r Geheimdienst : שירות חשאי
+s Geheimnis (pl. -se) : סוד
+geheimnisvoll [adj.] : מסתורי
+e Geheimverhandlung (pl. -en) : משא ומתן חשאי
 gehen, ging, ist gegangen [vi.] : ללכת
 gehorchen : לציית
   - j-m gehorchen : לציית למישהו
@@ -1488,6 +1517,7 @@ geloben [vt.] : להישבע, לנדור
 gelten (gilt), galt, hat gegolten : להיות תקף, להיות בתוקף
 e Geltung : תוקף
   - voll zur Geltung bringen : להיכנס למלוא התוקף
+s Gelöbnis : שבועה; נדר
 s Gelüst : תשוקה, תאווה, תיאבון
   - ein Gelüst nach + [Dat.] haben : להשתוקק ל־
 gelüsten : להשתוקק
@@ -1854,6 +1884,8 @@ hoffen, hoffte, hat gehofft  : לקוות; לסמוך על כך ש־
   - auf das Beste hoffen : לקוות לטוב ביותר
 hoffentlich [adv.] : בתקווה, יש לקוות
 hoffentlich [interj.] : יש לקוות; אני מקווה
+r Hoftag (pl. -e) : אסיפת החצר; אסיפה שמכנס המלך הרומי (או של האימפריה הרומית הקדושה) עם נסיכים נבחרים
+höfisch [adj.] : אצילי; חצרוני; של חצר המלוכה
 höflich [adj.] : מנומס
 e Höhenangst : פחד גבהים
   - Höhenangst haben : לפחד מגבהים, יש לו פחד גבהים
@@ -2363,6 +2395,7 @@ e Musik : מוסיקה
 s Musikinstrument (pl. -e) : כלי נגינה
 musizieren : לנגן (מוסיקה); ליצור מוסיקה
 s Muss : כורח, הכרח, חובה
+e Muße : פנאי
 müssen, musste, gemusst : להיות צריך, להצטרך
 r Muskel : שריר
 muskulär : שרירי
@@ -2423,6 +2456,8 @@ nennen, nannte, hat genannt [vt.] : לכנות בשם, לקרוא
 nennenswert : ראוי לציון
 nerven [vt.] : לעצבן
 nervös [adj.] : עצבני, לחוץ
+r Netz (pl. -e) : רשת
+s Netzwerk : רשת (תקשורת)
 e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
 níeder|brennen [vt.] : לשרוף, להבעיר, להעלות באש, לכלות בשריפה
@@ -2514,6 +2549,7 @@ r Pfennig (pl. -e) : מטבע קטן בעל ערך מועט
 pflanzen : לשתול; לטעת
   - "VND Gott der HERR pflanzet einen Garten in Eden" [Lutherbibel, Gen 2:8] = וַיִּטַּע יהוה אֱלֹהִים גַּן־בְּעֵדֶן [בראשית ב ח]
 s Piano : פסנתר
+picheln, pichelte, hat gepichelt [ugs.] : לשתות לשוכרה
 r Piep : צפצוף
 piepen : לצפצף
   - Die Maus piept.
@@ -2585,16 +2621,18 @@ e Quittung : קבלה
 e Quote (pl. -n) : מידה; כמות; קווטה
 
 = R =
+radieren [vt.] : למחוק
 rammeln, rammelte, gerammelt
   - j-n rammeln : לזיין
   - gerammelt voll sein : להיות מלא עד אפס מקום
 ran (adv.)
   Er geht mächtig ran. : He drives a hard bargain
-rán : UGS. heran-
+rán- [ugs. ~= heran-]
 r Rang (pl. Ränge) : דרגה, מעמד
   - gesellschaftlicher Rang : מעמד חברתי
-sich an j-n rán|machen : to make a pass at s.o.
-rán|nehmen : to push, to hit, to abuse, to pick on s.o.
+sich rán|machen, machte sich ran, hat sich rangemacht : להתחיל עם־
+  - sich an j-n ranmachen : להתחיל עם מישהו 
+rán|nehmen, nahm ran, hat rangenommen : to push, to hit, to abuse, to pick on s.o.
 rar [adj.] : נדיר
   - sich rar machen : לעשות את עצמו קשה להשגה; להדיר את רגליו
 rasant : במהירות, בקצב מסחרר
@@ -2604,6 +2642,8 @@ rasch [adj.] : מהיר, זריז
 rasen : להתחרות, לרוץ (באופן תחרותי או במהירות), להזדרז אל־
 r Rasen (= pl.) : מדשאה, דשא
   - den Rasen mähen : לכסח את הדשא, לגזום את הדשא
+rasend [adj.] : מטורף; מוגזם; מסוכן
+rasend [adv.] : באופן מטורף; באופן יוצא דופן; בצורה איומה
 e Rate (pl. -n) : תשלום
   - [Akk.] in Raten bezahlen : לשלם משהו בתשלומים
 raten, riet, hat raten [vt.] : לנחש
@@ -2660,11 +2700,14 @@ Riesen- : של ענקים; ־ענק; ענקי; מונומנטאלי
 e Riesenfreude : שמחה גדולה
 riesig [adj.] : ענק
 e Riesin (pl. -nen) : ענקת
-ringen : להיאבק
+ringen, rang, hat gerung : להיאבק
+  - mit + [Dat.] ringen : להיאבק עם־
+  - um + [Akk.] ringen : להיאבק על־
 s Ringen : מאבק, היאבקות
 riskant [adj.] : מסוכן
   - riskant spielen : להמר, לשחק באופן מסוכן
 riskieren + Akk. : לסכן, לקחת סיכון, להסתכן ב־
+s Rittertum : אבירות
 r Rivale : יריב
 r Rock : חצאית
 r Rohstoff (pl. -e) : חומר גלם
@@ -2814,6 +2857,7 @@ schmachten, schmachtete, hat geschmachtet : לערוג, להתאוות, להשת
 r Schmauch : אש חנוקה; עשן
 schmelzen (schmilzt), schmolz, ist geschmolzen [vi.] : להימס
 schmelzen (schmilzt), schmolz, hat geschmolzen [vt.] : להמיס
+r Schmelztiegel : כור היתוך
 schmieden, schmiedete, hat geschmiedet : לחשל, לעצב במתכת
 schnarchen, schnarchte, geschnarcht : לנחור
 s Schnarchen : נחירה
@@ -2838,6 +2882,7 @@ e Schranke (pl. -n) : גבול, שער
 schrecklich : מחריד
 schreiben, schrieb, hat geschrieben [vt.] : לכתוב
 schreien, schrie, hat geschrien : לצעוק
+r Schrein : מקדש; מקום קדוש; כלי קיבול המכיל שרידים או חפצים קדושים
 r Schriftsetzer : סַדָּר (דפוס)
 r Schriftsteller : סופר
 schrittweise [adj.] : רציף, עוקב; בשלבים
@@ -3004,12 +3049,13 @@ s Staatsoberhaupt : ראש המדינה
 r Staatsoberhäupter : ראש המדינה
 s Stadion (pl. Stadien) : אצטדיון
 e Stadt (pl Städte) : עיר
+r Stall (pl. Ställe) : אורווה; אסם; מבנה לחיות משק; דיר; מכלאה
 r Stamm : גזע; שבט; גבעול
 stammen : לבוא מ־, להיות מיוחס ל־
 r Stammbaum : אילן יוחסים
 r Stammgast : אורח קבוע
 r Stammtisch : השולחן של היושבים הקבועים במסעדה או פאב
-standhaft : נחוש
+standhaft [adj.] : נחוש
 e Stange (pl. -n) : מוט
   - vor der Stange : מוכן מראש, רדימייד
   - bei der Stange bleiben : להתמיד, להישאר עם זה
@@ -3023,6 +3069,8 @@ statuieren : להציב
   - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
 r Stau (pl. -s) : פקק תנועה
   - im Stau stehen : לעמוד בפקק
+Staufer : בית הוֹהֶנשְטַאוּפֶן; השושלת השוואבית; שטאופר
+staufisch [adj.] : משתייך לבית הוֹהֶנשְׁטַאוּפֶן; משתייך לשטאופר
 stehen, stand, hat/ist gestanden [vi.] : לעמוד
   - auf + [Akk.] stehen : להיות בעניין של; לאהוב משהו או לעשות משהו; להיות להוט אחרי; להתעניין ב־
   - im Stau stehen : לעמוד בפקק
@@ -3233,8 +3281,8 @@ r Türke : טורקי
 e Türkei : טורקיה
 e Türkin : טורקיה
 türkis [adj.] : טורקיז
-turnen : להתעמל
-s Turnen : גימנסטיקה, התעמלות
+turnen, turnte, hat geturnt : להתעמל
+s Turnen : התעמלות
 e Turnhalle (pl. -n) : אולם ספורט, אולם התעמלות
 
 = U, Ü =
@@ -3250,6 +3298,7 @@ e Übereinkunft : agreement, accord
 r Überfall : פשיטה, התקפה, שוד
 überfallen [vt.] : לתקוף, להתקיף
 e Überflutung : הצפה
+e Übergabe (pl. -n) : מסירה; העברה; הסגרה	
 überhäufen : להמטיר (במתנות), להרעיף
 überheblich [adj.] : יהיר, מתנשא
 überholen, überholte, hat überholt [vt.] : לחלוף, לעבור על פני
@@ -3257,8 +3306,8 @@ e Überlegenheit : עליונות, שליטה
 übernehmen, übernahm, hat übernommen [vt.] : לקבל/לקחת (אחריות; הצעה)
 überreden, überredete, hat überredet [vt.] : לשכנע (במילים); לשכנע מישהו לעשות משהו
   - j-n (zu + [Dat.]) überreden : לשכנע מישהו (לעשות משהו)
-überrumpeln [vt.] : להפתיע, להערים על
-überschwemmen [vt.] : להציף
+überrumpeln, überrumpelte, hat überrumpelt [vt.] : להפתיע, להערים על
+überschwemmen, überschwemmte, hat überschwemmt [vt.] : להציף
 überschwemmt [adj.] : מוצף
 e Überschwemmung : הצפה
 übertragen, übertrug, hat übertragen [vt.] : להעביר, למסור, לשדר
@@ -3440,6 +3489,8 @@ r Verfasser : מחבר
 e Verfasserin : מְחַבֶּרֶת
 verfechten, verfocht, verfochten : להגן, לגונן
 r Verfechter, e Verfechterin : תומך, חסיד (של רעיון)
+verfeinern [vt.] : לזקק; לעדן; ללטש; לשפר
+verfeinert [adj.] : מעודן
 verfluchen [vt.] : לקלל; להטיל קללה
 verflucht [adj.] : מקולל
 verflucht [interj.] : לעזאזל!
@@ -3450,6 +3501,7 @@ e Verfügung : רשות
   - j-m zur Verfügung stehen : לעמוד לרשות־
 verhängen : לאכוף, לכפות
   - eine Strafe verhängen : לאכוף עונש
+verhelfen : לסייע
 verfinstern : להחשיך
   - sich verfinstern : להאפיל על, להטיל צל על
 verfügen : to dispose, to order, to rule (that ...)
@@ -3514,7 +3566,8 @@ vermissen : להתגעגע ל־/אל־
   - [Akk.] vermissen lassen : להיות חסר (משהו)
 e Vermittlung : mediation, agency, operator
 vermuten : להניח, לשער
-vernichten : להשמיד, לחסל, להרוס, להחריב
+vernichten [vt.] : להשמיד, לחסל, להרוס, להחריב
+e Vernichtung : השמדה
 veröffentlichen, veröffentlichte, veröffentlicht [vt.] : לפרסם
 sich verpissen : להסתלק
   - verpiss dich! : תסתלק מפה!, עוף מפה!
@@ -3603,6 +3656,8 @@ verwerfen (verwirft), verwarf, hat verworfen [vt.] : לדחות, לבטל, לס�
   - Änderungen verwerfen : לבטל שינויים
 sich verwicklichen, verwirklichte sich, hat sich verwirklicht : להתממש, לבוא לידי מימוש, להתגשם
 verwildert [adj.] : פרוע
+verwischen [vt.] : לטשטש; למרוח; להסתיר את עקבותיו
+  - seine Spuren verwischen : להסתיר את עקבותיו
 verzeihen : לסלוח
 s Vieh : בקר
 viel [adj.] : רב(ים)
@@ -3661,6 +3716,7 @@ vorhér|sehen, sah vorher, hat vorhergesehen [vt.] : לחזות
 s Vorhersehen : תחזית
 vorläufig [adj.] : זמני, ארעי, ראשוני, טנטטיבי
 e Vorliebe : העדפה, חיבה
+e Vormacht : עליונות
 vorn [adv.] : קדימה
   - von vorn : מההתחלה
   - von vorn anfangen : להתחיל מחדש
