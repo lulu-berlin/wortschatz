@@ -13,6 +13,11 @@ e Abdankung : ויתור על כס המלכות, התפטרות
 r Abend (pl. -e) : ערב
   - zu Abend essen : לאכול ארוחת ערב
   - "Da ward aus abend vnd morgen der erste Tag" [Lutherbibel, Gen 1:5] = וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם אֶחָד [בראשית א ה]
+aber : אבל
+r Aberglaube : אמונה טפלה
+abergläubig [adj.] : מאמין באמונות טפלות
+abergläubisch [adj.] : מאמין באמונות טפלות
+  - Gegenstand abergläubischer Verehrung : פטיש
 áb|feuern, feuerte ab, hat abgefeuert [vt.] : לירות, לשגר
 e Abgabe (pl. -n) : שחרור, העברה, מס
 áb|grenzen, grenzte ab, hat abgegrenzt : להגביל, לסמן את הגבול
@@ -913,6 +918,11 @@ eher [adv.] : למדי, במידה רבה יותר
 ehesten - סופרלטיב בלי תואר בסיס?
   - am ehesten : ככל הנראה; באופן הכי פשוט
   - So geht es am ehesten. : ככה הכי קל לעשות את זה.
+e Ehre (pl. -n): כבוד; הוקרה
+ehren, ehrte, hat geehrt [vt.] : להעריך; להוקיר
+r Ehrgeiz : שאיפה, אמביציה
+ehrgeizig [adj.] : שאפתן, תחרותי, אמביציוזי
+ehrlich [adj.] : הוגן, ישר, הגון, כֵּן
 s Ei (pl. -er) : ביצה
 r Eid (pl. -e) : שבועה
 eigen [adj.] : משל עצמו, מיוחד, ייחודי
@@ -1432,6 +1442,7 @@ e Geduld : סבלנות
 geduldig [adj.] : סבלני
   - geduldig sein : להיות סבלני
 geduldig [adv.] : בסבלנות
+geehrt [adj.] : נכבד
 e Gefahr (pl. -en) : סכנה, סיכון
   - Gefahr laufen, ... zu + Inf. : להסתכן ב...
 r Gefährte (Gen. -n, pl. -n) : בן־לוויה, חבר (לארגון/מאמץ)
@@ -1571,7 +1582,12 @@ s Gewölbe : כספת
 gießen, goss, hat gegossen [vt.] : למזוג; לשפוך
 r Glanz : ברק
 glatt [adj.] : חלק, שטוח
-glauben : להאמין
+r Glaube : אמונה
+glauben, glaubte, hat geglaubt : לחשוב, להאמין ש־, להניח; להאמין ל־; להאמין ב־
+  - [Akk.] glauben : לחשוב, להאמין ש־; להניח
+  - [Dat.] glauben : להאמין ל־
+  - an + [Akk.] glauben : להאמין ב־
+gläubig [adj.] : מאמין; דתי
 gleich [adj.] : אותו (ה־), זהה, דומה
   - zur gleichen Zeit : באותו זמן
 gleichberechtigt [adj.] : שווה (בערכו), בעל ערך שווה
@@ -2939,10 +2955,15 @@ so [adv.]
 s Sofa (pl. -s) : ספה
 sogar [adv.] : אפילו
 r Sold (pl. -e) : פרס, גמול, שילום
+r Sonderfall : מקרה מיוחד
+r Sonderling : אקצנטרי; משונה
 sondern [konj.] : אלא
   - sondern eher : אלא דווקא
+r Sonderweg : דרך מיוחדת
 sonst [adv.] : אחרת; אם לא כן
   - sonst genannt : ידוע גם כ־, הידוע בכינויו
+sonstig [adj.] : אחר; שונות
+Sonstiges : עניין אחר; שונות
 e Spannung : מתח
   - Spannung aufbauen : לבנות מתח
 spannungsaufbauend : באופן שבונה מתח
@@ -3026,6 +3047,10 @@ stoßen : לנגוח, לדחוף
 e Strafe : עונש
   - eine Strafe verbüßen : לרַצות עונש
 e Straße (pl. -n) : רחוב
+streben : לשאוף ל־
+  - nach + [Dat.] sterben : לשאוף ל־
+r Streber : שאפתן (בלימודים, בקריירה); חנון
+s Streben : שאיפה; רדיפה (אחר)
 r Streich (pl. -e) : trick, prank, hoax, joke
 r Streifen (= pl.) : רצועה, סרט, פס
 r Streit : argument, conflict, quarrel, conflict, fight
@@ -3076,6 +3101,11 @@ e Synagoge (pl. -n) : בית כנסת
 
 = T =
 r Tag (pl. -e) : יום
+  - Tage : וסת; מחזור חודשי
+  - Tag für Tag : על בסיס יומי
+  - an den Tag bringen : לחשוף
+Tag [interj.] : יום טוב!
+s Tagebuch (pl. Tagebücher) : יומן
 Tagelöhner : פועל־יום
 Tagelöhnerin : פועלת יום
 tagen, tagte, hat getagt : להיוועד, לקיים פגישה
@@ -3085,6 +3115,7 @@ r Tagesanbruch : שחר, עלות השחר
   - bei Tagesanbruch : עם עלות השחר
 r Taktgeber : clock, master clock, timer
 r Tank : מכל; טנק
+e Tanke : תחנת דלק
 e Tankstelle : תחנת דלק
 r Tanz : ריקוד
 tanzen, tanzte, hat getanzt : לרקוד
@@ -3397,6 +3428,9 @@ verdammt [interj.] : לעזאזל
 verdenken : להאשים?
 verdienen [vt.] : להרוויח; להיות ראוי ל־
 j-n vereidigen : להשביע (נשיא)
+verehren [vt.] : להעריץ; להוקיר
+verehrt [adj.] : נערץ; מוערך
+e Verehrung : הערצה; הוקרה
 vereinen, vereinte, hat vereint [vt.] : לשלב, למזג, לאחד
   - [Akk.] mit + [Dat.] vereinen : לשלב משהו עם משהו
   - Kräfte vereinen : לשלב כוחות
@@ -3853,7 +3887,7 @@ ziehen, zog, hat gezogen
   - an + Akk. ziehen : לעבור ל־
   - nach + [Ort] ziehen : לעבור למקום
 s Ziel (pl. -e) : מטרה
-zielbewusst : מוכוון מטרה
+zielbewusst [adj.] : מוכוון מטרה
 e Zigarre (pl. -n) : סיגר
 e Zigarette (pl. -n) : סיגריה
 s Zimmer (= pl.) : חדר
