@@ -222,6 +222,9 @@ e Anmaßung : arrogance, insolence, presumption
   - j-n anmotzen [ugs.] : להתלונן על משהו
 sich án|nähern, näherte sich an, hat sich angenähert : להתקרב ל־
   - sich [Dat.] annähern : להתקרב ל־
+annähernd [adj.] : מקורב, בקירוב
+annähernd [adv.] : בקירוב; כמעט
+  - nicht annähernd : לא קרוב ל־, בכלל לא
 e Annahme (pl. -n) : הנחה, השערה; אימוץ
 án|nehmen, nahm an, hat angenommen : לאמץ, לקבל, לקחת, להסכים ל־; להניח
 annullieren, annullierte, hat annulliert [vt.] : לבטל
@@ -403,6 +406,7 @@ auseinánder|setzen, setzte auseinander, hat auseinandergesetzt : להסביר �
   - j-m [Akk.] auseinandersetzen : להסביר משהו למישהו
   - sich mit [Dat.] auseinandersetzen : להתווכח עם־, להתמודד עם־
 e Auseinandersetzung : argument, dispute, debate, discussion
+r Ausfall : קריסה
 aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
   wegen Regen ausfallen : to be rained off
 aús|führen [vt.] : לבצע; להוציא לפועל
@@ -427,6 +431,7 @@ s Ausmaß (pl. -e) : מידה, היקף, מימדים
   - Zum Glück war das Ausmaß des Schadens begrenzt.
   - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
 aús|radieren : למחוק
+aús|reizen [vt.] : להתיש
 aús|rollen
   - j-m den roten Teppich ausrollen : לפרוש בפני מישהו שטיח אדום
 aús|rufen : להכריז (על משהו כמשהו); לקרוא לבעל מקצוע לבוא
@@ -653,6 +658,8 @@ beschissen [adj.] : דפוק
 beschleunigen, beschleunigte, hat beschleunigt [vt.] : להאיץ משהו, לזרז משהו
   - sich beschleunigen : להאיץ, להגביר את התאוצה, להזדרז
 beschließen, beschloss, hat beschlossen [vt.] : להחליט; להימלך בדעתו
+beschneiden, beschnitt, hat beschnitten [vt.] : למול; לגזום; לחתוך
+e Beschneidung : מילה
 beschreiben : לתאר
 beschuldigen, beschuldigte, hat beschuldigt [vt.] : להאשים
 beschützen, beschützte, hat beschützt [vt.] : להגן על־
@@ -794,6 +801,8 @@ brennen, brannte, hat gebrannt : לבעור, לשרוף (כאב)
 brillieren, brillierte, hat brilliert : לזהור, להיות מבריק, להיות גאוני
 bringen, brachte, hat gebracht [vt.] : להביא
   - ein Kind zur Welt bringen : להביא ילד לעולם
+brodeln : לבעבע; לרתוח
+s Brodeln : בעבוע
 r Bruder : אח
 brüllen : לשאוג
   - Der Ochse brüllt.
@@ -846,6 +855,8 @@ dár|stellen, stellte dar, hat dargestellt [vt.] : להוות; לייצג; לה�
   - stark vereinfacht darstellen : להציג באופן מפושט
   - zeichnerisch darstellen : לתאר, לצייר
 dauerhaft : ארוך־טווח, קבוע, מתמשך
+dauern, dauerte, hat gedauert : להימשך (זמן)
+r Dauerregen : גשם מתמשך
 davón|laufen : לברוח מ־
 e Decke (= pl.) : תקרה; שמיכה
 e Deckung : coverage, backing
@@ -922,6 +933,7 @@ dunkelgrün [adj.] : ירוק בהיר
 dünkelhaft [adj.] : יהיר, מלא חשיבות עצמית
 dúrch|brechen : to break through, to disrupt
 r Durchbruch : פריצת דרך; שבר, סדק
+dúrch|dringen : לחדור; להתפשט; לחלחל
 s Durcheinander : בלגן
 durcheinander [adj.] : מבולבל, מבולגן
 durcheinander [adv.] : בבלגן
@@ -983,6 +995,8 @@ einen : לאחד
 eín|beziehen, bezog ein, hat einbezogen [vt.] : לכלול, לערב, לצרף
 eín|dämmen + Akk. : לעצור, לשים סוף ל־, לחסום
 eín|dämmern : להירדם, לשקוע בשינה
+eín|dringen : לחדור לתוך־
+  - in + [Akk.] eindringen : לחדור לתוך־
 einfach [adj.] : פשוט, קל
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
@@ -1133,7 +1147,7 @@ e Entsorgung : היפטרות; סילוק
 entspannen, entspannte, entspannt : להרגיע
   - sich entspannen : להירגע
 entstehen : להתעורר; להתפתח; לבוא לידי קיום
-entthronen : להדיח מעל כס המלכות
+entthronen, entthronte, hat entthront : להדיח מעל כס המלכות
 entweder ... oder ... : או ... או ...
 entwickeln : לפתח
 r Entzug : נסיגה; גמילה
@@ -1332,9 +1346,14 @@ faul [adj.] : עצלן
 faulenzen : להתעצל; להתבטל
 s Faustpfand : קלף מיקוח
 fegen [vt.] : לטאטא
-feiern : לחגוג
+fehlen, fehlte, hat gefehlt : להיות חסר; להיעדר; לא להימצא, לא להיות בנמצא
+s Fehlen : מחסור; היעדר
+r Fehler (= pl.) : שגיאה
+r Fehlschlag : כשלון
+féhl|schlagen (schlägt fehl), schlug fehl, ist fehlgeschlagen [vi.] : להיכשל
+feiern, feierte, hat gefeiert : לחגוג
 r Fels (pl. -en) : סלע; צוק
-r Felsen  (= pl.) : סלע; צוק
+r Felsen (= pl.) : סלע; צוק
 r Felsendom : כיפת הסלע
 s Fenster (= pl.) : חלון
 fern [adj.] : רחוק, מרוחק
@@ -1572,7 +1591,7 @@ e Geisteshaltung : הלך רוח, גישה, מצב רוח
 r Geisteszustand : הלך רוח
 s Gelächter : צחוק
 gelähmt [adj.] : משותק
-s Geländer (= pl.) : railing(s), handrail [ma`aqe]
+s Geländer (= pl.) : מעקה; גדר
 gelb [adj.] : צהוב
 s Geleit (pl. -e) : escort
 gelingen, gelang, ist gelungen [vt.] : להצליח
@@ -1628,15 +1647,14 @@ e Gerechtigkeit : צדק, הוגנות
 gern [adv.] : בשמחה
   - etwas gern tun : לרצות לעשות משהו
 geschehen (geschieht), geschah, ist geschehen [vi.] : לקרות, להתרחש
-gescheit : חכם, מבריק, פיקח, נבון
-gescheitert : כושל, נכשל
+gescheit [adj.] : חכם, מבריק, פיקח, נבון
+gescheitert [adj.] : כושל, נכשל
 s Geschenk (pl. -e) : מתנה
 s Geschirr (pl. -e) : כלים
 r Geschirrspüler (= pl.) : מדיח כלים
 s Geschütz (pl. -e) : נשק; תותח
 geschweige [konj.] : שלא לדבר; לא כל שכן
   - geschweige denn [konj.] : שלא לדבר; לא כל שכן
-r Geselle
 r Geselle (pl. -n) : עוזר, מסייע, בן לוויה, שכיר יום
 e Gesellin : עוזרת, מסייעת, בת לוויה, שכירת יום
 e Gesellschaft (pl. -en) : חברה
@@ -1674,6 +1692,7 @@ gewiss [adj.] : בטוח, ודאי
 gewiss [adv.] : לבטח, בוודאי, בוודאות
   - gewiss! בוודאי!
 e Gewissheit : בטחון, ודאות
+gewittrig [adj.] : רועם
 s Gewölbe : כספת
 gießen, goss, hat gegossen [vt.] : למזוג; לשפוך
 r Glanz : ברק
@@ -1737,6 +1756,7 @@ grollen : לרעום, להרעים
 s Grollen : רעם
 r Grund (pl. Gründe)
   - im Grund(e) : באופן עקרוני, בבסיסו של דבר
+e Grundlinie : קו ההתחלה
 s Grundrecht : זכות יסוד
 grunzen : לנאוק
   - Das Schwein grunzt.
@@ -2101,6 +2121,7 @@ r Kauf (pl. Käufe) : קניה
   - in Kauf nehmen : לקבל; לקחת (בהשלמה)
 kaufen, kaufte, hat gekauft [vt.] : לקנות
 r Keil (pl. -e) : טריז
+keinesfalls [adv.] : בשום פנים ואופן לא
 kennen, kannte, hat gekannt [vt.] : להכיר
   - Ich kenne jemanden, der jemanden kennt : אני מכיר מישהו שמכיר מישהו
 r Kerker (= pl.) : צינוק
@@ -2256,7 +2277,8 @@ längst [adv.] : זה זמן רב
   - schon längst
   - längst überfällig
   - längst nicht
-e Last (pl. e) : עול
+  - noch längst nicht : רחוק מ־; עדיין לא
+e Last (pl. -e) : עול; נטל; משא; מטען
 lästerlich : מנואץ
 lästern [vt.] : לנאץ, לחלל, לטמא; לרכל, ללכלך על־
   - über j-n lästern [ugs.] : ללכלך על מישהו
@@ -2454,6 +2476,7 @@ e Minne : אהבה חצרונית; אהבה נואשת כנושא בספרות �
 r Missbrauch (pl. Missbräuche) : התעללות; שימוש לרעה
   - Der Missbrauch von Alkohol
   - Der Missbrauch der Bibliothekscomputer ist untersagt
+r Misserfolg : כשלון
 r Missstand (pl. Misstände) : grievance, drawback, fault, defect
 mit [präp.] : עם
 mít|bestimmen bestimmte mit, mitgebestimmt (!) : להשתתף בתהליך קבלת ההחלטות
@@ -2681,6 +2704,7 @@ plaudern : לפטפט
 Polen : פולניה
 e Politik (pl. -en) : פוליטיקה; מדיניות
 r Politiker (= pl.) : פוליטיקאי
+s Politikum : סוגיה פוליטית
 politisch [adj.] : פוליטי
   - politisch korrekt : פוליטיקלי קורקט
 Pommes (pl.) : צ'יפס, טוגנים
@@ -3138,6 +3162,8 @@ so [adv.]
   - so tun, als ob ... : לעשות כאילו ש־
 s Sofa (pl. -s) : ספה
 sogar [adv.] : אפילו
+solidarisch [adj.] : סולידרי
+  - sich mit + [Dat.] solidarisch zeigen : להביע סולידריות עם
 r Sold (pl. -e) : פרס, גמול, שילום
 r Sonderfall : מקרה מיוחד
 r Sonderling : אקצנטרי; משונה
@@ -3526,6 +3552,7 @@ unausgesetzt [adj.] : קבוע, ללא הרף
 unausweichlich [adj.] : בלתי־נמנע
 unausweichlich [adv.] : באופן בלתי־נמנע
 unabdingbar [adj.] : חיוני, הכרחי
+unangebracht [adj.] : בלתי הולם; שלא במקומו
 und : וְ־
 uneins : מפולג, מפוצל, מחולק
 e Unendlichkeit : אינסוף
@@ -3588,6 +3615,8 @@ unverständlich [adj.] : בלתי מובן
 unordentlich : messy
 e Unsumme : enormous amount, enormous sum
 s Unwesen : מצב נוראי; מצב מחריד
+s Unwetter : סערה; מזג אוויר רע
+unwetterartig [adj.] : סוער
 unwiederbringlich : שלא ניתן להשיבו
 unwillkürlich [adj.] : לא רצוני
 unwillkürlich [adv.] : בעל כורחו; באופן אוטומטי; בניגוד לרצונו
@@ -3868,9 +3897,10 @@ r Vorbehalt (pl. -e) : reservation, caveat
 vordringen : לחדור; להתקדם
   - in + [Akk.] vordringen : לחדור ל־
 s Vordringen : התקדמות
-vorerst : for now, for the time being לעת עתה
-vor|fahren :  : לנסוע מקדימה
+vorerst [adv.] : לעת עתה
+vor|fahren : לנסוע מקדימה
 Vorfahren (pl.) : אבות(יי), אבות קדומים
+r Vorfall (pl. Vorfälle) : תקרית, אינצידנט
 vór|führen, führte vor, hat vorgeführt [vt.] : להציג, להביא בפני
   - j-n einem Richter vorführen : להביא מישהו בפני שופט
 vór|gehen, ging vor, vorgegangen : להמשיך, להתקדם; להוביל; לבוא קודם
@@ -3954,6 +3984,7 @@ s Waschbecken (= pl.) : כיור
 waschen : לשטוף, לרחוץ
 e Waschmaschine (pl. -n) : מכונת כביסה
 r Wasserhahn (pl. Wasserhähne) : ברז
+wechselhaft [adj.] : מתחלף; משתנה
 wecken, weckte, hat geweckt [vt.] : להעיר
 wedeln, wedelte, hat gewedelt : לכשכש
   - mit dem Schwanz wedeln : לכשכש בזנב
@@ -4195,11 +4226,14 @@ zurück|ziehen, zog zurück, zurückzogen
   - sich (aus/von + [Dat.]) zurückziehen : לסגת (מ־)
   - Er bat, sich zurückziehen zu dürfen. : הוא ביקש להיות מורשה לסגת
   - sich aus der Welt zurückziehen : לפרוש מן העולם
+zusammen [adv.] : ביחד; יחדיו
+  - zusammen mit + [Dat.] [präp.] : יחד עם
 zusámmen|brechen : להתמוטט
 zusámmen|fügen, fügte zusammen, zusammengefügt : לחבר, לצרף
 zusammengefügt [adj.] : מחובר
 r Zusammenhalt : לכידות
 r Zusammenhang (pl. Zusammenhänge) : הקשר, קונטקסט
+zusámmen|kommen, kam zusammen, ist zusammengekommen : להיפגש; לבוא יחד
 r Zusammenprall : התנגשות
 zusámmen|schweißen : לרתך יחד
 zusámmen|stoßen : להתנגש
