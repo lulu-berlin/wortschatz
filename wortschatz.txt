@@ -1,9 +1,37 @@
 = A, Ä =
+s A : אַ, האות הראשונה באלפבית הלטיני
+s Ä : אֶ, האות א עם אומלאוט
+à [präp.] : במחיר־
+s Aa : קקי (בשפת הילדים)
+r Aal : צלופח
+sich aalen : להתפרש ולנוח, להתחרדן
+aalglatt [adj.] : חלקלק, נכלולי
+s Aas : פגר, נבלה; נבלה (קללה)
+  - kein Aas [ugs.] : אף אחד
+aasen, aaste, hat geaast 
+  - mit + [Dat.] aasen : לבזבז משהו
+r Aasgeier : נשר (שאוכל פגרים); (לשון ציורית) אדם נצלני
+ab [adv.] : 
+  - von + [Dat.] ab : החל מ־(נקודת זמן)
+  - Ab ins Bett mit dir! : קדימה למיטה!
+  - ab und zu : מדי פעם
+  - ab und an : מדי פעם
 ab + [Dat.] [präp.] : מ־; החל מ־
   - ab heute : החל מהיום
   - ab sofort : החל מעכשיו
   - ab jetzt : החל מעכשיו
   - ab diesem Zeitpunkt : החל מרגע זה
+áb|ändern, änderte ab, hat abgeändert [vt.] : לשנות משהו במעט
+e Abänderung : שינוי מועט
+áb|arbeiten, arbeitete ab, hat abgearbeite [vt.] : לעבוד ולצמצם משהו, לטפל במשהו
+  - sich abarbeiten : לעבוד הרבה עד כדי מותשות
+e Abarbeitung : טיפול, ביצוע, עבודה שמצמצמת משהו
+e Abart : תת־סוג
+abartig [adj.] : סוטה
+abbaubar [adj.] : שניתן לפרק אותו למרכיבים
+áb|bauen, baute ab, hat abgebaut [vt.] : לכרות; לפרק למרכיבים; לצמצם מספרית או במידה; להתפרק ל־ (בכימיה)
+áb|beizen, beizte ab, hat abgebeizt [vt.] : להסיר כתם
+áb|bekommen, bekam ab, hat abbekommen [vt.] : לקבל חלק ממשהו; 
 áb|biegen : לפנות
   - nach links abbiegen : לפנות שמאלה
   - nach rechts abbiegen : לפנות ימינה
@@ -160,6 +188,7 @@ e Alte : זקנה
 s Alter (= pl.) : גיל; תקופה
 althergebracht : מסורתי
 r Amboss : סדן
+s Amerika : אמריקה
 r Amok : אמוק
   - Amok fahren : להשתולל, להתפרע
   - Amok laufen : לרוץ ריצת אמוק
@@ -308,6 +337,7 @@ e Arznei : תרופה; סם
 s Arzneimittel (= pl.) : סם; תרופה
 r Arzt (pl. Ärzte) : רופא
 e Ärztin (pl. -nen) : רופאה
+s Asien : אסיה
 s Attentat : רצח, התנקשות
 r Attentäter (= pl.) : מתנקש, רוצח
 auch : גם
@@ -471,6 +501,7 @@ aús|stoßen, stieß aus, hat ausgestoßen [vt.] : לפלוט; להוציא
 s Ausstoßen : פליטה
 aús|strecken : לפרוס; לשלוח (יד)
   - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
+s Australien : אוסטרליה
 aús|treiben [vt.] : לגרש
   - "Vnd treib Adam aus / vnd lagert fur den garten Eden den Cherubim mit einem blossen hawenden Schwert / zu bewaren den weg zu dem Bawm des Lebens" [Lutherbibel, Gen 3:24] = וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים [בראשית ג כד]
 r Ausweg : מוצא, דרך החוצה, מפלט
@@ -611,6 +642,7 @@ beispielsweise [adv.] : לדוגמה
 beí|steuern [vt.] : לתרום
   - Geld beisteuern : לתרום כסף
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
+e Beize : כתם
 bekannt [adj.] : מוכר
   - bekannt geben : להכריז על
 bekánnt|geben (gibt bekannt), gab bekannt, hat bekanntgegeben [vt.] : להכריז על־
@@ -1342,6 +1374,7 @@ etliche [m.b.] : מספר ...
   - etliche Stunden : מספר שעות
 euer [poss.pron.] : שלכן; שלכם
 e Eule (pl. -n) : ינשוף
+s Europa : אירופה
 ewig [adj.] : נצחי
 e Ewigkeit : נצח
   - in Ewigkeit : לנצח
