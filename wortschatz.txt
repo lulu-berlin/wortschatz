@@ -159,6 +159,7 @@ r Alte : זקן; חבוב (פנייה ידידותית)
 e Alte : זקנה
 s Alter (= pl.) : גיל; תקופה
 althergebracht : מסורתי
+r Amboss : סדן
 r Amok : אמוק
   - Amok fahren : להשתולל, להתפרע
   - Amok laufen : לרוץ ריצת אמוק
@@ -356,6 +357,7 @@ aúf|polieren + Akk. : להבריק, לחדש (תדמית)
 aufrecht [adj.] : זקוף, ישר, מאונך
 aúfrecht|erhalten, erhielt aufrecht, hat aufrechterhalten [vt.] : לשמר, לתחזק, להחזיק (בחיים), לגרום שיימשך
   - den Kontakt aufrechterhalten : להישאר בקשר
+aúfrecht|halten : להחזיק; לשמר
 aúf|regen, regte auf, hat aufgeregt [vt.] :  לרגש; להתסיס, לעצבן, להציק
   - sich aufregen : להתרגש; להיות מודאג
   - sich unnötig aufregen : לדאוג בלי סיבה
@@ -580,6 +582,8 @@ begrenzbar [adj.] : שניתן לסיים אותו
 begrenzen [vt.] : להגביל
 begrenzt [adj.] : מוגבל, סופי
 begründen [vt.] : להצדיק; לכונן
+r Begründer (= pl.) : מייסד
+e Begründerin (pl. -nen) : מייסדת
 e Begründung : סיבה, הצדקה, עילה, הסבר
 begrüßen, begrüßte, hat begrüßt [vt.] : לברך לשלום; להעריך, לראות במשהו שינוי מבורך
   - Die Angestellten begrüßen die neue Strategie der Firma.
@@ -1058,6 +1062,8 @@ s Einschreiben : מכתב רשום
 einseitig [adj.] : חד־צדדי, מוטה
 einseitig [adv.] : באופן חד־צדדי, באופן מוטה
 eín|setzen, setzte ein, hat eingesetzt [vt.] : להשתמש ב־, לעשות שימוש ב־
+eín|stehen
+  - für + [Akk.] einstehen : להיות אחראי על; לערוב ל־; להתחייב ל־; להבטיח
 eín|stellen : להעסיק, למנות, לשכור את שירותיו של מישהו
 etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
   - Der Techniker richtete die Website innerhalb einer Woche ein.
@@ -1145,6 +1151,7 @@ entreißen, entriss, hat entrissen [vt.] : למשוך בכוח; להוציא ב�
 entrinnen, entrann, ist entronnen : לחמוק
   - [Dat.] entrinnen : לחמוק מ־
 s Entrinnen : בריחה; התחמקות
+entschärfen [vt.] : לנטרל; להשבית; לפרק מנשקו; לרכך
 entscheiden, entschied, hat entschieden : להחליט; לקבוע (אם); לפסוק
 sich entschließen, entschloss sich, hat sich entschlossen : להחליט
   - sich entschließen, etwas zu tun : להחליט לעשות משהו
@@ -1222,6 +1229,7 @@ erheben, erhob, hat erhoben [vt.] : להרים, לרומם; להטיל; לסקו
 erhebend : מרומם(־רוח)
 erheblich [adj.] : משמעותי; ניכר; רב
 e Erhebung : סקר; מעלה; הפקה, שליפה, הוצאה
+erhitzen [vt.] : לחמם; להרתיח
 erhoffen, erhoffte, hat erhofft [vt.] : לקוות ל
   - das Beste erhoffen : לקוות לטוב
   - sich[Dat.] [Akk.] erhoffen : לייחל למשהו
@@ -1257,6 +1265,9 @@ e Ernte (pl. -n) : יבול, בציר
 erobern [vt.] : לכבוש; להשתלט על
 e Eroberung : כיבוש
 r Eroberungskrieg : מלחמת כיבוש
+eröffnen [vt.] : לפתוח
+e Eröffnung : פתיחה
+e Eröffnungsfeier (pl. -n) : חגיגות הפתיחה
 erraten, erriet, hat erraten [vt.] : לנחש נכונה
 erraten [adj.] : שנוחש נכונה
 erreichen : להגיע; להשיג
@@ -1473,7 +1484,7 @@ e Form (pl. -en) : צורה
 e Formel (pl. -n) : נוסחה; נוסח
 forsch [adj.] : פזיז, נמהר
 forschen : לחקור
-fortan : מעתה ואילך,מכאן ואילך
+fortan [adv.] : מעתה ואילך,מכאן ואילך
 fórt|fahren, fuhr fort, fortgefahren : להמשיך
 fórt|fallen, fiel fort, ist fortgefallen [vi.] : להפסיק להתקיים, להישמט
 fórt|führen [vt.] : להמשיך
@@ -1629,6 +1640,7 @@ geistesabwesend : פזור דעת, מפוזר, לא מרוכז
 e Geisteshaltung : הלך רוח, גישה, מצב רוח
 r Geisteszustand : הלך רוח
 s Gelächter : צחוק
+gelagert [adj.] : מאוחסן
 gelähmt [adj.] : משותק
 s Geländer (= pl.) : מעקה; גדר
 gelb [adj.] : צהוב
@@ -1912,6 +1924,7 @@ herán|kommen, kam heran, herangekommen : לגשת
   - (an + [Akk.]) näher herankommen : להתקרב (ל־)
 herán|wachsen : לגדול
 S Heranwachsen : גדילה; התבגרות
+heraúf|beschwören, beschwor herauf, hat heraufbeschworen [vt.] : להעלות באוב; להעלות (זכרונות); לעורר
 heraús|drängen : למלא עד אפס מקום, לצופף to croud out
 heraús|finden : לגלות
 heraús|fordern, forderte heraus, hat herausgefordert [vt.] : להציב אתגר; להזמין לדו־קרב
@@ -1925,14 +1938,16 @@ heraús|nehmen
 heraús|stellen : להדגיש; להדגים, להציב דוגמה
   - sich herausstellen : להוכיח את עצמו כ־, לצאת (באופן מסוים), להתברר
   - es hat sich später herausgestellt, dass : התברר לאחר מכן ש־
-auf j-n herab|sehen : to look down on s.o.
-auf j-n herab|schauen : to look down on s.o.
+heráb|sehen
+  - auf j-n herabsehen : to look down on s.o.
+heráb|schauen
+  - auf j-n herabschauen : to look down on s.o.
 e Herabstufung : הורדה בדרגה, הנמכה
 herab|stürzen : להתמוטט, ליפול
 herablassend [adj.] : מתנשא
 herablassend [adv.] : בביטול, בהתנשאות
-herbei|führen : להביא לידי קיום
-herbei|sehnen : לערוג
+herbeí|führen : להביא לידי קיום
+herbeí|sehnen : לערוג
 hér|kommen, kam her, hergekommen : לבוא הנה
   - Komm mal her! : בוא הנה!
 hér|stellen, stellte her, hat hergestellt [vt.] : לייצר
@@ -1956,6 +1971,9 @@ heute [adv.] : היום
   - von heute auf morgen : מהיום למחר
 e Hilfe : עזרה
 e Himbeere (pl. -n) : פטל
+r Himmel : שמיים
+himmlisch [adj.] : שמיימי
+  - das himmlische Jerusalem : ירושלים של מעלה; ירושלים השמיימית
 hin
   - auf + [Akk.] + hin - ל־ (כמו: „לבקשתך״)
   - „auf Ihren Vorschlag hin״
@@ -2268,6 +2286,7 @@ r Kreis (pl. -e) : מעגל; מחוז, אזור
 r Kreislauf (pl. Kreisläufe) : מחזור; מעגל
 krepieren, krepierte, ist krepiert [ugs.] : להתפגר, למות
 s Kreuz (pl. -e) : צלב
+r Kreuzritter (= pl.) : צלבן
 e Kreuzung (pl. -en) : צומת
 r Krieg (pl. -e) : מלחמה
   - "Denn wo sich ein Krieg erhübe / möchten sie sich auch zu vnsern Feinden Schlahen" [Lutherbible, Ex 1:10] = וְהָיָה כִּי־תִקְרֶאנָה מִלְחָמָה וְנוֹסַף גַּם־הוּא עַל־שֹׂנְאֵינוּ [שמות א י]
@@ -2277,6 +2296,8 @@ r Kriegsgrund (pl. Kriegsgründe) : עילה למלחמה, קזוס בלי
 e Kriegslist (pl. -en) : תחבולות מלחמה
 kriegsmüde [adj.] : עייף מן המלחמה
 r Kriegsschauplatz (pl. Kriegsschauplätze) : זירת המלחמה
+e Krise (pl. -n) : משבר
+r Kriseherd : אזור מועד לפורענות
 e Krone (pl. -n) : כתר
 krönen, krönte, hat gekrönt [vt.] : להכתיר
 e Krönung (pl. -en) : הכתרה
@@ -2640,6 +2661,9 @@ e Nase (pl. -n) : אף
 nass [adj.] : רטוב
   - nass werden : להירטב
 nassforsch [adj.] : נמהר
+neben [präp.] : ליד
+e Nebensache : עניין צדדי
+nebensächlich [adj.] : משני; שולי; צדדי; אינצידנטלי
 e Neige : דעיכה, שקיעה
   - zur Neige gehen : להידלדל, להתמעט
 neigen : להטות
@@ -2661,6 +2685,7 @@ níeder|ringen, rang nieder, niedergerungen : לבלות (לגרום לבליי�
 níeder|schlagen, schlug nieder bin/hat niedergeschlagen :
   - [Akk.] niederschlagen : להביס, לדכא, להכניע, למוטט
   - in + [Akk.] sich niederschlagen : לבוא לידי ביטוי ב־
+níeder|schreiben : לרשום; לכתוב (במחברת, פנקס, וכו'); לתעד בכתב
 niesen, nieste, geniest : להתעטש
 nimmermehr : לעולם לא עוד, שוב לא
 s Niveau : רמה; סטנדרט
@@ -2724,6 +2749,8 @@ r Orkan (pl. -e) : הוריקן
 
 = P =
 s Pack (pl. -s) : להקה (של כלבים, זאבים, וכו')
+e Palme : דקל; עץ דקל
+r Palmwedel : עלה דקל
 Palmsonntag : Palm Sunday
 e Panik : פאניקה
   - in Panik geraten : להיכנס לפאניקה
@@ -2863,8 +2890,12 @@ r Raubvogel : ציפור טרף
 rauchen : לעשן
 r Raucher : מעשן
 räudig [adj.] : מטונף, מרופט, קמצני
+rechnen [vt.] : לחשב
+  - mit + [Dat.] rechnen : לצפות ל־; לקחת בחשבון; להיות מוכן ל־; לסמוך על־
 e Rechnung (pl. -en) : חשבון
-s Recht : זכות
+s Recht (pl. -e) : זכות
+recht [adj.] : נכון
+recht [adv.] : למדי; די
 rechtfertigen, rechtfertigte, hat gerechtfertigt [vt.] : להצדיק
   - sich rechtfertigen : להצדיק את עצמו
   - zu rechtfertigen : ניתן להצדקה
@@ -2995,6 +3026,8 @@ r Schaden (pl. Schäden) : נזק, פגיעה
 s Schaf : כבשה
 schaffen, schuf, hat geschaffen [vt.] : ליצור; לברוא
 schaffen, schaffte, hat geschafft [vt.] : להשלים; להצליח לעשות; לעבוד
+schalten : להתחלף; להחליף ל־
+r Schalter (= pl.) : מתג; כפתור; דלפק
 s Schampon : שמפו
 schamponieren : לחפוף (שיער עם שמפו)
 e Schar : להקה (של ציפורים),
@@ -3590,6 +3623,8 @@ r Umbruch : תהפוכות, מהומה
   - wirtschaftlicher Umbruch : שינוי כלכלי
   - historischer Umbruch : מהפך היסטורי
 úm|drehen : לסובב
+úm|geben (umgibt), umgab, hat umgeben [vt.] : להקיף; לעטוף
+umgeben [adj.] : מוקף
 úm|gehen [vt.] : לעקוף
   - mit + [Dat.] umgehen : לטפל ב־, להסתדר עם־, לעסוק ב־
   - mit einem Problem umgehen : לטפל בבעיה
@@ -3598,6 +3633,7 @@ r Umbruch : תהפוכות, מהומה
 umgekehrt [adj.] : הפוך; מסובב; בכיוון המנוגד
 umgekehrt [adv.] : להיפך
 úm|gestalten, gestalte um, hat umgestaltet [vt.] : לשנות, לעשות טרנספורמציה, לארגן מחדש, לעצב מחדש
+umkämpft [adj.] : תחרותי
 úm|reißen [vt.] : להתוות
 úm|schwenken : לשנות צד
 sich úm|sehen (sieht sich um), sah sich um, hat sich umgesehen : להסתכל סביב
@@ -3743,6 +3779,10 @@ j-n vereidigen : להשביע (נשיא)
 verehren [vt.] : להעריץ; להוקיר
 verehrt [adj.] : נערץ; מוערך
 e Verehrung : הערצה; הוקרה
+vereinbar [adj.] : מתאים; קומפטיבילי
+vereinbaren [vt.] : להסכים; לסכם; לקבוע
+  - einen Termin vereinbaren : לקבוע פגישה
+vereinbart [adj.] : מוסכם; שנקבע
 vereinen, vereinte, hat vereint [vt.] : לשלב, למזג, לאחד
   - [Akk.] mit + [Dat.] vereinen : לשלב משהו עם משהו
   - Kräfte vereinen : לשלב כוחות
@@ -3752,6 +3792,8 @@ r Verfasser : מחבר
 e Verfasserin : מְחַבֶּרֶת
 verfechten, verfocht, verfochten : להגן, לגונן
 r Verfechter, e Verfechterin : תומך, חסיד (של רעיון)
+verfehlen : להחמיץ
+e Verfehlung : התנהגות בלתי הולמת
 verfeinern [vt.] : לזקק; לעדן; ללטש; לשפר
 verfeinert [adj.] : מעודן
 verfluchen [vt.] : לקלל; להטיל קללה
@@ -3969,6 +4011,7 @@ vorán|kommen, kam voran, ist vorangekommen [vi.] : להתקדם, לנוע קד�
 vorán|treiben : לקדם, לדחוף
 r Vorbehalt (pl. -e) : reservation, caveat
   - Ich hatte Vorbehalte gegenüber der Idee, aber alles verlief gut.
+vór|bringen [vt.] : לציין; להציג (רעיון)
 vordringen : לחדור; להתקדם
   - in + [Akk.] vordringen : לחדור ל־
 s Vordringen : התקדמות
@@ -4048,6 +4091,7 @@ wahrhaben : להכיר בכך ש־
 wáhr|nehmen (nimmt wahr), nahm wahr, hat wahrgenommen [vt.] : לתפוש; להכיר; להעריך; לחוש; להבחין
 wahrscheinlich [adj.] : סביר; מסתבר
 r Wald (pl. Wälder) : יער
+walten, waltete, hat gewaltet : לשלוט
 walzen, walzte, gewalzt [vt.] : לגלגל
 e Wand (pl. Wände) : קיר
   - mit dem Rücken zur Wand stehen : לעמוד עם הגב אל הקיר
@@ -4085,6 +4129,8 @@ weh [adv.] : בכאב
 e Wehe (pl. -n) : ציר(י) לידה
 wehen, wehte, hat geweht : לנשוב (רוח); להתנופף ברוח (דגל)
   - die Fahne weht im Wind. : הדגל מתנופף ברוח
+weihen : לקדש
+s Weihwasser : מים קדושים
 weil [konj] : כי; משום ש־; מכיוון ש־
 e Weile : שהות
 weilen, weilte, hat geweilt : להישאר
@@ -4098,6 +4144,7 @@ Weiteres
 e Welle (pl. -n) : גל
 e Welt : עולם
   - ein Kind zur Welt bringen : להביא ילד לעולם
+weltberühmt [adj.] : מפורסם בכל העולם
 e Weltgeltung : מעמד בינלאומי
 wenden, wendete, gewendet
   - sich an j-n wenden : לפנות למישהו
@@ -4301,6 +4348,8 @@ s Zunft (pl. Zünfte) : גילדה
 zurécht|kommen : להסתדר, להגיע להבנה
   - gut zurechtkommen : להסתדר היטב
 zú|reiten : לרכב לעבר, to break (in) a horse
+zú|spitzen, spitzte zu, hat zugespitzt [vt.] : לחדד
+  - sich zuspitzen : להתחדד; להסלים
 zurück|drängen + Akk. : להסיג, לגרום לאויב לסגת
 zurück|geben, gab zurück, hat zurückgegeben [vt.] : להחזיר
 zurück|halten, hielt zurück, zurückgehalten : להימנע, לנהוג במתינות
