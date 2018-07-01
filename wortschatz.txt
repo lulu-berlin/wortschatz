@@ -872,6 +872,7 @@ dár|stellen, stellte dar, hat dargestellt [vt.] : להוות; לייצג; לה�
   - bildlich darstellen : לאייר
   - stark vereinfacht darstellen : להציג באופן מפושט
   - zeichnerisch darstellen : לתאר, לצייר
+e Datei (pl. -en) : קובץ (במחשב)
 dauerhaft : ארוך־טווח, קבוע, מתמשך
 dauern, dauerte, hat gedauert : להימשך (זמן)
 r Dauerregen : גשם מתמשך
@@ -1123,6 +1124,8 @@ enthalten [vt.] : לכלול
 enthaupten [vt.] : לערוף ראש, לכרות ראש
 s Enthaupten : עריפת ראש
 e Enthauptung : עריפת ראש
+entkomprimieren [vt.] : לפתוח קובץ מכווץ
+entkomprimiert [adj.] : שנפתח מכיווץ (קובץ)
 entladen : לפרק
 s Entladen : פריקה
 entladen [adj.] : פרוק
@@ -1767,7 +1770,9 @@ gleichgültig [adj.] : אדיש
 e Gleichgültigkeit : אדישות
 gleichrangig [adj.] : שווה־מעמד, בעל מעמד שווה, חשוב באותה מידה
 e Gleichrangigkeit : מעמד שווה
+gleichzeitig [adj.] : בו־זמני
 gleichzeitig [adv.] : באותו זמן
+e Gleichzeitigkeit : בו־זמניות
 s Glück : שמחה; מזל
   - zum Glück : למרבה המזל
 e Glucke (pl. -n) : תרנגולת אֵם
@@ -2233,6 +2238,8 @@ e Klinge (pl. -n) : להב
 klingen : להישמע; לצלצל
   - nach + [Dat.] klingen : להישמע כמו 
 klingeln : להשמיע צלצול, לצלצל בדלת
+komprimieren [vt.] : לכווץ
+komprimiert [adj.] : מכווץ
 knallen, knallte, hat geknallt [vt.] : להטיח, לדפוק, להכות בחוזקה
 knapp [adj.] : קצר, קרוב, מועט, צפוף, צר, מוגבל
   - zu knapp : מעט מדי
@@ -2597,6 +2604,7 @@ s Motorfahrrad (pl. Motorfahrräder) : טוסטוס
 s Motorrad (pl. Motorräder) : אופנוע
 müde [adj.] : עייף
   - müde werden : להתעייף
+e Müdigkeit : עייפות
 mufflig : grumpy
 muhen : לגעות, לעשות מוּ
   - Die kuh muht.
@@ -2617,6 +2625,11 @@ r Muskel : שריר
 muskulär : שרירי
 muskulös : שרירי
 r Mut : אומץ
+e Mutter (pl. Mütter) : אֵם, אמא
+r Mutterleib : רֶחֶם
+e Mutterliebe : אהבת אֵם
+r Muttermund : צוואר הרחם
+e Muttersprache : שפת אם
 e Mütze (pl. -n) : כובע צמר
 
 = N =
@@ -2630,6 +2643,7 @@ s Nachhinein : דיעבד
   - im Nachhinein : בדיעבד
   - [Akk.] im Nachhinein anzweifeln : to second guess
   - im Nachhinein ist man immer schlauer : קל להיות חכם בדיעבד
+r Nachruf : מודעת אבל
 nách|schlagen, schlug nach, hat nachgeschlagen : לחפש (ערך במילון, ספר), להיוועץ בספר
   - in einem Wörterbuch nachschlagen : לחפש במילון
 in + Dat. nách|stehen : להיות נחות ב־/מבחינת־
@@ -2672,6 +2686,7 @@ neigen : להטות
   - sich neigen : לנטות
   - sich zu + [Dat.] neigen : לנטות ל־
   - dazu neigen, etwas zu sein : לנטות להיות משהו
+r Nekrolog : מודעת אבל
 nennen, nannte, hat genannt [vt.] : לכנות בשם, לקרוא
 nennenswert : ראוי לציון
 nerven [vt.] : לעצבן
@@ -2747,6 +2762,7 @@ s Orchester : תזמורת
 r Orden (= pl.) : מסדר; מדליה
 ordnen [vt.] : לארגן
   - neu ordnen : לארגן מחדש
+r Ordner (= pl.) : תיקיה
 e Organisation : ארגון
 organisiern [vt.] : לארגן
 r Orkan (pl. -e) : הוריקן
@@ -3511,6 +3527,13 @@ r Tisch (pl. -e) : שולחן
   - vom Tisch sein : לא עומד על הפרק; לא על סדר היום
 e Titte (pl. -n) [ugs.] : שד, ציצי
 toben : לזעום; להתפרע
+r Tod : מוות
+e Todesanzeige (pl. -n) : מודעת אבל
+r Todesfall : מקרה מוות
+  - im Todesfall : במקרה של מוות
+s Todeslager (= pl.) : מחנה מוות
+tot [adj.] : מֵת
+r Totschlag : רצח
 e Toilette : בית שימוש
   - auf Toilette gehen : ללכת לבית שימוש
   - auf Toilette sitzen : לשבת על האסלה
@@ -3752,6 +3775,7 @@ s Urteil (pl. -e) : משפט; שיפוט; החלטה, פסיקה
 
 = V =
 e Vagina : נרתיק, וגינה
+Vater (pl. Väter) : אב, אבא
 vehement [adj.] : תקיף, החלטי, נחוש; זועם, רוגע
   - vehemente Kritik : ביקורת נוקבת
 sich verabschieden : להיפרד לשלום
