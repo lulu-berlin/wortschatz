@@ -269,6 +269,7 @@ r Anstoß : דחף (לעשות משהו)
 anstrengend [adj.] : מתיש, מאמץ, מפרך
 e Anstrengung : מאמץ
 anteilig [adj.] : יחסי; פרופורציוני
+e Antwort (pl. -en) : תשובה; מענה
 antworten, antwortete, hat geantwortet [vt.] : לענות ל־
   - auf + [Akk.] antworten : לענות על
   - auf eine Frage antworten : לענות על שאלה
@@ -852,6 +853,7 @@ checken [vt.] : לבדוק
 s Chi : צ'י
 chillen, chillte, gechillt [ugs.] : להירגע
 e Chose : עסק; עניין
+r Computer (= pl.) : מחשב
 
 = D =
 da [adv.] : בנמצא; שם; כאן
@@ -1515,6 +1517,7 @@ freuen : לשמח
   - sich freuen : לשמוח
 r Frevel : פשע
 frieren, fror, ist/hat gefroren [vi.] : לקפוא
+e Frist (pl. -en) : מועד יעד; מגבלת זמן; דד־ליין
 fromm [adj.] : אדוק, קנאי, חסוד, צדקני
 e Fronarbeit : עבודת פרך
 e Front (pl. -en) : חזית
@@ -2330,20 +2333,22 @@ r Kunstfehler : רשלנות פושעת
 r Kuppelbau : מבנה עם כיפה
 e Kurie (Lat. curia) : הקוריה הרומאית
   - Römische Kurie : הקוריה הרומאית
+kurz [adj.] : קצר
+kurzfristig [adj.] : קצר מועד, לטווח קצר
 kuschelig [adj.] : מתרפק, נוח להתכרבל
 kuscheln : להתכרבל; להתגפף
   - sich aneinander kuscheln : להתכרבל ביחד
 küssen, küsste, hat geküsst [vt.] : לנשק
 
 = L =
-lächeln : לחייך
+lächeln, lächelte, hat gelächelt : לחייך
 s Lächeln : חיוך
 lachen, lachte, hat gelacht : לצחוק
   - sich kaputt lachen : להתגלגל מצחוק
 s Lachen : צחוק
 laden, lud, hat geladen [vt.] : לטעון
 s Lager (= pl.) : מחנה
-s Lamm : טלה, שה
+s Lamm (pl. Lämmer) : טלה, שה
 Lammfleisch : בשר טלה
 e Lampe (pl. -n) : מנורה
 s Land (pl. Länder) : ארץ
@@ -2359,11 +2364,13 @@ lang [präp.] : לאורך
 langanhaltend [adj.] : מתמשך
 lange [adv.] : זמן רב, זה זמן רב
 langersehnt [adj.] : נחשק זה זמן רב
+langfristig [adj.] : ארוך טווח; לטווח ארוך
 längst [adv.] : זה זמן רב
   - schon längst
   - längst überfällig
   - längst nicht
   - noch längst nicht : רחוק מ־; עדיין לא
+r Laptop : מחשב נייד, מחשב נישא
 e Last (pl. -e) : עול; נטל; משא; מטען
 lästerlich : מנואץ
 lästern [vt.] : לנאץ, לחלל, לטמא; לרכל, ללכלך על־
@@ -2388,6 +2395,7 @@ s Leben : חיים
 r Lebenslauf : קורות חיים
 s Lebensmittel : מצרכים; מצרכי מזון; אוכל
 s Lebensmittelgeschäft : מכולת
+lebhaft [adj.] : מלא חיים
 s Lederwams : מעיל עור
 legen, legte, hat gelegt : להניח
 lehren : ללמד
@@ -2410,6 +2418,7 @@ r Leib : גוף; בשר; רחם
   - lebendiger Leib : גוף חי
   - mit Leib und Seele : בגוף ובנפש
   - mit Leib und Seele dabei sein : להיות שם בגוף ובנפש
+e Leiche (pl. -n) : גופה
 leicht [adj.] : קל
 s Leid : צער
   - j-m ein Leid antun : לפגוע במישהו; לגרום למישהו צער
@@ -2429,6 +2438,9 @@ e Leine (pl. -n) : רצועה, חבל, חוט
   - die Wäsche fror an der Leine fest : הכביסה קפאה על החבל
   - die Wäsche an die Leine hängen : לתלות את הכביסה על החבל
   - von der Leine lassen : לשחרר מן הרצועה
+r Leiter (= pl.) : ראש, מנהל, דירקטור
+e Leiter (pl. -n) : סולם
+e Leiterin (pl. -nen) : ראש, מנהלת, דירקטורית
 e Lerche : עפרוני
   - Die Lerche trillert. : העפרוני מצייץ
 lernen, lernte, hat gelernt [vt.] : ללמוד
@@ -2816,6 +2828,9 @@ r Politiker (= pl.) : פוליטיקאי
 s Politikum : סוגיה פוליטית
 politisch [adj.] : פוליטי
   - politisch korrekt : פוליטיקלי קורקט
+e Polizei : משטרה
+r Polizist : שוטר
+e Polizistin : שוטרת
 Pommes (pl.) : צ'יפס, טוגנים
 e Pose (pl. -n) : פוזה
 posieren : לדגמן, לעמוד לפני צייר
@@ -2914,6 +2929,7 @@ räudig [adj.] : מטונף, מרופט, קמצני
 real [adj.] : אמיתי
 rechnen [vt.] : לחשב
   - mit + [Dat.] rechnen : לצפות ל־; לקחת בחשבון; להיות מוכן ל־; לסמוך על־
+r Rechner (= pl.) : מחשב; מחשבון; מעבד נתונים
 e Rechnung (pl. -en) : חשבון
 s Recht (pl. -e) : זכות
 recht [adj.] : נכון
