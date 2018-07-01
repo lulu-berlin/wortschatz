@@ -508,6 +508,7 @@ bauen : לבנות
 r Baum (pl. Bäume) : עֵץ
   - "Vnd treib Adam aus / vnd lagert fur den garten Eden den Cherubim mit einem blossen hawenden Schwert / zu bewaren den weg zu dem Bawm des Lebens" [Lutherbibel, Gen 3:24] = וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים [בראשית ג כד]
 beabsichtigen [vt.] : להתכוון, לתכנן
+beanspruchen [vt.] : לדרוש; לקחת (זמן); לאמץ
 beantragen [vt.] : להגיש בקשה
 beargwöhnt : נחשד
   - beargwöhnt werden - זוכה ליחס חשדני
@@ -549,6 +550,7 @@ begegnen, begegnete, ist begegnet : להיפגש
   - [Dat.] begegnen : לפגוש מישהו, להיפגש עם מישהו; להיתקל ב־
   - sich[Dat.] begegnen : להיפגש (זה עם זה)
   - sich zum ersten Mal begegnen : להיפגש בפעם הראשונה
+begehen [vt.] : לבצע (פשע); לבדוק, לבחון
 begehren, begehrte, hat begehrt [vt.] : לחמוד, לחשוק ב־, להיכסף ל־, לחפוץ ב־, לבקש
 s Begehren : תשוקה, חשק
 r Beginn : התחלה, פתיחה
@@ -581,6 +583,7 @@ behaupten + Akk. : לקבוע, לאשר, לטעון
 beheben [vt.] : לטפל ב־(בעיה), לפתור, להסדיר
   - Fehler beheben : לדבג
 r Beichtvater : כומר מוודה
+r Beifall : מחיאות כפיים; תרועה, תהילה, שבח; תשואות
 beí|fügen, fügte bei, beigefügt : להוסיף למשהו
   - "Er hat mit seiner Bewerbung ein Paßbild beigefügt."
 beí|pflichten : לאמץ (חוק, רעיון), להסכים עם־
@@ -592,7 +595,7 @@ s Beispiel : דוגמה
   - zum Beispiel : לדוגמה
 beispielhaft [adj.] : מופתי; לדוגמה, שמהווה דוגמה
 beispielsweise [adv.] : לדוגמה
-béi|steuern [vt.] : לתרום
+beí|steuern [vt.] : לתרום
   - Geld beisteuern : לתרום כסף
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
 bekannt [adj.] : מוכר
@@ -671,6 +674,7 @@ beschwören : להעלות באוב
 beseitigen [vt.] : להיפטר מ
 besiegen : להביס
 besitzen, besaß, hat besessen [vt.] : להיות הבעלים של, להחזיק ב־, שמשהו ברשותו
+besonders [adv.] : במיוחד
 besorgt [adj.] : מודאג
   - besorgt sein : לדאוג, להיות מודאג
 besprechen, besprach, hat besprochen [vt.] : לדון ב־
@@ -891,6 +895,7 @@ dirigieren : לנצח (על תזמורת)
 e Diskussion : דיון
 s Dorf (pl. Dörfer) : כפר
 dösen : לנמנם
+e DPA [kürz für Deutsche presse-Agentur] : סוכנות העיתונות הגרמנית
 dran
   gut dran (sein) : להיות במצב טוב
   besser dran (sein) : להיות במצב יותר טוב
@@ -1030,6 +1035,7 @@ eín|packen : לארוז
 eín|reißen [vt.] : להרוס, להפיל, למוטט
 einsam [adj.] : בודד
   - sich einsam fühlen : להרגיש בודד
+r Einsatz (pl. Einsätze) : שימוש; מחויבות; סיכון
 eín|schätzen [vt.] : להעריך, לעשות הערכה, לתת הערכה
 e Einschätzung : הערכה
 r Einschnitt (pl. -e) : חתך
@@ -1052,6 +1058,7 @@ sich[Dat.] [Akk.] eín|verleiben : לכלול, לשלב, לעשות אסימיל
 eín|verleiben
   - sich[Dat.] einverleiben : לכלול, לשלב, לאגד
 e Einverleibung (pl. -n) : אסימילציה
+e Einweihung : חניכה; כניסה רשמית לתפקיד
 eín|werfen [vt.] : להכניס (מכתב לתיבת המכתבים; מטבע למכונה)
 s Einwerfen : הכנסה (של מטבע)
 eín|willigen : להסכם, לתת הסכמה
@@ -1187,6 +1194,7 @@ ergeben, ergab, hat ergeben [vt.] : להניב, להפיק, להוביל ל, ל�
   - sich aus + [Dat.] ergeben : לצאת מ־, לעלות מ־
   - sich von selbst ergeben : להסתדר מעצמו
   - Sinn ergeben : להיות הגיוני; להיות מתקבל על הדעת
+ergiebig [adj.] : עשיר; עתיר; פרודוקטיבי
 ergötzen : לשעשע
   - sich (an + [Dat.]) ergötzen : לסעוד את ליבו; להשתעשע (ב־)
 ergreifen, ergriff, hat ergriffen [vt.] : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח); לקחת; ללכוד
@@ -1357,6 +1365,8 @@ r Felsen (= pl.) : סלע; צוק
 r Felsendom : כיפת הסלע
 s Fenster (= pl.) : חלון
 fern [adj.] : רחוק, מרוחק
+férn|bleiben : להיעדר; לא להופיע
+s Fernbleiben : היעדרות
 férn|sehen, sah fern, ferngesehen : לצפות בטלוויזיה
 s Fernsehen : טלוויזיה
   - Fernsehen schauen : לצפות בטלוויזיה
@@ -1475,6 +1485,9 @@ e Frontscheibe : שמש
 r Frosch : צפרדע
   - Sei kein Frosch! : נראה אם אתה מעז!
 frühstücken, frühstückte, hat gefrühstückt : לאכול ארוחת בוקר
+r Frust [ugs.] : תסכול
+e Frustration : תסכול
+frustrieren [vt.] : לתסכל
 führen, führte, hat geführt [vt.] : להוביל, לקחת ל־, להדריך, לנהל
   - dieser Weg führt nach ...
 e Führung : הנהלה; הנהגה
@@ -1553,6 +1566,7 @@ gefallen (gefällt), gefiel, hat gefallen : למצוא חן
   - j-m gefallen : למצוא חן בעיני מישהו
 r Gefallen (= pl.) : טובה
   - j-m einen Gefallen tun : לעשות למישהו טובה
+  - an + [Dat.] Gefallen finden : למצוא חן בעיני־	
 gefasst [adj.] : רגוע, שקול, מסוכם
   - kurz gefasst : מסוכם בקצרה
 s Gefolge : פמליה
@@ -1608,6 +1622,7 @@ gelüsten : להשתוקק
 r Gemahl : בעל
 gemäßigt : מתון, מיושב, שקול, ממוצע
 e Gemeinde (pl. -n) : קהילה
+r Gemeindebund : איגוד עיריות
 gemeinsam [adj.] : משותף; הדדי
 gemeinsam [adv.] : ביחד, יחד, יחדיו
 e Gemeinschaft (pl. -en) : קהילה; חיים משותפים
@@ -1647,6 +1662,7 @@ e Gerechtigkeit : צדק, הוגנות
 gern [adv.] : בשמחה
   - etwas gern tun : לרצות לעשות משהו
 geschehen (geschieht), geschah, ist geschehen [vi.] : לקרות, להתרחש
+s Geschehnis (pl. -se) : התרחשות; אירוע
 gescheit [adj.] : חכם, מבריק, פיקח, נבון
 gescheitert [adj.] : כושל, נכשל
 s Geschenk (pl. -e) : מתנה
@@ -1898,7 +1914,7 @@ herum [adv.] : מסביב
 herúnter|fallen : ליפול על הרצפה, ליפול לאדמה 
 herunter|schlucken, schluckte herunter, hat heruntergeschluckt [vt.] : לבלוע; לשתות בלגימה אחת
 hervór|rufen : להביא לידי, לעורר, להעלות
-heucheln, heuchelte : לעשות כאילו
+heucheln, heuchelte, hat geheuchelt : לעשות כאילו
   - Mein Freund heuchelte, nichts von meiner Überraschungsparty zu wissen.
 r Heuchler : צבוע, שעושה כאילו
 heulen, heulte, geheult : לילל
@@ -2039,13 +2055,18 @@ r Inhalt (pl. -e) : תוכן; נושא; עצם העניין
 initiieren : ליזום
 innen [adv.] : פְּנִים
 innenpolitisch [adj.] : פנים־פוליטי, של פוליטיקה פנימית
+insbesondere [adv.] : במיוחד
 insgesamt [adv.] : בסך הכול; באופן כללי; בגדול
+insofern : כְּכָל
 inspirieren : להשרות, להאציל, לעורר
 r Instinkt (pl. -e) : אינסטינקט
 instinktiv [adv.] : באופן אינסטינקטיבי
   - ich habe instinktiv gehandelt : פעלתי באינסטינקטיביות
 s Instrument (pl. -e) : כלי נגינה; אמצעי
-interessiert
+interessieren [vt.] : לעניין; לנגוע ל־
+  - j-n für + [Akk.] interessieren : לעניין מישהו במשהו
+  - sich für + [Akk.] interessieren : להתעניין במשהו
+interessiert [adj.] : מעוניין
   - an + [Akk.] interessiert sein : להיות מעוניין ב־
 r Intimfeind : אויב מושבע, ארכי‏־אויב
 involvieren : לערב
@@ -2211,7 +2232,8 @@ r Krankenwagen : אמבולנס
   - einen Krankenwagen rufen : לקרוא לאמבולנס
 e Krankheit : מחלה
 krepieren : למות
-e Kreuzung : צומת
+s Kreuz : צלב
+e Kreuzung (pl. -en) : צומת
 r Krieg (pl. -e) : מלחמה
   - "Denn wo sich ein Krieg erhübe / möchten sie sich auch zu vnsern Feinden Schlahen" [Lutherbible, Ex 1:10] =  וְהָיָה כִּי־תִקְרֶאנָה מִלְחָמָה וְנוֹסַף גַּם־הוּא עַל־שֹׂנְאֵינוּ [שמות א י]
 r Krieger (= pl.) : לוחם
@@ -2560,6 +2582,7 @@ e Nachtigall : זמיר
 r Nachttisch (pl. -e) : שידת לילה
 nách|trauern, trauerte nach, nachgetrauert
   - + Dat. : להתאבל על, להתחרט על
+s Nachverhandlen : לשאת ולתת מחדש; לדון מחדש בתנאי ההסכם
 r Nachweis : ראיה; אישור
 nachweislich [adj.] : שניתן להציגו או להוכיחו
 nachweislich [adv.] : באופן שניתן להציגו או להוכיחו
@@ -2669,6 +2692,8 @@ Palmsonntag : Palm Sunday
 e Panik : פאניקה
   - in Panik geraten : להיכנס לפאניקה
 panisch : בפאניקה
+Papier (pl. -e) : נייר
+s Papierkram [ugs.] : ניירת
 parieren : to counter
 r Park (pl. -s) : פארק
 parken, parkte, hat geparkt [vt.] : לחנות
@@ -2899,7 +2924,10 @@ rutschen, rutschte, ist gerutscht [vi.] : להחליק
 
 = S =
 r Säbel : סיף
+e Sache (pl. -n) : עניין; מקרה; דבר; נושא
 r Sachse, e Sachsin : סקסוני
+r Sachverhalt (pl. -e) : עובדות; מצב; נסיבות
+r Sachverständiger (= pl.) : מומחה; שמאי
 e Sackgasse (pl. -n) : דרך ללא מוצא
 r Saft : מיץ
   - im eigenen Saft schmoren : להתבשל במיץ של עצמו
@@ -3158,7 +3186,7 @@ r Ski (pl. Ski, Skier) : סקי
   - Ski laufen : לעשות סקי
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
-so [adv.]
+so [adv.] : כך; כה
   - so tun, als ob ... : לעשות כאילו ש־
 s Sofa (pl. -s) : ספה
 sogar [adv.] : אפילו
@@ -3174,6 +3202,9 @@ sonst [adv.] : אחרת; אם לא כן
   - sonst genannt : ידוע גם כ־, הידוע בכינויו
 sonstig [adj.] : אחר; שונות
 Sonstiges : עניין אחר; שונות
+soweit [konj.] : ככל ש־; עד כמה ש־
+r Spähangriff (pl. -e) : מתקפת ריגול
+spähen : להציץ; לחטט
 e Spannung : מתח
   - Spannung aufbauen : לבנות מתח
 spannungsaufbauend : באופן שבונה מתח
@@ -3539,6 +3570,7 @@ sich úm|sehen (sieht sich um), sah sich um, hat sich umgesehen : להסתכל �
 umsonst [adv.] : לשווא
   - Das war nicht umsonst : זה לא היה לשווא
 úm|stimmen [vt.] : לשנות (דעה)
+umstritten [adj.] : שנוי במחלוקת
 r Umsturz : הפיכה
 r Umstürzler : מהפכן
 úm|wälzen, wälzte um, umgewälzt : למחזר, להחליף במשהו חדש, to revolutionize
@@ -3553,6 +3585,7 @@ unausweichlich [adj.] : בלתי־נמנע
 unausweichlich [adv.] : באופן בלתי־נמנע
 unabdingbar [adj.] : חיוני, הכרחי
 unangebracht [adj.] : בלתי הולם; שלא במקומו
+unbestritten [adj.] : מוסכם; שאין עליו עוררין
 und : וְ־
 uneins : מפולג, מפוצל, מחולק
 e Unendlichkeit : אינסוף
@@ -3845,6 +3878,10 @@ verursachen : לגרום ל־
 verurteilen : לגנות; לגזור (מאסר)
 verurteilt [adj.] : נידון
   - zum Scheitern verurteilt sein : להיות נידון לכשלון
+verwahren [vt.] : לאחסן
+verwahrlosen : להיכנס למצב גרוע
+verwahrlost [adv.] : מוזנח
+e Verwahrlosung : הזנחה
 verwehren : לאסור, למנוע
   - j-n den Zutritt verwehren : לאסור את כניסתו של מישהו
   - j-n verwehren, etwas zu tun : לאסור על מישהו לעשות משהו
@@ -3926,9 +3963,12 @@ vorn [adv.] : קדימה
   - da vorn : שם מלפנים
 vorne [adv.] : מלפנים
   - nach vorne : קדימה
+  - von vorne herein : מההתחלה
 vór|nehmen [vt.] : לבצע; להוציא לפועל
   - Änderungen vornehmen : לבצע שינויים
   - sich[Dat.] vornehmen : לקחת על עצמו
+vornherein
+  - von vornherein : מההתחלה
 r Vorort : פרוור
 r Vorrat (pl. Vorräte) : מלאי
 r Vorschlag (pl. Vorschläge) : הצעה
@@ -3937,6 +3977,8 @@ vór|schlagen, schlug vor, hat vorgeschlagen [vt.] : להציע; להמליץ
 vór|stehen : לבלוט החוצה
 vór|stellen, stellte vor, hat vorgestellt [vt.] : להציג (בפני)
   - sich[Dat.] [Akk.] vorstellen : לדמיין משהו
+vorüber|gehen, ging vorüber, ist vorübergegangen [vi.] : לחלוף, לעבור
+vorübergehend [adj.] : זמני
 e Vorwahl : area code, prefix
 r Vorwand : אמתלה; תירוץ
 e Vorwarnung : אזהרה מראש
