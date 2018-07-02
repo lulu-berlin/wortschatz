@@ -102,13 +102,39 @@ r Abdruck (pl. Abdrücke) : הטבעה, טביעה
 áb|ebben, ebbte ab, ist abgeebt [vt.] : לפוג, לשכוך, להתמעט, להצטמצם
 sich áb|drehen : להסתובב לכיוון אחר
 r Abend (pl. -e) : ערב
+  - Guten Abend! : ערב טוב!
   - zu Abend essen : לאכול ארוחת ערב
+  - r Heilige Abend : ערב חג המולד
+  - Abend für Abend : מדי ערב
   - "Da ward aus abend vnd morgen der erste Tag" [Lutherbibel, Gen 1:5] = וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם אֶחָד [בראשית א ה]
+s Abendbrot : ארוחת ערב
+abendlich [adj.] : של ערב
+s Abendessen : ארוחת ערב
+abendfüllend [adj.] : שממלא ערב
+s Abendgymnasium : בית ספר ערב
+e Abendkasse : קופת כרטיסים
+s Abendmahl : סעודה; אכילת לחם הקודש (בנצרות)
+  - das letzte Abendmahl : הסעודה האחרונה
+s Abendrot : שקיעה, דמדומי השקיעה
+abends [adv.] : בערב; מדי ערב; בערבים
+e Abendschule (pl. -n) : בית ספר ערב
+r Abendstern : כוכב הערב
+s Abenteuer (= pl.) : הרפתקה
+e Abenteuerlust : הרפתקנות
 aber : אבל
-r Aberglaube : אמונה טפלה
-abergläubig [adj.] : מאמין באמונות טפלות
+s Aber : אבל
+  - ohne Wenn und Aber : בלי אם ואולי
+r Aberglaube (gen. -n) : אמונה טפלה
+abergläubig [adj.] [selten] : מאמין באמונות טפלות
 abergläubisch [adj.] : מאמין באמונות טפלות
   - Gegenstand abergläubischer Verehrung : פטיש
+abermalig [adj.] [gespr.] : חוזר ונשנה
+abermals [adv.] [gespr,] : עוד פעם
+áb|ernten [vt.] : לקצור הכול, לקצור עד הסוף
+Abertausend : אלפים רבים
+Abertausende : אלפים רבים
+aberwitzig [adj.] : מגוחך, אבסורדי
+áb|erziehen, erzog ab, hat aberzogen [vt.] : לחנך לתרבות רעה, לחנך לרעה
 áb|feuern, feuerte ab, hat abgefeuert [vt.] : לירות, לשגר
 e Abgabe (pl. -n) : שחרור, העברה, מס
 abgedichtet [adj.] : חתום
@@ -4579,6 +4605,8 @@ zú|wenden, wendete zu/wandte zu, hat zugewendet/zugewandt [vt.] : להפנות;
   - j-m das Gesicht zuwenden : להפנות את המבט למישהו
   - [Dat.] Aufmerksamkeit zuwenden : להפנות תשומת לב ל־
   - sich[Akk.] [Dat.] zuwenden : לפנות ל
+zwingen [vt.] : להכריח
+zwingend [adj.] : הכרחי
 r Zwang : כוח; כפיה, כורח, אילוץ
 e Zwangsarbeit : עבודת כפייה
 zwangsläufig [adj.] : בלתי נמנע
