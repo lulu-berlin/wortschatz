@@ -135,6 +135,45 @@ Abertausend : אלפים רבים
 Abertausende : אלפים רבים
 aberwitzig [adj.] : מגוחך, אבסורדי
 áb|erziehen, erzog ab, hat aberzogen [vt.] : לחנך לתרבות רעה, לחנך לרעה
+áb|fahren, fuhr ab, hat abgefahren [vt.] : להסיע, להניע (מכונית) למקום אחר; לנסוע ולחפש את הדרך; לבלות (גלגלים) בנסיעה (במכונית)
+áb|fahren, fuhr ab, ist abgefahren [vi.] : לנסוע למקום אחר; להיות בתנועה
+  - (voll) auf + [Akk.] abfahren [ugs.] : להתרגש מ־, להיות (ממש) בקטע של־
+e Abfahrt : יציאה (לדרך; טיסה, רכבת); נסיעת סקי במורד ההר; מחלף
+abfahrtbereit [adj.] : מוכן ליציאה
+r Abfall : פסולת, אשפה; נפילה (ביכולת); אובדן (אמונה)
+áb|fallen, fiel ab, ist abgefallen [vi.] : לנשור; לרדת למטה (דרך, רחוב); לצאת מזה (משהו למישהו); לאבד אמון ב־; להיעשות גרוע יותר במשהו; ליפול מ־
+  - für j-n abfallen [gespr.] : לצאת מזה משהו למישהו
+  - Was fällt für mich ab? : מה יוצא לי מזה?
+  - von + [Dat.] abfallen : לאבד אמון ב־
+  - neben / gegenüber + [Dat.] abfallen : ליפול מ־ (בערכו, בכוחו)
+  - gegen + [Akk.] abfallen : ליפול מ־ (בערכו, בכוחו)
+abfällig [adj.] : מזלזל, חסר כבוד
+s Abfallprodukt : שארית, פסולת; תוצר לוואי; מוצר שמיוצר מפסולת
+áb|fälschen [vt.] : להסיט, להטות (בספורט, כדי לזייף נצחון)
+áb|fangen [vt.] : ליירט
+r Abfangjäger : מטוס יירוט
+áb|färben [vi.] : להוריד צבע; להשליך לרעה על־
+  - (auf j-n) abfärben : להשליך לרעה (על־)
+áb|fassen [vt.] : לנסח, להכין טיוטה
+áb|faulen [vi.] : להירקב ולנשור
+áb|feiern [vt.] [gespr.] : לקבל ימי חופש בתמורה לשעות נוספות
+áb|fertigen [vt.] : לעשות סידורים (לנסיעה); להתייחס למישהו בצורה עויינת
+e Abfertigung : סידורי נסיעה
+áb|feuern : לירות מכלי נשק
+áb|fieseln, fieslte ab, hat abgefieselt [vt.] [gespr.] : לכרסם
+áb|finden [vt.] : לפצות (על פגיעה או אובדן כסף)
+sich áb|finden : לקבל בברכה
+  - sich mit + [Dat.] abfinden : לקבל בברכה
+e Abfindung (pl. -en) : פיצוי; תגמול
+áb|fischen [vt.] : לדוג עד שלא נשאר מה לדוג
+áb|flachen, flachte ab, hat/ist abgeflacht [vt.] : לשטח
+áb|flachen, flachte ab, ist abgeflacht [vi.] : להיעשות שטוח יותר; להיחלש; להיעשות גרוע יותר
+áb|flauen, flaute ab, ist abgeflaut [vi.] : להיעשות חלש יותר (רעש, רוח, תשוקה)
+áb|fliegen [vi.] : לצאת לדרך (מטוס), לטוס
+áb|fliegen [vt.] : לחפש מסלול בעזרת מטוס
+áb|fließen [vi.] : להתנקז, להתרוקן (מים, נוזל); לזרום החוצה (כסף)
+r Abflug : יציאה לדרך (של מטוס), תחילת הטיסה
+r Abfluss : התנקזות, התרוקנות (של מים); ניקוז, המקום שאליו המים מתנקזים
 áb|feuern, feuerte ab, hat abgefeuert [vt.] : לירות, לשגר
 e Abgabe (pl. -n) : שחרור, העברה, מס
 abgedichtet [adj.] : חתום
@@ -1115,6 +1154,8 @@ düster [adj.] : עגום, קודר
 duzen [vt.] : לפנות באופן לא רשמי (ב־du)
 
 = E =
+e Ebbe : שפל
+  - Ebbe und Flut : שפל וגאות
 ebenbürtig : שווה, ראוי
 ebnen : to level, to smooth
   den Weg ebnen (für etw.) : to pave the way (for s.th.)
@@ -1389,7 +1430,7 @@ erlauben, erlaubte, hat erlaubt : להרשות
 e Erlaubnis (pl. -se) : אישור; אשרה; הרשאה
 erleichtern [vt.] : להקל על־
 e Erleichterung : הקלה
-erleiden [vt.] : לסבול; לספוג
+erleiden, erlitt, hat erlitten [vt.] : לסבול; לספוג
 erlösen : להושיע
   - j-n von + [Dat.] erlösen : להושיע מישהו ממשהו
 r Erlöser : מושיע
