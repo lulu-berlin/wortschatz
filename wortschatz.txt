@@ -175,12 +175,42 @@ e Abfindung (pl. -en) : פיצוי; תגמול
 r Abflug : יציאה לדרך (של מטוס), תחילת הטיסה
 r Abfluss : התנקזות, התרוקנות (של מים); ניקוז, המקום שאליו המים מתנקזים
 áb|feuern, feuerte ab, hat abgefeuert [vt.] : לירות, לשגר
+e Abfolge : רצף, סדר, אחד אחרי השני
+áb|fordern [vt.] : לדרוש
+  - j-m [Akk.] abfordern : לדרוש משהו ממישהו
+áb|fragen [vt./vi.] : לבחון מישהו, להעמיד למבחן, לשאול שאלות כדי לבחון מישהו; לעשות שאילתא
+áb|fressen [vt.] : לזלול עד הסוף, לאכול (חיה) עד הסוף
+áb|frieren, fror ab, ist abgefroren [vi.] : לקפוא למוות
+sich áb|frieren :
+  - Sich[Dat.] [Akk.] abfrieren [gespr.] : קפא למישהו משהו
+e Abfuhr : הסרה; דחייה
+áb|führen [vt.] : לשחרר (עציר)
+áb|führen [vt.] : להעביר כסף, לשלם
+  - [Akk.] (an j-n) abführen : להעביר (למישהו) כסף, לשלם (למישהו)
+áb|führen [vi.] : לשלשל
+s Abführmittel : חומר משלשל
+áb|füllen [vt.] : למלא (נוזל בכלי קטן)
+e Abgabe : מסירה; מכירה; הכרזה על גזר דין
+abgabenfrei [adj.] : פטור ממס
+abgabenpflichtig [adj.] : מחוייב במס
+abgabepflichtig [adj.] : מחוייב במס
+r Abgang : יציאה, עזיבה
+abgängig [adj.] : אבוד, שהלך לאיבוד
+s Abgas : גז פליטה
+abgasarm [adj.] : שאינו פולט הרבה גז
+áb|gaunern, gaunerte ab, hat abgegaunert [vt.]
+  - j-m [Akk.] abgaunern : להשיג משהו ממישהו במרמה, בתחבולה
+abgearbeitet [adj.] : גמור מעייפות (מרוב עבודה)
 e Abgabe (pl. -n) : שחרור, העברה, מס
 abgedichtet [adj.] : חתום
+abgefahren [adj.] [ugs.] : מגניב, אדיר
+áb|gehen, ging ab, ist abgegangen [vi.] : לעזוב (את בית ספר)
 abgerichtet [adj.] : מאומן
+áb|geben (gibt ab), gab ab, hat abgegeben : למסור (עבודה, מבחן); למכור; לוותר על משרה; להודיע רשמית; להעביר משהו מעצמו; לתת למישהו חלק ממשהו; למסור כדור; לאבד (נקודות)
+abgedroschen [adj.] [gespr.] : נדוש, שחוק
+abgefuckt [adj.] [ugs.] : דפוק לגמרי
 áb|grenzen, grenzte ab, hat abgegrenzt : להגביל, לסמן את הגבול
   - sich von + [Dat.] abgrenzen : להיות מובחן מ־, להיבדל מ־
-abgefuckt [adj.] [ugs.] : דפוק לגמרי
 r Abgrund : תהום
   - "Der abgrund spricht / Sie ist in mir nicht" [Lutherbibel Hi 28:14] = תְּהוֹם אָמַר לֹא בִי־הִיא [איוב כח יד]
 áb|haken, hakte ab, abgehakt
@@ -1804,6 +1834,7 @@ gefallen (gefällt), gefiel, hat gefallen : למצוא חן
 r Gefallen (= pl.) : טובה
   - j-m einen Gefallen tun : לעשות למישהו טובה
   - an + [Dat.] Gefallen finden : למצוא חן בעיני־	
+s Gefäß (pl. -e) : כלי, מיכל, צנצנת
 gefasst [adj.] : רגוע, שקול, מסוכם
   - kurz gefasst : מסוכם בקצרה
 s Gefolge : פמליה
