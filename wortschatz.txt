@@ -591,6 +591,7 @@ s Auge (pl. -n) : עין
   - sich die Augen reiben : לשפשף את העיניים
   - unter vier Augen : בארבע עיניים
   - j-m etwas unter vier Augen erzählen : לספר למישהו משהו בארבע עיניים
+r Augenblick : רגע
 aús|bleiben : להישאר בחוץ, להיעדר, לא להופיע
 s Ausbleiben : היעדרות
 aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, לברוח לחופשי
@@ -641,6 +642,9 @@ s Ausmaß (pl. -e) : מידה, היקף, מימדים
   - Zum Glück war das Ausmaß des Schadens begrenzt.
   - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
 aús|radieren : למחוק
+aús|reichen, reichte aus, hat ausgereicht : להספיק; להחזיק (ל־)
+ausreichend [adj.] : מספיק, מספק
+ausreichend [adv.] : באופן מספיק, באופן מספק
 aús|reizen [vt.] : להתיש
 aús|rollen
   - j-m den roten Teppich ausrollen : לפרוש בפני מישהו שטיח אדום
@@ -712,6 +716,7 @@ r Bann : חרם
   - j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 e Bannmeile : איזור ניטראלי
 e Bagatelle (pl. -n) : trifle, small matter, trivial issue
+r Balkon (pl. Balkons / Balkone) : מרפסת
 bändigen [vt.] : לאלף, לשלוט
 e Bank (pl. -en) : בנק
 r Bannstrahl : חרם, נידוי, קללה
@@ -903,7 +908,7 @@ besorgt [adj.] : מודאג
 besprechen, besprach, hat besprochen [vt.] : לדון ב־
 besser : יותר טוב
   - besser werden : להרגיש טוב יותר, להחלים (ממחלה)
-bestätigen, bestätigte, hat bestätigt : לאשר
+bestätigen, bestätigte, hat bestätigt [vt.] : לאשר
 bestaunen, bestaunte, hat bestaunt [vt.] : להתפלא, להתפעל
 bestellen, bestellte, hat bestellt : להזמין (במסעדה; בחנות)
 e Bestellung (pl. -n) : הזמנה
@@ -968,6 +973,7 @@ bezweifeln [vt.] : להטיל ספק ב־
 bezwingen [vt.] : להביס, לגבור על־, להתגבר על־
   - eine Angst bezwingen : להתגבר על פחד
 biegen, bog, hat gebogen [vt.] : לכופף; לסובב
+s Bier (pl. -e) : בירה
 bieten, bot, hat geboten [vt.] : להציע; לספק; להציע מחיר
 s Bild (pl. Bilder) : תמונה
 bilden : לעשות (צורה), להוות, לבנות; לחנך; לייצר
@@ -1023,7 +1029,7 @@ r Brand : שריפה
 e Brandgefahr : סכנת בעירה
 brandgefährlich [adj.] : שעלול להתלקח; מסוכן מאוד
 braten (brät/bratet), briet, hat gebraten [vt.] : לטגן
-brauchen, brauchte, hat gebraucht [vt.] : להצטרף
+brauchen, brauchte, hat gebraucht [vt.] : להצטרך
 braun [adj.] : חום
 e Brause : טוש
 Brausekopf : הראש של הטוש
@@ -1082,6 +1088,7 @@ daheim [adv.] : בבית
   - daheim bleiben : להישאר בבית
   - weg von daheim : הרחק מן הבית
 s Daheim : הבית
+e Dame : גברת
 dämlich [adj.] : טיפש
 danken : להודות
   - [Dat.] danken : להודות ל־
@@ -1686,6 +1693,7 @@ fühlen, fühlte, hat gefühlt : להרגיש
   - sich fit fühlen : to feel fit
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
+e Flasche (pl. -n) : בקבוק
 fleißig [adj.] : חרוץ
 flennen : ליבב, לבכות בכי תמרורים
 fliegen, flog, ist geflogen [vi.] : לטוס
@@ -1896,6 +1904,8 @@ gelagert [adj.] : מאוחסן
 gelähmt [adj.] : משותק
 s Geländer (= pl.) : מעקה; גדר
 gelb [adj.] : צהוב
+s Geld : כסף
+s Geldautomat (pl. -en) : כספומט
 s Geleit (pl. -e) : escort
 s Gelenk : מפרק
 gelingen, gelang, ist gelungen [vt.] : להצליח
@@ -2104,6 +2114,8 @@ habhaft
   einer Sache[Gen.] habhaft werden : to get hold of s.th.
 r Hafen (pl. Häfen) : נמל
 r Hahn (pl. Hahnen/Hähne) : תרנגול
+halb
+  - halb + [Zahl] : חצי שעה לפני־
 halbmast [adv.]
   auf halbmast flaggen / wehen
   halbmast flaggen
@@ -2217,6 +2229,7 @@ herúnter|laden (lädt herunter), lud herunter, hat heruntergeladen [vt.] : לה
 herúnter|schlucken, schluckte herunter, hat heruntergeschluckt [vt.] : לבלוע; לשתות בלגימה אחת
 hervór|bringen : לייצר; לחולל
 hervór|rufen : להביא לידי, לעורר, להעלות
+s Herz (gen. Herzens, pl. Herzen) : לב
 heucheln, heuchelte, hat geheuchelt : לעשות כאילו
   - Mein Freund heuchelte, nichts von meiner Überraschungsparty zu wissen.
 r Heuchler : צבוע, שעושה כאילו
@@ -2318,6 +2331,7 @@ s Hotel (pl. -s) : מלון
 r Hund (pl. -e) : כלב
   - einen Hund ausführen : להוציא כלב לטיול
   - Da liegt der Hund begraben. : פה קבור הכלב
+r Hunger : רעב
 r Hut (pl. Hüte) : כובע
 e Hütte : בקתה
 r Hüttenkäse : גבינת קוטג'
@@ -2515,7 +2529,7 @@ r Kragen (= pl.) : צווארון
   es geht j-m an den Kragen : to have something done against s.o.
 klauben : לקטוף
 Knallbunt [ugs.] : בצבעים חזקים, בצבעים עליזים
-kochen : לבשל, להרתיח
+kochen, kochte, hat gekocht [vt.] : לבשל, להרתיח
 r Kollaps : קריסה
   - plötzlicher Kollaps : קריסה פתאומית
 kollern : להשמיע קול כמו תרנגול הודו
@@ -2861,6 +2875,10 @@ Mitleid
 e Mitsprache : אמירה (במובן של: הזכות או הסמכות לומר משהו)
 r Mittag : צהריים
   - zu Mittag essen : לאכול ארוחת צהריים
+s Mittagessen : ארוחת צהריים
+e Mitte (pl. -n) : אמצע
+e Mitternacht : חצות
+  - um Mitternacht : בחצות הלילה
 e Mitteilung : הודעה; מסר; הכרזה, הצהרה
 s Mittel (= pl.) : אמצעי; כלי; משאב
 r Mittelpunkt (pl. -e) : מרכז, נקודת אמצע, נקודה מרכזית
@@ -2936,6 +2954,7 @@ nách|steuern : to readjust s.th.
 e Nacht (pl. Nächte) : לילה
 e Nachtigall : זמיר
   - Die Nachtigall schlägt. : הזמיר מצייץ
+nachts [adv.] : בלילה; בלילות, מדי לילה
 r Nachttisch (pl. -e) : שידת לילה
 nách|trauern, trauerte nach, nachgetrauert
   - + Dat. : להתאבל על, להתחרט על
@@ -2982,6 +3001,8 @@ s Netzwerk : רשת (תקשורת)
 e Neuordnung : ארגון מחדש
 e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
+nicht : לא
+e Nichte : אחיינית
 níeder|brennen [vt.] : לשרוף, להבעיר, להעלות באש, לכלות בשריפה
 e Niederlage (pl. -n) : תבוסה
 níeder|ringen, rang nieder, niedergerungen : לבלות (לגרום לבלייה), להתאבק עם מישהו
@@ -3043,6 +3064,7 @@ r Ohrendruck : לחץ באוזניים
 e Ohrfeige (pl. -n) : סטירת לחי
 e Ölsardine (pl. -n) : סרדינים בשמן
   - wie die Ölsardinen : כמו סרדינים (על צפיפות)
+r Onkel (= pl.) : דוד
 s Opfer (= pl.) : קורבן
 orange [adj.] : כתום
 s Orchester : תזמורת
@@ -3420,6 +3442,7 @@ r Schlag (pl. Schläge) : מכה
   - Das ist ein Schlag unter die Gürtellinie : זו מכה מתחת לחגורה
 e Schlagsahne : שמנת מתוקה
 e Schlampe (pl. -n) [ugs.] : פרוצה, שרלילה
+schlecht [adj.] : רע, גרוע
 r Schleim (pl. -e) : ליחה
 schlemmen, schlemmte, hat geschlemmt : לסעוד
 schläfrig [adj.] : עייף, מותש
@@ -3501,7 +3524,18 @@ r Schwan (pl. Schwäne) : ברבור
 r Schwanz (pl. Schwänze) : זנב; זין
 schwarz [adj.] : שחור
   - Es ist nicht alles schwarz oder weiß im Leben : לא הכול שחור-לבן בחיים
+r Schwede : שוודי
+Schweden : שוודיה
+e Schwedin (pl. -nen) : שוודית
+schwedisch [adj.] : שוודי
 schweigen : להיות בשקט, לשתוק
+s Schwein (pl. -e) : חזיר
+e Schweiz : שווייץ	
+r Schweizer (= pl.) : שווייצרי
+s Schweizerdeutsch : גרמנית שווייצרית
+schweizerdeutsch [adj.] : גרמני־שווייצרי
+e Schweizerin (pl. -nen) : שווייצרית
+schweizerisch [adj.] : שווייצרי
 e Schwelle (pl. -n) : סף; מפתן; קצה; גבול
 schwer [adj.] : כבד
 schwér|fallen (fällt schwer), fiel schwer, hat schwergefallen : להיות קשה (למישהו)
@@ -3592,6 +3626,7 @@ r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
 so [adv.] : כך; כה
   - so tun, als ob ... : לעשות כאילו ש־
 s Sofa (pl. -s) : ספה
+sofort [adv.] : מיד
 sogar [adv.] : אפילו
 solidarisch [adj.] : סולידרי
   - sich mit + [Dat.] solidarisch zeigen : להביע סולידריות עם
@@ -3731,6 +3766,7 @@ r Strick : חבל
 stricken [vt.] : לסרוג
 s Stricken : סריגה
 r Stuhl (pl. Stühle) : כיסא
+e Stunde (pl. -n) : שעה
 stürzen : ליפול; להתרסק
   - Ich rutschte auf nassem Laub aus und stürzte zu Boden.
   - Der Junge stürzte von einem Stuhl, aber er verletzte sich nicht.
@@ -3951,6 +3987,7 @@ e Überschwemmung : הצפה
 übertragen, übertrug, hat übertragen [vt.] : להעביר, למסור, לשדר
 übertragen [adj.] : שנמסר
 e Übertragung (pl. -en) : העברה; שידור
+überweisen, überwies, hat überwiesen [vt.]: להעביר (כסף)
 überwinden, überwand, hat überwunden [vt.] : להתגבר על־
   - „Der Mensch ist Etwas, das überwunden werden soll.״ [Friedrich Nietzsche, Also sprach Zarathustra]
 überzeugen, überzeugte, hat überzeugt [vt.] : לשכנע
@@ -4021,6 +4058,7 @@ e Unendlichkeit : אינסוף
 unerfreulich [adj.] : לא נעים
 unerhört : מזעזע, שלא נשמע כמותו
 unerklärlich : שלא ניתן להסבירו
+r Unfall (pl. Unfälle) : תאונה; תאונת דרכים
 r Unfug : שטויות; מעשה קונדס; נזק; רעה
   - Mach keinen Unfug! : אל תעשה שטויות
 ungelegen : לא נוח, לא מתאים
@@ -4043,6 +4081,7 @@ r Untergang : מפלה
 únter|gehen, ging unter, ist untergegangen [vi.] : לשקוע (שמש); לרדת למטה; להפסיד
 s Unterholz
   - aus dem Unterholz kommen : לבוא מבין השיחים
+e Unterkunft : מחסה
 únter|legen + Akk. : לשים מתחת
 unternehmen (unternimmt), unternahm, hat unternommen : לקחת על עצמו; לעשות; לפעול; לעסוק ב־
 s Unternehmen (= pl.) : עסק
@@ -4448,6 +4487,8 @@ wahnsinnig [adj.] : משוגע, מטורף
   - j-n wahnsinnig machen : לשגע מישהו, להוציא מישהו מהכלים, להוציא מישהו מדעתו
 wahnsinnig [adv.] : באופן מדהים, בצורה יוצאת דופן
 wahr [adj.] : אמיתי
+während [präp.]: במהלך, תוך כדי, בעת
+  - während + [Gen.] [präp.] : במהלך, תוך כדי, בעת
 wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
   - nicht wahrhaben wollen : לסרב להאמין ש־
@@ -4579,6 +4620,7 @@ e Wirklichkeit : מציאות
   - Die Wirklichkeit ist nicht immer so wie es scheint. : המציאות היא לא תמיד כמו מה שנראה.
 wissen (weiß), wusste, hat gewusst : לדעת; להיות מודע ל־
 s Wissen : ידע; דעת
+  - meines Wissens : למיטב ידיעתי
 e Wissenschaft : מדע
 r Wissenschaftler (= pl.) : מדען
 e Wissenschaftlerin (pl. -nen) : מדענית
@@ -4586,6 +4628,7 @@ r Witwenschleier (= pl.) : רעלת אלמנה
 r Witz (pl. -e) : בדיחה
 witzig [adj.] : מצחיק
 wobei [adv.] : שבאמצעותו, שבעזרתו
+e Woche (pl -n) : שבוע
 r Wodka : וודקה
 wohl [adv.] : היטב; ככל הנראה; אולי
 e Wohnung (pl. -en) : דירה
