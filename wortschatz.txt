@@ -412,23 +412,56 @@ e Ächtung : חרם, נידוי
 r Acker (pl. Äcker) : שדה
 r Ackerbau : חקלאות
 ackern [vt.] : לחרוש
+ADAC [kurz für Allgemeiner Deutscher Auto-mobil-Club]
+addieren [vt.] : לחבר
 ade! [interj.] : להתראות! נאמר בפרידה לזמן רב
+r Adel : אצולה
+adelig [adj.] : אצילי
+adeln : לכבד, לרומם, להאדיר
+e Ader : וריד, עורק
+s Adjektiv (pl. -e) : תואר, אדייקטיב
+r Adler : עיט
 Adleraugen : עיני נץ
   - Adleraugen haben : להיות בעל עיני נץ, לראות היטב
+adoptieren : לאמץ
+s Adressbuch : ספר כתובות
+e Adresse (pl. -n) : כתובת
+adressieren : לְמעֵן
+r Advent : ההתגלות של ישוע, אדוונט
 s Adverb : תואר הפועל, אדוורב
+r Advokat (pl. -en) : עורך דין
+e Affäre (pl. -n) : פרשית אהבים, רומן
 r Affe (pl. -n) : קוף
+r Affekt : הבעת רגש, תגובה רגשית
+e Affenliebe : אהבה מוגזמת
 r Affront : עלבון
 Afrika : אפריקה
+r Afrikaner (= pl.) : אפריקאי
+afrikanisch [adj.] : אפריקאי
+r After : פי הטבעת
+r Agent (pl. -en) : סוכן
+r Aggregatzustand : מצב פיזי
+e Aggression : תוקפנות, אגרסיה
+aggressiv [adj.] : תוקפני, אגרסיבי
 agieren, agierte, hat agiert : לפעול, לנהוג
   - mit kühlem Kopf agieren : לפעול בקור רוח
+e Agitation (pl. -en) : תסיסה
+Ägypten : מצרים
+r Ägypter (= pl.) : מצרי
+e Ägypterin (pl. -nen) : מצריה
+ägyptisch [adj.] : מצרי
 r Ahn (pl. -en) : אב קדמון; קדמון; אבותינו
   - Unsere Ahnen stammen aus ...
+ahnen, ahnte, hat geahnt [vt.] : לנחש; לחוש; לצפות; להעלות על הדעת
 e Ahnentafel : לוח שמציג את אילן היוחסין של האבות הקדמונים
 ähnlich [adj.] : דומה
   - ähnlich sehen : להיראות דומה
 ähnlich + [Dat.] [präp.] : דומה ל־, בדומה ל־, בהיותו דומה ל־
 e Ahnung (pl. -en) : מושג, רעיון
   - Ich habe keine Ahnung : אין לי מושג
+e Akademie (pl. -n) : אקדמיה
+e Akazie (pl. -n) : עץ שיטה
+r Akkord (pl. -e) : אקורד
 akkurat [adj.] : מדויק, מסודר
 akkurat [adv.] : בדיוק רב; בדיוק! ממש!
 akut [adj.] : אקוטי; בוער, דוחק
@@ -3126,6 +3159,7 @@ e Mütze (pl. -n) : כובע צמר
 
 = N =
 nách|äffen [vt.] : לחקות, לעשות חיקוי
+  - j-n nachäffen : לחקות מישהו
 s Nachäffen : חיקוי
 e Nachäfferei : חיקוי
 e Nachahmung : חיקוי
@@ -3320,11 +3354,14 @@ r Piep : צפצוף
 piepen : לצפצף
   - Die Maus piept.
 pinkeln : להשתין
+e Pinzette (pl. -n) : פינצטה
 planen, plante, hat geplant [vt.] : לתכנן
 r Platz (pl. Plätze) : מקום
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
 plaudern : לפטפט
+r Pole (pl. -n) : פולני
 Polen : פולניה
+e Polin (pl. -nen) : פולניה
 e Politik (pl. -en) : פוליטיקה; מדיניות
 r Politiker (= pl.) : פוליטיקאי
 s Politikum : סוגיה פוליטית
@@ -3333,6 +3370,8 @@ politisch [adj.] : פוליטי
 e Polizei : משטרה
 r Polizist : שוטר
 e Polizistin : שוטרת
+s Polnisch : פולנית
+polnisch [adj.] : פולני
 Pommes (pl.) : צ'יפס, טוגנים
 e Pose (pl. -n) : פוזה
 posieren : לדגמן, לעמוד לפני צייר
