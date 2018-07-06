@@ -462,11 +462,27 @@ e Ahnung (pl. -en) : מושג, רעיון
 e Akademie (pl. -n) : אקדמיה
 e Akazie (pl. -n) : עץ שיטה
 r Akkord (pl. -e) : אקורד
+s Akkordeon (pl. -s) : אקורדיון
+r Akku [kurz für Akkumulator] : בטריה, סוללה
+r Akkumulator : אקומולטור; בטריה, סוללה
 akkurat [adj.] : מדויק, מסודר
 akkurat [adv.] : בדיוק רב; בדיוק! ממש!
+r Akkusativ (pl. -en) : אקוזטיב, יחסת הפעול
+e Akne (pl. -n) : אקנה, חזזית, חטטת, פצעון, פצעי בגרות
+r Akrobat (pl. -en) : מתעמל, אקרובט
+e Akrobatik : התעמלות, אקרובטיקה
+akrobatisch [adj.] : אקרובטי
+r Akt : מערכה (במחזה)
+e Akte (pl. -n) : תיקיה, תיק, קובץ
+e Aktie (pl. -n) : מניה
+e Aktion (pl. -n) : פעולה; קמפיין; יוזמה; מבצע
+aktiv [adj.] : אקטיבי
+e Aktualität : אקטואליות, עכשוויות
+aktuell [adj.] : נוכחי, אקטואלי
+e Akustik : אקוסטיקה
+akustisch [adj.] : אקוסטי
 akut [adj.] : אקוטי; בוער, דוחק
 r Akzent : מבטא; טעם, הטעמה
-e Aktie (pl. -n) : מניה
 akzentlos [adv.] : בלי מבטא
   - akzentlos sprechen : לדבר בלי מבטא
 akzeptieren [vt.] : לקבל, להסכים
