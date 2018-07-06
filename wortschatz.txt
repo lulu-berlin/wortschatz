@@ -369,25 +369,48 @@ e Abtreibung : הפלה
 áb|treten : להקצות; להעביר; לוותר על
   - (j-m) [Akk.] abtreten : להקצות משהו למישהו, להעביר משהו למישהו, לוותר על משהו לטובת מישהו
 r Abtrieb : פלט
+áb|trotzten, trotzte ab, hat abgetrotzt [vt.] : להשיג בכוח, לחטוף
 abtrünnig [adj.] : פורש, מתנגד
 abwärts [adv.] : כלפי מטה
   - einen Berg abwärts gehen : לרדת במורד ההר
 ábwärts|gehen, ging abwärts, ist abwärtsgegangen [vi.] : לרדת במדרון, להתדרדר
-áb|trotzten, trotzte ab, hat abgetrotzt [vt.] : להשיג בכוח, לחטוף
+áb|wechseln : להתחלף
+sich áb|wechseln : להתחלף, לעבוד בתורות או במשמרות
+abwechselnd [adj.] : מתחלף
+e Abwechslung : מבחר; שינוי
 abwendbar [adj.] : נמנע, שניתן להימנע ממנו
 áb|wenden, wendete ab/wandte ab, hat abgewendet/abgewandt [vt.] : לצפות, לחמוק מ־
   - die Gefahr abwenden : לחמוק מסכנה
   - seinen Blick abwenden : להסיט את המבט
   - sich abwenden : להתרחק, להפנות את הגב
+áb|wimmeln [vt.] : להיפטר מ־
 áb|wischen, wischte ab, hat abgewischt [vt.] :
   - [Akk.] (von + [Dat.]) abwischen : לנגב משהו הרחק ממשהו
   - [Akk.] abwischen : לנגב משהו כדי לנקותו
+áb|zahlen [vt.] : לשלם (את מלוא הסכום); להחזיר (הלוואה)
+e Abzahlung : תשלום
+s Abzeichen : תג, סמל, סיכה, אות הצטיינות
+áb|ziehen : להוריד, להסיר
+r Abzug : הפחתה, ניכוי; הסגה; העתק
+abzüglich [präp.] : פחות־, מינוס־
+áb|zweigen : להסתעף
 e Abzweigung : צומת, מזלג, פניה
+ach [interj.] : אח!
+  - mit Ach und Krach
+r Achat : ברקת, אכטיס
 s Achselzucken : משיכת כתף
+e Acht : תשומת לב
+acht : שמונה
+achte [adj.] : שמיני
 j-n (für etw.) ächten : to outlaw s.o. (for s.th.)
 achten : to respect, to esteem
   - auf etw. achten : to pay attention to s.th., to take care of s.th.
 ächten : להוציא מחוץ לחוק; לנדות, להחרים
+e Achtung : כבוד; תשומת לב, שימת לב
+Achtung! [interj.] : זהירות!
+e Ächtung : חרם, נידוי
+r Acker (pl. Äcker) : שדה
+r Ackerbau : חקלאות
 ackern [vt.] : לחרוש
 ade! [interj.] : להתראות! נאמר בפרידה לזמן רב
 Adleraugen : עיני נץ
