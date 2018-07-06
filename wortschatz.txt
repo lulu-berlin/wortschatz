@@ -483,15 +483,33 @@ e Akustik : אקוסטיקה
 akustisch [adj.] : אקוסטי
 akut [adj.] : אקוטי; בוער, דוחק
 r Akzent : מבטא; טעם, הטעמה
+akzentfrei [adv.] : בלי מבטא, חופשי ממבטא
 akzentlos [adv.] : בלי מבטא
   - akzentlos sprechen : לדבר בלי מבטא
+akzentuieren : להדגיש
 akzeptieren [vt.] : לקבל, להסכים
+r Alarm : אזעקה
+alarmieren : להזעיק
+albern [adj.] : מטופש, מגוחך
+e Albernheit : מטופשות, מגוחכות
+s Album (pl. Alben) : אלבום
+e Alge (pl. -n) : אצה
+e Algebra : אלגברה
+algebraisch : אלגברי
 alias [präp.]
+s Alibi (pl. -s): אליבי
+r Alkohol : אלכוהול
+alkoholfrei [adj.] : ללא אלכוהול
+r Alkoholiker (= pl.) : אלכוהוליסט
+e Alkoholikerin (pl. -nen) : אלכוהוליסטית
+r Alkoholtest : בדיקת אלכוהול
 all [pron./m.b.]
   - all meine / all deine / all seine
   - all die
 s All : חלל
 alle [pron./m.b.] : כל ה־, כולם
+e Allee (pl. -n) : שדרה
+s Allegro : אלגרו
 allein [adj.] : יחיד, בודד
 allein [adv.] : לבד, בעצמו
 allein [konj.] : אבל, אולם
@@ -499,18 +517,51 @@ r Alleinherscher : שליט יחיד
 allemal [adv.] : תמיד
   - allemal wenn [konj.] : תמיד כש־
   - ein für allemal : אחת ולתמיד
+allenfalls [adv.] : לכל היותר; במקרה הטוב
+allenthalben [adv.] : בכל מקום
+allerbesten
+  - am allerbesten : הכי טוב
+allerdings [adv.] : מכל מקום, אולם, אבל
+e Allergie (pl. -n) : אלרגיה
+allergisch [adj.] : אלרגי
+allerhand : כל מיני סוגים של, כל סוגי ה־
+Allerheiligen : ליל כל הקדושים (ה־1 בנובמבר)
+allerlei : כל מיני סוגים של־
+s Allerlei : שונות
+allerseits [adv.] : מכל הצדדים
 r Allerwertester [ugs.] : תחת
 alles [pron.] : הכול
 allesamt : כולם, כולם ביחד
   - wir allesamt : כולנו
+allezeit [adv.] : תמיד, כל הזמן
 allgegenwärtig : שנמצא בכל מקום
+allgemein [adj.] : כללי; ציבורי; אוניברסלי
+allgemein [adv.] : באופן כללי
+e Allgemeinheit : הציבור הכללי; קהילה
+allgemeingültig [adj.] : בעל תוקף כללי
+e Allgemeingültigkeit : אוניברסליות, תוקף כללי
+e Allianz : ברית
+e Allmacht : יכולת כל, אומניפוטנטיות
+allmächtig [adj.] : כל יכול
 allmählich [adj.] : הדרגתי
 allmählich [adv.] : בהדרגה, לאט לאט, יותר ויותר
-Almosen (pl.) : צדקה, נדבה
+r Alltag : חיי היומיום
+alltäglich [adj.] : יומיומי
+allzeit [adv.] : תמיד, כל הזמן
+allzu [adv.] : מדי, יותר מדי
+  - allzu + [adv.] : יותר מדי
+  - allzu oft : לעתים קרובות מדי
+allzu- [K] : יותר מדי
+e Alm (pl. -en) : מרעה על ההר, הר גבוה
+r Almanach (pl. -e) : אלמנך
+s Almosen (= pl.) : צדקה, נדבה
   - von Almosen leben : לחיות מנדבות
+e Alp : הר גבוה
+s Alphabet : אלפבית
 als : כ, כמו
   - als ob
   - so tun, als ob ... : לעשות כאילו ש־
+also [adv.] : ובכן
 alt [adj.] : זקן
 r Altar : מִזְבֵּחַ
   - "vnd sihe / fur der thür am Tempel des Herrn / zwischen der Halle vnd dem Alter." [Lutherbibel, Ez 8:16] = וְהִנֵּה־פֶתַח הֵיכַל יהוה בֵּין הָאוּלָם וּבֵין הַמִּזְבֵּחַ [יחזקאל ח טז]
@@ -1878,6 +1929,9 @@ fést|setzen, setzte fest, hat festgesetzt [vt.] : לקבוע; לנסח, לצי�
 fést|stellen, stellte fest, hat festgestellt [vt.] : לזהות, לגלות; לתפוש, להבין פתאום, לשים לב
   - Während des Gesprächs stellen wir fest, dass wir aus derselben Stadt waren. : במהלך השיחה תפשנו שאנחנו מאותה עיר.
 fést|ziehen [vt.] : להדק
+s Feuer : אש
+r Feueralarm : גלאי אש
+r Feuerlöscher : מטף
 e Figur (pl. -en) : גזרה, פיגורה; דמות; פסלון
 r Film (pl. -e) : סרט
   - einen Film drehen : לצלם סרט
@@ -1946,6 +2000,7 @@ fortgeschritten [adv.] : באופן מתקדם, באופן מתוחכם
 fórt|schreiten, schritt fort, ist fortgeschritten : להתקדם
 r Fortschritt (pl. -e) : התקדמות
 s Foto : תצלום, צילום
+s Fotoalbum : אלבום תמונות
 e Frage (pl. -n) : שאלה; עניין
   - Fragen aufwerfen : לעורר שאלות
 fragen : לשאול
@@ -2673,6 +2728,7 @@ r Kämpfer (= pl.) : לוחם
 kannibalisch [adj.] : קניבאלי
 kannibalisch [adv.] : באופן קניבאלי
 e Kante (pl. -n) : קצה
+Karfreitag : יום שישי הטוב
 karg [adj.] : דליל
 e Karte (pl. -n) : כרטיס; קלף; מפה; תפריט
 e Kartoffel (pl. -n) : תפוח אדמה
@@ -3833,6 +3889,7 @@ s Schwimmbad : בריכת שחיה
 schwimmen, schwamm, ist geschwommen [vi.] : לשחות
 schwitzen : להזיע
 schwören, schwor, hat geschworen : להישבע
+r Schwung : תנופה; מומנטום; שוונג
 r Schwur (pl. Schwüre) : שבועה
   - seinen Schwur brechen : להפר את שבועתו
 r See (pl. -n) : אגם
