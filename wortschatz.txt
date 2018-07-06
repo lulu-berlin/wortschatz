@@ -213,6 +213,7 @@ abgerichtet [adj.] : מאומן
 abgedroschen [adj.] [gespr.] : נדוש, שחוק
 abgefuckt [adj.] [ugs.] : דפוק לגמרי
 abgeneigt [adj.] : מסויג, שאינו רוצה, שאינו מתלהב מ־, שאינו מעוניין
+abgesehen von [präp.] : פרט ל־, מלבד־
 áb|grenzen, grenzte ab, hat abgegrenzt : להגביל, לסמן את הגבול
   - sich von + [Dat.] abgrenzen : להיות מובחן מ־, להיבדל מ־
 r Abgrund : תהום
@@ -294,33 +295,84 @@ r Abschleppdienst : שירות גרירה
 áb|schleppen [vt.] : לגרור
 áb|schließen, schloss ab, hat abgeschlossen [vt.] : להשלים; לנעול 
 áb|schmirgeln : לשייף (עם נייר זכוכית)
+áb|schneiden [vt.] : לגזום
+r Abschnitt : חתיכה; מאמר; פסקה; פרק; קטע
 áb|schrecken, schreckte ab, hat abgeschreckt : להרתיע
+áb|schreiben : לבטל; להעתיק בכתב
+abschüssig [adj.] : נוטה בשיפוע, משופע, תלול
 áb|schütteln + Akk. : להיפטר מ־, להתנער מ־, להשתחרר מ־
 áb|schwören, schwor ab, hat abgeschworen : לוותר על־, למשוך את ידיו מ־
   - [Dat.] abschwören : לוותר על־, למשוך את ידיו מ־
+absehbar  [adj.] : הנראה לעין (עתיד)
+  - absehbare Zeit : העתיד הנראה לעין
+áb|sehen [vt.] : לחזות (תוצאה), להימנע מ־
+  - [Akk.] absehen : לחזות (תוצאה)
+  - von + [Dat.] absehen : להימנע מ־
 s Abseits : הערה צדדית; בידוד
 abseits [adv.] : הרחק, הצידה
   - sich abseits halten : hold oneself apart
   - sich von + [Dat.] abseits halten : keep aloof from sth.
 abseits + [Dat.] [präp.] : הרחק מ־
-  - abseits von + [Dat.] : הרחק מ־
+  - abseits + [Gen.] [präp.] : הרחק מ־
+  - abseits von + [Dat.] [präp.] : הרחק מ־
 áb|senden [vt.] : לשלוח (מכתב), לשגר (מכתב)
   - einen Brief absenden : לשלוח מכתב
+r Absender (= pl.) : שולח, מוען
 áb|setzen, setzte ab, hat abgesetzt
   - j-n absetzen : להוריד מישהו איפשהו (ממכונית, בהסעה)
+  - den Hut absetzen : להוריד את הכובע
+sich áb|setzen, setzte sich ab, hat sich abgesetzt : ליישב; לערוק
 e Absendung : משלוח
 e Absicht (pl. -en) : כוונה; מטרה; תכלית; יעד
   - ist Absicht : זאת הכוונה
   - ist nicht Absicht : זאת לא הכוונה
   - ist nicht meine Absicht : זאת לא הכוונה שלי
+absolut [adj.] : מוחלט
+r Absolutismus : אבסולוטיזם, רודנות
+e Absolution : סליחה, מחילה, כפרה
+áb|sondern : להפריש
+sich áb|sondern : להתבודד, להסתגר, להתרחק (מחברה)
+absonderlich [adj.] : מוזר, מיוחד, יוצא דופן
+e Absonderung : הפרדה, סגרגציה
+áb|sorbieren [vt.] : לספוג, לקלוט
+e Absorption : ספיגה
+abspenstig [adj.] : בלתי נאמן
+áb|sperren : לסגור; להכריז על שטח סגור; לחסום
+e Absperrung : מחסום
+e Absprache (pl. -n) : היוועצות, עצה אחת, הסכמה, סיכום
+  - nach Absprache : בעצה אחת
 áb|spülen, spülte ab, hat abgespült : לשטוף כלים
   - das Geschirr abspülen : לשטוף את הכלים
+áb|stammen : להיות ממוצא כלשהו
+  - von + [Dat.] abstammen : להיות ממוצא כלשהו
 e Abstammung : מוצא, מקור, ייחוס
+r Abstand : מרחק
 áb|stellen, stellte ab, hat abgestellt [vt.] : להחנות; להניח בצד; להפסיק, לשים סוף ל־
+áb|stimmen : להצביע; להתאים ל־
+  - auf + [Akk.] abstimmen : להתאים ל־
+abstinent [adj.] : שחי חיי פרישות, ששייך להתנזרות
+e Abstinenz : פרישות, התנזרות
+r Abstoß (pl. Abstöße) : בעיטה
+abstrahieren : לתמצת, לתקצר, להכליל, להפשיט
+abstrakt [adj.] : אבסטרקטי
+r Absturz : קריסה, נפילה, צניחה
+áb|stürzen : להתרסק; ליפול; לצנוח
+absurd [adj.] : אבסורדי
+e Absurdität : אבסורד
+r Abt (pl Äbte) : ראש מנזר
+s Abteil (pl. -e) : מחלקה
+abträglich [adj.] : מַזִּיק
 r Abtransport : הסרה; סילוק
 áb|transportieren : לפרוק; להעביר למקום אחר
+áb|treiben : לעשות הפלה, להפיל (עובר)
+e Abtreibung : הפלה
 áb|treten : להקצות; להעביר; לוותר על
   - (j-m) [Akk.] abtreten : להקצות משהו למישהו, להעביר משהו למישהו, לוותר על משהו לטובת מישהו
+r Abtrieb : פלט
+abtrünnig [adj.] : פורש, מתנגד
+abwärts [adv.] : כלפי מטה
+  - einen Berg abwärts gehen : לרדת במורד ההר
+ábwärts|gehen, ging abwärts, ist abwärtsgegangen [vi.] : לרדת במדרון, להתדרדר
 áb|trotzten, trotzte ab, hat abgetrotzt [vt.] : להשיג בכוח, לחטוף
 abwendbar [adj.] : נמנע, שניתן להימנע ממנו
 áb|wenden, wendete ab/wandte ab, hat abgewendet/abgewandt [vt.] : לצפות, לחמוק מ־
