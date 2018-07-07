@@ -627,24 +627,58 @@ anatomisch [adj.] : אנטומי
 án|beten : להעריץ
 án|bieten, bot an, hat angeboten [vt.] : להציע
 r Anbieter (= pl.) : מוֹכֵר, סַפָּק
+r Anblick : מראה, מחזה
 án|dauern [vi.] : להימשך
-e Andacht : תפילה
-s Andenken : מזכרת, זכרון
+andauernd [adj.] : מתמשך, קבוע (לאורך זמן)
+e Andacht : דבקות, מסירות; תפילה
+andächtig [adj.] : דָּבֵק, מסוּר
+s Andenken (= pl.) : מזכרת, זכרון
   - zum Andenken an + [Akk.] [präp.] : לזכר־
-ändern, änderte, hat geändert [vt.] : לשנות
-  - sich ändern : להשתנות, להתגוון, להיות מגוון
+ander [adj.] : אחר
+ander(e)nfalls [adv.] : אחרת
 ander(er)seits : מצד שני
   - einerseits ..., ander(er)seits ...
+anders [adv.] : אחרת; באופן שונה
+andersartig [adj.] : שונה
+e Andersartigkeit : אחרוּת
+andersdenkend [adj.] : חושב אחרת, מתנגד
+r Andersdenkende : חושב אחרת, מתנגד
+e Andersdenkende : חושבת אחרת, מתנגדת
+andersgläubig [adj.] : שונה או או חורג מהמקובל; שאינו אורתודוקסי
 anders(he)rum (adv.) : the other way round
+andermal [adv.] : פעם אחרת
+  - ein andermal : פעם אחרת
+ändern, änderte, hat geändert [vt.] : לשנות
+  - sich ändern : להשתנות, להתגוון, להיות מגוון
+  - sich ändern lassen : להיות ניתן לשינוי
 anderthalb [Zahlwort] : אחד וחצי
   - anderthalb Stunden : שעה וחצי
+e Änderung (pl. -en) : שינוי
 e Aneignung (pl. -en) : ניכוס
+aneinander : אחד על השני, אחד לשני, זה לצד זה
+aneinánder|geraten, geriet aneinander, ist aneinandergeraten : להיתקל ב־, לפגוש ב־
+  - (mit j-m) aneinandergeraten : להיתקל (במישהו), לפגוש (במישהו)
+aneinánder|hängen [vt.] : לשרשר אחד לשני, לחבר זה לזה
+aneinánder|reihen [vt.] : להציב זה לצד זה
+e Aneinanderreihung : הצבה זה לצד זה; הימצאות זה בסמיכות לזה
+e Anekdote (pl. -n) : אנקדוטה
+e Anemone : כלנית
+sich án|erbieten : להציע את עצמו ?
+s Anerbieten : הצעה
 anerkennen : להכיר ב־, להעריך
 án|fachen, fachte an, hat angefacht - להצית, להדליק
 r Anfall : התקף
+anfällig [adj.] : פגיע, נתון ל־, נוטה ל־, רגיש ל־
+  - für + [Akk.] anfällig : נתון ל־, נוטה ל־, רגיש ל־
+e Anfälligkeit : רגישות, פגיעות, נטיה
+r Anfang (pl. Anfänge) : התחלה
+  - von Anfang an : מההתחלה
 án|fangen, fing an, hat angefangen : להתחיל
   - mit + [Dat.] anfangen können : למצוא עניין ב־, זה מדבר אלי
   - nicht viel mit + [Dat.] anfangen können : לא למצוא עניין ב־, זה לא מדבר אלי
+r Anfänger (= pl.) : מתחיל
+anfänglich [adj.] : ראשוני, התחלתי
+anfangs [adv.] : בהתחלה, בראשית, תחילה
 án|fertigen, fertigte an, hat angefertigt [vt.] : לייצר, להכין
 án|flehen, flehte an, hat angefleht [vt.] : להתחנן, להפציר
 sich án|freunden, freundete sich an, sich angefreundet : להתחבר
@@ -652,14 +686,35 @@ sich án|freunden, freundete sich an, sich angefreundet : להתחבר
 etw. án|fordern, forderte an, hat angefordert [vt.] : לבקש; לדרוש
 e Anforderung (pl. -en) : דרישה
 án|fügen : להוסיף
+e Angabe (pl. -n) : מידע; קביעה; ציון; ספציפיקציה
 s Angebot (pl. e) : הצעה; היצע; הצעת מחיר; מבחר
 án|geben, gab an, hat angegeben [vt.] : לסמן, להכריז; להשוויץ
   - etw. angeben : לפרט משהו, לקבוע ספציפית
   - den Ton angeben : לתת את הטון, לקבוע את סדר היום
   - "Auch den Wochentag kann ich nicht angeben." [Die Wand]
+r Angeber (= pl.) : רברבן, שחצן, שוויצר
+angeberisch [adj.] : רברבני, ראוותני; גנדרני, טרזני
+angeblich [adj.] : לכאורה, שנראה, שנדמה
+angeblich [adv.] : לכאורה
+án|gehen, ging an, hat angegangen [vt.] : להיות נוגע ל־, לגעת ל־; לפנות ל־; להתמודד עם־
+  - gegen + [Akk.] angehen : לצאת כנגד־, להילחם ב־
+án|gehen, ging an, ist angegangen [vi.] : להידלק (פנס)
+án|gehören : להשתייך ל־
+angehörig [adj.] : משתייך
+r Angehörige (= pl.) : חבר; משתייך; קרוב משפחה
 angekrochen [adv.] : בזחילה
   - angekrochen zurückkommen : לחזור על ארבע, לחזור בזחילה
+e Angel (pl. -n) : חכה; ציר
+e Angelegenheit (pl. -en) : עניין; נושא; עסק
+r Angelhaken : קֶרֶס
+angenehm [adj.] : נעים; נוח
+e Angesicht : מראה, פני העניין, נוכח
+angesichts [präp.] : לנוכח
+  - angesichts + [Gen.] [präp,] : לנוכח
 angestaubt [adj.] : מאובק; מיושן
+angestellt [adj.] : שכיר
+r Angestellte : שכיר
+e Angestellte : שכירה
 angewiesen [adj.] : תלוי
   - auf + Akk. angewiesen sein : להיות תלוי ב־
 án|greifen, griff an, angegriffen [vt.] : לתקוף, להתקיף
@@ -668,15 +723,29 @@ r Angriff (pl. -e) : מתקפה
 angriffslustig [adj.] : תוקפני, אגרסיבי
 e Angst (pl. Ängste) : פחד, חרדה
   - Angst haben : לפחד
+  - j-m Angst und Bange machen : להפחיד מישהו
+r Angsthase [ugs.] : פחדן
+ängstlich [adj.] : מפוחד, חרד
+ängstigen [vt.] : להפחיד, להחריד
 án|haften, haftete an, hat angehaftet : להיצמד, לדבוק
 án|halten, hielt an, hat angehalten [vt] : להמשיך
   - Es wird nicht lange anhalten : זה לא יימשך לאורך זמן
+r Anhalter (= pl.) : טרמפיסט
+  - per Anhalter fahren : לנסוע בטרמפים
+anhand [präp.] : עם; על ידי, באמצעות
+  - anhand von + [Dat.] [präp,] : על בסיס־
 r Anhang (pl. Anhänge) : נספח;  צרופה, מסמך או קובץ המצורף להודעת דואר אלקטרוני
+án|hängen
 r Anhänger (= pl.) : קרון נגרר; תומך, חסיד, מעריץ
+anhänglich
+s Anhängsel : נספח, תוספת; אביזר
 án|himmeln, himmelte an, angehimmelt : להעריץ
 e Anhöhe (pl. -n) : גבעה
 án|hören, hörte an, hat angehört [vt.] : להקשיב, להאזין
   - sich[Dat.] [Akk.] anhören : להאזין למשהו
+animalisch [adj.] : חייתי
+animieren : לעודד, לעורר לחיים
+r Anis (pl. -e) : אניס
 án|knüpfen, knüpfte an, angeknüpft : לקשור
 án|kommen, kam an, ist angekommen [vi.] : להגיע
   - gut ankommen : להגיע בשלום
@@ -728,6 +797,7 @@ e Ansicht (pl. -en) : מבט; דיעה; אמונה
 án|sprechen, sprach an, hat angesprochen [vt.] : לפנות למישהו; להעלות נושא לדיון
 ansprechend [adj.] : מוצא חן, מושך, מלבב
 án|steigen : להתגבר, לעלות
+án|stellen [vt.] : לשכור (מישהו לעבודה)
 án|stimmen, stimmte an, angestimmt : לפצוח (בשיר)
 r Anstoß : דחף (לעשות משהו)
 án|stoßen : ליזום
@@ -3350,6 +3420,7 @@ e Neuwahl (pl. -en) : reelection
   vorgezogene Neuwahl : snap election
 nicht : לא
 e Nichte : אחיינית
+nichtig [adj.] : ריק, בטל, חסר השפעה
 níeder|brennen [vt.] : לשרוף, להבעיר, להעלות באש, לכלות בשריפה
 e Niederlage (pl. -n) : תבוסה
 níeder|ringen, rang nieder, niedergerungen : לבלות (לגרום לבלייה), להתאבק עם מישהו
@@ -4342,6 +4413,7 @@ r Truthahn : תרנגול הודו
 e Tunte (pl. -n) [ugs.] : הומו
 e Tür (pl. -en) : דלת
   - hinter verschlossenen Türen : בחדרי חדרים
+e Türangel : ציר (של דלת)
 r Türke : טורקי
 e Türkei : טורקיה
 e Türkin : טורקיה
@@ -4536,6 +4608,11 @@ vehement [adj.] : תקיף, החלטי, נחוש; זועם, רוגע
 verabscheuen [vt.] : לתעב, לשטום, לבחול
 verabschieden [vt.] : לאמץ; לשַׁלֵּחַ; להיפרד לשלום
 sich verabschieden : להיפרד לשלום
+veränderbar [adj.] : ניתן לשינוי
+veränderlich [adj.] : משתנה, נתון לשינוי
+verändern [vt.] : לשנות, לערוך שינויים, לבצע שינויים
+verändert [adj.] : ששונה, משונה
+e Veränderung (pl. -en) : שינוי
 verantworten [vt.] : לקחת אחריות על, להצדיק את
   - sich für + [Akk.] verantworten : לענות ל־
 verantwortlich [adj.] : אחראי
