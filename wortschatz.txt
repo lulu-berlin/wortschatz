@@ -796,34 +796,80 @@ s Ansagen (= pl.) : הכרזות
 e Ansicht (pl. -en) : מבט; דיעה; אמונה
 án|sprechen, sprach an, hat angesprochen [vt.] : לפנות למישהו; להעלות נושא לדיון
 ansprechend [adj.] : מוצא חן, מושך, מלבב
+anstatt [präp.] (vgl. Statt) : במקום
+  - anstatt + [Gen.] [präp,] : במקום־
+  - anstatt zu + [Inf.] [präp.] : במקום ל־(מקור)
+án|stimmen, stimmte an, angestimmt : לפצוח (בשיר)
+án|stechen [vt.] : לפתוח (חבית בירה); לנקוב, לחדור
+án|stecken [vt.] : להדביק ב־(מחלה), להעביר (מחלה) למישהו
+  - [Akk.] mit + [Dat.] anstecken : להדביק מישהו ב־(מחלה), להעביר (מחלה) למישהו
+ansteckend [adj.] : מדבק
+e Ansteckung : הדבקה, התפשטות מחלה
 án|steigen : להתגבר, לעלות
 án|stellen [vt.] : לשכור (מישהו לעבודה)
-án|stimmen, stimmte an, angestimmt : לפצוח (בשיר)
+e Anstellung : העסקה
 r Anstoß : דחף (לעשות משהו)
-án|stoßen : ליזום
+án|stoßen : ליזום; להשיק כוסות, להרים כוסית; להתנגש
 án|streben [vt.] : לשאוף ל־; לכוון ל־
   - eine Stelle anstreben
-án|strengen : לנסות
-  - sich anstrengen : להתאמץ (לעשות משהו), לעשות מאמץ
+án|streichen [vt.] : לצבוע
+r Anstreicher (= pl.) : צַבָּע
+án|strengen, strengte an, hat angestrengt : לנסות
+sich án|strengen, strengte sich an, hat sich angestrengt : להתאמץ (לעשות משהו), לעשות מאמץ
 anstrengend [adj.] : מתיש, מאמץ, מפרך
 e Anstrengung : מאמץ
+e Antarktis : אנטרקטיקה
+r Anteil (pl. -e) : חלק; חלק יחסי
 anteilig [adj.] : יחסי; פרופורציוני
+e Anteilnahme : סימפתיה; דאגה
+e Antenne : אנטנה
+anti : אנטי
+r Antialkoholiker (= pl.) : מתנזר ממשקאות אלכוהוליים
+e Antialkoholikerin (pl. -nen) : מתנזרת ממשקאות אלכוהוליים
+Antifa [kurz für Antifaschismus] : אנטי־פשיזם, אנטיפה
+Antifa [kurz für antifaschistisch] : אנטי־פשיסטי
+r Antifaschismus : אנטי־פשיזם
+r Antifaschist : אנטי־פשיסט
+antifaschistisch [adj.] : אנטי־פשיסטי
+antik [adj.] : עתיק
+e Antike : ימי קֶדֶם
+r Antiquar (pl. -e) : אנטיקוואר, חובב עתיקות, אספן עתיקות
+s Antiquariat : חנות עתיקות
+antiquarisch [adj.] : שקשור בעתיקות
+e Antiquität (pl. -en) : ימי קדם; ענתיקה
+s Antlitz (pl. -e) : פנים; ארשת, הבעה
 e Antwort (pl. -en) : תשובה; מענה
 antworten, antwortete, hat geantwortet [vt.] : לענות ל־
   - auf + [Akk.] antworten : לענות על
   - auf eine Frage antworten : לענות על שאלה
+r Anwalt (pl. Anwälte) : עורך דין
+e Anwältin (pl. -nen) : עורכת דין
+r Anwärter (= pl.) : מועמד
+e Anwartschaft : זכות, אישור; מועמדות
+s Anwesen (= pl.) : רכוש; נכס
+anwesend [adj.] : ַנוֹכֵח
+r Anwesende (pl. -n) : הנוכח
+e Anwesende (pl. -n) : הנוכחת
 án|vertrauen : לסמוך על; ספר (סוד)
   - j-m [Akk.] anvertrauen : לסמוך על מישהו עם משהו; לספר (סוד)
+e Anzahl (pl. -en) : מספר; כמות
+e Anzahlung : מקדמה; תשלום ראשון; תשלום מראש
+s Anzeichen (= pl.) : סימן
+án|zeigen [vt.] : להציג; לפרסם; להראות; להודיע
 e Anzeige (pl. -n) : תצוגה; מודעה, מודעת פרסומת; אינדיקציה, סימן; תלונה
   - akustische Anzeige : הודעה קולית
   - numerische Anzeige : תצוגה מספרית
   - klare Anzeige : סימן ברור, אינדיקציה ברורה
   - eine Anzeige erstatten : להגיש תלונה
   - eine Anzeige einreichen : להגיש תלונה
-án|ziehen, zog an, angezogen : למשוך; להיות מושך ל־; להדק (ברגים); ללבוש
+án|ziehen, zog an, hat angezogen [vt.] : למשוך; להיות מושך ל־; להדק (ברגים); ללבוש
   - sich[Akk.] anziehen : להתלבש
   - sich[Dat.] [Akk.] anziehen : להתלבש ב־, ללבוש
 án|zweifeln [vt.] : לחשוד, להטיל ספק, לא לסמוך על
+AOK [kurz für Allgemeine Ortskrankenkasse] : קופת חולים כללית
+apart [adj.] : מרשים, מהמם, בולט
+e Apartheid : אפרטהייד
+s Aparment : דירה
 r Appetit : תיאבון
 applaudieren : למחוא כפיים, לשבח
 e Arbeit (pl. -en) : עֲבוֹדָה
@@ -2141,6 +2187,7 @@ freuen : לשמח
 r Frevel : פשע
 frieren, fror, ist/hat gefroren [vi.] : לקפוא
 e Frist (pl. -en) : מועד יעד; מגבלת זמן; דד־ליין
+frivol [adj.] : קל דעת, טפשי; קל ערך; חסר ערך
 fromm [adj.] : אדוק, קנאי, חסוד, צדקני
 e Fronarbeit : עבודת פרך
 e Front (pl. -en) : חזית
@@ -3692,6 +3739,8 @@ rechtfertigen, rechtfertigte, hat gerechtfertigt [vt.] : להצדיק
   - nicht zu rechtfertigen : בלתי ניתן להצדקה
 rechts [adv.] : ימינה, מימין
   - nach rechts abbiegen : לפנות ימינה
+r Rechtsanwalt (pl. Rechtsanwälte) : עורך דין
+e Rechtsanwältin (pl. -nen) : עורכת דין
 reden, redete, hat geredet : לדבר
   - mit j-m (über + [Akk.]) reden : לדבר עם מישהו (על משהו)
 s Regal (pl. -e) : מדף
