@@ -563,20 +563,67 @@ als : כ, כמו
   - so tun, als ob ... : לעשות כאילו ש־
 also [adv.] : ובכן
 alt [adj.] : זקן
+r Alt : אלט
 r Altar : מִזְבֵּחַ
   - "vnd sihe / fur der thür am Tempel des Herrn / zwischen der Halle vnd dem Alter." [Lutherbibel, Ez 8:16] = וְהִנֵּה־פֶתַח הֵיכַל יהוה בֵּין הָאוּלָם וּבֵין הַמִּזְבֵּחַ [יחזקאל ח טז]
+altbacken [adj.] : מיושן
 r Alte : זקן; חבוב (פנייה ידידותית)
 e Alte : זקנה
 s Alter (= pl.) : גיל; תקופה
+alternativ [adj.] : אלטרנטיבי, חלופי
+e Alternative : אלטרנטיבה, חלופה
 althergebracht : מסורתי
-r Amboss : סדן
+altklug [adj.] : שמקדים להתפתח, מפותח בשביל גילו, שמבכיר להבשיל
+altmodisch [adj.] : מיושן, מחוץ לאופנה
+e Alufolie : נייר אלומיניום
+s Aluminium : אלומיניום
+am [kurz für 'an dem']
+r Amateur : חובבן
+r Amateurfußball : כדורגל חובבני
+r Amboss (pl. -e) : סדן
+e Ameise (pl. -n) : נמלה
+r Ameisenhaufen (= pl.) : קן נמלים
+s Amen : אמן, אמירת אמן
+  - zu allem ja und amen sagen : להגיד להכול כן ואמן
+  - Das ist sicher wie das Amen in der Kirche
 s Amerika : אמריקה
+r Amerikaner (= pl.) : אמריקאי
+e Amerikanerin (pl. -nen) : אמריקאית
+amerikanisch [adj.] : אמריקאי
+s Ammoniak : אמוניאק
+e Amnestie (pl. -n) : חנינה
+amnestieren : לחון
 r Amok : אמוק
   - Amok fahren : להשתולל, להתפרע
   - Amok laufen : לרוץ ריצת אמוק
+amortisieren : לצמצם (חוב)
 e Ampel (pl. -n) : רמזור
+s Ampere : אמפר
+e Amphibie : דּוּחַי
+e Ampulle (pl. -n) : אמפולה
+e Amputation : כריתה
+amputieren [vt.] : לקטוע, לכרות
+e Amsel (pl. -n) : שַׁחֲרוּר
+s Amt (pl. Ämter) : משרד
+amüsieren [vt.] : לשעשע
+sich amüsieren : להשתעשע
+an [adv.] : דולק
+  - an sein : להיות דולק
 an [präp.] : על; ליד; אל
+  - an + [Dat.] [präp.] : על; ליד; אל; ב־(זמן)
+  - an der Wand stehen
+  - an seinem Geburtstag
+  - an + [Akk.] [präp.]
+  - an die Wand stellen 
+  - von + [Dat.] an [präp.] : החל מ־
+analog [adj.] : אנלוגי
+e Analogie (pl. -n) : אנלוגיה
 e Analyse (pl. -n) : ניתוח, אנליזה
+e Ananas (pl. -se) : אננס
+e Anarchie (pl. -n) : אנרכיה
+r Anarchist (pl. -en) : אנרכיסט
+e Anatomie (pl. -n) : אנטומיה
+anatomisch [adj.] : אנטומי
 án|beten : להעריץ
 án|bieten, bot an, hat angeboten [vt.] : להציע
 r Anbieter (= pl.) : מוֹכֵר, סַפָּק
@@ -1037,6 +1084,7 @@ r Beifall : מחיאות כפיים; תרועה, תהילה, שבח; תשואו�
 beí|fügen, fügte bei, beigefügt : להוסיף למשהו
   - "Er hat mit seiner Bewerbung ein Paßbild beigefügt."
 s Bein (pl. -e) : רגל
+r Beinamputierte : קטוע רגל
 beí|pflichten : לאמץ (חוק, רעיון), להסכים עם־
 beißen, biss, hat gebissen [vt.] : לנשוך, לקחת ביס
   - sich[Dat.] auf die Zunge beißen : לנשוך לעצמו את הלשון
@@ -3125,6 +3173,7 @@ meckern : לפעות; להתלונן
 mehrheitlich [adj.] : התומך בגישת "הרוב קובע"
 mehrheitlich [adv.] : על פי החלטת הרוב, באופן כללי
 meilenweit : מרוחק מיילים רבים; במרחק אלפי פרסאות
+e Meise (pl. -n) : ירגזי
 meist [adv.] : לרוב, ברוב המקרים, בדרך כלל
 meistens [adv.] : בדרך כלל, לרוב, ברוב המקרים
 e Melancholie : מלנכוליה
@@ -5058,7 +5107,7 @@ s Zeichen : סימן
 zeichnen, zeichnete, hat gezeichnet [vt.] : לצייר
 e Zeichnung (pl. -en) : רישום, ציור; סקיצה
 zeigen [vt.] : להראות; לסמן
-e Zeit : זמן
+e Zeit (pl. -en) : זמן; זמן־פועל; תקופה
   - Die Zeit ist um. : נגמר הזמן.
   - Wurde auch zeit : הגיע הזמן באמת
   - Zeit verbringen : להעביר את הזמן
@@ -5087,6 +5136,7 @@ e Zigarette (pl. -n) : סיגריה
 s Zimmer (= pl.) : חדר
 e Zitrone (pl. -n) : לימון
 zittern, zitterte, hat gezittert : לרעוד, לרטוט
+e Zitze (pl. n) : פטמה
 zögern : להסס; להסתייג מלעשות משהו
   - ohne zu zögern : מבלי להסס
   - ohne Zögern : בלי היסוס
