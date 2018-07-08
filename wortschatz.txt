@@ -1747,25 +1747,82 @@ r Befehlshaber
 befinden, befand, hat befunden [vt.] : למצוא (משהו בצורה כלשהי)
 sich befinden, befand sich, hat sich befunden : להימצא
 befindlich [adj.]
+beflissen [adj.] : חרוץ, שקדן
+e Beflissenheit : חריצות, שקדנות
+befördern
+e Beförderung
 befragen, befragte, hat befragt [vt.] : לראיין
-befremdlich : מוזר, משונה
+befreien
+r Befreier
+e Befreiung
+e Befreiungsbewegung : תנועת שחרור
+befremden [vt.]
+s Befremden
+befremdlich [adj.] : מוזר, משונה
+e Befremdung
 befriedigen [vt.] : לספק (צורך, תשוקה)
+e Befriedigung
 befriedigend [adj.] : מספק
 befriedigend [adv.] : באופן מספק
+befruchten
+e Befruchtung
+e Befugnis (pl. -se)
+befugt [adj.]
+befürworten
+r Befürworter
+e Befürwortung
+r Begabte
+e Begabtenförderung
+e Begabung (pl. -en)
+begeben
+e Begebenheit
 begegnen, begegnete, ist begegnet : להיפגש
   - [Dat.] begegnen : לפגוש מישהו, להיפגש עם מישהו; להיתקל ב־
+begegnen, begegnete, hat begegnet [vt.] : לפגוש, להיתקל ב־, לעמוד מול
 sich begegnen, begegnete sich, hat sich begegnet : להיפגש
   - sich[Dat.] begegnen : להיפגש (זה עם זה)
   - sich zum ersten Mal begegnen : להיפגש בפעם הראשונה
+e Begegnung
 begehen [vt.] : לבצע (פשע); לבדוק, לבחון
 begehren, begehrte, hat begehrt [vt.] : לחמוד, לחשוק ב־, להיכסף ל־, לחפוץ ב־, לבקש
 s Begehren : תשוקה, חשק
+begehrenswert [adj.] : נחשק
+begeistern [vt.] : לעורר השראה, לעודד, להלהיב, להדהים, להרשים
+begeistert: מורשם, שמשהו מרשים אותו
+e Begeisterung
+begeisterungsfähig [adj.]
+e Begier
+e Begierde
+begierig [adj.]
 r Beginn : התחלה, פתיחה
 beginnen, begann, hat begonnen [vt.] : להתחיל, להחל
 beglaubigen : לאשר (מסמך), להעיד על אותנטיות
-begegnen, begegnete, hat begegnet [vt.] : לפגוש, להיתקל ב־, לעמוד מול
-begeistern [vt.] : לעורר השראה, לעודד, להלהיב, להדהים, להרשים
-begeistert: מורשם, שמשהו מרשים אותו
+e Beglaubigung
+s Beglaubigungsschreiben
+begleiten
+r Begleiter
+e Begleiterscheinung
+s Begleitschreiben
+e Begleitung
+beglücken
+e Beglückung
+beglückwünschen
+e Beglückwünschung
+sich begnügen
+begraben
+s Begräbnis
+begreifen
+begreiflich
+begreilicherweise
+r Begriff (pl. -e)
+begrifflich
+begriffsstutzig
+begründen
+r Begründer
+e Begründung
+begrüßen
+begrüßenswert [adj.]
+e Begrüßung
 begleiten, begleitete, hat begleitet [vt.] : ללוות
 j-n begnadigen : לחון
 e Begnadigung : חנינה
@@ -1784,12 +1841,24 @@ e Begründerin (pl. -nen) : מייסדת
 e Begründung : סיבה, הצדקה, עילה, הסבר
 begrüßen, begrüßte, hat begrüßt [vt.] : לברך לשלום; להעריך, לראות במשהו שינוי מבורך
   - Die Angestellten begrüßen die neue Strategie der Firma.
+behäbig [adj.]
+e Behäbigkeit
 behagen : לְרַצּוֹת
+s Behagen
 behaglich [adj.] : נוח; נעים
 e Behaglichkeit : נוחות
 behalten, behielt, hat behalten [vt.] : לשמור
+r Behälter
+s Behältnis
+behandeln
+e Behandlung
+e Behandlungsweise : טיפול; צורת טיפול, דרך טיפול
 beharren : להתמיד, להתעקש
   - auf etw.[Dat.] beharren : להתעקש על משהו
+beharrlich [adj.] : עקשן, עקשני, מתמיד
+e Beharrlichkeit
+e Baharrung
+s Beharrungsvermögen
 behaupten + Akk. : לקבוע, לאשר, לטעון
   - sich gegen j-n behaupten : להתייצב כנגד מישהו
 beheben [vt.] : לטפל ב־(בעיה), לפתור, להסדיר
@@ -2902,6 +2971,7 @@ r Gefallen (= pl.) : טובה
 s Gefäß (pl. -e) : כלי, מיכל, צנצנת
 gefasst [adj.] : רגוע, שקול, מסוכם
   - kurz gefasst : מסוכם בקצרה
+geflissentlich [adj.] : מכוון; מחושב; שקול
 s Gefolge : פמליה
 e Gefolgschaft : קבוצת החסידים
 s Gefüge : מבנה, מארג, מסגרת
@@ -4713,6 +4783,7 @@ selbig : אותו (אחד)
 selbst [adv.] : בעצמו
 Selbst- [K] : ־עצמי
 e Selbstbedienung : שירות עצמי
+e Selbstbefriedigung : סיפוק עצמי; אוננות
 e Selbstdarstellung : self-portrayal, self-representation
 selten [adj.] : נדיר
 selten [adv.] : לעתים רחוקות
@@ -5817,6 +5888,8 @@ wobei [adv.] : שבאמצעותו, שבעזרתו
 e Woche (pl -n) : שבוע
 r Wodka : וודקה
 wohl [adv.] : היטב; ככל הנראה; אולי
+s Wohlbehagen
+  - mit Wohlbehagen
 e Wohnung (pl. -en) : דירה
 s Wohnzimmer (= pl.) : סלון
 r Wolf (pl. Wölfe) : זאב
