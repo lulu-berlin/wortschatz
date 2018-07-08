@@ -1120,6 +1120,8 @@ aúf|fassen : לתפוש, להבין, לקחת כ־
   - als + [Akk.] auffassen : לראות כ־, לתפוש כ־, לקחת כ־
   - [Akk.] als Scherz auffassen : לקחת משהו כבדיחה
   - [Akk.] falsch auffassen : להבין לא נכון
+e Auffassung
+e Auffassungsgabe
 j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   - Der Lehrer forderte die Schüler, pünktlich zu sein.
   - Die Website forderte mich auf, ein neues Passwort einzugeben.
@@ -1127,32 +1129,64 @@ j-n aúf|fordern : to request, to ask, to urge, to prompt, to call on
   - j-n auffordern, Farbe zu bekennen : לחשוף את הבלוף של מישהו
 e Aufforderung : request, invitation, solicitation, reminder
   letzte Aufforderung : last reminder
+aúf|frischen
 aúf|führen [vt.] : לבצע; לערוך רשימה
 aúf|gabeln, gabelte auf, hat aufgegabelt
   - + Akk. : לאסוף מישהו (באוטו)
+e Aufgabe
+aúf|geben
+aufgebläht [adj.]
 aufgeblasen [adj.] [ugs.] : מלא מעצמו
+aufgedunsen [adj.]
+r Aufgang
+aúf|gehen
 aufgezehrt : אכול, משומש, ממוצה
+aufgrund [präp.] : בשל
+  - aufgrund + [Gen.] [präp.] : בשל
+aúf|haben
 aúf|halten : לעצור, לעכב, למנוע
+aúf|hören, hörte auf, hat aufgehört [vt.] : להפסיק
+aúf|klären
+e Aufklärung
 aúf|kreuzen : להופיע (פתאום)
+r Auflauf
 aúf|legen, legte auf, hat aufgelegt : לנתק (את הטלפון)
+aúf|lehnen
+e Auflehnung
 aúf|lösen, löste auf, hat aufgelöst [vt.] : למוסס; לפתור; לבטל
   - den Vertrag auflösen : להפסיק את החוזה
   - sich auflösen : להתפזר (לכל עבר), להתפוגג
   - sich in Luft auflösen : להתפוגג באוויר
+aúf|machen
+r Aufmacher
+e Aufmachung
+aufmerksam [adj.]
+e Aufmerksamkeit
 aúf|muntern [vt.] : לשמח, לעודד, להצהיל
 aufmüpfig [adj.] : מרדני
+e Aufnahme (pl. -n)
+e Aufnahmeprüfung
+aúf|nehmen
 aúf|passen : לשים לב
 aúf|polieren + Akk. : להבריק, לחדש (תדמית)
+aúf|raffen
+aúf|räumen
 aufrecht [adj.] : זקוף, ישר, מאונך
 aúfrecht|erhalten, erhielt aufrecht, hat aufrechterhalten [vt.] : לשמר, לתחזק, להחזיק (בחיים), לגרום שיימשך
   - den Kontakt aufrechterhalten : להישאר בקשר
 aúfrecht|halten : להחזיק; לשמר
+aúf|reißen [vt.]
 aúf|regen, regte auf, hat aufgeregt [vt.] :  לרגש; להתסיס, לעצבן, להציק
   - sich aufregen : להתרגש; להיות מודאג
   - sich unnötig aufregen : לדאוג בלי סיבה
   - sich über + [Akk.] aufregen : להתרגז בגלל משהו, להתעצבן על משהו
+aufregend [adj.]
 e Aufregung (pl. -en) : התרגשות; מהומה, המולה
 aúf|reiben : לבלות, לשחוק, לרפט, להתיש, להלאות, לייגע
+aúf|reizen
+aúf|richten
+aufrichtig [adj.]
+r Aufriss (pl. -e)
 r Aufruf (pl. -e) : קריאה, הזמנה; שיחת טלפון
 aúf|rufen [vt.] : לקרוא ל־; לזמן; לפתוח (אתר אינטרנט), להעלות (אתר אינטרנט)
 r Aufruhr : מהומה, התפרעות
