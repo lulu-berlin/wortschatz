@@ -1052,24 +1052,67 @@ e Astronomie
 astronomisch [adj.]
 s Asyl (pl. -e)
 s Atelier (pl. -s)
-e Atmosphäre : אטמוספירה
-s Attentat : רצח, התנקשות
+r Atem : נשימה
+r Atheismus
+r Atheist (pl. -en) : אתאיסט
+atheistisch [adj.]
+r Äther
+ätherisch [adj.]
+r Athlet (pl. -en) : אתלט
+athletisch [adj.] : אתלטי
+r Atlantik
+atlantisch [adj.]
+r Atlas (pl. -ses) : אטלס
+e Atmosphäre (pl. -n) : אטמוספירה
+atmosphärisch [adj.]
+s Atom (pl. -e) : אטום
+atomar [adj.]
+e Atombombe
+e Atomenergie
+r Atomkern
+r Atomkraftgegner
+s Atomkraftwerk
+e Atomrakete
+r Atomreaktor
+e Atomwaffe (pl. -n)
+s Attentat (pl. -e) : רצח, התנקשות
 r Attentäter (= pl.) : מתנקש, רוצח
+s Attest (pl. -e)
+e Attraktion (pl. -en)
+attraktiv [adj.]
+e Atrappe (pl. -n)
+s Attribut (pl. e)
+ätzen : לחרוט, לצרוב, לגלף
+e Au(e) (pl. -en)
 auch : גם
   - oder was auch immer : או מה שזה לא יהיה
   - oder wann auch immer : או מתי שזה לא יהיה
   - oder wer auch immer : או מי שזה לא יהיה
+e Audienz (pl. -en)
 auf [präp.] : על; ב־(שפה)
+aúf|bauen
 aúf|begehren, begehrten auf : למרוד
 s Aufbegehren : מרד
 aufbegehrend : מרדני
+aúf|bewahren
+e Aufbewahrung
+aúf|binden
 aufbrausend : מהיר־חימה
+aúf|brechen
 r Aufbruch : התפרצות, התעוררות, עזיבה
 e Aufbruchstimmung : אווירת עזיבה
 aúf|decken [vt.] : לזהות; לחשוף
+aúf|drängen
+aufdringlich
+aufeinander
+aufeinander|treffen
+aufeinander|folgen
+aufeinanderfolgend
+r Aufenthalt (pl. -e) : שהיה
+e Auferstehung : תחיה, קימה מן המתים
 aúf|fallen : למשוך תשומת לב, להתבלט, להיות ראוי לציון
   - nicht auffallen : לא להתבלט
-auffallend : ראוי לציון
+auffallend [adj.] : ראוי לציון
 auffällig : conspicuous, apparent
   auffällig werden : become apparent
   Auffällig ist: ...
