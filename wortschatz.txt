@@ -1245,6 +1245,7 @@ e Auktion (pl. -en) : מכירה פומבית
 r Auktionator
 e Aula (pl. Aulen, Aulas) : אולם, אודיטוריום
 aus [präp.]
+ausbedungen [adj.] : שהוסכם עליו, המוסכם
 aús|bessern
 aús|bleiben : להישאר בחוץ, להיעדר, לא להופיע
 s Ausbleiben : היעדרות
@@ -1650,40 +1651,102 @@ beachten
 beachtenswert [adj.]
 beachtlich
 e Beachtung
+r Beamte (gen. -n, pl. -n) : פקיד
+e Beamtin (pl. -nen) : פקידה
 beanspruchen [vt.] : לדרוש; לקחת (זמן); לאמץ
+e Beanspruchung
+beanstanden
+e Beanstandung
 beantragen [vt.] : להגיש בקשה
+bearbeiten
+e Bearbeitung
 beargwöhnt : נחשד
   - beargwöhnt werden - זוכה ליחס חשדני
+r Beat (pl. -s)
+e Beatmusik
 beauftragen [vt.] : להורות; למנות
 beauftragt [adj.] : ממונה
 r Beauftragte : הממונֶה
 e Beauftragte : הממונָה
+beben
+s Beben
+s Becken (= pl.)
+r Beckenbruch
+r Beckenbrand
+r Beckenschläger
+bedacht [adj.] : זהיר
+r Bedacht : זהירות
+  - mit Bedacht : בזהירות
+bedächtig [adj.]
+bedachtsam
 r Bedarf : צורך
+  - nach Bedarf : לפי הצורך
   - kein Bedarf : אין צורך
+r Bedarfsfall
+bedauerlich
+bedauern [vt.]
+s Bedauern
+bedauernswert
 bedecken : לכסות
+bedeuten
+bedeutend [adj.]
+bedautsam [adj.]
 e Bedeutung : משמעות
   - von Bedeutung sein : להיות חשוב, להיות בעל־חשיבות
+bedeutungslos [adj.]
+bedeutungsvoll [adj.]
+r Bedeutungswandel
+bedienen [vt.]
+sich bedienen
+Bedienstete
+e Bedienung
+bedingen, bedingte, hat bedingt [vt.]
 e Bedingung (pl. -en) : תנאי
   - einzige Bedingung : התנאי היחיד
   - notwendige Bedingung : תנאי הכרחי
 bedingungslos [adv.] : ללא תנאים
   - j-n bedingungslos lieben : לאהוב מישהו ללא תנאים
+bedrängen
+e Bedrängnis
+e Bedrängung
 e Bedrängnis : מצוקה, צרה, יסורים
+bedrohen
+bedrohlich [adj.]
+e Bedrohung (pl. -en)
+r Beduine (gen. -n, pl. -n) : בדואי
+bedürfen (bedarf), bedurfte, hat bedurft : להצריך
+  - [Dat.] bedürfen : להצריך
+s Bedürfnis
+bedürfnislos [adj.]
+bedürftig [adj.]
+s Beefsteak (pl. -s) : ביפסטיק, נתח בקר מטוגן או צלוי
 sich beeilen : להזדרז
+beeinflussbar [adj.] : נוח להשפעה
 beeinflussen [vt.] : להשפיע על־
-beerdigen [vt.] : לקבור
-e Beerdigung : לוויה; קבורה
+e Beeinflussung
 beeindrucken [vt.] : להרשים
   - leicht zu beeindrucken : נוח להרשים, אשר ניתן להרשימו בנקל
   - nicht zu beeindrucken : שלא ניתן להרשימו
   - tief beeindrucken : להרשים עמוקות
 beenden [vt.] : לגמור, לסיים, להשלים; להפסיק; לסגור; לסכם; לצאת מ־
 beendet [adj.] : נגמר; שהסתיים
+e Beendung
+beendigen [vt.] : לסיים, להפסיק
+e Beendigung (pl. -en)
+beerdigen [vt.] : לקבור
+e Beerdigung : לוויה; קבורה
 e Beere (pl. -n) : גרגר יער
+s Beerenobst
+s Beet (pl. -e)
+befangen
 r Befehl (pl. -e) : פקודה
 befehlen (befiehlt), befahl, hat befohlen [vt.] : לפקוד, להורות, לתת פקודה, לתת הוראה
+befehligen
+e Befehlsform
+r Befehlshaber
 befinden, befand, hat befunden [vt.] : למצוא (משהו בצורה כלשהי)
-  - sich befinden : להימצא
+sich befinden, befand sich, hat sich befunden : להימצא
+befindlich [adj.]
 befragen, befragte, hat befragt [vt.] : לראיין
 befremdlich : מוזר, משונה
 befriedigen [vt.] : לספק (צורך, תשוקה)
@@ -1691,6 +1754,7 @@ befriedigend [adj.] : מספק
 befriedigend [adv.] : באופן מספק
 begegnen, begegnete, ist begegnet : להיפגש
   - [Dat.] begegnen : לפגוש מישהו, להיפגש עם מישהו; להיתקל ב־
+sich begegnen, begegnete sich, hat sich begegnet : להיפגש
   - sich[Dat.] begegnen : להיפגש (זה עם זה)
   - sich zum ersten Mal begegnen : להיפגש בפעם הראשונה
 begehen [vt.] : לבצע (פשע); לבדוק, לבחון
@@ -1720,6 +1784,9 @@ e Begründerin (pl. -nen) : מייסדת
 e Begründung : סיבה, הצדקה, עילה, הסבר
 begrüßen, begrüßte, hat begrüßt [vt.] : לברך לשלום; להעריך, לראות במשהו שינוי מבורך
   - Die Angestellten begrüßen die neue Strategie der Firma.
+behagen : לְרַצּוֹת
+behaglich [adj.] : נוח; נעים
+e Behaglichkeit : נוחות
 behalten, behielt, hat behalten [vt.] : לשמור
 beharren : להתמיד, להתעקש
   - auf etw.[Dat.] beharren : להתעקש על משהו
@@ -1742,6 +1809,7 @@ s Beispiel : דוגמה
   - zum Beispiel : לדוגמה
 beispielhaft [adj.] : מופתי; לדוגמה, שמהווה דוגמה
 beispielsweise [adv.] : לדוגמה
+beí|stehen
 beí|steuern [vt.] : לתרום
   - Geld beisteuern : לתרום כסף
 r Beitrag (pl. Beiträge) : תרומה; מאמר; חוב; פוסט;
@@ -1968,11 +2036,13 @@ e Brause : טוש
 Brausekopf : הראש של הטוש
 brechen (bricht), brach, hat gebrochen [vt.] : לשבור
 brennen, brannte, hat gebrannt : לבעור, לשרוף (כאב)
+s Brett (pl. -er) : לוח עץ
 brillieren, brillierte, hat brilliert : לזהור, להיות מבריק, להיות גאוני
 bringen, brachte, hat gebracht [vt.] : להביא
   - ein Kind zur Welt bringen : להביא ילד לעולם
 brodeln : לבעבע; לרתוח
 s Brodeln : בעבוע
+e Brombeere (pl. -n) : אסנה, פרי אכיל דומה לפטל בצבע סגול־שחור
 r Bruder : אח
 brüllen : לשאוג
   - Der Ochse brüllt.
@@ -2574,6 +2644,8 @@ e Fasson : סגנון, אופנה
 faul [adj.] : עצלן
 faulenzen : להתעצל; להתבטל
 s Faustpfand : קלף מיקוח
+fechten (ficht), focht, hat gefocht : לסייף
+s Fechten : סיוף
 fegen [vt.] : לטאטא
 fehlen, fehlte, hat gefehlt : להיות חסר; להיעדר; לא להימצא, לא להיות בנמצא
 s Fehlen : מחסור; היעדר
@@ -2770,6 +2842,7 @@ gackern : לקרקר (כמו תרנגול)
   - Die Henne gackert. : התרנגולת מקרקרת
 gähnen, gähnte, hat gegähnt [vi.] : לפהק
 s Gähnen : פיהוק
+e Gage (pl. -n) : משכורת, שכר, תשלום
 r Gangster (= pl.) : גנגסטר
   - „möchte gern״ Gangster : וואנאבי גנגסטר
 e Gans (pl. Gänse) : אווז
@@ -3612,6 +3685,7 @@ lachen, lachte, hat gelacht : לצחוק
 s Lachen : צחוק
 laden, lud, hat geladen [vt.] : לטעון
 s Lager (= pl.) : מחנה
+lallen : למלמל
 s Lamm (pl. Lämmer) : טלה, שה
 Lammfleisch : בשר טלה
 e Lampe (pl. -n) : מנורה
@@ -3742,6 +3816,8 @@ liefern : לשלוח
 lila [adj.] : סגול
 e Lippe (pl. -n) : שפה
   - sich auf die Lippen beißen : לנשוך את השפתיים
+lispeln : להגות בצורה לקויה
+  - „Mein lispelnd Lied״ [Goethe, Faust]
 e List (pl. -en) : עורמה
 r LKW (= pl.) [kurz für Lastkraftwagen] : משאית
 s Loch (pl. Löcher) : חור
@@ -4635,6 +4711,8 @@ segeln, segelte, gesegelt : לשוט, להפליג
 segnen : לברך
 selbig : אותו (אחד)
 selbst [adv.] : בעצמו
+Selbst- [K] : ־עצמי
+e Selbstbedienung : שירות עצמי
 e Selbstdarstellung : self-portrayal, self-representation
 selten [adj.] : נדיר
 selten [adv.] : לעתים רחוקות
@@ -4827,6 +4905,7 @@ r Strich (pl. -e) : קו, מקף
 r Strick : חבל
 stricken [vt.] : לסרוג
 s Stricken : סריגה
+r Strudel : מערבולת, סחרור; סוג של עוגה
 r Stuhl (pl. Stühle) : כיסא
 e Stunde (pl. -n) : שעה
 stürzen : ליפול; להתרסק
@@ -5006,6 +5085,7 @@ r Trotz : התרסה; כֵּסֶל
 trotzdem [adv.] : למרות הכול; למרות זאת; בכל זאת
 r Trotzkopf (pl. Trotzköpfe) : עקשן
 trotzten + Dat. : to defy, to outdare, to brave, to affront
+e Trübsal : מצוקה, יסורים
 trügen [vt.] : להשלות, להוליך שולל
 trügerisch [adj.] : מתעתע; מוליך שולל; מטעה
 r Truthahn : תרנגול הודו
@@ -5608,6 +5688,8 @@ s Waschbecken (= pl.) : כיור
 waschen : לשטוף, לרחוץ
 e Waschmaschine (pl. -n) : מכונת כביסה
 r Wasserhahn (pl. Wasserhähne) : ברז
+s Watt : וואט
+e Watte : כותנה
 wechselhaft [adj.] : מתחלף; משתנה
 wecken, weckte, hat geweckt [vt.] : להעיר
 wedeln, wedelte, hat gewedelt : לכשכש
@@ -5753,13 +5835,14 @@ wortgewaltig [adj.] : חזק במילים, רהוט
 e Wucht : השפעה עוצמה; חתיך
   - mit voller Wucht : בכל הכוח
   - volle Wucht : מלא עזוז
+e Wunde : פצע
 s Wunder (= pl.) : פלא, נס
 sich wundern : לתהות, להתפלא
+wunderschön [adj.] : יפהפה
 wünschen : לאחל; לחשוק ב־, להיכסף ל־, לחפוץ, לבקש
   - j-m [Akk.] wünschen : לאחל משהו למישהו
   - j-m einen guten Morgen wünschen : לאחל למישהו בוקר טוב
   - sich[Dat.] [Akk.] wünschen : לרצות, לחפוץ במשהו, להיכסף למשהו; לאחל לעצמו משהו
-wunderschön [adj.] : יפהפה
 e Würde (pl. -n) : כבוד; ערך עצמי
   - in Würde : בְּחֵן, בכבוד
   - seine Würde : כבודו
