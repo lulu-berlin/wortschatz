@@ -904,20 +904,83 @@ e Anzeige (pl. -n) : תצוגה; מודעה, מודעת פרסומת; אינדי
 AOK [kurz für Allgemeine Ortskrankenkasse] : קופת חולים כללית
 apart [adj.] : מרשים, מהמם, בולט
 e Apartheid : אפרטהייד
-s Aparment : דירה
-r Appetit : תיאבון
+s Apartment (pl. -s) : דירה
+apathisch [adj.] : אפתי, אדיש, שווה נפש
+r Apfel (pl. Äpfel) : תפוח
+e Apfelsine (pl. -n) : תפוז
+e Apokalypse (pl. -n) : אפוקליפסה
+apokalyptisch [adj.]
+r Apostel (= pl.)
+apostolisch [adj.]
+r Apostroph (pl. -e) : גרש
+e Apotheke (pl. -n) : בית מרקחת
+r Apotheker (= pl.) : רוקח
+e Apothekerin (pl. -nen) : רוקחת
+r Apparat (pl. -e)
+s Appartement (pl. -s)
+r Appell (pl. -e)
+r Appetit (pl. -e) : תיאבון
+appetitanregend [adj.] : מעורר תיאבון
+appetitlich [adj.]
 applaudieren : למחוא כפיים, לשבח
+r Applaus
+e Apposition (pl. -en)
+s Aquarell (pl. -e)
+e Aquarellfarbe (pl. -n)
+aquarellieren
+s Aquarium (pl. Aquarien) : אקוואריום
+r Äquator
+äquatorial
+e Ära (pl. Ären) : תקופה
+r Araber (= pl.) : ערבי
+e Araberin (pl. -nen) : ערביה
+s Arabien : ערב
+  - Saudi Arabien : ערב הסעודית
+s Arabisch : ערבית
+arabisch [adj.] : ערבי
 e Arbeit (pl. -en) : עֲבוֹדָה
   - "Man drücke die Leute mit arbeit" [Lutherbibel, Ex 5:9] = תִּכְבַּד הָעֲבֹדָה עַל־הָאֲנָשִׁים [שמות ה ט]
-r Arbeiter : עובד, פועל
+arbeiten, arbeitete, hat gearbeitet [vt.] : לעבוד
+r Arbeiter (= pl.) : עובד, פועל
+e Arbeiterin (pl. -nen) : עובד, פועלת
 e Arbeiterschaft : כוח עבודה, כלל העובדים
+r Arbeitnehmer (= pl.) : מעסיק
+e Arbeitnehmerin (pl. -nen) : מעסיקה
+s Arbeitsamt
 e Arbeitserlaubnis : אשרת עבודת
-r Architekt : ארכיטקט
+arbeitsfähig [adj.]
+arbeitslos [adj.] : מחוסר עבודה
+r Arbeitslose (pl. -n) : מובטל, מחוסר עבודה
+e Arbeitslose (pl. -n) : מובטלת, מחוסרת עבודה
+e Arbeitslosigkeit
+e Arbeitszeit
+e Arche (pl. -n) : תיבה
+  - die Arche Noah : תיבת נוח
+r Architekt (pl. -en) : ארכיטקט
+e Architektur : ארכיטקטורה
+s Archiv (pl. -e)
+r Archivar
+r Archivbeamte
+e ARD [kurz für Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland]
+e Arena (pl. Arenen)
+arg [adj.] : רע
+r Ärger [adj.] : כעס
+ärgerlich [adj.]
+ärgern, ärgerte, hat geärgert [vt.] : להכעיס; להציק ל־; להדאיג; לעצבן
+s Ärgernis
+arglistig [adj.] : מרושע, זדוני, בעל כוונות רעות
 arglos : תמים, לא חושד
+s Argument (pl. -e)
+argumentieren
 r Argwohn (gegen j-n) : חשד, חוסר אמון
+e Arie (pl. -n)
+e Arithmetik
+e Arkade (pl. -n)
+e Arktis
 r Arm (pl. -e) : זרוע, יד
   - j-n auf den Arm nehmen : לעבוד על מישהו
   - Mir ist der Arm eingeschlafen : נרדמה לי היד
+arm (ärmer, ärmste) [adj.] : עני
 r Ärmel (= pl.) : שרוול
 e Armut (~pl.) : עוני
   - äußerste Armut : עוני קיצוני
