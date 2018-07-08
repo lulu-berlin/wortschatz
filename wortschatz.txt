@@ -746,23 +746,33 @@ e Anhöhe (pl. -n) : גבעה
 animalisch [adj.] : חייתי
 animieren : לעודד, לעורר לחיים
 r Anis (pl. -e) : אניס
+r Anker (= pl.) : עֹגֶן
+án|klagen [vt.] : להאשים; להרשיע; לתבוע
 án|knüpfen, knüpfte an, angeknüpft : לקשור
 án|kommen, kam an, ist angekommen [vi.] : להגיע
   - gut ankommen : להגיע בשלום
   - bei + [Dat.] gut ankommen : להתקבל יפה על ידי־
 án|kündigen, kündigte an, hat angekündigt [vt.] : להכריז
 e Anlage (pl. -n) : השקעה; מערכת; מתקן
+r Anlass (pl. Anlässe) : סיבה; ארוע; מניע
+án|lassen [vt.] : להתניע; להשאיר בגד על הגוף, להישאר עם בגד מסוים
+r Anlasser : מתנע, סטרטר
 anlässlich [präp.] : לְרֶגֶל
   - anlässlich + [Gen.] [präp.] : לרגל־
+e Anleihe (pl. -n) : איגרת חוב; הלוואה
 s Anliegen (= pl.) : חשש, עניין מדאיג, בקשה
+r Anlieger
 sich án|maßen, maßte sich an, hat sich angemaßt
   - sich[Dat.] [Akk.] anmaßen : לתבוע משהו לעצמו, לדרוש משהו לעצמו; להעז, להרשות לעצמו
 e Anmaßung : arrogance, insolence, presumption
 án|melden, meldete an, hat angemeldet [vt.] : להירשם
 e Anmeldung (pl. -en) : הרשמה; אפליקציה
+e Anmerkung (pl. -en)
 e Anmietung (pl. -en) : שכירות
 án|motzen, motzte an, gemotzt
   - j-n anmotzen [ugs.] : להתלונן על משהו
+e Anmut
+anmutig
 sich án|nähern, näherte sich an, hat sich angenähert : להתקרב ל־
   - sich [Dat.] annähern : להתקרב ל־
 annähernd [adj.] : מקורב, בקירוב
@@ -770,7 +780,15 @@ annähernd [adv.] : בקירוב; כמעט
   - nicht annähernd : לא קרוב ל־, בכלל לא
 e Annahme (pl. -n) : הנחה, השערה; אימוץ
 án|nehmen, nahm an, hat angenommen : לאמץ, לקבל, לקחת, להסכים ל־; להניח
+annektieren : לספח
+e Annexion : סיפוח
+e Annonce
+annoncieren
 annullieren, annullierte, hat annulliert [vt.] : לבטל
+e Anode : אנודה, קוטב חיובי
+anomal [adj.]
+e Anomalie
+anonym [adj.] : אנונימי
 e Anordnung (pl. -en) : סדר, סידור, עיצוב
 án|packen, packte an, hat angepackt [vt.] : להתמודד עם (משימה, בעיה, קושי)
 án|passen, passte an, hat angepasst [vt.] : 
@@ -782,20 +800,37 @@ e Anordnung (pl. -en) : סדר, סידור, עיצוב
   - mit Sauerstoff anreichern
 s Anreichern : העשרה
 e Anreicherung : העשרה
+e Anrichte (pl. -n)
+án|rüchtig
+án|rufen [vt.] : להתקשר ל־, לטלפן ל־
 e Ansage (pl. -n) : הכרזה; הודעה
 án|sagen, sagte an, hat angesagt [vt.] : להכריז על
   - sich ansagen : להכריז על עצמו
   - den Kampf ansagen : להכריז מלחמה
 s Ansagen (= pl.) : הכרזות
+ansässig [adj.]
 án|schauen, schaute an, hat angeschaut [vt.] : להסתכל על
   - sich[Dat.] [Akk.] anschauen : להסתכל על משהו
+anschaulich
+e Anschauung
+s Anschauungsmaterial
+r Anschein
+r Anschlag (pl. Anschläge)
 án|schließen, schloss an, hat angeschlossen [vt.] : לחבר, לצרף, לקשור יחד
 án|schmachten, schmachtete an, hat angeschmachtet [vt.] : להזיל ריר על, לרצות משהו מאוד
 án|schreiben, schrieb an, hat angeschrieben [vt.] : לכתוב למישהו
+e Anschrift (pl. -en) : כתובת
+án|sehen, sah an, hat angesehen [vt.] : לצפות; לראות; להסתכל על־\
 án|setzen : לקבוע זמן
 e Ansicht (pl. -en) : מבט; דיעה; אמונה
+e Ansprache (pl. -n) : פניה; נאום
+ansprechbar [adj.]
 án|sprechen, sprach an, hat angesprochen [vt.] : לפנות למישהו; להעלות נושא לדיון
-ansprechend [adj.] : מוצא חן, מושך, מלבב
+ansprechend [adj.] : מוצא חן, מושך, מלבב, אטרקטיבי
+e Anstalt (pl. -en) : מוסד, ממסד
+r Anstand
+anständig [adj.]
+anstandshalber
 anstatt [präp.] (vgl. Statt) : במקום
   - anstatt + [Gen.] [präp,] : במקום־
   - anstatt zu + [Inf.] [präp.] : במקום ל־(מקור)
@@ -1003,6 +1038,8 @@ aús|geben, gab aus, hat ausgegeben [vt.] : to issue, to spend, to expend, to di
   - Ich will mein ganzes Geld für ein neues Auto ausgeben.
 ausgedehnt [adj.] : מורחב, נרחב
 ausgefochten [adj.] : שנלחם עד הסוף
+aús|gehen : לצאת; להיגמר; לצאת לדייט, לצאת עם־
+  - mit j-m ausgehen : לצאת עם מישהו, לצאת לדייט עם מישהו
 ausgezeichnet [adj.] : מצוין
 auseinánder|halten [vt.] : להבחין, לשים לב להבדל
 auseinánder|setzen, setzte auseinander, hat auseinandergesetzt : להסביר משהו למישהו
@@ -1539,6 +1576,8 @@ e Diskussion : דיון
 s Dokument (pl. -e) : מסמך
 s Dorf (pl. Dörfer) : כפר
 dösen, döste, hat gedöst : לנמנם
+downgeknockt [adj.] [ugs.] : גמור, שנפל לגמרי
+down|loaden, loadete down, hat downgeloadet [vt.] [gespr.] : לעשות דאונלוד, להוריד מהאינטרנט
 e DPA [kürz für Deutsche presse-Agentur] : סוכנות העיתונות הגרמנית
 dran
   gut dran (sein) : להיות במצב טוב
@@ -3127,8 +3166,9 @@ lebhaft [adj.] : מלא חיים
 s Lederwams : מעיל עור
 leer [adj.] : ריק
 legen, legte, hat gelegt : להניח
+e Lehranstalt (pl. -en) : בית ספר, מוסד חינוכי
 s Lehrbuch (pl. Lehrbücher) : ספר לימוד
-lehren : ללמד
+lehren, lehrte, hat gelehrt [vt.] : ללמד
 r Lehrer (= pl.) : מורֶה
 e Lehrerin (pl. -nen) : מורָה
 leiden, litt, hat gelitten [vt.] : לסבול
@@ -3587,6 +3627,10 @@ e Pflanze (pl. -n) : שתיל; צמח
 pflanzen : לשתול; לטעת
   - "VND Gott der HERR pflanzet einen Garten in Eden" [Lutherbibel, Gen 2:8] = וַיִּטַּע יהוה אֱלֹהִים גַּן־בְּעֵדֶן [בראשית ב ח]
 e Pflaume : שזיף
+e Pflege : דאגה; טיפול
+e Pflegeanstalt (pl. -en) : מוסד סיעודי
+pflegen [vt.] : לדאוג ל־, לטפל ב־
+s Pflegen : דאגה; טיפול
 s Piano : פסנתר
 picheln, pichelte, hat gepichelt [ugs.] : לשתות לשוכרה
 r Piep : צפצוף
@@ -4642,6 +4686,7 @@ unwillkürlich [adv.] : בעל כורחו; באופן אוטומטי; בניגו
 unwürdig [adj.] : לא ראוי
 unzuverlässig [adj.] : בלתי אמין, מפוקפק
 unzuverlässig [adv.] : באופן בלתי אמין, באופן מפוקפק
+úp|loaden, loadete up, hat upgeloadet [vt.] : לעשות אפלוד, להעלות לאינטרנט
 Ups [interj.] : אופס
 e Urform : צורה מקורית
 e Urne (pl. -n) : כד, קנקן
@@ -5093,6 +5138,7 @@ Weiteres
 e Welle (pl. -n) : גל
 e Welt : עולם
   - ein Kind zur Welt bringen : להביא ילד לעולם
+e Weltanschauung
 weltberühmt [adj.] : מפורסם בכל העולם
 e Weltgeltung : מעמד בינלאומי
 wenden, wendete, gewendet
