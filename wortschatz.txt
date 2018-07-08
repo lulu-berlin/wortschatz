@@ -981,19 +981,77 @@ r Arm (pl. -e) : זרוע, יד
   - j-n auf den Arm nehmen : לעבוד על מישהו
   - Mir ist der Arm eingeschlafen : נרדמה לי היד
 arm (ärmer, ärmste) [adj.] : עני
+e Armatur (pl. -en)
+s Armaturenbrett
+s Armband
+e Armbrust
+e Armee (pl. -n)
+s Armeekorps
 r Ärmel (= pl.) : שרוול
 e Armut (~pl.) : עוני
   - äußerste Armut : עוני קיצוני
   - bittere Armut : עוני מר
+s Aroma (pl. Aromas, Aromen, Aromata)
+aromatisch [adj.] : ארומטי
+s Arrangement
+arrangieren
+r Arrest (pl. -e)
+arretieren
 arrogant [adj.] : יהיר
+e Arroganz
 r Arsch (pl. Ärsche) [ugs.] [vulg.] : ישבן, תחת
   - im Arsch : fucked up, messed up
+s Arsen : ארסן, ארסניק
+e Art (pl. -en)
+  - die Art und Weise
+e Arterie (pl. -n)
+artig [adj.]
+r Artikel (= pl.)
 artikulieren : לבטא, להביע
+r Artist (pl. -en)
+artistisch [adj.]
 e Arznei : תרופה; סם
 s Arzneimittel (= pl.) : סם; תרופה
 r Arzt (pl. Ärzte) : רופא
 e Ärztin (pl. -nen) : רופאה
+ärztlich [adj.]
+s As (pl. -se) : אס (קלף)
+r Asbest (pl. -e) : אסבסט
+r Asbestanzug
+e Asche (pl. -n)
+e Aschenbahn
+r Aschenbecher : מאפרה
+Aschermittwoch
+aschig [adj.]
+aschgrau [adj.]
+äsen : להיזון ממרעה, לרעות (צאן)
+r Asiat : אסיאטי
+asiatisch [adj.] : אסיאטי
 s Asien : אסיה
+e Askese : סיגוף
+r Asket : מסתגף
+asketisch [adj.] : סגפני
+r Aspekt (pl. -e) : אספקט
+r Asphalt : אספלט
+asphaltieren
+r Aspirant
+r Assesor
+r Assistent
+e Assistenz
+r Assistenzarzt
+r Ast (pl. Äste)
+e Aster : אַסְתֵּר (צמח נוי)
+e Ästhetik : אסתטיקה
+s Asthma
+r Astrologe
+e Astrologie
+r Astronaut
+e Astronautik
+r Astronom
+e Astronomie
+astronomisch [adj.]
+s Asyl (pl. -e)
+s Atelier (pl. -s)
 e Atmosphäre : אטמוספירה
 s Attentat : רצח, התנקשות
 r Attentäter (= pl.) : מתנקש, רוצח
@@ -1751,14 +1809,15 @@ sich eignen : להתאים, להיות מתאים
 r Eilbote, e Eilbotin : שליח, רץ, בלדר
 ein [adj.] : אחד
   - Er ist einer von uns : הוא אחד משלנו
-einen : לאחד
-  - einend : מאחד
+eín|äschern
 eín|beziehen, bezog ein, hat einbezogen [vt.] : לכלול, לערב, לצרף
 r Einbruch (pl. -e) : התפרצות; פריצה
 eín|dämmen + Akk. : לעצור, לשים סוף ל־, לחסום
 eín|dämmern : להירדם, לשקוע בשינה
 eín|dringen : לחדור לתוך־
   - in + [Akk.] eindringen : לחדור לתוך־
+einen : לאחד
+  - einend : מאחד
 einfach [adj.] : פשוט, קל
 eín|fallen : (1) to cave in, to fall, (2) to come to mind
   sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
@@ -4675,6 +4734,7 @@ unausweichlich [adj.] : בלתי־נמנע
 unausweichlich [adv.] : באופן בלתי־נמנע
 unabdingbar [adj.] : חיוני, הכרחי
 unangebracht [adj.] : בלתי הולם; שלא במקומו
+unartig [adj.]
 unbekannt [adj.] : לא מוכר, בלתי מוכר
 unbestritten [adj.] : מוסכם; שאין עליו עוררין
 und : וְ־
@@ -4780,6 +4840,8 @@ veräppeln : to pull s.o.'s leg
 e Verarmung : התרוששות
 e Verarmungskrise : משבר התרוששות
 j-n verarschen : to kid s.o., to take s.o. for a ride
+verarzten [vt.] : לרפא; לבדוק, לערוך בדיקה רפואית
+verästelt [adj.] : מסועף, מסתעף
 s Verb (pl. -en) : פועל
 r Verband (pl. Verbände) : אגודה, ארגון
 verbessern [vt.] : לשפר; לתקן
