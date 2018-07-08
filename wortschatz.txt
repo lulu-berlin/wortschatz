@@ -1191,32 +1191,60 @@ r Aufruf (pl. -e) : קריאה, הזמנה; שיחת טלפון
 aúf|rufen [vt.] : לקרוא ל־; לזמן; לפתוח (אתר אינטרנט), להעלות (אתר אינטרנט)
 r Aufruhr : מהומה, התפרעות
 r Aufrührer : מורד, מתפרע
+aufrührisch [adj.]
 j-n aúf|rütteln : לעורר, להלהיב (לידי פעולה)
+aufsässig [adj.]
+r Aufsatz (pl. Aufsätze)
+aúf|schieben
+r Aufschlag
+aúf|schlagen
+r Aufschluss
+aúf|schneiden
+r Aufschneider
+aufschneiderisch [adj.]
+r Aufschnitt
 aúf|schreiben, schrieb auf, hat aufgeschrieben [vt.] : לרשום
 r Aufschub : עיכוב, דחיה, השהיה
 e Aufschwung : שיפור; גידול; צמיחה; תנופה
 aúf|sehen : להסתכל למעלה
 s Aufsehen : סנסציה, המולה
+r Aufseher
+e Aufsicht
 aúf|spielen : לשחק
   - sich aufspielen : לעשות כאילו, להשוויץ
 r Aufstand (pl. Aufstände) : התקוממות
+aufständisch [adj.]
 aúf|stellen [vt.] : למַנות
+aúf|stöbern
 aúf|streben : לשאוף
 aufstrebend : שאפתן
+aúf|takeln
 r Auftakt (pl. -e) : kick-off, prelude, opening
 e Auftaktkundgebung : initial demonstration
 aúf|tischen : להגיש (אוכל)
+r Auftrag
 r Auftritt : הופעה; כניסה
+aúf|trumpfen
 aúf|wachen : להתעורר
 aúf|wachsen : לגדול
 r Aufwand : הוצאה; סיבוך
+aufwärts [adv.] : למעלה
+aúf|wecken
 aúf|werfen, warf auf, hat aufgeworfen [vt.] : להעלות, לעורר, להציב
   - Fragen aufwerfen : לעורר שאלות
+aúf|wiegen
+aúf|wiegeln
 s Auge (pl. -n) : עין
   - sich die Augen reiben : לשפשף את העיניים
   - unter vier Augen : בארבע עיניים
   - j-m etwas unter vier Augen erzählen : לספר למישהו משהו בארבע עיניים
 r Augenblick : רגע
+r August : אוגוסט
+e Auktion (pl. -en) : מכירה פומבית
+r Auktionator
+e Aula (pl. Aulen, Aulas) : אולם, אודיטוריום
+aus [präp.]
+aús|bessern
 aús|bleiben : להישאר בחוץ, להיעדר, לא להופיע
 s Ausbleiben : היעדרות
 aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, לברוח לחופשי
@@ -1224,13 +1252,33 @@ aús|brechen, brach aus, ist ausgebrochen : לפרוץ, לבקוע החוצה, �
   - "Der Gefangene nutzte die Chance, um auszubrechen."
 aús|breiten [vt.] : להרחיב, לפרוש, לפשוט
   - sich ausbreiten : להתפשט, להתרחב
+e Ausbeute
+aús|beuten
+e Ausbeutung
+aús|bilden
+e Ausbildung
+aús|brechen
+r Ausbruch
+e Ausdauer
+ausdauernd [adj.]
 aús|dehnen [vt.] : להרחיב
   - sich ausdehnen : להתרחב
+r Ausdruck
+aús|drücken [vt.] : לבטא, להביע
+ausdrücklich [adj.]
+ausdrucklos [adj.]
 aús|drücken : לבטא
+auseinander
+auseinánder|gehen
+e Auseinandersetzung
 außerstande [adj.] : שאינו מסוגל
   - außerstande sein : לא להיות מסוגל
 aús|fechten : להילחם עד הסוף
+aús|fertigen, fertigte aus, hat ausgefertigt [vt.]
+e Ausfertigung
 ausfindig machen : למצוא מישהו (שמיקומו לא ידוע)
+r Ausflug
+s Ausflugsziel
 aús|geben, gab aus, hat ausgegeben [vt.] : to issue, to spend, to expend, to dispense להוציא (כסף)
   - Die Universität gibt Studentenausweise aus.
   - Ich will mein ganzes Geld für ein neues Auto ausgeben.
