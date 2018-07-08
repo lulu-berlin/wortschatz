@@ -1,4 +1,4 @@
-= A, Ä =
+ab= A, Ä =
 s A : אַ, האות הראשונה באלפבית הלטיני
 s Ä : אֶ, האות א עם אומלאוט
 à [präp.] : במחיר־
@@ -624,6 +624,7 @@ e Anarchie (pl. -n) : אנרכיה
 r Anarchist (pl. -en) : אנרכיסט
 e Anatomie (pl. -n) : אנטומיה
 anatomisch [adj.] : אנטומי
+án|bahnen [vt.] : ליזום
 án|beten : להעריץ
 án|bieten, bot an, hat angeboten [vt.] : להציע
 r Anbieter (= pl.) : מוֹכֵר, סַפָּק
@@ -1461,6 +1462,12 @@ r Azur
 azurblau [adj.]
 
 = B =
+s B
+  - Wer A sagt muss auch B sagen
+s Baby (pl. -s) : תינוק
+r Babysitter
+r Bach (pl. Bäche)
+r Backfisch : נערה
 e Backe : לסת; לחי
   - Er gab ihr einen Kuss auf die Backe : הוא נתן לה נשיקה על הלחי
   - Au Backe! [interj.] : אוי וויי, אוי ואבוי
@@ -1468,16 +1475,76 @@ backen, buk, hat gebacken [vt.] : לאפות
 r Bäcker (= pl.) : אופֶה
 e Bäckerei (pl. -en) : מאפיה
 e Bäckerin (pl. Bäckerinnen) : אופָה
-s Bad : בית־שימוש; אמבטיה; מרחצה
+s Backobst
+r Backofen
+r Backstein
+s Bad (pl. Bäder) : בית־שימוש; אמבטיה; מרחצה
   - ein Bad nehmen : להתרחץ
+e Badeanstalt
+r Bademeister
 baden : לרחוץ
   - sich baden : להתרחץ
+Baden : באדן (חבל ארץ בגרמניה)
+Baden-Württemberg : באדן־וירטמברג (אחת מן המדינות בפדרצית גרמניה)
 e Badewanne (pl. -n) : אמבטיה
 s Badezimmer (= pl.) : חדר רחצה
-e Bahn : רכבת, מסילה, מסלול
+s Badminton : בדמינטון, נוצית, משחק שבו חובטים בכדור נוצה
+baff [adj.] : מופתע; מבולבל
+e Bagatelle (pl. -n) : עניין פעוט
+r Bagger (= pl.)
+baggern
+e Bahn (pl. -en) : רכבת, מסילה, מסלול
+r Bahnbus
+bahnen : לתעל
+sich bahnen : לסלול
+  - sich[Dat.] den Weg bahnen : לסלול את הדרך
 r Bahnhof (pl. Bahnhöfe) : תחנת רכבת
+r Bahnsteig
+e Bahre
+e Bakterie (pl. -n) : בקטריה
+e Balance (pl. -n)
 bald [adv.] : בקרוב
+r Baldachin (pl. -e)
+Bälde
+  - in Bälde : בקרוב, בעתיד הקרוב
 baldig [adj.] : מהיר; שיחול בקרוב; מוקדם
+r Baldrian (pl. -e)
+r Balg (pl. Bälge)
+sich balgen
+e Balgerei
+r Balkan
+r Balken
+r Balkon
+r Ball (pl. Bälle)
+  - Ball spielen
+r Ballabend
+e Ballade (pl. -n) : בלדה
+r Ballast (pl. -e)
+ballen
+sich ballen
+r Ballen
+s Ballett (pl. -e)
+r Ballettmeister
+r Ballettänzer
+e Ballettänzerin
+e Ballettruppe (pl. -n)
+r Ballon
+s Ballspiel
+r Balsam (pl. -e)
+balsamieren
+r Bambus (pl. -ses)
+s Bambusrohr
+r Bambusstab
+banal [adj.] : בנאלי
+e Banalität : בנאליות
+e Banane (pl. -n) : בננה
+e Bananenernte
+r Bananenstecker
+r Banause (pl. -n)
+r Band (pl. Bände) : כרך (של ספר מרובה כרכים)
+e Band (pl. -s) : להקה (מוזיקה)
+s Band (pl. Bänder) : סרט; קשר
+e Bandage (pl. -n)
 r Bann : חרם
   - j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
 e Bannmeile : איזור ניטראלי
@@ -1778,6 +1845,7 @@ blanko [adj.] : פשוט
 blanko [adv.] : ריק, חלק
   - blanko akzeptieren : לקבל כמו שהוא
 r Blankoscheck : צ'ק פתוח
+r Blasebalg
 blasen (bläst), blies, hat geblasen : לנשוף
   - j-m einen blasen [ugs.] : למצוץ למישהו, לבצע מין אוראלי
 blass [adj.] : חיוור; דהוי
@@ -2445,6 +2513,8 @@ s Fernweh : תאוות נסיעה
 fertig [adj.] : מוכן
   - sich fertig machen : להתכונן; להתלבש לאירוע
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
+Fesselballon
+fesseln
 s Fest : פסטיבל
 fest [adj.] : קבוע; יציב; מהודק; חזק; רגיל
 fést|drehen [vt.] : להדק (בתנועה סיבובית)
@@ -2620,6 +2690,7 @@ e Gasse, (pl. -n) : סמטה
 Gaza : עזה
 r Gazastreifen : רצועת עזה
 geächtet [adj.] : מנודה; מוצא מחוץ לחוק
+s Gebäck : מאפים
 e Gebärde : מחווה
 gebärden, gebärdete, hat gebärdet [vt.] : לסמן (בשפת הסימנים), לחוות
   - sich gebärden : להתנהג
@@ -3222,6 +3293,9 @@ jäh : לפתע, פתאום
   - Ich bemerkte eine jähe Veränderung in seiner Stimmung.
 jämmerlich [adj.] : אומלל
 jämmerlich [adv.] : להחריד
+r Jazz : ג'אז
+e Jazzband : להקת ג'אז
+s Jazzkonzert (pl. -e) : הופעת ג'אז
 je [adv.] : לכל אחד; אי פעם
   - je [komp.] ... desto [komp.] ... : ככל שיותר ... כך יותר ...
   - je nach [präp.] : בהתאם ל־
@@ -3602,6 +3676,7 @@ r Lotse : טייס
 lotsen : להטיס (מטוס)
 r Löwe : אריה
 e Luft (pl. Lüfte) : אוויר
+r Luftballon
 r Luftdruck : לחץ אוויר
 e Luftfeuchtigkeit : לחות (של האוויר)
 e Luftlinie : קו אווירי
