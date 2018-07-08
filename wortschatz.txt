@@ -1392,37 +1392,73 @@ außergewöhnlich [adj.]
 außerhalb
 äußern [vt.] : לבטא, להביע, להגיד
 sich äußern : להתבטא
+äußerst [adv.]
 e Äußerung (pl. -en) : התבטאות
+ausgezeichnet [adj.] : מצוין
 e Aussicht (auf + [Akk.]) : סיכוי, אפשרות, פוטנציאל; נוף, תצפית
   - Die Aussicht auf dauerhaften Frieden : הסיכוי לשלום מתמשך
   - schöne Aussicht : נוף יפה
   - mit Aussicht auf ... : עם נוף ל־
+aussichtslos
 aús|spähen [vt.] : לרגל אחרי־
 aús|spionieren [vt.] : לעקוב אחרי־; לרגל אחרי־
 s Ausspioniren : ריגול
+e Aussprache (pl. -n) : דיון; ויכוח; אופן ביטוי, מבטא
 aús|sprechen (spricht aus), sprach aus, hat ausgesprochen [vt.] : לבטא
+sich aús|sprechen (spricht sich aus), sprach sich aus, hat sich ausgesprochen : להתווכח; להמליץ
+  - sich für + [Akk.] aussprechen : להמליץ על
+  - sich über + [Akk.] aussprechen : להתווכח על
+r Ausstand (pl. Ausstände) : שביתה
+  - im Ausstand sein : לשבות
+aús|stehen
 aús|stellen, stellte aus, hat ausgestellt [vt.] : להנפיק; להציג (בתערוכה); להמציא (תעודה)
+e Ausstellung
+e Aussteuer
 aús|stoßen, stieß aus, hat ausgestoßen [vt.] : לפלוט; להוציא
 s Ausstoßen : פליטה
 aús|strecken : לפרוס; לשלוח (יד)
   - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
 s Australien : אוסטרליה
+r Australier (= pl.)
+australisch [adj.]
 aús|treiben [vt.] : לגרש
   - "Vnd treib Adam aus / vnd lagert fur den garten Eden den Cherubim mit einem blossen hawenden Schwert / zu bewaren den weg zu dem Bawm des Lebens" [Lutherbibel, Gen 3:24] = וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים [בראשית ג כד]
 r Ausweg : מוצא, דרך החוצה, מפלט
-auswärtig : חיצוני
-auswärts : החוצה
+auswärtig [adj.] : חיצוני
+auswärts [adv.] : החוצה
 aús|wechseln, wechselte aus, hat ausgewechselt : להחליף (משהו במשהו)
 s Auswechseln : החלפה
+r Ausweis
+aús|weisen
+e Ausweisung
 auswendig : בעל־פה
   - etw. auswendig lernen : ללמוד בעל־פה
   - etw. auswendig können : לדעת בעל־פה
   - etw. auswendig aufsagen : לצטט מהזכרון
 e Auswertung : הערכה
+aús|zeichnen
+e Auszeichnung
 aús|ziehen [vt.] : להוריד (בגד); לעזוב (בית)
+autark
+e Autarkie
 s Auto (pl. -s) : רכב, אוטו
+e Autobiographie (pl. -n)
+r Autodidakt (pl. -en)
+s Autogramm (pl. -e)
+r Autogrammjäger (= pl.)
+r Autokrat (pl. -en)
+s Automat (pl. -en)
+e Automation
+automatisch [adj.]
+autonom [adj.]
+e Autonomie
 r Autor (pl. -en) : סופר; מחבר
-e Axt : גרזן
+e Autorin (pl. -nen) : סופרת; מחברת
+e Autorität (pl. -en) : סמכות
+autoritär [adj.]
+e Axt (pl. Äxte) : גרזן
+r Azur
+azurblau [adj.]
 
 = B =
 e Backe : לסת; לחי
