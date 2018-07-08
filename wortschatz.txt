@@ -1270,6 +1270,10 @@ ausdrucklos [adj.]
 aús|drücken : לבטא
 auseinander
 auseinánder|gehen
+auseinánder|halten [vt.] : להבחין, לשים לב להבדל
+auseinánder|setzen, setzte auseinander, hat auseinandergesetzt : להסביר משהו למישהו
+  - j-m [Akk.] auseinandersetzen : להסביר משהו למישהו
+  - sich mit [Dat.] auseinandersetzen : להתווכח עם־, להתמודד עם־
 e Auseinandersetzung
 außerstande [adj.] : שאינו מסוגל
   - außerstande sein : לא להיות מסוגל
@@ -1279,6 +1283,15 @@ e Ausfertigung
 ausfindig machen : למצוא מישהו (שמיקומו לא ידוע)
 r Ausflug
 s Ausflugsziel
+e Ausfuhr (pl. -en)
+ausführlich [adj.]
+r Ausfall : קריסה
+aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
+  wegen Regen ausfallen : to be rained off
+aús|führen [vt.] : לבצע; להוציא לפועל
+e Ausführung : ביצוע
+e Ausgabe
+r Ausgang
 aús|geben, gab aus, hat ausgegeben [vt.] : to issue, to spend, to expend, to dispense להוציא (כסף)
   - Die Universität gibt Studentenausweise aus.
   - Ich will mein ganzes Geld für ein neues Auto ausgeben.
@@ -1286,58 +1299,100 @@ ausgedehnt [adj.] : מורחב, נרחב
 ausgefochten [adj.] : שנלחם עד הסוף
 aús|gehen : לצאת; להיגמר; לצאת לדייט, לצאת עם־
   - mit j-m ausgehen : לצאת עם מישהו, לצאת לדייט עם מישהו
-ausgezeichnet [adj.] : מצוין
-auseinánder|halten [vt.] : להבחין, לשים לב להבדל
-auseinánder|setzen, setzte auseinander, hat auseinandergesetzt : להסביר משהו למישהו
-  - j-m [Akk.] auseinandersetzen : להסביר משהו למישהו
-  - sich mit [Dat.] auseinandersetzen : להתווכח עם־, להתמודד עם־
-e Auseinandersetzung : argument, dispute, debate, discussion
-r Ausfall : קריסה
-aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
-  wegen Regen ausfallen : to be rained off
-aús|führen [vt.] : לבצע; להוציא לפועל
-e Ausführung : ביצוע
-aús|halten : לשאת, לסבול, להתמודד עם קשיים
-aús|harren - להתמיד, לשקוד, להתעקש
 ausgeliefert
-  ausgeliefert sein : to be committed
-  j-m ausgeliefert sein : to be at s.o.'s mercy
+  - ausgeliefert sein : to be committed
+  - j-m ausgeliefert sein : to be at s.o.'s mercy
+ausgezeichnet [adj.] : מצוין
+ausgiebig [adj.] : נרחב, שופע, מלא; יסודי, מעמיק
+  - eine ausgiebige Mahlzeit
+r Ausgleich
+aús|gleichen, glich aus, hat ausgeglichen [vt.]
+aús|halten : לשאת, לסבול, להתמודד עם קשיים
+aús|händigen
+r Aushang (pl. Aushänge)
+aús|hängen
+aús|harren - להתמיד, לשקוד, להתעקש
+aús|kommen
+s Auskommen
+e Auskunft (pl. Auskünfte)
+r Auskunftsbeamte
 s Ausland : חוץ לארץ
+r Ausländer
+ausländisch [adj.]
+r Auslandskorrespondent
+aús|lassen [vt.] : להשאיר בחוץ; להחמיץ; לדלג על־; להחסיר
+e Ausleihe (pl. -n)
 aús|leihen, lieh aus, hat ausgeliehen [vt.] : ללוות
 aús|liefern : to supply, to surrender, to deliver, to ship
   etw. ausliefern : to deliver, to roll out, to ship
   j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
 aús|löschen : למחוק; לחסל
+aús|loten : לבדוק את השטח; לרדת לעומק הדברים
+s Ausmaß (pl. -e) : מידה, היקף, מימדים
+  - Zum Glück war das Ausmaß des Schadens begrenzt.
+  - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
+e Ausnahme : יוצא מן הכלל
+ausnahmslos [adj.] : ללא יוצא מן הכלל
+ausnahmsweise
 aús|nehmen + Akk. : להוציא מן הכלל
   - sich ausnehmen : להיראות, להיות מוצג
 aús|nutzen, nutzte aus, hat ausgenutzt [vt.] : לנצל, לעשות שימוש
   - sein Potenzial nicht ausnutzen : לא לנצל את הפוטנציאל שלו
   - [Akk.] komplett ausnutzen : לעשות שימוש מלא ב־
-s Ausmaß (pl. -e) : מידה, היקף, מימדים
-  - Zum Glück war das Ausmaß des Schadens begrenzt.
-  - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
+aús|probieren
+r Auspuff
+s Auspuffgas (pl. -e)
+s Auspuffrohr
 aús|radieren : למחוק
+e Ausrede
+aús|reden, redete aus, hat ausgeredet
 aús|reichen, reichte aus, hat ausgereicht : להספיק; להחזיק (ל־)
 ausreichend [adj.] : מספיק, מספק
 ausreichend [adv.] : באופן מספיק, באופן מספק
+aús|reißen
+r Ausreißer
 aús|reizen [vt.] : להתיש
 aús|rollen
   - j-m den roten Teppich ausrollen : לפרוש בפני מישהו שטיח אדום
 aús|rufen : להכריז (על משהו כמשהו); לקרוא לבעל מקצוע לבוא
 s Ausrufen : הכרזה, קריאה
 aús|ruhen : לנוח
+r Aussatz
+aussätzig
 aús|schalten [vt.] : לכבות (מתג, מפסק, מכשיר, אור, מוסיקה); לחסל, למנוע
   - den Wettbewerb ausschalten : לחסל את התחרות
   - ein Risiko ausschalten : למנוע סיכון
 aús|scheren : לשנות מסלול, לסטות מן המסלול
+r Ausschlag
+aús|schlagen
 r Ausschluss (pl. Ausschlüsse) : חריג, יוצא דופן
 aús|schließen, schloss aus, hat ausgeschlossen [vt.] : להדיר; למנוע (אפשרות); לגרש
   - sich ausschließen : להימנע, להיות ממין הנמנע; להישלל; להדיר את רגליו
 ausschließlich
   - adj. : יחיד
   - adv. : בלבד, רק
+  - sich ausschließlich mit jemandem beschäftigen
   - präp. + Gen. : פרט ל, מלבד־
 aús|schütten [vt.] : לחלק בין; לפזר בין
+aús|sehen, sah aus, hat ausgesehen [vi.] : להיראות
+s Aussehen : מראה
+außen [adv.]
+  - nach außen
+  - von außen
+  - nach außen hin
+e Außenseite : חוץ
+r Außenseiter (= pl.) : אאוטסידר, זר, נוכרי
+außer [präp.]
+  - außer + [Dat.] [präp.]
+  - außer + [Gen.] [präp.]
+außerdem [adv.] : חוץ מזה, גם, בנוסף לזה
+äußere [adj.] : חיצוני
+s Äußere
+außergewöhnlich [adj.]
+außerhalb
+äußern [vt.] : לבטא, להביע, להגיד
+sich äußern : להתבטא
+e Äußerung (pl. -en) : התבטאות
 e Aussicht (auf + [Akk.]) : סיכוי, אפשרות, פוטנציאל; נוף, תצפית
   - Die Aussicht auf dauerhaften Frieden : הסיכוי לשלום מתמשך
   - schöne Aussicht : נוף יפה
@@ -4967,6 +5022,7 @@ e Verarmungskrise : משבר התרוששות
 j-n verarschen : to kid s.o., to take s.o. for a ride
 verarzten [vt.] : לרפא; לבדוק, לערוך בדיקה רפואית
 verästelt [adj.] : מסועף, מסתעף
+verausgeben
 s Verb (pl. -en) : פועל
 r Verband (pl. Verbände) : אגודה, ארגון
 verbessern [vt.] : לשפר; לתקן
