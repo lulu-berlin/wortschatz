@@ -1490,7 +1490,7 @@ e Badewanne (pl. -n) : אמבטיה
 s Badezimmer (= pl.) : חדר רחצה
 s Badminton : בדמינטון, נוצית, משחק שבו חובטים בכדור נוצה
 baff [adj.] : מופתע; מבולבל
-e Bagatelle (pl. -n) : עניין פעוט
+e Bagatelle (pl. -n) : עניין פעוט; עניין טריוויאלי
 r Bagger (= pl.)
 baggern
 e Bahn (pl. -en) : רכבת, מסילה, מסלול
@@ -1545,10 +1545,53 @@ r Band (pl. Bände) : כרך (של ספר מרובה כרכים)
 e Band (pl. -s) : להקה (מוזיקה)
 s Band (pl. Bänder) : סרט; קשר
 e Bandage (pl. -n)
-r Bann : חרם
+e Bande : חבורה; כנופיה
+e Banderolle (pl. -n)
+bändigen
+e Bändigung
+r Bandit (gen. -en, pl. -en) : בנדיט, שודד
+bang(e) (banger/bänger, bangste/bängste) [adj.] : חרד, מפוחד
+s Banjo (pl. -s) : בנג'ו
+e Bank (pl. Bänke) : ספסל
+e Bank (pl. -en) : בנק
+bank(e)rott [adj.]
+r Bankier (= pl.) : בנקאי
+s Bankkonto : חשבון בנק
+e Banknote (pl. -n)
+bankrott : s. bank(e)rott
+r Bann (pl. -e) : חרם
   - j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
+bannen
+s Banner (= pl.)
+r Bannerträger (= pl.)
 e Bannmeile : איזור ניטראלי
-e Bagatelle (pl. -n) : trifle, small matter, trivial issue
+r Bannspruch
+r Bannwald
+bar [adj.]
+e Bar (pl. -s)
+r Bär (gen. -en, pl. -en) : דוב
+e Baracke (pl. -n)
+r Barbar (gen. -en, pl. -en) : ברברי
+e Barbarei : ברבריות
+barbarisch [adj.] : ברברי
+bärbeißig [adj.]
+bärenstark [adj.]
+s Barett (pl. -e) : ברט
+r Bariton (pl. -e)
+barfuß [adj.]
+bargeldlos [adj.]
+barmherzig [adj.]
+e Barmherzigkeit
+r/s Barock
+barock [adj.]
+s Barometer
+r Baron (pl. -e)
+r Barren
+e Barriere (pl. -n)
+e Barrikade (pl. -n)
+barsch [adj.]
+e Barschaft
+r Bart (pl. Bärte) : זקן
 r Balkon (pl. Balkons / Balkone) : מרפסת
 bändigen [vt.] : לאלף, לשלוט
 e Bank (pl. -en) : בנק
@@ -4175,6 +4218,8 @@ e Ratte : חולדה, עכברוש
 r Raub : שוד
 rauben [vt.] : לשדוד
 s Rauben : שדידה
+r Räuber (= pl.) : שודד
+e Räuberbande : כנופית שודדים
 r Raubvogel : ציפור טרף
 rauchen : לעשן
 r Raucher : מעשן
@@ -5026,6 +5071,7 @@ unausweichlich [adv.] : באופן בלתי־נמנע
 unabdingbar [adj.] : חיוני, הכרחי
 unangebracht [adj.] : בלתי הולם; שלא במקומו
 unartig [adj.]
+unbändig
 unbekannt [adj.] : לא מוכר, בלתי מוכר
 unbestritten [adj.] : מוסכם; שאין עליו עוררין
 und : וְ־
