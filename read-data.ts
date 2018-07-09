@@ -21,22 +21,35 @@ export const readData = (filename: string): Datum[] =>
 
 export const isDataValid = (data: Datum[]): boolean => {
   if (data.length === 0) {
+    console.error('No data!');
     return false;
   }
 
   const pages: number[] = [];
 
   for (const datum of data) {
-    if (
-      (Object.keys(datum).length !== 3) ||
-      !('page' in datum) || !Number.isInteger(datum.page) || (datum.page < 0) ||
-      !('marked' in datum) || !Number.isInteger(datum.marked) || (datum.marked < 0) ||
-      !('total' in datum) || !Number.isInteger(datum.total) || (datum.total < 1)
-    ) {
+    if (Object.keys(datum).length !== 3) {
+      console.error('Wrong number of keys!');
+      return false;
+    }
+  
+    if (!('page' in datum) || !Number.isInteger(datum.page) || (datum.page < 0)) {
+      console.error(`Value of 'page': ${datum.page} is invalid`);
+      return false;
+    }
+      
+    if (!('marked' in datum) || !Number.isInteger(datum.marked) || (datum.marked < 0)) {
+      console.error(`Value of 'marked': ${datum.marked} is invalid`);
+      return false;
+    }
+
+    if (!('total' in datum) || !Number.isInteger(datum.total) || (datum.total < 1)) {
+      console.error(`Value of 'total': ${datum.total} is invalid`);
       return false;
     }
 
     if (pages.some(p => p === datum.page)) {
+      console.error(`Page ${datum.page} already exists`);
       return false;
     }
 
