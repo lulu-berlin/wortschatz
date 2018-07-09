@@ -801,8 +801,9 @@ e Anordnung (pl. -en) : סדר, סידור, עיצוב
   - mit Sauerstoff anreichern
 s Anreichern : העשרה
 e Anreicherung : העשרה
-e Anrichte (pl. -n)
-án|rüchtig
+e Anrichte (pl. -n) : שידה
+án|richten [vt.] : לגרום ל־
+án|rüchig [adj.] : ידוע לשמצה, מפוקפק
 án|rufen [vt.] : להתקשר ל־, לטלפן ל־
 e Ansage (pl. -n) : הכרזה; הודעה
 án|sagen, sagte an, hat angesagt [vt.] : להכריז על
@@ -2017,36 +2018,102 @@ s Benehmen
 beneiden, beneidete, beneidet : לקנא
   - j-n um + [Akk.] beneiden : לקנא במישהו על משהו
 beneidenswert [adj.]
+r Bengel (= pl.) : פרחח
+benommen [adj.]
+e Benommenheit
+benutzbar
+benutzen
+benützen
+e Benutzung
+e Benützung
+s Benzin (pl. -e)
+s Benzol (pl. -e)
 beobachten : להתבונן ב־, לצפות ב־, לבחון את, להשקיף על־
   - aufmerkasm beobachten : לבחון מקרוב
 s Beobachten : התבוננות, אבחנה
+r Beobachter (= pl.)
 e Beobachtung : אבחנה; מחקר; מעקב
+  - eine Beobachtung machen
+bequem [adj.] : נוח
+sich bequemen
+bequemlich [adj.]
+e Bequemlichkeit
 beraten : לייעץ
-e Beratung (pl. -n) : יעוץ
+r Berater
+beratschlagen
+e Beratung (pl. -en) : יעוץ
 berauben [vt.] : לשדוד, לנשל
+berechenbar [adj.]
 berechnen, berechnete, hat berechnet [vt.] : לחשב (הוצאות); לגבות; לתת חשבון על; לעשות את החשבון
 e Berechnung (pl. -en) : חשבון; חישוב
+berechtigen
+r Berechtigte
+berechtigterweise
+e Berechtigung (pl. -en)
+bereden
+beredsam
+e Beredsamkeit
+beredt
+  - beredt sein
+e Bereich (pl. -e) : אזור
+sich bereichern
+e Bereicherung
 bereit [adj.] : מוכן
   - sich bereit erklären : להיות מוכן (לעשות משהו)
 bereiten [vt.] : להכין
   - j-m Sorgen bereiten : להדאיג מישהו
+bereít|legen
+bereít|machen
+bereits [adj.] : כבר
 e Bereitschaft (pl. -en) : נכונות, הסכמה, מוכנות
+r Bereitschaftsdienst
+e Bereitschaftspolizei
 bereít|stellen, stellte bereit, hat bereitgestellt [vt.] : לספק
+bereitwillig [adj.]
+bereuen
 r Berg (pl. -e) : הר
   - unter einem Berg von Arbeit begraben sein : להיות קבור תחת הררי עבודה
 bergab [adv.] : במורד ההר
+r Bergadler
+bergan [adv.] : במעלה ההר
 bergauf [adv.] : במעלה ההר
+e Bergbahn
 bergen (birgt), barg, hat geborgen : להציל; להסתיר
+bergig [adj.]
+r Bergmann
+e Bergung
+s Bergwerk
+r Bericht
 berichten : לדווח
+r Berichter (= pl.)
+e Berichterstattung
+berichtigen
+e Berichtigung
+Berlin
+Berliner
+r Bernstein
+Bernsteinschmuck
+bersten (birst), barst, ist geborsten : להתפרץ, להתבקע, להיפתח
 berüchtigt : ידוע לשמצה
 berücksichtigen : לשקול
+e Berücksichtigung
+r Beruf (pl. -e) : מקצוע
 berufen [vt.] : למַנות
 berufen [adj.] : ממונה; כשיר, קומפטנטי
   - berufen sein : להיות ממונה
 berufen [adv.] : באופן כשיר, באופן קומפטנטי
+beruflich [adj.]
+e Berufsberatung
+berufserfahern
+berufsfremd
+e Berufsschule
+berufstätig
+e Berufung
+beruhen
 beruhigen, beruhigte, beruhigt
   - + Akk. : להרגיע, לייצב
   - sich beruhigen : להירגע
+e Beruhigung
 r Besatzer : כובש, כוח כובש
 beschäftigen : להעסיק (עובד)
 bescheißen, beshiss, hat beschissen [vt.] [ugs.] : לרמות, לדפוק
@@ -3053,6 +3120,8 @@ gebieten [vt.] : לדרוש
   - [Dat.] Einhalt gebieten : לרסן; לשים למשהו סוף
 geboren [adj.] : נולד
   - geboren werden : להיוולד
+geborgen [adj.] : בטוח; מוגן
+e Geborgenheit : בטחון; נוחות
 s Gebot : הצעת מחיר
 e Geburt (pl. -en) : לידה
 r Geburtshelfer, e Geburtshelferin : מיילד/ת
