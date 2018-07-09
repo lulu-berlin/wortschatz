@@ -2114,33 +2114,96 @@ beruhigen, beruhigte, beruhigt
   - + Akk. : להרגיע, לייצב
   - sich beruhigen : להירגע
 e Beruhigung
+berühmt [adj.] : מפורסם
+e Berühmtheit [adj.] : מפורסמות, פרסום
+berühren [vt.] : להשפיע (רגשית); לגעת ב־
+sich berühren : לגעת זה בזה
+e Berührung
+r Berührungspunkt
 r Besatzer : כובש, כוח כובש
+beschaffen, beschaffte, hat beschafft [vt.] : להשיג, לרכוש
+sich beschaffen, beschaffte sich, hat sich beschafft : להשיג לעצמו
+  - sich[Dat.] [Akk.] beschaffen
+e Beschaffung
 beschäftigen : להעסיק (עובד)
+e Beschäftigung
+beschäftigungslos
 bescheißen, beshiss, hat beschissen [vt.] [ugs.] : לרמות, לדפוק
+bescheren
+e Bescherung
+beschimpfen
+e Beschimpfung
 beschissen [adj.] : דפוק
   - beschissen sein : להיות דפוק
+beschlagen
+e Beschlagenheit
+e Beschlagnahme (pl. -n)
 beschleunigen, beschleunigte, hat beschleunigt [vt.] : להאיץ משהו, לזרז משהו
   - sich beschleunigen : להאיץ, להגביר את התאוצה, להזדרז
+e Beschleunigung
 beschließen, beschloss, hat beschlossen [vt.] : להחליט; להימלך בדעתו
+r Beschluss (pl. Beschlüsse) : הכרעה
+beschlussfähig [adj.] : שיכול לקבל החלטה מחייבת
 beschneiden, beschnitt, hat beschnitten [vt.] : למול; לגזום; לחתוך
 e Beschneidung : מילה
+sich beschränken
+beschränkt
+e Beschränktheit
+e Beschränkung
 beschreiben : לתאר
+e Beschriebung : תיאור
 beschuldigen, beschuldigte, hat beschuldigt [vt.] : להאשים
+e Beschuldigung
 beschützen, beschützte, hat beschützt [vt.] : להגן על־
+e Bewscherde (pl. -n) : תלונה; התנגדות
+Beschwerden (pl.) : בעיה רפואית
 beschweren
 sich beschweren : להתלונן
   - sich über + [Akk.] beschweren : להתלונן על־
-e Bewscherde (pl. -n) : תלונה; התנגדות
-Beschwerden (pl.) : בעיה רפואית
+beschwerlich
+e Beschwernis
 j-n beschwichtigen : לפייס, להרגיע
+e Beschwichtigung
+beschwingt
+e Beschwingtheit
 beschwören : להעלות באוב
   - Geister beschwören : לזמן רוחות, להעלות באוב רוחות
+e Beschwörung
 beseitigen [vt.] : להיפטר מ
+e Beseitigung
+r Besen (= pl.)
+besessen [adj.]
+r Besessene
+e Besessenheit
+besetzen
+s Besetztzeichen
+e Besetzung
+besichtigen
+e Besichtigung
+besiedeln
+e Besiedlung
 besiegen : להביס
+besinnen
+besinnlich
+Besinnlichkeit
+Besinnung
+besinnungslos
 besitzen, besaß, hat besessen [vt.] : להיות הבעלים של, להחזיק ב־, שמשהו ברשותו
+r Besitzer
+besitzlos
+s Besitztum
+e Besitzung
+besondere
+s Besondere
+e Besonderheit
 besonders [adv.] : במיוחד
+e Besonnenheit
+besorgen
+besorgniserregend
 besorgt [adj.] : מודאג
   - besorgt sein : לדאוג, להיות מודאג
+e Besorgtheit
+e Besorgung
 besprechen, besprach, hat besprochen [vt.] : לדון ב־
 besser : יותר טוב
   - besser werden : להרגיש טוב יותר, להחלים (ממחלה)
