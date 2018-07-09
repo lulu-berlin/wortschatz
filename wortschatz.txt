@@ -2204,23 +2204,76 @@ besorgt [adj.] : מודאג
   - besorgt sein : לדאוג, להיות מודאג
 e Besorgtheit
 e Besorgung
+bespielbar
+bespielen
 besprechen, besprach, hat besprochen [vt.] : לדון ב־
-besser : יותר טוב
+besser [adv.] : יותר טוב
   - besser werden : להרגיש טוב יותר, להחלים (ממחלה)
+bessergestellt
+bessern
+e Besserung
+r Besserwisser
+r Bestand (pl Bestände)
+beständig
+e Bestandsaufnahme
+r Bestandteil
 bestätigen, bestätigte, hat bestätigt [vt.] : לאשר
+bestatten
+e Bestattung
+bestäuben
+e Bestäubung
 bestaunen, bestaunte, hat bestaunt [vt.] : להתפלא, להתפעל
-bestellen, bestellte, hat bestellt : להזמין (במסעדה; בחנות)
+beste
+bestechen
+s Besteck (pl. e)
+bestechlich
+e Bestechung
+bestehen
+s Bestehen
+bestellen, bestellte, hat bestellt [vt.] : להזמין (במסעדה; בחנות)
+r Bestellschein
 e Bestellung (pl. -n) : הזמנה
+bestialisch
+e Bestialität
+e Bestie (pl. -n) : בהמה; חיה פראית
+bestimmbar
 bestimmen, bestimmte, hat bestimmt [vt.] : לקבוע, להחליט, לזהות, להעריך
+bestimmt [adj.]
+bestimmt [adv.]
+e Bestimmtheit
+e Bestimmung
+bestrafen
+e Bestrafung
+bestrahlen
+e Bestrahlung
+bestreiten
+s Bestreiten
+r Bestseller (= pl.)
+e Bestsellerliste
 r Besuch (pl. -e) : ביקור
   - Besuch haben : לארח אורחים
   - zu Besuch : לביקור
   - zu Besuch kommen : לבוא לבקר
 besuchen, besuchte, hat besucht [vt.] : לבקר
+r Besucher (= pl.)
+betäuben
+e Betäubung
+s Betäubungsmittel
+beteiligen
+e Beteiligung
 beten, betete, hat gebetet : להתפלל
   - zu Gott beten : להתפלל לאלהים
   - für + [Akk.] beten : להתפלל ל־
   - den Rosenkranz beten : להתפלל עם מחרוזת תפילה
+r Beter (= pl.)
+beteuern
+e Beteurung
+r Beton (pl. -s)
+betonen
+betonieren
+e Betonmischmaschine
+betontermaßen
+e Betonung
 betrachten, betrachtete, hat betrachtet [vt.] : לשקול
 betragen, betrug, hat betragen : מונה, אורך, מגיע לכדי [להיות, אבל למידה]
   - Die Entferunung beträgt vier Meilen.
@@ -2231,6 +2284,7 @@ e Betreuung : דאגה; תמיכה
 sich betrinken, betrank sich, hat sich betrunken : להשתכר
 betroffen [adj.] : מושפע
 betröppelt [adj.] : מדוכדך
+e Betschwester
 s Bett (pl. -en) : מיטה
   - ins Bett gehen : ללכת למיטה, ללכת לישון
 r Beton : בטון
