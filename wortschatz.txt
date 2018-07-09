@@ -772,8 +772,8 @@ e Anmerkung (pl. -en)
 e Anmietung (pl. -en) : שכירות
 án|motzen, motzte an, gemotzt
   - j-n anmotzen [ugs.] : להתלונן על משהו
-e Anmut
-anmutig
+e Anmut : חן; יופי; אלגנטיות
+anmutig [adj.] : חינני
 sich án|nähern, näherte sich an, hat sich angenähert : להתקרב ל־
   - sich [Dat.] annähern : להתקרב ל־
 annähernd [adj.] : מקורב, בקירוב
@@ -783,12 +783,12 @@ e Annahme (pl. -n) : הנחה, השערה; אימוץ
 án|nehmen, nahm an, hat angenommen : לאמץ, לקבל, לקחת, להסכים ל־; להניח
 annektieren : לספח
 e Annexion : סיפוח
-e Annonce
-annoncieren
+e Annonce : מודעה; פרסומת
+annoncieren : לפרסם
 annullieren, annullierte, hat annulliert [vt.] : לבטל
 e Anode : אנודה, קוטב חיובי
-anomal [adj.]
-e Anomalie
+anomal [adj.] : אנומאלי
+e Anomalie : אנומאליה
 anonym [adj.] : אנונימי
 e Anordnung (pl. -en) : סדר, סידור, עיצוב
 án|packen, packte an, hat angepackt [vt.] : להתמודד עם (משימה, בעיה, קושי)
@@ -810,14 +810,14 @@ e Ansage (pl. -n) : הכרזה; הודעה
   - sich ansagen : להכריז על עצמו
   - den Kampf ansagen : להכריז מלחמה
 s Ansagen (= pl.) : הכרזות
-ansässig [adj.]
+ansässig [adj.] : תושב
 án|schauen, schaute an, hat angeschaut [vt.] : להסתכל על
   - sich[Dat.] [Akk.] anschauen : להסתכל על משהו
-anschaulich
-e Anschauung
-s Anschauungsmaterial
-r Anschein
-r Anschlag (pl. Anschläge)
+anschaulich : בהיר; ברור
+e Anschauung : ראיה; דעה; אינטואיציה
+s Anschauungsmaterial : אמצעי המחשה; אמצעי אילוסטרציה
+r Anschein : מראה; דמות
+r Anschlag (pl. Anschläge) : עצירה; התקפה; מגע
 án|schließen, schloss an, hat angeschlossen [vt.] : לחבר, לצרף, לקשור יחד
 án|schmachten, schmachtete an, hat angeschmachtet [vt.] : להזיל ריר על, לרצות משהו מאוד
 án|schreiben, schrieb an, hat angeschrieben [vt.] : לכתוב למישהו
@@ -826,13 +826,13 @@ e Anschrift (pl. -en) : כתובת
 án|setzen : לקבוע זמן
 e Ansicht (pl. -en) : מבט; דיעה; אמונה
 e Ansprache (pl. -n) : פניה; נאום
-ansprechbar [adj.]
+ansprechbar [adj.] : מגיב; נגיש
 án|sprechen, sprach an, hat angesprochen [vt.] : לפנות למישהו; להעלות נושא לדיון
 ansprechend [adj.] : מוצא חן, מושך, מלבב, אטרקטיבי
 e Anstalt (pl. -en) : מוסד, ממסד
-r Anstand
-anständig [adj.]
-anstandshalber
+r Anstand : הגינות
+anständig [adj.] : הגון; הולם
+anstandshalber [adv.] : מתוך נימוס
 anstatt [präp.] (vgl. Statt) : במקום
   - anstatt + [Gen.] [präp,] : במקום־
   - anstatt zu + [Inf.] [präp.] : במקום ל־(מקור)
@@ -848,7 +848,7 @@ e Anstellung : העסקה
 r Anstoß : דחף (לעשות משהו)
 án|stoßen : ליזום; להשיק כוסות, להרים כוסית; להתנגש
 án|streben [vt.] : לשאוף ל־; לכוון ל־
-  - eine Stelle anstreben
+  - eine Stelle anstreben : לשאוף למשרה
 án|streichen [vt.] : לצבוע
 r Anstreicher (= pl.) : צַבָּע
 án|strengen, strengte an, hat angestrengt : לנסות
@@ -911,21 +911,21 @@ apathisch [adj.] : אפתי, אדיש, שווה נפש
 r Apfel (pl. Äpfel) : תפוח
 e Apfelsine (pl. -n) : תפוז
 e Apokalypse (pl. -n) : אפוקליפסה
-apokalyptisch [adj.]
-r Apostel (= pl.)
-apostolisch [adj.]
+apokalyptisch [adj.] : אפוקליפטי
+r Apostel (= pl.) : שליח, מבשר
+apostolisch [adj.] : שקשור לשליחים (בנצרות)
 r Apostroph (pl. -e) : גרש
 e Apotheke (pl. -n) : בית מרקחת
 r Apotheker (= pl.) : רוקח
 e Apothekerin (pl. -nen) : רוקחת
-r Apparat (pl. -e)
+r Apparat (pl. -e) : מנגנון; אפראט
 s Appartement (pl. -s)
 r Appell (pl. -e)
 r Appetit (pl. -e) : תיאבון
 appetitanregend [adj.] : מעורר תיאבון
 appetitlich [adj.]
 applaudieren : למחוא כפיים, לשבח
-r Applaus
+r Applaus : מחיאות כפיים; תשואות; תשבוחות
 e Apposition (pl. -en)
 s Aquarell (pl. -e)
 e Aquarellfarbe (pl. -n)
@@ -978,16 +978,16 @@ r Argwohn (gegen j-n) : חשד, חוסר אמון
 e Arie (pl. -n)
 e Arithmetik
 e Arkade (pl. -n)
-e Arktis
+e Arktis : ארקטיקה; האוקיינוס הצפוני
 r Arm (pl. -e) : זרוע, יד
   - j-n auf den Arm nehmen : לעבוד על מישהו
   - Mir ist der Arm eingeschlafen : נרדמה לי היד
 arm (ärmer, ärmste) [adj.] : עני
 e Armatur (pl. -en)
-s Armaturenbrett
-s Armband
-e Armbrust
-e Armee (pl. -n)
+s Armaturenbrett : לוח שעונים, דשבורד
+s Armband : צמיד
+e Armbrust : קשת יריה המוחזקת לאורך הגוף
+e Armee (pl. -n) : צבא
 s Armeekorps
 r Ärmel (= pl.) : שרוול
 e Armut (~pl.) : עוני
@@ -995,20 +995,20 @@ e Armut (~pl.) : עוני
   - bittere Armut : עוני מר
 s Aroma (pl. Aromas, Aromen, Aromata)
 aromatisch [adj.] : ארומטי
-s Arrangement
-arrangieren
-r Arrest (pl. -e)
-arretieren
+s Arrangement : סידור; הסכם
+arrangieren [vt.] : לארגן
+r Arrest (pl. -e) : מעצר
+arretieren : לנעול; לקבע
 arrogant [adj.] : יהיר
-e Arroganz
+e Arroganz : יהירות, גאוותנות
 r Arsch (pl. Ärsche) [ugs.] [vulg.] : ישבן, תחת
   - im Arsch : fucked up, messed up
 s Arsen : ארסן, ארסניק
-e Art (pl. -en)
+e Art (pl. -en) : סוג
   - die Art und Weise
-e Arterie (pl. -n)
-artig [adj.]
-r Artikel (= pl.)
+e Arterie (pl. -n) : עורק
+artig [adj.] : טוב
+r Artikel (= pl.) : מאמר; מוצר
 artikulieren : לבטא, להביע
 r Artist (pl. -en)
 artistisch [adj.]
