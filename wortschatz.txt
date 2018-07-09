@@ -1939,35 +1939,84 @@ beí|steuern [vt.] : לתרום
   - Geld beisteuern : לתרום כסף
 r Beistrich (pl. -e) : פסיק
 e Beißzange (pl. -n)
-r Beitrag (pl. Beiträge) : תרומה; מאמר; חוב; פוסט;
+r Beitrag (pl. Beiträge) : תרומה; מאמר; חוב; פוסט
+beí|tragen
+beitragspflichtig [adj.]
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
+sich beí|zeiten
+bejahen [vt.] : להסכים, להשיב כן
 bekannt [adj.] : מוכר
   - bekannt geben : להכריז על
+r Bekannte (pl. -n) : מכר
+r Bekanntenkreis
 bekánnt|geben (gibt bekannt), gab bekannt, hat bekanntgegeben [vt.] : להכריז על־
   - öffentlich bekanntgeben : להודיע רשמית
+bekanntlich [adj.]
+bekánnt|machen
+bekánnt|werden
+sich bekehren
+e Bekehrung
 bekehrt [adj.] : מומר
 e Bekehrung : המרה, המרת דת
 s Bekenntnis (pl. -se) : מסדר (דתי)
+sich bekleiden
+e Bekleidung
+beklommen
+e Beklommenheit
+bekommen, bekam, hat bekommen [vt.] : לקבל
+bekömmlich [adj.]
+bekümmern
+e Bekümmernis
 bekunden : לבטא, להראות
   - Interesse bekunden : להראות עניין
   - sein Beileid bekunden : לנחם (אבלים)
-bejahen [vt.] : להסכים, להשיב כן
+r Belag (pl. Beläge)
 e Belagerung : מצור
+r Belang
+belangen
+belanglos
+belästigen
+e Belästigung
 e Belastung : עול
+r Beleg
 belegen : to prove, to verify, to substantiate
   - j-m mit e-m Bann belegen : to banish s.o., to ban s.o.
+e Belegschaft
+e Belegung
 beleidigen, belidigte, hat beleidigt [vt.] : להעליב
+e Beleidigung
+r Beleidigungsprozess
+beleuchten
+r Beleuchter
+e Beleuchtung
+belieben
+s Belieben
 beliebig [adj.] : אקראי; כך שהסדר לא חשוב
 beliebt [adj.] : פופולארי
-bellen, bellte, hat gebellt : לנבוח
+e Beliebtheit
+bellen, bellte, hat gebellt [vi.] : לנבוח
   - Der Hund bellt.
+belohnen
+e Belohnung
 sich belügen : לרמות את עצמו
+bemächtigen
+bemängeln
+e Bemäng(e)lung
+bemerkbar [adj.]
 bemerken, bemerkte, hat bemerkt : להבחין במשהו מבלי לחפש או בלי כוונה
+bemerkenswert [adj.]
 e Bemerkung (pl. -en) : הערה, אבחנה
+sich bemühen : להתאמץ
+  - sich um + [Akk.] bemühen
+  - sich an + [Akk.] bemühen
+e Bemühung
 benachrichtigen : להודיע, לתת התראה
+benachteiligen
 sich benehmen (benimmt sich), benahm sich, hat sich benommen : להתנהג
+s Benehmen
 beneiden, beneidete, beneidet : לקנא
   - j-n um + [Akk.] beneiden : לקנא במישהו על משהו
+beneidenswert [adj.]
 beobachten : להתבונן ב־, לצפות ב־, לבחון את, להשקיף על־
   - aufmerkasm beobachten : לבחון מקרוב
 s Beobachten : התבוננות, אבחנה
@@ -5486,6 +5535,7 @@ verfehlen : להחמיץ
 e Verfehlung : התנהגות בלתי הולמת
 verfeinern [vt.] : לזקק; לעדן; ללטש; לשפר
 verfeinert [adj.] : מעודן
+verfestigen
 verfluchen [vt.] : לקלל; להטיל קללה
 verflucht [adj.] : מקולל
 verflucht [interj.] : לעזאזל!
@@ -5578,6 +5628,7 @@ r Verrat : בגידה
 verraten [adj.] : לבגוד; לחשוף; לגלות
 r Verräter (= pl.) : בוגד
 verrecken : למות, ללכת פייפן, להיגמר
+e Verrohung : הפיכה לאכזרי
 verrückt [adj.] : משוגע
   - nach + [Dat.] verrückt sein : להיות משוגע על
 versagen, versagte, hat versagt : להיכשל
@@ -5672,6 +5723,8 @@ verwerfen (verwirft), verwarf, hat verworfen [vt.] : לדחות, לבטל, לס�
   - Änderungen verwerfen : לבטל שינויים
 sich verwicklichen, verwirklichte sich, hat sich verwirklicht : להתממש, לבוא לידי מימוש, להתגשם
 verwildert [adj.] : פרוע
+verwirren [vt.] : לבלבל
+verwirrend [adj.] : מבלבל
 verwischen [vt.] : לטשטש; למרוח; להסתיר את עקבותיו
   - seine Spuren verwischen : להסתיר את עקבותיו
 verworfen [adj.] : דחוי
@@ -5888,6 +5941,8 @@ e Wette (pl. -n) : התערבות
   - um die Wette rennen : להתחרות בריצה
   - Die Wette gilt. : ההתערבות עומדת בעינה.
 wetten : להתערב
+s Wetter : מזג אוויר
+e Wettervorhersage : תחזית מזג האוויר
 wettern : לגנות, לנגח
 s Wettrüsten : מירוץ חימוש
 wichtig [adj.] : חשוב
@@ -5902,6 +5957,7 @@ widersprechen, widersprach, widersprochen : לסתור
 r Widerstand (pl. Widerstände) : התנגדות
 widerstehen, widerstand, hat widerstanden : להתנגד
 widmen : להקדיש
+sich widmen
   - sich [Dat.] widmen : לקחת על עצמו, לעסוק ב־, להתמודד עם
 wieder [adv.] : שוב
 e Wiederaufnahme : חידוש
