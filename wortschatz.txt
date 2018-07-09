@@ -1,4 +1,4 @@
-ab= A, Ä =
+= A, Ä =
 s A : אַ, האות הראשונה באלפבית הלטיני
 s Ä : אֶ, האות א עם אומלאוט
 à [präp.] : במחיר־
@@ -1854,33 +1854,91 @@ behandeln
 e Behandlung
 e Behandlungsweise : טיפול; צורת טיפול, דרך טיפול
 beharren : להתמיד, להתעקש
-  - auf etw.[Dat.] beharren : להתעקש על משהו
+  - auf + [Dat.] beharren : להתעקש על משהו
 beharrlich [adj.] : עקשן, עקשני, מתמיד
 e Beharrlichkeit
 e Baharrung
 s Beharrungsvermögen
-behaupten + Akk. : לקבוע, לאשר, לטעון
+behaupten [vt.] : לקבוע, לאשר, לטעון
   - sich gegen j-n behaupten : להתייצב כנגד מישהו
+e Behauptung
 beheben [vt.] : לטפל ב־(בעיה), לפתור, להסדיר
   - Fehler beheben : לדבג
+r Behelf
+s Behelfshaus
+behelfsmäßig
+sich behelfen
+behelligen
+e Behelligung
+behende [adj.] : זריז, מהיר
+beherrschen [vt.]
+sich beherrschen
+r Beherrscher
+e Beherrschung
+beherzigen
+beherzigenswert
+e Beherzigung
+beherzt
+e Beherztheit
+e Behendigkeit
+behilflich
+e Behörde (pl. -n)
+behüten
+behutsam
+e Behutsamkeit
+bei [präp.] : אצל
+  - bei + [Dat.] [präp.] : אצל
+beichten
+e Beichte
+s Beichteheimnis
+r Beichtstuhl
 r Beichtvater : כומר מוודה
+beidarmig
+beide
+beidemal
+beiderlei
+beiderseitig
+beiderseits
+beidhändig
+r Beifahrer (= pl.)
 r Beifall : מחיאות כפיים; תרועה, תהילה, שבח; תשואות
+beifällig
 beí|fügen, fügte bei, beigefügt : להוסיף למשהו
   - "Er hat mit seiner Bewerbung ein Paßbild beigefügt."
+beige [adj.] : בֶּז'
+s Beige : צבע בז'
+s Beil (pl. -e)
+beiläufig [adj.]
+beileibe
+s Beileid
+Beileidskarte
 s Bein (pl. -e) : רגל
 r Beinamputierte : קטוע רגל
+r Beinbruch
+beinah(e)
+beinern
+beisammen
 beí|pflichten : לאמץ (חוק, רעיון), להסכים עם־
+r Beischalf : יחסי מין
+beí|schlafen, schlief bei, hat beigeschlafen : לשכב עם־
+  - mit j-m beischlafen : לשכב עם־
+beiseite
 beißen, biss, hat gebissen [vt.] : לנשוך, לקחת ביס
   - sich[Dat.] auf die Zunge beißen : לנשוך לעצמו את הלשון
   - sich[Dat.] auf die Lippen beißen : לנשוך לעצמו את השפתיים
 s Beißen : נשיכה
-s Beispiel : דוגמה
+s Beispiel (pl. -e) : דוגמה
   - zum Beispiel : לדוגמה
 beispielhaft [adj.] : מופתי; לדוגמה, שמהווה דוגמה
+beispiellos [adj.]
 beispielsweise [adv.] : לדוגמה
+r Beistand (pl. Beistände)
 beí|stehen
+  - j-m beistehen
 beí|steuern [vt.] : לתרום
   - Geld beisteuern : לתרום כסף
+r Beistrich (pl. -e) : פסיק
+e Beißzange (pl. -n)
 r Beitrag (pl. Beiträge) : תרומה; מאמר; חוב; פוסט;
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
 bekannt [adj.] : מוכר
@@ -5362,6 +5420,8 @@ vehement [adj.] : תקיף, החלטי, נחוש; זועם, רוגע
 verabscheuen [vt.] : לתעב, לשטום, לבחול
 verabschieden [vt.] : לאמץ; לשַׁלֵּחַ; להיפרד לשלום
 sich verabschieden : להיפרד לשלום
+verachten [vt.] : לבוז, לזלזל ב־; לגנות
+e Verachtung : זלזול, בוז
 veränderbar [adj.] : ניתן לשינוי
 veränderlich [adj.] : משתנה, נתון לשינוי
 verändern [vt.] : לשנות, לערוך שינויים, לבצע שינויים
@@ -5539,6 +5599,7 @@ verschlüsseln : להצפין
 verschlingen : לזלול; לבלוע (כלומר, לאכול בבת אחת)
 verschlossen : סגור, חתום, נעול
   - hinter verschlossenen Türen : בחדרי חדרים
+verschmähen [vt.] : לבוז
 verschmutzt [adj.] : מלוכלך; מזוהם
 verschnaufen : להתאושש
   - verschnaufen lassen : לתת (למישהו) להתאושש, לאפשר (למישהו) להתאושש
