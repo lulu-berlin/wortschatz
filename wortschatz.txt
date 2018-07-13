@@ -807,6 +807,7 @@ e Anordnung (pl. -en) : סדר, סידור, עיצוב
 án|passen, passte an, hat angepasst [vt.] : 
   - [Akk.] ([Dat.]) anpassend : להתאים משהו (ל־)
   - sich anpassen : להתאים את עצמו, להסתגל
+án|pflocken, pflockte an, hat angepflockt [vt.] : לשפד
 án|prangern, prangerte an, hat angeprangert [vt.] : להוקיע
 án|regen : לעורר, לעודד, לגרום ל־
 án|reichern, reicherte an, hat angereichert [vt.] : להעשיר
@@ -2629,6 +2630,7 @@ ehrgeizig [adj.] : שאפתן, תחרותי, אמביציוזי
 ehrlich [adj.] : הוגן, ישר, הגון, כֵּן
 s Ei (pl. -er) : ביצה
 r Eid (pl. -e) : שבועה
+r Eifer : להט
 eigen [adj.] : משל עצמו, מיוחד, ייחודי
   - sehr eigen : מאוד משונה
   - sich etwas zu eigen machen : לנכס, לתפוס בעלות
@@ -3209,6 +3211,8 @@ e Fülle : עושר
 füllen, füllte, hat gefüllt [vt.] : למלא
   - sich füllen : להתמלא, להיות מלא
 funkeln : לנצנץ (כוכבים)
+r Fund : מציאה; גילוי
+  - einen Fund machen
 s Funkeln : ניצוץ
 e Funktion : פונקציה; תפקוד, פעילות; תפקיד; תכונה
 funktionieren, funktionierte, hat funktioniert : לפעול, לתפקד
@@ -3419,6 +3423,7 @@ gespalten [adj.] : מפוצל
 s Gespenst (pl. -er) : רוח רפאים
   - Ich glaube nicht an Gespenster : אני לא מאמין ברוחות־רפאים
   - Gespenster-Seherei
+gespenstisch [adj.] : רדוף רוחות; מפחיד, מבהיל
 gestehen : להודות
 gestern [adv.] : אתמול
 gestrig [adj.] : של אתמול
@@ -3562,6 +3567,10 @@ r Halter [bair.] : רועה באלפים
 e Halle (pl. -n) : אוּלָם; מסדרון, פרוזדור; היכל
   - "vnd sihe / fur der thür am Tempel des Herrn / zwischen der Halle vnd dem Alter." [Lutherbibel, Ez 8:16] = וְהִנֵּה־פֶתַח הֵיכַל יהוה בֵּין הָאוּלָם וּבֵין הַמִּזְבֵּחַ [יחזקאל ח טז]
 r Hals : צוואר
+r Halt (pl. -e) : עצירה; תחנה
+Haltebereich (pl. -e) : איזור עצירה ???
+halten [vt.] : להחזיק, לתפוס; לשאת (דברים, נאום); להחזיק
+halten [vi.] : לעצור
 e Halterung : כַּן, תושבת
 hált|machen, machte halt, hat haltgemacht [auch: Halt machen]
   - vor nichts haltmachen : to stop at nothing
@@ -4072,6 +4081,7 @@ e Kurie (Lat. curia) : הקוריה הרומאית
   - Römische Kurie : הקוריה הרומאית
 kurz [adj.] : קצר
 kurzfristig [adj.] : קצר מועד, לטווח קצר
+r Kurzzug (pl. Kurzzüge) : רכבת קצרה
 kuschelig [adj.] : מתרפק, נוח להתכרבל
 kuscheln : להתכרבל; להתגפף
   - sich aneinander kuscheln : להתכרבל ביחד
@@ -4271,6 +4281,8 @@ lustig [adj.] : מצחיק
 machen, machte, hat gemacht [vt.] : לעשות
 e Macht : כוח, עוצמה
 e Machtgefüge : מבנה הכוח
+e Made (pl. -n) : רימה
+madenzerfressen [adj.] : אכול רימה
 mäh [interj.] : מֶה (פעיה)
 mähen [vt.] : לכסח (דשא), לגזום
   - den Rasen mähen : לכסח את הדשא, לגזום את הדשא
@@ -4747,6 +4759,7 @@ rasant [adj.] : במהירות, בקצב מסחרר
   - rasant steigende Kosten : מחירים מאמירים בקצב מסחרר
   - sich rasant entwickeln : להתפתח בקצב מסחרר
 rasch [adj.] : מהיר, זריז
+rascheln : לרשרש
 rasen : להתחרות, לרוץ (באופן תחרותי או במהירות), להזדרז אל־
 r Rasen (= pl.) : מדשאה, דשא
   - den Rasen mähen : לכסח את הדשא, לגזום את הדשא
@@ -5232,6 +5245,8 @@ r Spaß : כיף
 r Spatz : דרור, אנקור
   - Der Spatz piept. : הדרור מצייץ.
 spazíeren|gehen, ging spazieren, ist spazierengegangen : ללכת לטיול, ללכת לטייל
+r Speck : קותלי חזיר
+e Speckseite : ירך חזיר מומלחת ומעושנת
 r Speer : חנית, רומח
 speichern : לשמור
 e Speise : אוכל; מנה (במסעדה)
@@ -5558,6 +5573,8 @@ r Typ (pl. -en) : טיפוס
 e Übelkeit : בחילה
 üben, übte hat geübt : לתרגל
 über [präp.] : על
+überall [adv.] : בכל מקום
+überallhin : לכל כיוון, לכל מקום
 e Übereinkunft : agreement, accord
 übereinstimmen : להתאים
 r Überfall : פשיטה, התקפה, שוד
@@ -5576,6 +5593,7 @@ e Überlegenheit : עליונות, שליטה
 überschwemmen, überschwemmte, hat überschwemmt [vt.] : להציף
 überschwemmt [adj.] : מוצף
 e Überschwemmung : הצפה
+überstehen, überstand, hat überstanden [vt.] : לשרוד; לשאת; להחזיק מעמד
 übertragen, übertrug, hat übertragen [vt.] : להעביר, למסור, לשדר
 übertragen [adj.] : שנמסר
 e Übertragung (pl. -en) : העברה; שידור
@@ -5725,6 +5743,7 @@ unwetterartig [adj.] : סוער
 unwiederbringlich : שלא ניתן להשיבו
 unwillkürlich [adj.] : לא רצוני
 unwillkürlich [adv.] : בעל כורחו; באופן אוטומטי; בניגוד לרצונו
+unwuchert ???
 unwürdig [adj.] : לא ראוי
 unzuverlässig [adj.] : בלתי אמין, מפוקפק
 unzuverlässig [adv.] : באופן בלתי אמין, באופן מפוקפק
@@ -6318,6 +6337,7 @@ s Wörterbuch (pl. Wörterbücher) : מילון
   - in einem Wörterbuch nachschlagen : לחפש במילון
 r Wortführer (= pl.) : דובר
 wortgewaltig [adj.] : חזק במילים, רהוט
+wuchern, wucherte, ist/hat gewuchert : להתרבות במהירות, להתפשט, להשתרע, להתפרש
 e Wucht : השפעה עוצמה; חתיך
   - mit voller Wucht : בכל הכוח
   - volle Wucht : מלא עזוז
@@ -6365,6 +6385,7 @@ e Zeit (pl. -en) : זמן; זמן־פועל; תקופה
   - Wurde auch zeit : הגיע הזמן באמת
   - Zeit verbringen : להעביר את הזמן
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
+zerfressen [vt.] : לזלול (חיה)
 Zermürbend [adj.] : מתיש, מפרך
 zerrinnen, zerrann, nat zerronnen : להתפוגג, להיעלם
   - zwischen den Fingern zerrinnen : לברוח בין האצבעות
