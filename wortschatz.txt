@@ -983,6 +983,7 @@ r Ärger [adj.] : כעס
 ärgerlich [adj.]
 ärgern, ärgerte, hat geärgert [vt.] : להכעיס; להציק ל־; להדאיג; לעצבן
 s Ärgernis
+e Arglist : ערמומיות, עורמה
 arglistig [adj.] : מרושע, זדוני, בעל כוונות רעות
 arglos : תמים, לא חושד
 s Argument (pl. -e)
@@ -2430,6 +2431,10 @@ brandgefährlich [adj.] : שעלול להתלקח; מסוכן מאוד
 braten (brät/bratet), briet, hat gebraten [vt.] : לטגן
 brauchen, brauchte, hat gebraucht [vt.] : להצטרך
 braun [adj.] : חום
+Bräune : שיזוף
+bräunen [vt.] : להשחים
+s Bräunen : השחמה
+bräunlich [adj.] : שחמחם
 e Brause : טוש
 Brausekopf : הראש של הטוש
 brechen (bricht), brach, hat gebrochen [vt.] : לשבור
@@ -2448,10 +2453,13 @@ brüllen : לשאוג
 brummen : לנהום
   - Der Bär brummt.
 brünstig [adj.] : מיוחם
+brutto [adj.] : נרוטו
 e Brust (pl. Brüste) for: שד; חזה
 e Brustwarze : פטמה
 e Brut : זן; קבוצת חיות צעירות שבקעו יחד מביציהן
 e Brutpflege : שמירה על הגוזלים
+brutzeln : לרחוש; לתסוס; ללהוט
+s Brutzeln : רחישה; תסיסה
 r Buchhalter (= pl.), e Buchhalterin
 s Bündnis : ברית; קואליציה
 r Bürgersteig (pl. -e) : מדרכה
@@ -2718,6 +2726,9 @@ s Einnässen : הרטבה
 eín|ordnen : למיין, לסווג
 eín|packen : לארוז
 eín|reißen [vt.] : להרוס, להפיל, למוטט
+etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
+  - Der Techniker richtete die Website innerhalb einer Woche ein.
+  - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit eingerichtet.
 einsam [adj.] : בודד
   - sich einsam fühlen : להרגיש בודד
 r Einsatz (pl. Einsätze) : שימוש; מחויבות; סיכון
@@ -2734,11 +2745,9 @@ r Einspruch : התנגדות; מחאה
 eín|stehen
   - für + [Akk.] einstehen : להיות אחראי על; לערוב ל־; להתחייב ל־; להבטיח
 eín|stellen : להעסיק, למנות, לשכור את שירותיו של מישהו
-etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
-  - Der Techniker richtete die Website innerhalb einer Woche ein.
-  - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit eingerichtet.
 eín|schlafen, schlief ein, ist eingeschlafen [vi.] : להירדם
 einseitig : חד־צדדי, מוטה
+r Eintopf : תבשיל; נזיד
 eín|tragen [vt.] : לרשום, להכניס לרשימה, להוסיף לרשימה
   - sich eintragen : להירשם
 eín|treffen : להגיע
@@ -3076,6 +3085,8 @@ faulenzen : להתעצל; להתבטל
 s Faustpfand : קלף מיקוח
 fechten (ficht), focht, hat gefocht : לסייף
 s Fechten : סיוף
+e Feder (pl. -n) : קפיץ; נוצה; עט
+s Federmäppchen : קלמר
 fegen [vt.] : לטאטא
 fehlen, fehlte, hat gefehlt : להיות חסר; להיעדר; לא להימצא, לא להיות בנמצא
 s Fehlen : מחסור; היעדר
@@ -3802,6 +3813,7 @@ j-m etw. hinterlássen : להשאיר משהו למישהו
   - eine Erbe hinterlassen : להשאיר ירושה
 e Hinterlassenschaft : מורשת, נחלה
   - schriftliche Hinterlassenschaft : מורשת כתובה
+hinterlistig [adj.]
 hinüber [adv.] : מעבר לזה
   - hinüber sein : נמאס לו מזה
 sich hinwég|setzen : לזלזל, לבוז
@@ -4323,7 +4335,8 @@ e Lippe (pl. -n) : שפה
   - sich auf die Lippen beißen : לנשוך את השפתיים
 lispeln : להגות בצורה לקויה
   - „Mein lispelnd Lied״ [Goethe, Faust]
-e List (pl. -en) : עורמה
+e List : עורמה
+e Liste (pl. -n) : רשימה
 r LKW (= pl.) [kurz für Lastkraftwagen] : משאית
 s Loch (pl. Löcher) : חור
 e Locke : תלתל
@@ -4363,6 +4376,8 @@ e Luftlinie : קו אווירי
 r Luftstrom : זרם אוויר
 e Lüge : שקר
 lügen : לשקר
+r Lügner (= pl.) : שקרן
+e Lügnerin (pl. -nen) : שקרניתe
 lukrativ [adj.] : רווחי, משתלם, מכניס
 lustig [adj.] : מצחיק
   - sich über j-n lustig machen : לצחוק על מישהו
@@ -4408,6 +4423,8 @@ r Mann (pl. Männer) : גבר
 mannigfach [adj.] : מגוון, מרובה
 mannigfaltig [adj.] : מגוון, מרובה
 e Mannschaft (pl. -en) : צוות; קבוצה
+s Mäppchen : קלמר
+e Mappe : תיקיה
 e Maske (pl. -n) : מסכה
 r Maskenball : נשף מסכות
 r Markt (pl. Märkte) : שוק
@@ -4613,6 +4630,8 @@ nennen, nannte, hat genannt [vt.] : לכנות בשם, לקרוא
 nennenswert : ראוי לציון
 nerven [vt.] : לעצבן
 nervös [adj.] : עצבני, לחוץ
+nett [adj.] : נחמד
+s Netto : נטו
 r Netz (pl. -e) : רשת
 s Netzwerk : רשת (תקשורת)
 e Neuordnung : ארגון מחדש
@@ -4844,6 +4863,8 @@ e Quote (pl. -n) : מידה; כמות; קווטה
 
 = R =
 radieren [vt.] : למחוק
+raffiniert [adj.]
+s Ragout : רגו, נזיד מתובל של בשר וירקות
 rammeln, rammelte, gerammelt
   - j-n rammeln : לזיין
   - gerammelt voll sein : להיות מלא עד אפס מקום
@@ -4889,6 +4910,9 @@ r Raubvogel : ציפור טרף
 rauchen : לעשן
 r Raucher : מעשן
 räudig [adj.] : מטונף, מרופט, קמצני
+r Raum (pl. Räume) : מרחב; שטח; חדר
+räumlich [adj.] : מרחבי
+e Räumlichkeit : מרחב; מרחביות
 r Rausch : שכרון, השתכרות, מסטוליות
 rauschen : לרשרש, לרחשש, להשמיע אוושה
 s Rauschmittel : סם משכר
@@ -5122,6 +5146,7 @@ e Schlagsahne : שמנת מתוקה
 e Schlampe (pl. -n) [ugs.] : פרוצה, שרלילה
 schlau [adj.] : חד; פיקח; נבון; ערמומי
 e Schläue : ערמומיות; פיקחות
+e Schlauheit : ערמומיות
 schlecht [adj.] : רע, גרוע
 schleichen, schlich, ist geschlichen [vi.] : להתגנב
 r Schleim (pl. -e) : ליחה
@@ -5157,6 +5182,7 @@ r Schmelztiegel : כור היתוך
 schmieden, schmiedete, hat geschmiedet : לחשל, לעצב במתכת
 r Schmirgel : שמיר, אבן קשה לליטוש
 s Schmirgelpapier : נייר זכוכית
+schmoren : לבשל (נזיד); לבשל על ידי טיגון קל ולאחריו צלייה
 r Schmuck : תכשיט
 schnarchen, schnarchte, geschnarcht : לנחור
 s Schnarchen : נחירה
