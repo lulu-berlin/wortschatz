@@ -230,7 +230,7 @@ abhanden|kommen, kam abhanden, ist abhandengekommen : ללכת לאיבוד, ל�
   - j-n abhängen : להשאיר מאחור
 abhängig [adj.] : תלוי
   - von + [Dat.] abhängig sein : להיות תלוי ב־
-án|hauen, haute ab, ist abgehauen [vi.] [ugs.] : להסתלק; לעוף מפה
+áb|hauen, haute ab, ist abgehauen [vi.] [ugs.] : להסתלק; לעוף מפה
 s Abkommen : הסכם, עסקה, דיל
 r Ablass (pl. Ablässe) : פליטה; אינדולגנציה
 áb|legen : לקחת; להניח; לעשות
@@ -1164,6 +1164,7 @@ aúf|halten : לעצור, לעכב, למנוע
 aúf|hören, hörte auf, hat aufgehört [vt.] : להפסיק
 aúf|klären
 e Aufklärung
+aúf|knüpfen
 aúf|kreuzen : להופיע (פתאום)
 r Auflauf
 aúf|legen, legte auf, hat aufgelegt : לנתק (את הטלפון)
@@ -1358,7 +1359,8 @@ aús|nutzen, nutzte aus, hat ausgenutzt [vt.] : לנצל, לעשות שימוש
   - sein Potenzial nicht ausnutzen : לא לנצל את הפוטנציאל שלו
   - [Akk.] komplett ausnutzen : לעשות שימוש מלא ב־
 aús|probieren
-r Auspuff
+r Auspuff : אגזוז
+e Auspuffanlage : אגזוז
 s Auspuffgas (pl. -e)
 s Auspuffrohr
 aús|radieren : למחוק
@@ -1597,6 +1599,8 @@ s Barett (pl. -e) : ברט
 r Bariton (pl. -e)
 barfuß [adj.]
 bargeldlos [adj.]
+r Barkeeper : מוזג, ברמן
+e Barkeeperin : מוזגת, ברמנית
 barmherzig [adj.]
 e Barmherzigkeit
 r/s Barock
@@ -2306,6 +2310,8 @@ e Betreuung : דאגה; תמיכה
 sich betrinken, betrank sich, hat sich betrunken : להשתכר
 betroffen [adj.] : מושפע
 betröppelt [adj.] : מדוכדך
+betrübt [adj.] : מיוסר; עצוב; מדוכדך
+e Betrübtheit : עצבות; דכדוך
 e Betschwester
 s Bett (pl. -en) : מיטה
   - ins Bett gehen : ללכת למיטה, ללכת לישון
@@ -2345,6 +2351,9 @@ e Beziehung (pl. -en) : יחס; קשר; מערכת יחסים; אופן
 Beziehungsweise [adv.] : או לחלופין; או; ו־; ו/או; בהתאמה
 beziffern, bezifferte, hat bezieffer : לאמוד, לתת אומדן
   sich auf etw.[Akk.] beziffern : להיאמד ב־
+bezogen [adj.]
+  - bezogen auf + [Akk.] : שמתייחס ל־
+  - auf + [Akk.] bezogen : שמתייחס ל־
 r Bezug (pl. Bezüge) : יחס; התייחסות;
   - in Bezug auf + [Akk.] [präp.] : ביחס ל־
 bezüglich [präp.] : ביחס ל־
@@ -2352,6 +2361,7 @@ bezüglich [präp.] : ביחס ל־
 bezweifeln [vt.] : להטיל ספק ב־
 bezwingen [vt.] : להביס, לגבור על־, להתגבר על־
   - eine Angst bezwingen : להתגבר על פחד
+r BH [kurz für Büstenhalter] : חזיה
 biegen, bog, hat gebogen [vt.] : לכופף; לסובב
 s Bier (pl. -e) : בירה
 bieten, bot, hat geboten [vt.] : להציע; לספק; להציע מחיר
@@ -2366,6 +2376,11 @@ binden, band, hat gebunden [vt.] : לכרוך; לקשור
 binnen [präp.] : תוך ... בתוך ... (זמן)
   - binnen + [Gen.] [präp.]: תוך־, בתוך־ (זמן)
 e Birne (pl. -n) : אגס
+bitter [adj.] : מר
+bitter [adv.] : באופן מר
+e Bitterkeit : מרירות
+e Bitterschokolade : שוקולד מריר
+bittersüß [adj.] : מר־מתוק
 e Biologie : ביולוגיה
 bis [präp.] : עד
  - bis auf + [Akk.] [präp.] : עד ל־, חוץ מ־, מלבד
@@ -2387,11 +2402,11 @@ blanko [adv.] : ריק, חלק
   - blanko akzeptieren : לקבל כמו שהוא
 r Blankoscheck : צ'ק פתוח
 r Blasebalg
-blasen (bläst), blies, hat geblasen : לנשוף
+blasen (bläst), blies, hat geblasen : לנשוף; לנשוב; לבצע מין אוראלי, למצוץ
   - j-m einen blasen [ugs.] : למצוץ למישהו, לבצע מין אוראלי
 blass [adj.] : חיוור; דהוי
   - blass werden : להחוויר, להיעשות חיוור
-blau [adj.] : כחול
+blau [adj.] : כחול; שיכור
 s Blatt (pl. Blätter) : גליון; עלה; עמוד; נייר
 bleiben, blieb, ist geblieben [vi.] : להישאר
   - übrig bleiben : להישאר
@@ -2443,10 +2458,17 @@ r Bürgersteig (pl. -e) : מדרכה
 s Büro : משרד
 bürsten, bürstete, hat gebürstet : להבריש
 r Bus (pl. Busse) : אוטובוס
+r Busch : שיח
+buschig : סבוך, עבות
+s Buschland : בתה
 Buße : כפרה
   - Buße tun : לעשות תשובה, לכפר
+r Busen (= pl.) : חזה (של אישה); חיק
+r Busenfreund
 büßen : לכפר
   - für + [Akk.] büßen : לכפר על
+e Büste (pl. -n) : חזה, שד; פרוטומה, פסל של ראש אדם, כתפיים וחזה
+r Büstenhalter (= pl.) : חזיה
 Bushaltestelle (pl. -n) : תחנת אוטובוס
 busseln [vt.] : לנשק
 s Bussi [ugs.] : נשיקה
@@ -2476,6 +2498,9 @@ daheim [adv.] : בבית
 s Daheim : הבית
 e Dame : גברת
 dämlich [adj.] : טיפש
+r Däne (pl. -n) : דֶּנִי
+s Dänemark : דנמרק
+Dänin (pl. -nen) : דֶּנִית
 danken : להודות
   - [Dat.] danken : להודות ל־
 dár|stellen, stellte dar, hat dargestellt [vt.] : להוות; לייצג; להציג; לתאר (בקווים כלליים); לשרטט; לחקות; להציב
@@ -2494,6 +2519,7 @@ e Debatte : ויכוח, דיון; עימות
 e Decke (= pl.) : תקרה; שמיכה
 e Deckung : coverage, backing
 r Degen : פגיון
+r Deich (pl. -e) : דייק, סוללה
 e Deko : קישוט
 e Dekoration : קישוט
 dekorieren : לקשט
@@ -2571,6 +2597,7 @@ dumm [adj.] : טיפש; טיפשי
 r Dummkopf [ugs.] : טיפש, מטומטם
 dulden [vt.] : לסבול, לשאת, לעמוד ב־
 s Dulden : סובלנות
+e Düne : דיונה
 r Dung : גללים; דשן
 düngen : לדשן, לזבל
 dunkelgrün [adj.] : ירוק בהיר
@@ -2610,6 +2637,7 @@ ebenbürtig : שווה, ראוי
 ebnen : to level, to smooth
   den Weg ebnen (für etw.) : to pave the way (for s.th.)
   sich ebnen : to even out
+e Echse : לטאה
 s Edikt (pl. -e) : edict [Zaw, hora'ah, pqudah]
 egal [adj.] : לא משנה
   - Das ist mir egal. : לא אכפת לי
@@ -2630,6 +2658,7 @@ ehrgeizig [adj.] : שאפתן, תחרותי, אמביציוזי
 ehrlich [adj.] : הוגן, ישר, הגון, כֵּן
 s Ei (pl. -er) : ביצה
 r Eid (pl. -e) : שבועה
+e Eidechse : לטאה
 r Eifer : להט
 eigen [adj.] : משל עצמו, מיוחד, ייחודי
   - sehr eigen : מאוד משונה
@@ -2837,7 +2866,10 @@ erben, erbte, hat geerbt [vt.] : לרשת
 r Erbfeind : אויב נצחי, "אויב תורשתי"
 e Erbfeindschaft : איבה נצחית שמועברת מדור לדור
 erbitten, erbat, erbeten : לבקש, לערוג 
-erbittert [adj.] : עז, פראי
+erbittern [vt.] : למרר
+erbittert [adj.] : עז, פראי; מר
+  - erbitterte Debatte : ויכוח מר
+e Erbitterung : מרירות
 erbringen [vt.] : להעביר; לספק; להמציא (עדות, הוכחה)
   - Leistungen erbringen : לספק שירותים
   - Nachweis erbringen : להמציא הוכחה
@@ -3010,6 +3042,7 @@ e Fahrkarte (pl. -n) : כרטיס נסיעה
 r Fahrkartenschalter : קופה (משרד לקניית כרטיסי נסיעה)
 s Fahrrad (pl. Fahrräder) : אופניים
 s Fahrzeug (pl. -e) : רכב; כלי תחבורה; מכונית
+e Falke (pl. -n) : נץ
 r Fall (pl. Fälle) : מקרה; ארוע; עניין; נפילה; יחסה
   - auf jeden Fall : בכל מקרה
   - auf keinen Fall : בשום פנים ואופן
@@ -3024,6 +3057,13 @@ fälschen [vt.] : לזייף
 e Fälschung : זיוף
 e Familie (pl. -n) : משפחה
 fangen (fängt), fing, hat gefanen [vt.] : לתפוס
+fantastisch [adj.] : פנטסטי
+r Farbdruck : הדפסה בצבע
+e Farbe (pl. -n) : צבע
+farbecht [adj.] : שאינו דוהה בכביסה
+r Farbfilm : סרט בצבעים (לא שחור לבן)
+farbig [adj.] : צבעוני
+r Farbstoff : צבע (חומר לצביעה)
 fassen, fasste, hat gefasst : להחזיק; לתפוס
   - etwas in Worte fassen : לשים במילים, לבטא במילים
   - nicht zu fassen : אין לתאר, לא יעלה על הדעת
@@ -3046,6 +3086,7 @@ feiern, feierte, hat gefeiert : לחגוג
 s Feld (pl. -er) : שדה; אזור
 r Feldzug : מערכה; מסע (פרסום; הסברה; בחירות); קמפיין
   - einen Feldzug gegen + [Akk.] führen : לצאת למערכה נגד־; לצאת למסע צלב נגד
+s Fell : פרווה
 r Fels (pl. -en) : סלע; צוק
 r Felsen (= pl.) : סלע; צוק
 r Felsendom : כיפת הסלע
@@ -3066,6 +3107,7 @@ s Fernweh : תאוות נסיעה
 fertig [adj.] : מוכן
   - sich fertig machen : להתכונן; להתלבש לאירוע
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
+fesch [adj.] [ugs.] : אופנתי (בלשון הדיבור)
 Fesselballon
 fesseln
 s Fest : פסטיבל
@@ -3106,13 +3148,21 @@ finster [adj.] : חשוך
   - "vnd es war finster auff der Tieffe" [Lutherbibel, Gen 1:2] = וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם [בראשית א ב]
 e Finsternis (pl. -se) : חֹשֶׁךְ
   - "Da scheidet Gott das Liecht vom Finsternis" [Lutherbibel, Gen 1:4] = וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ [בראשית א ד]
+r Fisch (pl. -e) : דג
 r Fixer (= pl.) : נרקומן
 fühlen, fühlte, hat gefühlt : להרגיש
   - sich [präd.] fühlen : להרגיש (באופן מסוים)
   - sich fit fühlen : to feel fit
+flach [adj.] : שטוח; שטחי
+e Fläche : שטח; משטח; פני השטח
+flächendeckend [adj.] : מקיף
+flächendeckend [adv.] : באופן מקיף
 e Flagge (pl. -n)
   die Flagge auf Halbmast setzen
 e Flasche (pl. -n) : בקבוק
+flau [adj.] : רפוי; חלש
+  - Das Gescheft ist sehr flau.
+flauschig [adj.] : צמרירי; תפוח; רך, קל, אוורירי
 fleißig [adj.] : חרוץ
 flennen : ליבב, לבכות בכי תמרורים
 fliegen, flog, ist geflogen [vi.] : לטוס
@@ -3124,20 +3174,29 @@ flirten : לפלרטט
 r Floh (pl. Flöhe) : פשפש
 r Flohmarkt (pl. Flohmärkte) : שוק פשפשים
 e Flöte : חליל
+r Fluch : קללה
+fluchen, fluchte, hat geflucht [vi.] : לקלל
 fluchen : לקלל
 e Flucht : מנוסה, בריחה
+fluchten [vt.] : ליישר
 r Flüchtling (pl. -e) : פליט
 s Flüchtlingslager (= pl.) : מחנה פליטים
+r Fluchtpunkt : נקודת מגוז
+r Fluchtweg (pl. -e) : דרך מילוט
 s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
 r Flughafen (pl. Flughäfen) : נמל תעופה, שדה תעופה
 r Flur (pl. -e) : מסדרון
 r Fluss (pl. Flüsse) : נהר; זרם, זרימה
   - in Fluss bringen : להביא לזרימה, לגרום למשהו לזרום
 flussaufwärts : במעלה הנהר
-etw. von j-m fordern : to demand s.th. from s.o., to require, to request
-  Ersatz fordern : to claim compensation
-  Geld fordern : to claim one's money
-  seinen Tribut fordern : to take its toll
+flüstern [vt./vi.] : ללחוש
+  - [Akk.] flüstern : ללחוש משהו
+s Flüstern : לחישה
+fordern [vt.] : לדרוש; לתבוע; לבקש
+  - [Akk.] von j-m fordern : to demand s.th. from s.o., to require, to request
+  - Ersatz fordern : to claim compensation
+  - Geld fordern : to claim one's money
+  - seinen Tribut fordern : to take its toll
 e Forderung : תביעה, דרישה, קריאה ל־
   Forderungen stellen : להציב דרישות
   politische Forderung : דרישה פוליטית
@@ -3168,6 +3227,11 @@ s Fotoalbum : אלבום תמונות
 e Frage (pl. -n) : שאלה; עניין
   - Fragen aufwerfen : לעורר שאלות
 fragen : לשאול
+e Frau (pl. -en) : אישה
+r Frauenarzt : גניקולוג
+r Frauenärztin : גניקולוגית
+s Frauenbild : דימוי האישה
+s Frauenzimmer (= pl.) : בחורה
 frei [adj.] : חופשי
   - frei lassen [vt.] : לשחרר לחופשי
 e Freiheit : חופש
@@ -3499,6 +3563,9 @@ gratulieren, gratulierte, hat gratuliert : לברך "מזל טוב"
   - Gratuliere! : מזל טוב!
 grau [adj.] : אפור
 r Gräuel (= pl.) : זוועה, מעשה נפשע
+grauen [vi.] : 
+  - j-m graut vor + [Dat.] : להיחרד ממשהו
+grauenhaft [adj.] : מחריד
 r Graus : זוועה
 grausam [adj.] : מחריד; אכזרי; מרושע
 e Grausamkeit : אכזריות; רשעות
@@ -3784,6 +3851,9 @@ r Hund (pl. -e) : כלב
   - einen Hund ausführen : להוציא כלב לטיול
   - Da liegt der Hund begraben. : פה קבור הכלב
 r Hunger : רעב
+  - Hunger stillen
+hungern : לרעוב
+s Hungern : רעב
 huschen, huschte, ist gehuscht [vi.] : למהר, לרוץ; לעופף
 r Hut (pl. Hüte) : כובע
 e Hütte : בקתה
@@ -3917,6 +3987,7 @@ kannibalisch [adv.] : באופן קניבאלי
 e Kante (pl. -n) : קצה
 Karfreitag : יום שישי הטוב
 karg [adj.] : דליל
+e Karotte (pl. -n) : גזר
 e Karte (pl. -n) : כרטיס; קלף; מפה; תפריט
 e Kartoffel (pl. -n) : תפוח אדמה
 r Käse : גבינה
@@ -3929,6 +4000,8 @@ r Kauf (pl. Käufe) : קניה
 kaufen, kaufte, hat gekauft [vt.] : לקנות
 r Keil (pl. -e) : טריז
 keinesfalls [adv.] : בשום פנים ואופן לא
+r Kellner (= pl.) : מלצר
+e Kellnerin (pl. -nen) : מלצרית
 kennen, kannte, hat gekannt [vt.] : להכיר
   - Ich kenne jemanden, der jemanden kennt : אני מכיר מישהו שמכיר מישהו
 sich kennen, kannte sich, hat sich gekannt : להכיר זה את זה
@@ -3987,8 +4060,14 @@ knapp [adj.] : קצר, קרוב, מועט, צפוף, צר, מוגבל
   - zu knapp : מעט מדי
   - eher knapp : די מעט
 knapp [adv.] : כמעט
+kneifen [vt.] : לצבוט
 e Knie (pl. -n) : ברך
   - fick dich ins Knie : לך תזדיין
+r Kniff : טריק; צביטה
+r Knopf (pl. Knöpfe) : כפתור
+r Knuff
+knuffen
+knüpfen, knüpfte, hat geknüpft [vt.] : לקשור
 r Kragen (= pl.) : צווארון
   j-m an den Kragen wollen : to act against, to attack, to eradicate
   es geht j-m an den Kragen : to have something done against s.o.
@@ -4077,6 +4156,7 @@ e Kundgebung : הפגנה, עצרת
 r Kunstfehler : רשלנות פושעת
 r Kunststoff : פלסטיק
 r Kuppelbau : מבנה עם כיפה
+r Kürbis : דלעת
 e Kurie (Lat. curia) : הקוריה הרומאית
   - Römische Kurie : הקוריה הרומאית
 kurz [adj.] : קצר
@@ -4095,6 +4175,9 @@ lachen, lachte, hat gelacht : לצחוק
 s Lachen : צחוק
 laden, lud, hat geladen [vt.] : לטעון
 s Lager (= pl.) : מחנה
+lahm [adj.] : צולע
+lahmen [vi.] : לצלוע
+e Lahmheit : צליעה
 lallen : למלמל
 s Lamm (pl. Lämmer) : טלה, שה
 Lammfleisch : בשר טלה
@@ -4115,6 +4198,11 @@ lange [adv.] : זמן רב, זה זמן רב
   - seit längerem : זה זמן רב
 langersehnt [adj.] : נחשק זה זמן רב
 langfristig [adj.] : ארוך טווח; לטווח ארוך
+langlebig [adj.] : מאריך ימים; בר־קיימא; מתמשך
+e Langlebigkeit : אריכות ימים
+langsam [adj.] : איטי
+langsam [adv.] : לאט
+e Langsamkeit : איטיות
 längst [adv.] : זה זמן רב
   - schon längst
   - längst überfällig
@@ -4270,12 +4358,16 @@ e Luft (pl. Lüfte) : אוויר
 r Luftballon
 r Luftdruck : לחץ אוויר
 e Luftfeuchtigkeit : לחות (של האוויר)
+e Lufthülle : אטמוספירה
 e Luftlinie : קו אווירי
+r Luftstrom : זרם אוויר
 e Lüge : שקר
 lügen : לשקר
 lukrativ [adj.] : רווחי, משתלם, מכניס
 lustig [adj.] : מצחיק
   - sich über j-n lustig machen : לצחוק על מישהו
+lutschen [vt.] : למצוץ
+  - Daumen lutschen : למצוץ אצבע
 
 = M =
 machen, machte, hat gemacht [vt.] : לעשות
@@ -4306,17 +4398,24 @@ s Management : הנהלה
 manch [m.b.] : רבים; אחדים; כמה
   - in manchen Fällen : בחלק מן המקרים
 machmal [adv.] : לפעמים, לעיתים, מדי פעם
+s Mahl : ארוחה
+e Mahlzeit : ארוחה; זמן לאכול
 r Mangel : ליקוי; חֶסֶר, מחסור
 Mangel- [K.] : מחסור ב־
 mangelernährt [adj.] : שסובל מתת־תזונה
 e Mangelernährung : תת־תזונה
+r Mann (pl. Männer) : גבר
 mannigfach [adj.] : מגוון, מרובה
 mannigfaltig [adj.] : מגוון, מרובה
+e Mannschaft (pl. -en) : צוות; קבוצה
 e Maske (pl. -n) : מסכה
 r Maskenball : נשף מסכות
 r Markt (pl. Märkte) : שוק
 markieren : לסמן
 e Marmelade : ריבה
+r Marmor : שיש
+r Marmorboden : רצפת שיש
+r Marmorkuchen : עוגת שיש
 e Marotte (pl. -n) : whim
 r Märtyrer : קדוש מעונה
 e Märtyrerin : קדושה מעונה
@@ -4333,6 +4432,8 @@ e Maulbeere (pl. -n) : תות עץ
 meckern : לפעות; להתלונן
   - Die Ziege meckert.
   - meckern und nörgeln : to bitch and moan
+s Mehl (pl. -e) : קמח
+mehlig [adj.] : קמחי
 mehrheitlich [adj.] : התומך בגישת "הרוב קובע"
 mehrheitlich [adv.] : על פי החלטת הרוב, באופן כללי
 meilenweit : מרוחק מיילים רבים; במרחק אלפי פרסאות
@@ -4400,6 +4501,7 @@ möchte-gern [adj.] : וואנאבי
 s Mofa (pl. -s) [kurz für Motorfahrrad] : טוסטוס
 mögen, mochte, hat gemocht : לחבב
   - gern mögen : לאהוב
+e Möhre (pl. -n) : גזר
 r Mond : ירח, לבנה
 r Morast (pl. Moraste, Moräste) : ביצה; סבך; תסבוכת
 r Mord : רצח
@@ -4648,6 +4750,7 @@ e Pflege : דאגה; טיפול
 e Pflegeanstalt (pl. -en) : מוסד סיעודי
 pflegen [vt.] : לדאוג ל־, לטפל ב־
 s Pflegen : דאגה; טיפול
+e Pfote (pl. -n) : כפה
 s Piano : פסנתר
 picheln, pichelte, hat gepichelt [ugs.] : לשתות לשוכרה
 r Piep : צפצוף
@@ -4902,6 +5005,8 @@ r Rutsch : החלקה
   - Guten Rutsch! : שנה טובה!
 rutschen, rutschte, ist gerutscht [vi.] : להחליק
   - mir rutschte das Herz in die Hose : החליק לי הלב לתחתונים
+s Rutschen : החלקה
+e Rutschung : החלקה
 
 = S =
 r Säbel : סיף
@@ -4917,11 +5022,13 @@ e Sage (pl. -n) : אגדה; סאגה
 sagen, sagte, hat gesagt [vt.] : להגיד
 s Sagen
   - das Sagen haben : להיות בעל הדעה, להיות בעל האמירה
+sagenhaft [adj.] : מדהים; נפלא
 r Salat : סלט; חסה
 e Salbe : משחה
 r Salbei : מרווה
 e Salve (pl. -n) : מטח אש
 r Sand (pl. Sande, Sände) : חול
+e Sanddüne : דיונת חול
 e Sammelwut : אספנות כפייתית
 r Sarg (pl. Särge) : ארון קבורה
 satt [adj.] : מלא
@@ -4930,8 +5037,10 @@ satt [adj.] : מלא
   - Ich habe es satt : נמאס לי
 r Satz (pl. Sätze) : משפט; פסוקית; פרופוזיציה
 e Satzung : תקנון
+e Sau (pl. Sauen, Säue) : חזירה
 r Saufkopf [ugs.] : שיכור
 r Saufkumpan (pl. -e) [ugs.] : חבר לשתייה
+säuseln : ללחוש
 schade (adj.) : עצוב
   - Ich fand es schade, dass mein Team nicht gewonnen hat. : חבל בעיניי, שהצוות שלי לא ניצח
   - zu schade : ממש חבל
@@ -4977,6 +5086,8 @@ scheitern, scheiterte, ist gescheitert : להיכשל
 s Scheitern : כשלון
   - endgültiges Scheitern : כשלון מוחלט, כשלון סופי
 r Schemel (= pl.) : שרפרף
+e Schere : מספריים; טפרים, ציפורניים
+scheren [vt.] : לגזור
 r Scherz : בדיחה
 scherzen : להתבדח
 s Scheusal : זומבי, מפלצת
@@ -5009,6 +5120,8 @@ r Schlag (pl. Schläge) : מכה
   - Das ist ein Schlag unter die Gürtellinie : זו מכה מתחת לחגורה
 e Schlagsahne : שמנת מתוקה
 e Schlampe (pl. -n) [ugs.] : פרוצה, שרלילה
+schlau [adj.] : חד; פיקח; נבון; ערמומי
+e Schläue : ערמומיות; פיקחות
 schlecht [adj.] : רע, גרוע
 schleichen, schlich, ist geschlichen [vi.] : להתגנב
 r Schleim (pl. -e) : ליחה
@@ -5051,8 +5164,14 @@ schnattern, schnatterte, hat geschnattert : לגעגע (כמו אווז)
   - Die Gans schnattert. : האווז מגעגע
 schneiden, schnitt, hat geschnitten : לחתוך, לפרוס
 schneien, schneite, hat geschneit : לרדת (שלג)
+schnell [adj.] : מהיר; זריז
+schnell [adv.] : מהר, במהירות
+e Schnelligkeit : מהירות
+schnellstmöglich [adj.] : מהיר ככל האפשר
+schnellstmöglich [adv.] : מהר ככל האפשר
 schnöde [adj.] : מלא בוז
 r Schnüffler : בלש פרטי
+r Schnuller : מוצץ
 r Schnurrbart (pl Schnurrbärte) : שפם
   - mit Schnurrbart : עם שפם
 e Schnurrbartspitze (pl. -n) : קצה השפם
@@ -5110,6 +5229,8 @@ e Schwedin (pl. -nen) : שוודית
 schwedisch [adj.] : שוודי
 schweigen : להיות בשקט, לשתוק
 s Schwein (pl. -e) : חזיר
+r Schweinebraten : צְלִי חֲזִיר
+s Schweinefleisch : בשר־חזיר
 e Schweiz : שווייץ	
 r Schweizer (= pl.) : שווייצרי
 s Schweizerdeutsch : גרמנית שווייצרית
@@ -5200,14 +5321,19 @@ r Sinn (pl. -e) : חוש; משמעות; מטרה; שכל
   - Sinn ergeben : להיות הגיוני; להיות מתקבל על הדעת
   - Sinn machen : להיות הגיוני, להתקבל על הדעת
   - keinen Sinn machen : לא להתקבל על הדעת
+  - in diesem Sinne
+  - in Sinne von + [Dat.] [präp.]
 sinnen : להרהר
 s Sinnen : הרהורים
+sinnig [adj.] : הולם, מתאים
 sinnlich [adj.] : חושני
+sinnlos [adj.] : חסר פשר
 e Sinnlichkeit : חושניות
+sinnvoll [adj.] : שימושי; הגיוני; נבון
 sitzen, saß, ist gesessen : לשבת
   - sitzen bleiben : להישאר לשבת
 r Ski (pl. Ski, Skier) : סקי
-  - Ski fahren : לעשות סקי
+  - Ski fahren : ל= עשות סקי
   - Ski laufen : לעשות סקי
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
@@ -5333,6 +5459,7 @@ e Stickerei : רקמה
 r Stiefel (= pl.) : מגף
 r Stiel (pl. -e) : ידית; מקל; גרעין (של פרי)
   - Eis am Stiel : שלגון, קרטיב, ארטיק
+stillen : להניק; לספק; להרוות; להשביע
 stimmen, stimmte, hat gestimmt : להיות נכון
   - Das stimmt meiner Meinung nach nicht : לדעתי זה לא נכון
 r Stock : קומה; מקל
@@ -5400,6 +5527,12 @@ r Südpol : הקוטב הדרומי
 e Sühne : כפרה
 super [adj.] : נפלא, נהדר, אחלה
 r Supermarkt (pl. Supermärkte) : סופרמרקט
+süß [adj.] : מתוק
+e Süßigkeit (pl. -en) : ממתק
+süßsauer [adj.] : חמוץ־מתוק
+r Süßstoff : ממתיק מלאכותי
+e Süßware (pl. -n) : דבר מתיקה; מגדנות
+s Süßwasser : מים מתוקים
 s Symbol : סימבול, סמל; איקון, צלמית
 symbolhaft [adj.] : סימבולי, סמלי
 symbolisieren [vt.] : לסמל
@@ -5543,10 +5676,16 @@ r Trottel (= pl.) : טיפש, דפוק, אידיוט
 trotz [präp.] : למרות
   - trotz + [Gen.] [präp.] : למרות־
 r Trotz : התרסה; כֵּסֶל
+  - zum Trotz [adv.] : כנגד כל הסיכויים
+  - [Dat.] + zum Trotz [präp.] : למרות
   - "Denn der HERR ist dein trotz" [Lutherbibel, Spr 3:26] = כִּי־יהוה יִהְיֶה בְכִסְלֶךָ [משלי ג כו]
 trotzdem [adv.] : למרות הכול; למרות זאת; בכל זאת
+trotzig [adj.] : מתריס, מתנגד; מתעקש, עקשני
+e Trotzigkeit : עקשנות
 r Trotzkopf (pl. Trotzköpfe) : עקשן
 trotzten + Dat. : to defy, to outdare, to brave, to affront
+trüb [adj.]
+sich trüben
 e Trübsal : מצוקה, יסורים
 trügen [vt.] : להשלות, להוליך שולל
 trügerisch [adj.] : מתעתע; מוליך שולל; מטעה
@@ -5563,6 +5702,7 @@ türkis [adj.] : טורקיז
 turnen, turnte, hat geturnt : להתעמל
 s Turnen : התעמלות
 e Turnhalle (pl. -n) : אולם ספורט, אולם התעמלות
+tuscheln : ללחוש
 r Typ (pl. -en) : טיפוס
 
 = U, Ü =
@@ -5686,6 +5826,7 @@ e Ungnade : חרפה, בושה
 Unkosten (pl.) : הוצאות
   - Unkosten decken : לכסות את ההוצאות
 unliebsam [adj.] : לא נעים
+e Unruhe : אי־נחת; חוסר שקט; מהומה, המולה
 unschlüssig : הססני, שלא הוסכם לגביו
 Unsitte : הרגל מגונה
 e Untat : פשע
@@ -5852,6 +5993,8 @@ verfügen : to dispose, to order, to rule (that ...)
   - über + Akk. verfügen : ישנו לשימושו של מישהו, יש לרשותו
   - Das Haus verfügt über eine separate Küche.
   - Alle Verben verfügen über einen indikativen Modus.
+vergammeln : להירקב
+vergammelt [adj.] : מטונף; מוזנח; מרושל
 j-m (Akk.) vergeben : לסלוח
 vergebens : לשווא, ללא הועיל
 vergeblich : לשווא, כושל (ניסיון), חסר־סיכוי, מבוזבז
@@ -5892,6 +6035,8 @@ verkleiden, verkleidete, hat verkleidet [vt.] : להסתיר, לסגור בקו�
   - sich als + [Nom.] verkleiden : להתחפש למשהו
 sich in j-n verknallen : להתאהב במישהו
   in j-n verknallt sein
+verknüpfen [vt.] : לקשר; לשרשר
+  - [Akk.] mit + [Dat.] knüpfen : לחבר משהו עם משהו
 verkrüppelt [adj.] : בעל מום, שהוטל בו מום
 verkümmert [adj.] : stunted
 verkünden [vt.] : להכריז, להכריז על־
@@ -6002,7 +6147,9 @@ versuchen, versuchte, hat versucht [vt.] : לנסות
 verteidigen : להגן
 verteilen [vt.] : לחלק, להפיץ
 vertilgen [vt.] : להשמיד, לחסל
+r Vertrag (pl. Verträge) : חוזה
 vertreten, vertrat, vertreten : לייצג, לשמש כממלא מקום, להחליף
+e Vertretung : ייצוג
 vertrauen : לסמוך, לתת אמון
 vertuschen [vt.] : לכסות על־; להסתיר
   - [Akk.] als [Akk.] vertuschen : להסתיר משהו כמשהו; לכסות על משהו על ידי הצגתו כמשהו
@@ -6307,6 +6454,7 @@ wirklich [adj.] : אמיתי
 e Wirklichkeit : מציאות
   - in Wirklichkeit : באמת
   - Die Wirklichkeit ist nicht immer so wie es scheint. : המציאות היא לא תמיד כמו מה שנראה.
+wispern : ללחוש
 wissen (weiß), wusste, hat gewusst : לדעת; להיות מודע ל־
 s Wissen : ידע; דעת
   - meines Wissens : למיטב ידיעתי
@@ -6364,6 +6512,9 @@ zählen, zählte, hat gezählt : לספור, למנות; להימנות בין־
   - zu + [Dat.] zählen : להשתייך ל־, להימנות בין
 s Zählen : ספירה
 Zähler (= pl.) : מונה
+zahm [adj.] : מבוית, מאולף
+zähmen [vt.] : לאלף
+e Zahmheit : היות מבוית, היות מאולף
 r Zahn (pl. Zähne) : שֵׁן
 r Zahnarzt (pl. Zahnärzte) : רופא שיניים
 r Zahnärztin (pl. -nen) : רופאת שיניים
@@ -6373,6 +6524,11 @@ zärtlich [adj.] : רך, ענוג, עדין, נעים
 e Zärtlichkeit : עדינות, רכות, נעימות, חיבה
 r Zauber : קסם; כישוף
 e Zauberformel : לחש קסמים
+zauberhaft [adj.] : קסום
+zaubern [vt.] : לכשף
+r Zauberstab : מטה קסמים
+s Zauberwort : לחש קסמים; מילת קסמים
+r Zaun : גדר
 s Zebra (pl. -s) : זברה
 r Zebrastreifen (= pl.) : מעבר חצייה
 s Zeichen : סימן
@@ -6419,6 +6575,7 @@ s Zölibát : פרישות
 r Zoo (pl. -s) : גן חיות
 zu [präp.] : ל־
   - zu + [Dat.] [präp.] : ל־
+e Zucchini (= pl.) : קישוא
 züchtig [adj.] : צנוע, טהור, בתול, חסוד
 züchtigen, züchtigte, hat züchtigt : לייסר, להעניש, למשמע, להטיל משמעת
 zucken : לעוות, למשוך בכתפיים, להניד
@@ -6461,6 +6618,7 @@ zünden [vt.] : להבעיר
   - sich zünden : לבעור, לעלות באש
 r Zündfunke : ניצוץ
 zú|nehmen (nimmt zu), nahm zu, hat zugenommen [vi.] : לגדול, לגבור, להאיץ; לעלות במשקל
+e Zuneigung : חיבה
 s Zunft (pl. Zünfte) : גילדה
 zurécht|kommen : להסתדר, להגיע להבנה
   - gut zurechtkommen : להסתדר היטב
@@ -6477,6 +6635,8 @@ zurück|geben, gab zurück, hat zurückgegeben [vt.] : להחזיר
 zurück|halten, hielt zurück, zurückgehalten : להימנע, לנהוג במתינות
   - sich zurückhalten : להימנע
 s Zurückhalten : מתינות
+zurück|spulen, spulte zurück, hat zurückgespult [vt.] : להחזיר לאחור
+s Zurückspulen : החזרה לאחור
 zurück|ziehen, zog zurück, zurückzogen
   - sich (aus/von + [Dat.]) zurückziehen : לסגת (מ־)
   - Er bat, sich zurückziehen zu dürfen. : הוא ביקש להיות מורשה לסגת
@@ -6529,6 +6689,9 @@ s Zwerchfell : סרעפת
 r Zwerg (pl. -e) : גמד
 e Zwergin (pl. -nen) : גמדה
 r Zwergstaat : מדינה גמדית
+r Zwickel (= pl.) : טריז
+zwicken [vt.] : לצבוט
+s Zwicken : צביטה
 e Zwiebel (pl. -n) : בצל
 r Zwiespalt (pl. Zwiespalte / Zwiespälte) : אנטגוניזם, דיכוטומיה, ניגוד
 e Zwietracht : קונפליקט, עימות, סכסוך
