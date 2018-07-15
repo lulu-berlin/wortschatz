@@ -206,15 +206,17 @@ abgasarm [adj.] : שאינו פולט הרבה גז
   - j-m [Akk.] abgaunern : להשיג משהו ממישהו במרמה, בתחבולה
 abgearbeitet [adj.] : גמור מעייפות (מרוב עבודה)
 e Abgabe (pl. -n) : שחרור, העברה, מס
+áb|geben (gibt ab), gab ab, hat abgegeben : למסור (עבודה, מבחן); למכור; לוותר על משרה; להודיע רשמית; להעביר משהו מעצמו; לתת למישהו חלק ממשהו; למסור כדור; לאבד (נקודות)
 abgedichtet [adj.] : חתום
 abgefahren [adj.] [ugs.] : מגניב, אדיר
 áb|gehen, ging ab, ist abgegangen [vi.] : לעזוב (את בית ספר)
+abgegriffen [adj.] : בלוי
 abgerichtet [adj.] : מאומן
-áb|geben (gibt ab), gab ab, hat abgegeben : למסור (עבודה, מבחן); למכור; לוותר על משרה; להודיע רשמית; להעביר משהו מעצמו; לתת למישהו חלק ממשהו; למסור כדור; לאבד (נקודות)
 abgedroschen [adj.] [gespr.] : נדוש, שחוק
 abgefuckt [adj.] [ugs.] : דפוק לגמרי
 abgeneigt [adj.] : מסויג, שאינו רוצה, שאינו מתלהב מ־, שאינו מעוניין
 abgesehen von [präp.] : פרט ל־, מלבד־
+áb|greifen, griff ab, hat abgegriffen [vt.] : לדפדף; לעשות שימוש ב־
 áb|grenzen, grenzte ab, hat abgegrenzt : להגביל, לסמן את הגבול
 sich áb|grenzen, grenzte sich ab, hat sich abgegrenzt
   - sich von + [Dat.] abgrenzen : להיות מובחן מ־, להיבדל מ־
@@ -2576,6 +2578,8 @@ s Diesseits : העולם הזה
   - im Diesseits : בעולם הזה
 diesseits [präp.] : בצד הזה של־
 e Differenz (pl. -en) : הבדל; הפרש; פער
+direkt [adj.]
+direkt [adv.]
 r Dirigent (gen. -en, pl. -en) : מנצח (של תזמורת)
 e Dirigentin : מנצחת (של תזמורת)
 dirigieren : לנצח (על תזמורת)
@@ -2639,7 +2643,7 @@ e Düne : דיונה
 r Dung : גללים; דשן
 düngen : לדשן, לזבל
 s Dunkel : חושך, חשיכה
-dunkel [adj.] : כהה
+dunkel (dunkl-) [adj.] : כהה
 dunkelblond [adj.] : בלונדיני כהה
 dunkelgrün [adj.] : ירוק בהיר
 dünkelhaft [adj.] : יהיר, מלא חשיבות עצמית
@@ -3522,6 +3526,7 @@ e Gefangene (pl. -n) : אסירה
 s Gefäß (pl. -e) : כלי, מיכל, צנצנת
 gefasst [adj.] : רגוע, שקול, מסוכם
   - kurz gefasst : מסוכם בקצרה
+gefliest : מרוצף אריחים
 geflissentlich [adj.] : מכוון; מחושב; שקול
 s Gefolge : פמליה
 e Gefolgschaft : קבוצת החסידים
@@ -3858,6 +3863,7 @@ e Hauptsache : העניין העיקרי; העיקר
 hauptsächlich [adj.] : עיקרי; מרכזי
 s Haus (pl Häuser) : בית
   - nach Hause : הביתה
+s Häuschen (= pl.) : בית קטן
 Häuserschlucht
 heben : להרים
 heftig [adj.] : קשה, כבד, אינטנסיבי, אלים, תקיף
@@ -3986,6 +3992,7 @@ hinsichtlich [präp.] : ביחס ל־
 hín|stellen [vt.] : לשים, להציב, למקם
 s Hinstellen : מיקום
 hinter [präp.] : מאחורי
+  - hinter + [Dat.] [präp.] : מאחורי
 r Hintern [ugs.] : תחת, אחוריים, ישבן
   - j-m den Hintern versohlen : להפליק בישבן, לסטור בישבן
 r Hinterhalt : אמבוש
@@ -5016,6 +5023,40 @@ piepen : לצפצף
 pinkeln : להשתין
 e Pinzette (pl. -n) : פינצטה
 planen, plante, hat geplant [vt.] : לתכנן
+s Plastik : פלסטיק
+Plastik- [K] : שעשוי מפלסטיק
+r Plastikbecher (= pl.)
+Plastikbehalter
+r Plastikbeutel
+r Plastikdeckel
+e Plastikdose
+Plastikeinsatz
+r Plastiker
+e Plastikflasche (pl. -n)
+e Plastikfolie (pl. -n)
+s Plastikgehäuse
+s Plastikgeschirr
+r Plastikgriff
+e Plastikkarte
+r Plastikhammer
+Plastikhandschuh (pl. -e)
+e Plastikhülle
+s Plastikmaterial
+r Plastikmüll
+Plastikperle
+e Plastikplatte
+Plastikprodukt
+r Plastikradierer
+Plastikrahmen
+r Plastikring
+s Plastikrohr
+r Plastiksack
+e Plastikschale
+r Plastikschlauch
+r Plastikteller (= pl.)
+e Plastiktüte (pl. -n)
+e Plastikumhüllung
+r Plastikumschlag
 r Platz (pl. Plätze) : מקום
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
 plaudern : לפטפט
@@ -5389,6 +5430,7 @@ schillernd [adj.] : מהמם, מסנוור
 r Schimpf : עלבון
 schimpfen : להתלונן, להתרעם; להתבטא בכעס או באלימות
 s Schimpfwort (pl. -e) : קללה
+r Schirm : מסך; מגן; מטריה
 e Schlacht : קרב
 schlachten : לשחוט
 s Schlachten : שחיטה
@@ -6049,6 +6091,7 @@ r Überfall : פשיטה, התקפה, שוד
 überfallen [vt.] : לתקוף, להתקיף
 e Überflutung : הצפה
 e Übergabe (pl. -n) : מסירה; העברה; הסגרה	
+r Übergang (pl. Übergänge) : מעבר
 übergeben [vt.] : למסור, להעביר, להעניק
 überhäufen : להמטיר (במתנות), להרעיף
 überheblich [adj.] : יהיר, מתנשא
