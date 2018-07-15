@@ -4627,7 +4627,16 @@ sich lohnen : להשתלם, להיות משתלם
 s Lokal (pl. -e) : פאב, מסבאה; מסעדה
 lokal [adj.] : מקומי
 lokal [adv.] : באופן מקומי
+Lokal- [K] : מקומי
+s Lokalfernsehen
+r Lokalfunk
+r Lokalheld
 e Lokalisierung : לוקליזציה, התאמה של תוכנה לשפה מסוימת
+r Lokalpatriotismus
+e Lokalpolitik
+e Lokalpresse
+e Lokalsprache
+e Lokalsteuerung
 s Los : פור; כרטיס לוטו; אוסף, אצווה
 los! [interj.] : קדימה!; יאללה!
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא
@@ -4638,6 +4647,9 @@ s Löschen : מחיקה
 e Löschung : ביטול; מחיקה
 e Losung : סלוגן
 e Lösung : פתרון
+Lösungs- [K] : פתרון
+e Lösungsfindung : מציאת פתרון
+lösungsorientiert [adj.]
 lós|lassen, ließ los, hat losgelassen [vt.] : לשחרר, להרפות, לעזוב
 r Lotse : טייס
 lotsen : להטיס (מטוס)
@@ -4881,6 +4893,10 @@ r Nachttisch (pl. -e) : שידת לילה
 nách|trauern, trauerte nach, nachgetrauert
   - + Dat. : להתאבל על, להתחרט על
 s Nachverhandlen : לשאת ולתת מחדש; לדון מחדש בתנאי ההסכם
+nách|vollziehen, vollzog nach, hat nachvollzogen : להבין; לרדת לסוף דעתו (של־); לרדת לעומקו של העניין
+nachvollziehbar [adj.]
+e Nachvollziehbarkeit
+nachvollzogen [adj.]
 r Nachweis : ראיה; אישור; הוכחה
 nách|weisen [vt.] : להוכיח; לקבוע; לבסס
 nachweislich [adj.] : שניתן להציגו או להוכיחו
@@ -6391,9 +6407,15 @@ e Vagina : נרתיק, וגינה
 Vater (pl. Väter) : אב, אבא
 vehement [adj.] : תקיף, החלטי, נחוש; זועם, רוגע
   - vehemente Kritik : ביקורת נוקבת
+verabreden
+sich verabreden
+verabredet
+e Verabredung
 verabscheuen [vt.] : לתעב, לשטום, לבחול
 verabschieden [vt.] : לאמץ; לשַׁלֵּחַ; להיפרד לשלום
 sich verabschieden : להיפרד לשלום
+verabschiedet
+e Verabschiedung
 verachten [vt.] : לבוז, לזלזל ב־; לגנות
 e Verachtung : זלזול, בוז
 veränderbar [adj.] : ניתן לשינוי
@@ -6401,6 +6423,9 @@ veränderlich [adj.] : משתנה, נתון לשינוי
 verändern [vt.] : לשנות, לערוך שינויים, לבצע שינויים
 verändert [adj.] : ששונה, משונה
 e Veränderung (pl. -en) : שינוי
+veranlassen [vt.]
+e Veranlassung
+  - auf Veranlassung von + [Dat.] [präp.]
 verantworten [vt.] : לקחת אחריות על, להצדיק את
   - sich für + [Akk.] verantworten : לענות ל־
 verantwortlich [adj.] : אחראי
@@ -6421,6 +6446,13 @@ verbessern [vt.] : לשפר; לתקן
   - die Sprachkenntnisse verbessern
   - die Bildqualität verbessern
   - der Lehrer verbesserte den Fehler des Schülers
+verbessert [adj.]
+e Verbesserung
+Verbesserungsvorschlag (pl. Verbesserungsvorschläge)
+sich verbeugen
+e Verbeugung
+verbeulen
+verbeult [adj.]
 verblassen - לדהות
 verbannen : להחרים, להגלות
 verbannt : מוחרם
@@ -6439,7 +6471,11 @@ verbüßen, verbüßte, verbüßt [vt.] : לרַצות (עונש)
   - eine Strafe verbüßen : לרַצות עונש
 r Verdacht (pl. -e, Verdächte) : חשד
   - Verdacht erregen : לעורר חשד
+r Verdachtsfall
+s Verdachtsmoment
 verdächtig [adj.] : חשוד
+verdächtigen [vt.] : לחשוד ב־
+e Verdächtigung
 verdammen, verdammte, hat verdammt [vt.] : לדון; לדון לגיהנום
 verdammt [interj.] : לעזאזל
 verdenken : להאשים?
@@ -6562,6 +6598,10 @@ sich vermummen : להתעטף; להתחפש (כדי לא להיות מזוהה)
 vermummt [adj.] : מכוסה; בעל קפוצ'ון
 e Vermummung : הופעת פנטומימה
 vermuten : להניח, לשער
+vernachlässigbar [adj.] : זניח
+vernachlässigen : להזניח
+vernachlässigt [adj.] : מוזנח
+e Vernachlässigung : הזנחה
 vernichten [vt.] : להשמיד, לחסל, להרוס, להחריב
 e Vernichtung : השמדה
 veröffentlichen, veröffentlichte, veröffentlicht [vt.] : לפרסם
