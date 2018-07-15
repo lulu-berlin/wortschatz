@@ -1679,10 +1679,12 @@ s Bayernland
 Bazar : s. Basar
 r Bazillus (pl. Bazillen)
 beabsichtigen [vt.] : להתכוון, לתכנן
-beachten
+beachten : לכבד
 beachtenswert [adj.]
+beachtet [adj.]
 beachtlich
-e Beachtung
+e Beachtung : תשומת לב
+  - unter Beachtung
 r Beamte (gen. -n, pl. -n) : פקיד
 e Beamtin (pl. -nen) : פקידה
 beanspruchen [vt.] : לדרוש; לקחת (זמן); לאמץ
@@ -2084,6 +2086,12 @@ r Berater
 beratschlagen
 e Beratung (pl. -en) : יעוץ
 berauben [vt.] : לשדוד, לנשל
+beraubend [adj.]
+beraubt [adj.]
+e Beraubung
+berauschen
+berauschend [adj.]
+berauscht
 berechenbar [adj.]
 berechnen, berechnete, hat berechnet [vt.] : לחשב (הוצאות); לגבות; לתת חשבון על; לעשות את החשבון
 e Berechnung (pl. -en) : חשבון; חישוב
@@ -2097,7 +2105,9 @@ e Beredsamkeit
 beredt
   - beredt sein
 e Bereich (pl. -e) : אזור
-sich bereichern
+bereichern [vt.] : להעשיר
+sich bereichern : להתעשר
+  - sich auf kosten anderer bereichen : להתעשר על חשבון אחרים
 e Bereicherung
 bereit [adj.] : מוכן
   - sich bereit erklären : להיות מוכן (לעשות משהו)
@@ -2333,10 +2343,22 @@ s Bett (pl. -en) : מיטה
 r Beton : בטון
 betonen, betonte, hat betont [vt.] : להדגיש
 e Betonung : טעם (במילה; ההברה המודגשת); הטעמה; הדגשה
+beugen [vt.] : להסיט; לכופף; להטות
+sich beugen : להתכופף; להיכנע ל־
+  - sich [Dat.] beugen : להיכנע למשהו
+  - sich vor + [Dat.] beugen : להשתחוות ל־
+s Beugen
+beurkunden
+e Beurkundung
+s Beurkungungsgesetz
 beurteilen, beurteilte, hat beurteilt : לשפוט, להעריך, לקבוע
+beurteilt [adj.]
+e Beurteilung
 e Beute : שלל, טרף, ביזה
   - Die Beute wegnehmen : לקחת את השלל
 Beutefang : תפישת שלל; ביזה
+r Beutel (= pl.) : תיק; ;שקית
+r Beuteldachs
 bevor|stehen, stand bevor, hat/ist bevorgestanden : להיות צפוי, אמור לקרות
 bevorzugen, bevorzugte, hat bevorzugt [vt.] : להעדיף
 bewahren, bewahrte, hat bewahrt [vt.] : לשמר, לתחזק
@@ -2378,6 +2400,8 @@ bezwingen [vt.] : להביס, לגבור על־, להתגבר על־
   - eine Angst bezwingen : להתגבר על פחד
 r BH [kurz für Büstenhalter] : חזיה
 biegen, bog, hat gebogen [vt.] : לכופף; לסובב
+sich biegen, bog sich, hat sich gebogen : להתכופף
+  - sich vor Lachen biegen : למות מצחוק
 s Bier (pl. -e) : בירה
 bieten, bot, hat geboten [vt.] : להציע; לספק; להציע מחיר
 s Bild (pl. Bilder) : תמונה
@@ -2442,6 +2466,7 @@ s Blutvergießen : שפיכות דמים
 e Blutkonserve (pl. -n) : blood bottle
 e Bö (pl. -en) : סערה
 r Boden (pl. Böden) : רצפה
+r Bogen (pl. Bogen, Bögen) : קשת; יריעת נייר
 böig [adj.] : מתפרץ (רוח)
   - böiger Wind : רוח מתפרצת
 r Bösewicht (pl. Bösewichte, Bösewichter) : נבל
@@ -2485,6 +2510,8 @@ e Brut : זן; קבוצת חיות צעירות שבקעו יחד מביציהן
 e Brutpflege : שמירה על הגוזלים
 brutzeln : לרחוש; לתסוס; ללהוט
 s Brutzeln : רחישה; תסיסה
+r Bub (pl. -en) : ילד; נער
+s Bubenstück : מעשה קונדס
 r Buchhalter (= pl.), e Buchhalterin
 s Bündnis : ברית; קואליציה
 r Bürgersteig (pl. -e) : מדרכה
@@ -2553,7 +2580,10 @@ e Decke (= pl.) : תקרה; שמיכה
 e Deckung : coverage, backing
 r Degen : פגיון
 r Deich (pl. -e) : דייק, סוללה
+r Dekan : דיקן
 e Deko : קישוט
+r Dekor
+s Dekor
 e Dekoration : קישוט
 dekorieren : לקשט
 s Dekret : צו
@@ -2958,12 +2988,18 @@ s Entsetzen : זעזוע
   - sprachlos vor Entsetzen : מזועזע עד אין מילים
 entsetzlich [adj.] : מזעזע; נורא; מחריד
 entsorgen, entsorgte, hat entsorgt [vt.] : לזרוק; להיפטר מ־; לסלק
+entsorgt [adj.] : שנזרק, שנפטרו ממנו, שסולק
 e Entsorgung : היפטרות; סילוק
 entspannen, entspannte, entspannt : להרגיע
-  - sich entspannen : להירגע
+sich entspannen, entspannte sich, hat sich entspannt : להירגע
+entspannt [adj.] : רגוע; רפוי
+e Entspannung : רגיעה; הרפיה
 entstehen : להתעורר; להתפתח; לבוא לידי קיום
 entthronen, entthronte, hat entthront : להדיח מעל כס המלכות
 entweder ... oder ... : או ... או ...
+entwerfen (entwirft), entwarf, hat entworfen [vt.] : לעצב; להכין טיוטה; לשרטט
+s Entwerfen : עיצוב
+r Entwurf (pl. Entwürfe) : עיצוב; קונספט
 entwickeln : לפתח
 r Entwickler (= pl.) : מפתח
 e Entwicklerin (pl. -nen) : מפתחת
@@ -3187,6 +3223,7 @@ fälschen [vt.] : לזייף
 e Fälschung : זיוף
 e Familie (pl. -n) : משפחה
 fangen (fängt), fing, hat gefanen [vt.] : לתפוס
+r Fänger (= pl.) : תופס, תפסן
 fantastisch [adj.] : פנטסטי
 r Farbdruck : הדפסה בצבע
 e Farbe (pl. -n) : צבע
@@ -4313,7 +4350,24 @@ s Konzentrationslager (= pl.) : מחנה ריכוז
 e Kooperation (pl. -en) : שיתוף פעולה
 r Kopf (pl. Köpfe) : ראש
   - mit kühlem Kopf agieren : לפעול בקור רוח
+Kopf- [K] : ראש
+e Kopfarbeit
+s Kopfgeld
+e Kopfhaut
+r Kopfhörer : אוזניה
 kopieren : להעתיק, לצלם (מסמכים)
+Kopfkissen
+kopflos [adj.]
+Kopfmassage
+r Kopfsalat : חסה
+r Kopfschmerz (pl. -en) : כאב ראש
+e Kopfstütze
+Kopfteil
+s Kopftuch (pl. Kopftücher)
+Kopfverband
+Kopfverletzung
+s Kopfweh
+e Kopfzeile (pl. -n)
 r Korb : סל, סלסלה
   - [Dat.] einen Korb geben : לדחות; לסרב; לזרוק
 korrekt [adj.] : נכון, מדויק
@@ -4505,6 +4559,8 @@ leiden, litt, hat gelitten : לסבול
 s Leiden : סבל
 leider [adv.] : למרבה הצער; לצערי
 leihen [vt.] : להלוות
+r Leim : דבק
+leimen : להדביק
 e Leine (pl. -n) : רצועה, חבל, חוט
   - an der Leine / an die Leine : ברצועה
   - einen Hund an der Leine ausführen : להוביל כלב ברצועה
@@ -4779,6 +4835,7 @@ müssen, musste, gemusst : להיות צריך, להצטרך
 r Muskel : שריר
 muskulär : שרירי
 muskulös : שרירי
+s Muster (= pl.) : תבנית
 r Mut : אומץ
 e Mutter (pl. Mütter) : אֵם, אמא
 r Mutterleib : רֶחֶם
@@ -4788,6 +4845,10 @@ e Muttersprache : שפת אם
 e Mütze (pl. -n) : כובע צמר
 
 = N =
+e Nabe
+r Nabel : טבור
+  - Nabel der Welt : טבור העולם
+e Nabelschnur : חבל הטבור
 nách|äffen [vt.] : לחקות, לעשות חיקוי
   - j-n nachäffen : לחקות מישהו
 s Nachäffen : חיקוי
@@ -5004,6 +5065,9 @@ e Pfanne (pl. -n) : מחבת
 r Pfannkuchen (= pl.) : סופגניה; פנקייק
 r Pfennig (pl. -e) : מטבע קטן בעל ערך מועט
 s Pferd : סוס
+r Pfiff
+pfiffig [adj.]
+s Pfingsten
 e Pflanze (pl. -n) : שתיל; צמח
 pflanzen : לשתול; לטעת
   - "VND Gott der HERR pflanzet einen Garten in Eden" [Lutherbibel, Gen 2:8] = וַיִּטַּע יהוה אֱלֹהִים גַּן־בְּעֵדֶן [בראשית ב ח]
@@ -5014,6 +5078,47 @@ e Pflege : דאגה; טיפול
 e Pflegeanstalt (pl. -en) : מוסד סיעודי
 pflegen [vt.] : לדאוג ל־, לטפל ב־
 s Pflegen : דאגה; טיפול
+Pflicht : חובה, התחייבות, מחוייבות, כורח
+Pflicht- [K]
+Pflichtangaben
+Pflichtangebot
+Pflichtanteil
+Pflichtaufgabe
+Pflichtbereich
+pflichtbewusst [adj.]
+s Pflichtbewusstsein
+r Pflichtdienst
+Pflichtdokument
+pflichtenheft
+s Pflichtfach (pl. Pflichtfächer)
+s Pflichtfeld (pl. -er)
+s Pflichtgefühl
+r Pflichtgegenstand
+pflichtgemäß [adj.]
+Pflichtkurs (pl. -e)
+Pflichtkritierien
+r Pflichtlauf
+e Pflichtleistung
+e Pflichtlektüre
+e Pflichtmeldung
+e Pflichtmitgliedschaft
+e Pflichtmitteilung
+s Pflichtmodul
+s Pflichtpraktikum
+s Pflichtprogramm
+e Pflichtprüfung
+e Pflichtrücklage
+e Pflichtschule
+e Pflichtschulung
+e Pflichtschulzeit
+Pflichtteil
+r Pflichttermin
+s Pflichtthema
+e Pflichtveranstaltung
+e Pflichtverletzung
+e Pflichtversicherung
+pflichtwidrig [adj.]
+e Pflichtwidrigkeit 
 e Pfote (pl. -n) : כפה
 s Piano : פסנתר
 picheln, pichelte, hat gepichelt [ugs.] : לשתות לשוכרה
@@ -5075,6 +5180,7 @@ s Polnisch : פולנית
 polnisch [adj.] : פולני
 Pommes (pl.) : צ'יפס, טוגנים
 e Pose (pl. -n) : פוזה
+s Posen : פוזנאן
 posieren : לדגמן, לעמוד לפני צייר
 possessiv [adj.] : של שייכות; רכושני
 s Possessivpronomen (= pl.) : כינוי שייכות
@@ -5141,6 +5247,7 @@ e Quittung : קבלה
 e Quote (pl. -n) : מידה; כמות; קווטה
 
 = R =
+s Rabatt (pl. -e) : הנחה
 radieren [vt.] : למחוק
 raffiniert [adj.]
 s Ragout : רגו, נזיד מתובל של בשר וירקות
@@ -5245,6 +5352,7 @@ e Reise : טיול
 reisen : לטייל
 reiten, ritt, hat/ist geritten : לרכב
 s Reiten : רכיבה על סוס
+e Reklame (pl. -n) : פרסומת
 reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
@@ -5276,6 +5384,9 @@ s Risiko : סכנה, סיכון
 riskant [adj.] : מסוכן
   - riskant spielen : להמר, לשחק באופן מסוכן
 riskieren + Akk. : לסכן, לקחת סיכון, להסתכן ב־
+r Ritt : רכיבה (על סוס)
+r Ritter (= pl.) : אביר
+Rittergut : אחוזה; אחוזה פיאודלית
 s Rittertum : אבירות
 r Ritz (pl. -e) : סדק
 e Ritze (pl. -n) : חריץ
@@ -5347,6 +5458,8 @@ r Salat : סלט; חסה
 e Salbe : משחה
 r Salbei : מרווה
 e Salve (pl. -n) : מטח אש
+sammeln
+sich sammeln
 r Sand (pl. Sande, Sände) : חול
 e Sanddüne : דיונת חול
 e Sammelwut : אספנות כפייתית
@@ -6036,7 +6149,9 @@ trinken, trank, hat getrunken [vt.] : לשתות
 r Triumph : נצחון
   - großer Triumph : נצחון גדול
   - einen großen Triumph feiern : לחגוג נצחון גדול
-e Trommel : תוף
+e Trommel (pl. -n) : תוף
+trommeln, trommelte, hat getrommelt : לתופף
+  - auf + [Akk.] trommeln : לתופף על
 trompeten : לחצצר; להשמיע קול כמו פיל
   - Der Elefant trompetet.
 r Tross (pl. -e) : ציוד צבאי, קיטבג
@@ -6584,6 +6699,7 @@ vierzehn : ארבע עשרה, ארבעה עשר
 vierzig : ארבעים
 vierzigst [adj.] : הארבעים
 violett [adj.] : סגול
+s Vitamin (pl. -e) : ויטמין
 s Volk (pl. Völker) : עם
 e Völkerverbrüderung : אחוות עמים
 vollenden, vollendete, hat vollendet [vt.] : לסיים; לְכַלּוֹת
@@ -6837,6 +6953,10 @@ wiehern : לצהול, לצנוף
   - Das Pferd wiehert.
 e Wiese : דשא
   - auf der Wiese liegen : לשכב על הדשא
+s Wild : ציד
+wild [adj.] : פרוע; פראי
+Wilder
+wildern
 willkommen [adj.] : מוזמן
   - willkommen heißen : לקדם בברכה
 e Willkür : שרירות; שרירותיות
@@ -6855,6 +6975,9 @@ wirklich [adj.] : אמיתי
 e Wirklichkeit : מציאות
   - in Wirklichkeit : באמת
   - Die Wirklichkeit ist nicht immer so wie es scheint. : המציאות היא לא תמיד כמו מה שנראה.
+r Wirt : מארח
+e Wirtschaft (pl. -en) : כלכלה; מסעדה; בית מרזח; מסבאה
+wirtschaftlich [adj.] : כלכלי
 wispern : ללחוש
 wissen (weiß), wusste, hat gewusst : לדעת; להיות מודע ל־
 s Wissen : ידע; דעת
