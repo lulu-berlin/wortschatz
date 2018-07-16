@@ -2543,35 +2543,80 @@ r Bikini (pl. -s) : ביקיני
 e Bilanz (pl. -en)
 bilateral
 s Bild (pl. Bilder) : תמונה
-bilden : לעשות (צורה), להוות, לבנות; לחנך; לייצר
+bilden, bildete, hat gebildet [vt.] : לעשות (צורה), להוות, לבנות; לחנך; לייצר
+sich bilden, bildete sich, hat sich gebildet
+  - sich eine Meinung bilden
+  - sich ein Urteil bilden
+bildhaft [adj.]
+bildlich [adj.]
 s Bildnis : תמונה; דיוקן
 r Bildschirm (pl. -e) : מסך
 Bildungshungrig [adj.] : צמא לחינוך
+s Billard (pl. -e)
 billig [adj.] : זול
+billigen [vt.] : לאשר; לתמוך ב־; לקבל
+e Billigung : אישור; תמיכה; קבלה
 s Bindeglied (pl. -er) : מחבר
 binden, band, hat gebunden [vt.] : לכרוך; לקשור
+e Binde
+r Bindestrich
+s Bindewort
+r Bindfaden
+e Bindung
 binnen [präp.] : תוך ... בתוך ... (זמן)
   - binnen + [Gen.] [präp.]: תוך־, בתוך־ (זמן)
+e Binse : סוּף
+e Binsenwahrheit : אמיתה
+e Binsenweisheit : אמיתה
+Bio- [K]
+e Biochemie
+r Biochemiker
+r Biograph
+e Biographie (pl. -n) : ביוגרפיה
+biographisch [adj.]
+r Biologe
+e Biologie : ביולוגיה
+r Biologieunterricht
+biologisch [adj.]
 e Birke (pl. -n) : שַׁדָּר, לִבְנֶה צפוני
 s Birkenholz : עץ ליבנה
+r Birnbaum
 e Birne (pl. -n) : אגס
-bitter [adj.] : מר
-bitter [adv.] : באופן מר
-e Bitterkeit : מרירות
-e Bitterschokolade : שוקולד מריר
-bittersüß [adj.] : מר־מתוק
-e Biologie : ביולוגיה
 bis [präp.] : עד
  - bis auf + [Akk.] [präp.] : עד ל־, חוץ מ־, מלבד
  - bis zu : עד ל־
  - bis zu diesem Zeitpunkt : עד רגע זה
  - bis hin zu : עד לידי, עד כדי
+bis [konj.] : עד אשר
+r Bischof (pl. Bischöfe)
+r Bischofsstab
+bisher [adv.]
 bislang [adv.] : עד כה
-r Biss : נשיכה; טעימה, ביס
+r Biss : נגיסה; נשיכה; טעימה, ביס
+S Bisschen : מעט
+  - ein Bisschen [adv.] : קצת
+bisschen [adv.] : קצת
+s Bistum (pl. Bistümer)
+bisweilen [adv.] : לפעמים, מפעם לפעם
 r Bittbrief : מכתב בקשה
+e Bitte
 bitten, bat, hat gebeten [vt.] : לבקש
   - j-n um + [Akk.] bitten : לבקש משהו ממישהו
 s Bitten : בקשה; פניה
+bitter [adj.] : מר
+bitter [adv.] : באופן מר
+bitterböse [adj.]
+bitterernst [adj.]
+bitterkalt [adj.]
+e Bitterkeit : מרירות
+bitterlich [adj.]
+e Bitterschokolade : שוקולד מריר
+bittersüß [adj.] : מר־מתוק
+s Bittgesuch
+r Bittsteller
+bizarr [adj.]
+r Bizeps (pl. -e)
+s Blackout
 e Blamage (pl. -n) : חרפה
 blamieren, blamierte, hat blamiert : לבייש; להביך
   - sich blamieren : להביך את עצמו, לעשות מעצמו צחוק
