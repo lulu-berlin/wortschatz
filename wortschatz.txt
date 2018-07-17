@@ -1127,6 +1127,8 @@ aufbegehrend : מרדני
 aúf|bewahren
 e Aufbewahrung
 aúf|binden
+sich aúf|blähen
+sich aúf|blasen
 aufbrausend : מהיר־חימה
 aúf|brechen
 r Aufbruch : התפרצות, התעוררות, עזיבה
@@ -1243,7 +1245,7 @@ s Aufsehen : סנסציה, המולה
 r Aufseher
 e Aufsicht
 aúf|spielen : לשחק
-  - sich aufspielen : לעשות כאילו, להשוויץ
+sich aúf|spielen : לעשות כאילו, להשוויץ
 r Aufstand (pl. Aufstände) : התקוממות
 aufständisch [adj.]
 aúf|stellen [vt.] : למַנות
@@ -2617,25 +2619,103 @@ r Bittsteller
 bizarr [adj.]
 r Bizeps (pl. -e)
 s Blackout
+blähen
+e Blähung
+blamabel [adj.]
 e Blamage (pl. -n) : חרפה
 blamieren, blamierte, hat blamiert : לבייש; להביך
   - sich blamieren : להביך את עצמו, לעשות מעצמו צחוק
 blamiert [adv.] : מבויש
+blank
+  - etwas blank putzen
+  - blank sein : להיות מרושש
+  - blanken Unsinn reden
 blanko [adj.] : פשוט
 blanko [adv.] : ריק, חלק
   - blanko akzeptieren : לקבל כמו שהוא
 r Blankoscheck : צ'ק פתוח
 r Blasebalg
+e Blase
+r Blasebalg
 blasen (bläst), blies, hat geblasen : לנשוף; לנשוב; לבצע מין אוראלי, למצוץ
   - j-m einen blasen [ugs.] : למצוץ למישהו, לבצע מין אוראלי
+  - j-m den Marsch blasen
+  - Trübsal blasen
+r Bläser
+s Bläserquartett
+blasiert [adj.]
+e Blasiertheit
+e Blasphemie
+blasphemisch
 blass [adj.] : חיוור; דהוי
   - blass werden : להחוויר, להיעשות חיוור
-blau [adj.] : כחול; שיכור
+  - keine blasse Ahnung haben
+  - blass werden vor Neid
+blassblau [adj.]
+e Blässe
+blassgrün [adj.]
+e Blassheit
 s Blatt (pl. Blätter) : גליון; עלה; עמוד; נייר
+Blattern (pl.)
+blättern : לגלול
+s Blättern : גלילה
+Blatternarbe
+blatternarbig
+r Blätterteig
+s Blattgold
+s Blattgrün
+s Blau
+blau [adj.] : כחול; שיכור
+blauäugig [adj.]
+e Blaubeere
+e Bläue
+blaugrün [adj.]
+bläulich [adj.]
+s Blaulicht
+e Blaumeise
+blauschwarz [adj.]
+s Blech (pl. -e)
+blechen
+blechern
+e Blechmusik
+r Blechschaden
+s Blei (pl. -e)
+e Bleibe
 bleiben, blieb, ist geblieben [vi.] : להישאר
   - übrig bleiben : להישאר
   - sitzen bleiben : להישאר לשבת
+  - [Akk.] bleiben lassen : להשאיר
+bleich [adj.] : חיוור
+e Bleiche
+bleichen
+s Bleichgesicht
+bleichsüchtig [adj.]
+bleiern
+Bleikristall
+r Bleistift
+e Blende : צמצם
+blenden : לסנוור
+r Blender
+e Blendlaterne
+r Blendschutz
+e Blendung
+s Blendwerk
+r Blick
+blicken
+s Blickfeld
+r Blickpunkt
+r Blickwinkel
+blind [adj.]
+r Blinddarm : המעי העיוור
+r Blinde
+r Blindflug
+e Blindheit
+blindlings [adv.] : באופן עיוור
+e Blindschleiche
+blindwütig [adj.]
 r Blitz : ברק
+blitzblank [adj.] : חדש ונקי; ללא רבב
+  - blitzblanke Schuhe
 r Blitzableiter : כליא ברק
 blitzen : להבזיק, להבהב, לנצנץ
 s Blitzen : ברק
@@ -3208,6 +3288,8 @@ erbittern [vt.] : למרר
 erbittert [adj.] : עז, פראי; מר
   - erbitterte Debatte : ויכוח מר
 e Erbitterung : מרירות
+erblassen
+erblinden
 erbringen [vt.] : להעביר; לספק; להמציא (עדות, הוכחה)
   - Leistungen erbringen : לספק שירותים
   - Nachweis erbringen : להמציא הוכחה
@@ -3331,9 +3413,14 @@ r Ersthelfer (= pl.), e Ersthelferin
 ersticken [vt.] : לחנוק
 erstickend [adj.] : נחנק; חונק
 erstreiten : לזכות ב־
-j-n ertappen : לתפוס מישהו בשעת מעשה
+ertappen [vt.]
+  - j-n ertappen : לתפוס מישהו בשעת מעשה
   - Lass dich nicht ertappen! : תיזהר לא להיתפס!
+sich ertappen
   - sich bei + [Dat.] ertappen : לתפוס את עצמו (עושה משהו)
+erübrigen [vt.] : לחסוך
+  - j-m [Akk.] erübrigen : לחסוך למישהו משהו
+sich erübrigen : להיחסך; לא להיות נחוץ; להתייתר
 erwachen, erwachte, erwacht : לעורר, להקים
 s Erwachen : התעוררות
 erwähnen [vt.] : להזכיר, לציין
@@ -4806,6 +4893,9 @@ e Liebste : אהובה
 r Liebster : יקירי; אהוב
 s Lied (pl. -er) : שיר
 liefern : לשלוח
+liieren, liierte, liiert
+sich liieren, liierte sich, hat sich liiert : להתאחד (לפעולה משותפת)
+liiert [adj.] : מקושר
 lila [adj.] : סגול
 e Linde (pl. -n) : תִּרְזָה
 r Lindenbaum : תִּרְזָה
@@ -6697,12 +6787,15 @@ e Verbeugung
 verbeulen
 verbeult [adj.]
 verblassen - לדהות
+verbleiben : להישאר, להיוותר
+s Verbleiben
 verblüffend [adj.]
 verbieten : לאסור
 e Verbindung : קשר
   - in Verbindung mit + [Dat.]
   - Verbindung zwischen + [Dat.]
   - Verbindung zu + [Dat.]
+verblassen
 r Verbraucher (= pl.) : צרכן
 verbringen, verbrachte, hat verbracht [vt.] : להעביר (זמן), לבלות (זמן)
   - Zeit verbringen : להעביר את הזמן
@@ -6973,6 +7066,7 @@ e Vielgötterei : פוליתאיזם
 r Vielgötterglaube : אמונה פוליתאיסטית, פוליתאיזם
 e Vielgötterwelt : העולם הפוליתאיסטי
 vier : ארבע
+vierblätt(e)rig
 vierfach : מרובע, כפול־ארבע
 viert [adj.] : רביעי
   - zu viert
