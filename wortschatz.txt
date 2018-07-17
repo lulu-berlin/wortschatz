@@ -2825,9 +2825,84 @@ e Bodenschätze
 bodenständig [adj.]
 s Bodenturnen
 r Bogen (pl. Bogen, Bögen) : קשת; יריעת נייר
+e Bohle (pl. -n)
+e Bohne (pl. -n) : שעועית
+r Bohnenkaffee
+s Bohnenkraut
+r Bohnerbesen
+s Bohnerwachs
+bohnern
+Bohr- [K]
+bohren, bohrte hat gebohrt [vt.] : לקדוח
+r Bohrer : מקדחה
+e Bohrinsel
+r Bohrturm
+e Bohrung
 böig [adj.] : מתפרץ (רוח)
   - böiger Wind : רוח מתפרצת
+r Boiler
+e Boje (pl. -n) : מצוף
+r Bolero (pl. -s)
+s Bollwerk (pl. -e)
+r Bolschewik
+r Bolschewismus
+r Bolschewist
+bolschewistisch [adj.]
+bolzen, bolzte, gebolzt
+r Bolzen
+e Bolzerei
+bombardieren
+e Bombe (pl. -n) : פצצה
+r Bombenangriff
+bombenfest [adj.]
+s Bombengeschäft
+bombensicher [adj.]
+e Bombenstimmung
+r Bombenterror
+r Bomber
+r Bon (pl. -s) : קבלה
+r/s Bonbon (pl. -s)
+Bonn : בון
+r Bonze (gen. -n, pl. -n)
+s Bonzentum
+s Boom (pl. -s)
+s Boot (pl. -e)
+r Bootsbau
+r Bootsmann
+s Bord (pl. -e)
+borgen
+  - j-m [Akk.] borgen
+sich borgen
+  - sich [Akk.] borgen
+e Borke (pl. -n)
+r Borkenkäfer
+borkig
+borniert [adj.] : צר אופקים
+e Borniertheit
+e Börse (pl. -n)
+r Börsenbericht
+r Börsenkurs
+e Börsenspekulation
+e Borste (pl. -n)
+s Borstenvieh
+borstig
+e Böschung (pl. -en) : שיפוע; מדרון
+r Böse : הרע, השטן
+böse [adj.]
+r Bösewicht
 r Bösewicht (pl. Bösewichte, Bösewichter) : נבל
+boshaft [adj.]
+e Bosheit
+böswillig [adj.]
+r Boss (pl. -e) : בוס
+e Botanik
+r Botaniker
+botanisch
+r Bote (gen. -n, pl. -n)
+e Botschaft
+r Botschafter
+r Böttcher : עושה חביות, חבתן
+r Bottich : מְכָל; חבית
 s Bollwerk : סוללה, ביצור
 e Branche : תעשיה; תחום; שדה
 r Brand : שריפה
