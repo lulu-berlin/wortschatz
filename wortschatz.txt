@@ -2713,22 +2713,117 @@ e Blindheit
 blindlings [adv.] : באופן עיוור
 e Blindschleiche
 blindwütig [adj.]
-r Blitz : ברק
+blinken
+r Blinker
+s Blinkfeuer
+s Blinklicht
+s Blinkzeichen
+blinzeln
+r Blitz (pl. -e) : ברק
+r Blitzableiter
+blitzartig [adj.]
 blitzblank [adj.] : חדש ונקי; ללא רבב
   - blitzblanke Schuhe
 r Blitzableiter : כליא ברק
 blitzen : להבזיק, להבהב, לנצנץ
 s Blitzen : ברק
+s Blitzgespräch
 r Blitzkrieg : בליצקריג (מלחמת בזק)
+s Blitzlicht
+blitzsauber [adj.]
 r Blitzschutz : הגנה מפני ברקים
+r Blizzard
+r Block (pl. Blöcke, Blocks) : בלוק
+e Blockade
+e Blockflöte
+s Blockhaus
+blockieren
+e Blockschrift
+blöd(e) [adj.]
+e Blödelei
+r Blödel : אידיוט
+blödeln : לדבר שטויות
+e Blödheit
+r Blödsinn
+blödsinnig
 blöken, blökte, hat geblökt : לפעות
   - Das Schaf blökt. : הכבשה פועה
+s Blond
+blond [adj.]
+e Blonde
+blondhaarig [adj.]
+e Blondine
+blondlockig [adj.]
+bloß [adj.] : פשוט, ותו לא; חשוף
+bloß [adv.] : רק; בסך הכול
+e Blöße
+blóß|legen, legte bloß, hat bloßgelegt [vt.] : לחשוף, להפשיט
+s Bloßliegen
+blóß|stellen, stellte bloß, hat bloßgestellt [vt.] : לחשוף
+  - bloßgestellt werden : להיות נבוך
+sich blóß|stellen, stellte sich bloß, hat sich bloßgestellt [vt.] : להיחשף
+e Bloßstellung
+e Bluejeans
+r Blues
+r Bluff (pl. -s)
+bluffen
+blühen
+e Blume (pl. -n) : פרח
+r Blumenkohl
+r Blumenstrauß
+blumig [adj.]
+e Bluse
+blusig [adj.]
 s Blut : דם
+Blut- [K]
+blutarm [adj.]
+e Blutbank
 blutdurchtränkt : ספוג בדם
+e Blüte (pl. -n)
+r Blutegel
+bluten
+Blütenhonig
+Blütenstaub
+blütenweiß
+r Bluterguss (pl. Blutergüsse)
+e Blutgruppe
+blutig [adj.]
+blutjung [adj.]
+blutleer [adj.]
+e Blutrache
+blutrünstig [adj.]
+r Blutsauger
+e Blutschande
+r Blutspender
+r Blutspur
+blutstillend [adj.]
+r Blutstropfen
+r Blutsturz
+e Bluttransfusion
+e Blutung
+blutunterlaufen
 s Blutvergießen : שפיכות דמים
+blutverwandt [adj.]
 e Blutkonserve (pl. -n) : blood bottle
-e Bö (pl. -en) : סערה
+e Bö(e) (pl. -en) : סערה
+r Bob
+e Bobbahn
+e/s Boccia
+r Bock (pl. Böcke)
+bockbeinig [adj.]
+s Bockbier
+bocken
+bockig [adj.]
+r Bocksprung
+e Bockwurst
 r Boden (pl. Böden) : רצפה
+r Bodenbelag
+e Bodenkammer
+bodenlos [adj.]
+r Bodensatz
+e Bodenschätze
+bodenständig [adj.]
+s Bodenturnen
 r Bogen (pl. Bogen, Bögen) : קשת; יריעת נייר
 böig [adj.] : מתפרץ (רוח)
   - böiger Wind : רוח מתפרצת
@@ -3533,6 +3628,7 @@ r Feldzug : מערכה; מסע (פרסום; הסברה; בחירות); קמפי�
   - einen Feldzug gegen + [Akk.] führen : לצאת למערכה נגד־; לצאת למסע צלב נגד
 s Fell : פרווה
 r Fels (pl. -en) : סלע; צוק
+r Felsblock
 r Felsen (= pl.) : סלע; צוק
 r Felsendom : כיפת הסלע
 Ferien (pl.) : חופשה
@@ -4372,6 +4468,7 @@ e Höhenangst : פחד גבהים
 r Höhepunkt (pl. -e) : נקודת שיא
 r Hohlkopf : ראש בלטה
 s Holz (pl. Hölzer) : עץ
+r Holzblock
 Hoppla [interj.] : אופס; הופלה
 hören, hörte, hat gehört [vt.] : לשמוע
 s Hotel (pl. -s) : מלון
@@ -4517,6 +4614,8 @@ r Junkie : נרקומן
 
 = K =
 r Kaffee : קפה
+r Kalender (= pl.) : לוח שנה
+Kalenderblock
 kalt [adj.] : קר
 s Kamel (pl. -e) : גמל
 kämmen, kämmte hat gekämmt [vt.] : לסרק, לסרוק
@@ -6264,6 +6363,8 @@ staufisch [adj.] : משתייך לבית הוֹהֶנשְׁטַאוּפֶן; מ�
 stehen, stand, hat/ist gestanden [vi.] : לעמוד
   - auf + [Akk.] stehen : להיות בעניין של; לאהוב משהו או לעשות משהו; להיות להוט אחרי; להתעניין ב־
   - im Stau stehen : לעמוד בפקק
+r Stein (pl. -e) : אבן
+r Steinblock
 e Stelle (pl. -n) : מקום; מיקום; משרה
 stellen, stellte, hat gestellt [vt.] : להעמיד; להציב; לשים; להניח
 e Stellung : עמדה
@@ -6287,6 +6388,9 @@ r Stock : קומה; מקל
 stöhnen, stöhnte, hat gestöhnt [vi.] : לגנוח; להיאנח
   - vor Schmerzen stöhnen
 s Stöhnen : גניחה; אנחה
+stolpern
+s Stolpern
+r Stolperstein (pl. -e) : אבן נגף; מכשול
 r Stopp : עצירה
 Stopp! [interj.] : עצור!; די!
 stoppen : לעצור, להפסיק
@@ -7375,6 +7479,7 @@ wohl [adv.] : היטב; ככל הנראה; אולי
 s Wohlbehagen
   - mit Wohlbehagen
 r Wohnbezirk
+r Wohnblock
 wohnen, wohnte, hat gewohnt [vi.] : לגור; להתגורר
 e Wohnung (pl. -en) : דירה
 s Wohnzimmer (= pl.) : סלון
@@ -7454,6 +7559,7 @@ zehnt [adj.] : עשירי
 s Zehntel : עשירית
 s Zeichen : סימן
   - Gib mir ein Zeichen : תן לי סימן
+r Zeichenblock
 zeichnen, zeichnete, hat gezeichnet [vt.] : לצייר
 e Zeichnung (pl. -en) : רישום, ציור; סקיצה
 zeigen [vt.] : להראות; לסמן
@@ -7638,3 +7744,5 @@ zwo [ugs.] : שתי, שני
 zwölf : שתים־עשרה
 zwölft [adj.] : השנים עשר, השתים עשרה
 s Zwölftel (= pl.) : החלק השנים עשר
+Zylinder (= pl.) : צילינדר
+r Zylinderblock
