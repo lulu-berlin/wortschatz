@@ -1276,6 +1276,7 @@ s Auge (pl. -n) : עין
   - unter vier Augen : בארבע עיניים
   - j-m etwas unter vier Augen erzählen : לספר למישהו משהו בארבע עיניים
 r Augenblick : רגע
+e Augenbraue (pl. -n) : עפעף
 r August : אוגוסט
 e Auktion (pl. -en) : מכירה פומבית
 r Auktionator
@@ -2849,7 +2850,7 @@ böig [adj.] : מתפרץ (רוח)
 r Boiler
 e Boje (pl. -n) : מצוף
 r Bolero (pl. -s)
-s Bollwerk (pl. -e)
+s Bollwerk (pl. -e) : סוללה; ביצור
 r Bolschewik
 r Bolschewismus
 r Bolschewist
@@ -2909,23 +2910,95 @@ e Botschaft
 r Botschafter
 r Böttcher : עושה חביות, חבתן
 r Bottich : מְכָל; חבית
-s Bollwerk : סוללה, ביצור
+e Bouillon (pl. -s)
+e Boutique (pl. Boutiques, Boutiquen) : בוטיק
+e Bowle (pl. -n)
+e Box (pl. -en)
+boxen
+r Boxer
+r Boy (pl. -s)
+r Boykott (pl. Boykotts, Boykotte)
+brach
+e Brache
+s Brachfeld
+brách|liegen, lag brach, hat brachgelegen
+brachliegend [adj.]
 e Branche : תעשיה; תחום; שדה
-r Brand : שריפה
+s Branchenverzeichnis
+r Brand (pl. Brände) : שריפה
+e Brandblase
+r Brandbrief
+  - einen Brandbrief schreiben
+brandeilig [adj.]
+branden
 e Brandgefahr : סכנת בעירה
 brandgefährlich [adj.] : שעלול להתלקח; מסוכן מאוד
+s Brandmal
+brandmarken, brandmarkte hat gebrandmarkt [vt.] : לסמן; להטביע סימן; למתג
+brandneu [adj.]
+brandschatzen
+r Brandstifter
+e Brandung
+r branntwein
+e Branntweinsteuer
+r Bratapfel
 braten (brät/bratet), briet, hat gebraten [vt.] : לטגן
+r Braten
+s Brathendl : עוף צלוי
+r Brathering : הרינג מטוגן
+e Bratpfanne
+r Brauch (pl. Bräuche)
+brauchbar [adj.]
 brauchen, brauchte, hat gebraucht [vt.] : להצטרך
+s Brauchtum
+e Braue (pl. -n)
+brauen : לבשל שֵׁכָר
+  - Bier brauen
+sich brauen
+  - sich einen guten Trank brauen
+r Brauer
+e Brauerei
+s Brauhaus
+s Braun : חום; צבע חום
 braun [adj.] : חום
+braunäugig [adj.] : בעל עיניים חומות
+r Braune
 Bräune : שיזוף
 bräunen [vt.] : להשחים
 s Bräunen : השחמה
+braungebrannt [adj.]
+braunhaarig [adj.]
 bräunlich [adj.] : שחמחם
-e Brause : טוש
+e Bräunung
+e Brause (pl. -n) : טוש
+s Brausebad
 Brausekopf : הראש של הטוש
+e Brauselimonade
+brausen
+sich brausen
+s Brausen
+e Braut (pl. Bräute)
+r Bräutigam
+bräutlich [adj.]
+brav [adj.] : טוב; מחונך, נימוסי
+  - brav sein : להתנהג כמו שצריך
+  - treu und brav
+e Bravheit
+e Bravour
+bravourös
 brechen (bricht), brach, hat gebrochen [vt.] : לשבור
+r Brecher (= pl.)
+s Brechmittel
+e Brechstange
+e Brechung
+r Brei (pl. -e)
 breit [adj.] : רחב
 breitbeinig [adv.] : ברגליים מפושקות
+e Breite
+r Breitengrad
+breitrandig
+e Breitseite
+breitspurig
 brennen, brannte, hat gebrannt : לבעור, לשרוף (כאב)
 s Brett (pl. -er) : לוח עץ
 brillieren, brillierte, hat brilliert : לזהור, להיות מבריק, להיות גאוני
@@ -3230,7 +3303,10 @@ egal [adv.] : לא חשוב
   - Egal, was ... : לא משנה מה ...
 e Ehe (pl. -n) : נישואים
 ehe [konj.] : לפני ש־, טרם
+e Ehefrau : אישה נשואה
 ehemalig [adj.] : דאז
+r Ehemann : בעל
+s Ehepaar : זוג נשוי
 eher [adv.] : למדי, במידה רבה יותר
   - eher als [konj.] : מאשר
 ehesten - סופרלטיב בלי תואר בסיס?
@@ -3243,7 +3319,8 @@ ehrgeizig [adj.] : שאפתן, תחרותי, אמביציוזי
 ehrlich [adj.] : הוגן, ישר, הגון, כֵּן
 s Ei (pl. -er) : ביצה
 r Eid (pl. -e) : שבועה
-e Eidechse : לטאה
+e Eidechse (pl. -n) : לטאה
+e Eidechsenhaut : עור לטאה
 r Eifer : להט
 eigen [adj.] : משל עצמו, מיוחד, ייחודי
   - sehr eigen : מאוד משונה
@@ -3539,6 +3616,9 @@ erklären, erklärte, hat erklärt : להבהיר, להסביר
   - sich bereit erklären : להיות מוכן (לעשות משהו)
 erlauben, erlaubte, hat erlaubt : להרשות
 e Erlaubnis (pl. -se) : אישור; אשרה; הרשאה
+erlebbar
+erleben, erlebte, hat erlebt [vt.] : לחוות; להיות עד ל־
+s Erlebnis : חוויה; הרפתקה
 erleichtern [vt.] : להקל על־
 e Erleichterung : הקלה
 erleiden, erlitt, hat erlitten [vt.] : לסבול; לספוג
@@ -4318,6 +4398,7 @@ e Gründung : establishment, foundation
 s Gründungsmythos / -us (pl. Gründungsmythen) : מיתוס מכונן
 e Gülle : דשן, זבל
 grün [adj.] : ירוק
+s/r Gulasch (pl. -e) : גולאש
 s Gummi : גומי
   - wie Gummi : כמו גומי
 s Gummibärchen (= pl.) : דובון גומי (ממתק)
@@ -6882,6 +6963,8 @@ unausweichlich [adj.] : בלתי־נמנע
 unausweichlich [adv.] : באופן בלתי־נמנע
 unabdingbar [adj.] : חיוני, הכרחי
 unangebracht [adj.] : בלתי הולם; שלא במקומו
+unantastbar [adj.] : שלא ניתן להפר או לחלל אותו; שלא ניתן לגעת בו
+e Unantastbarkeit
 unartig [adj.]
 unbändig
 unbekannt [adj.] : לא מוכר, בלתי מוכר
@@ -7899,4 +7982,4 @@ zwölf : שתים־עשרה
 zwölft [adj.] : השנים עשר, השתים עשרה
 s Zwölftel (= pl.) : החלק השנים עשר
 Zylinder (= pl.) : צילינדר
-r Zylinderblock 
+r Zylinderblock
