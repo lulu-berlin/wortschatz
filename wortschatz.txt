@@ -2995,11 +2995,27 @@ r Brei (pl. -e)
 breit [adj.] : רחב
 breitbeinig [adv.] : ברגליים מפושקות
 e Breite
+breiten
 r Breitengrad
-breitrandig
+sich breít|machen, machte sich breit, hat sich breitgemacht : להתפשט; להתערבב ולהיעלם
+bretrandig
+breít|schlagen
+  - sich breitschlagen lassen
 e Breitseite
 breitspurig
+breít|treten, trat breit, hat breitgetreten
+Bremen : ברמן
+brennbar
 brennen, brannte, hat gebrannt : לבעור, לשרוף (כאב)
+r Brenner (= pl.)
+e Brennerei
+e Brennessel
+r Brennstoff
+e Brennweite
+brenzlig
+e Bresche (pl. -n)
+  - eine Bresche schlagen
+  - in die Bresche springen
 s Brett (pl. -er) : לוח עץ
 brillieren, brillierte, hat brilliert : לזהור, להיות מבריק, להיות גאוני
 bringen, brachte, hat gebracht [vt.] : להביא
@@ -7796,6 +7812,12 @@ e Zeit (pl. -en) : זמן; זמן־פועל; תקופה
   - Die Zeit ist um. : נגמר הזמן.
   - Wurde auch zeit : הגיע הזמן באמת
   - Zeit verbringen : להעביר את הזמן
+r Zeitgeist
+zeitgemäß [adj.] : עכשווי
+zeitgerecht [adj.] : בזמן
+zeitnah [adj.]
+r Zeitpunkt
+r Zeitraum
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 zerfressen [vt.] : לזלול (חיה)
 Zermürbend [adj.] : מתיש, מפרך
