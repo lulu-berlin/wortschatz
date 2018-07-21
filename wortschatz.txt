@@ -3068,43 +3068,192 @@ e Bruchstelle
 r Bruchteil
 e Brücke (pl. -n) : גשר
 r Brückenkopf
-r Bruder : אח
+r Bruder (pl. Brüder) : אח
+r Bruderkrieg
+brüderlich
+e Bruderschaft
+e Brüderschaft
+  - Brüderschaft trinken
+e Brühe : מרק בשר; ציר (מרק)
+brühen
+brühwarm [adj.]
+Brühwürfel
+Brühwurst
+r Brüllaffe
 brüllen : לשאוג
   - Der Ochse brüllt.
   - Der Löwe brüllt.
 brummen : לנהום
   - Der Bär brummt.
+r Brummer
+brummig [adj.]
+brünett [adj.]
+r Brünette : ברונטי; בעל שיער חום כהה
+e Brünette : ברונטית; בעלת שיער חום כהה
 brünstig [adj.] : מיוחם
-brutto [adj.] : נרוטו
-e Brust (pl. Brüste) for: שד; חזה
+e Brust (pl. Brüste) : שד; חזה
+sich brüsten : להתרברב
+  - sich mit + [Dat.] brüsten : להתרברב על משהו
+e Brüstung : מעקה, חומת מגן
 e Brustwarze : פטמה
-e Brut : זן; קבוצת חיות צעירות שבקעו יחד מביציהן
+e Brut (pl. -en) : זן; קבוצת חיות צעירות שבקעו יחד מביציהן
+brüten, brütete, hat gebrütet [vi.] : להתרבות, להזדווג
+  - über + [Akk.] brüten : לשקוד על, לתכנן
+  - über + [Dat.] brüten : לפתח (תוכנית); לחשוב על
+brütend [adj.]
+  - brütende Hitze
+brutal [adj.] : ברוטאלי
+e Brutalität : ברוטאליות
 e Brutpflege : שמירה על הגוזלים
+brutto [adj.] : ברוטו
+s Bruttogewicht
+s Bruttosozialprodukt
+r Bruttoverdienst
 brutzeln : לרחוש; לתסוס; ללהוט
 s Brutzeln : רחישה; תסיסה
 r Bub (pl. -en) : ילד; נער
 s Bubenstück : מעשה קונדס
-r Buchhalter (= pl.), e Buchhalterin
+s Buch (pl. Bücher) : ספר
+r Buchdruck
+e Bücherei
+r Bücherwurm
+e Buche (pl. -n) : אשור; בוק
+e Buchecker
+buchen, buchte, gebucht hat [vt.] : להזמין (מראש); לרשום
+s Buchenholz
+r Buchhalter (= pl.)
+e Buchhalterin (pl. -nen)
+r Buchhandel
+r Buchsbaum (pl. Buchsbäume)
+e Buchse : שקע; תושבת; מחבר; בוקסה
+e Büchse : קופסה
+e Büchsenmilch
+r Büchsenöffner
+e Buchstabe (pl. -n) : אות
+buchstäblich [adj.]
+e Bucht (pl. -en) : מפרץ
+e Buchung
+e Buckel
+buck(e)lig [adj.]
+sich bücken
+r Bückling
+Buddha
+r Buddhismus
+r Buddhist
+buddhistisch [adj.]
+e Bude (pl. -n)
+r Budenzauber
+s Büfett
+r Büffel
+büffeln
+r Bug (pl. -e)
+r Bügel 
+s Bügeleisen : מגהץ
+e Bügelfalte
+bügelfrei [adj.]
+bügeln [vt.] : לגהץ
+bugsieren
+e Bugwelle
+r Buhmann (pl. Buhmänner) : ישות מאיימת; שעיר לעזאזל
 s Bündnis : ברית; קואליציה
+e Bühne (pl. -n)
+r Bühnenarbeiter
+e Bulette (pl. -n) : כדור בשר
+s Bullauge (pl. -n)
+e Bulldogge (pl. -n)
+r Bulldozer
+r Bulle
+e Bulle (pl. -n)
+bullig
+r Bumerang
+r Bummel
+r Bummelant
+e Bummelei
+bumm(e)lig [adj.]
+bummeln
+r Bund (pl. Bünde) : פדרציה; ממשלה פדרלית; איחוד
+s Bund (pl. -e) : צרור
+e Bundesliga
+s Bündel : צרור
+bündeln
+r Bundesrat
+e Bundesregierung
+e Bundesrepublik
+e Bundesstraße
+r Bundestag
+e Bundeswehr
+e Bundhose
+bündig
+s Bündnis
+r Bungalow
+r Bunker
+bunt [adj.] : צבעוני
+r Buntfilm
+buntgefiedert
+buntgestreift
+e Buntheit
+r Buntspecht
+r Buntstift
+e Bürde (pl. -n)
+e Burg
+r Bürge (pl. -n) : עָרֵב
+bürgen
+r Bürger
+e Bürgerin
+e Bürgerinitiative
+bürgerlich [adj.] : בורגני
+r Bürgermeister
 r Bürgersteig (pl. -e) : מדרכה
-s Büro : משרד
+e Bürgschaft
+s Büro (pl. -s) : משרד
+s Bürohaus
+r Bürokrat
+e Bürokratie
+r Bürokratismus
+bürokratisch
+Bürschchen
+r Bursche (pl. -n)
+burschikos
+e Bürste (pl. -n) : מברשת
 bürsten, bürstete, hat gebürstet : להבריש
-r Bus (pl. Busse) : אוטובוס
-r Busch : שיח
+r Bürstenbinder
+r Bürstenschnitt
+r Bus (gen. Busses, pl. Busse) : אוטובוס
+r Busch (pl. Büsche) : שיח
+s Büschel
+büsch(e)lig
+büschelweise
 buschig : סבוך, עבות
 s Buschland : בתה
-Buße : כפרה
+s Buschmesser
+Buschwindröschen
   - Buße tun : לעשות תשובה, לכפר
 r Busen (= pl.) : חזה (של אישה); חיק
 r Busenfreund
 büßen : לכפר
   - für + [Akk.] büßen : לכפר על
+r Busfahrer
+r Bussard (pl. -e)
+Buße : כפרה
+  - Buße tun
+büßen
+r Büßer
+s Büßerhemd
+bußfertig [adj.]
+r Bußprediger
+s Bußsakrament
 e Büste (pl. -n) : חזה, שד; פרוטומה, פסל של ראש אדם, כתפיים וחזה
 r Büstenhalter (= pl.) : חזיה
-Bushaltestelle (pl. -n) : תחנת אוטובוס
+e Bushaltestelle (pl. -n) : תחנת אוטובוס
 busseln [vt.] : לנשק
 s Bussi [ugs.] : נשיקה
+e Butter
+  - alles ist in Butter
+s Butterbrot
+e Buttermilch
+buttern
 bützen [vt.] [ugs.] : לנשק
+bzw. : Abk. für beziehungsweise
 
 = C =
 e Chance : סיכוי; הזדמנות
@@ -3193,7 +3342,9 @@ r Diskussionsteilnemher (= pl.) : משתתף בדיון
 e Diskussionsteilnemherin (pl. -nen) : משתתפת בדיון
 s Dokument (pl. -e) : מסמך
 s Dorf (pl. Dörfer) : כפר
+e Dose : פחית; קופסה
 dösen, döste, hat gedöst : לנמנם
+r Dosenöffner
 downgeknockt [adj.] [ugs.] : גמור, שנפל לגמרי
 down|loaden, loadete down, hat downgeloadet [vt.] [gespr.] : לעשות דאונלוד, להוריד מהאינטרנט
 e DPA [kürz für Deutsche presse-Agentur] : סוכנות העיתונות הגרמנית
@@ -4145,6 +4296,7 @@ geboren [adj.] : נולד
 geborgen [adj.] : בטוח; מוגן
 e Geborgenheit : בטחון; נוחות
 s Gebot : הצעת מחיר
+s Gebrüll
 gebügelt
 e Geburt (pl. -en) : לידה
 r Geburtshelfer, e Geburtshelferin : מיילד/ת
@@ -4526,6 +4678,7 @@ e Händlerin (pl. -nen) : סוחרת; מפיצה
 s Handtuch (pl. Handtücher) : מגבת
   - das Handtuch werfen : לזרוק את המגבת
 s Handwerk (pl. -e) : משלח‏־יד
+r Handwerksburche
 hängen, hängte, hat gehängt [vt.] : לתלות (כביסה)
   - j-n hängen lassen : לאכזב מישהו
 hängen, hing, hat gehängt : להיות תלוי (פוסטר), להיאחז במשהו
@@ -5092,6 +5245,7 @@ künftig [adj.] : עתידי
 künftig [adv.]
 r Kunstfehler : רשלנות פושעת
 r Kunststoff : פלסטיק
+kunterbunt [adj.] : מעורבב, מגוון, רבגוני; צבעוני
 r Kuppelbau : מבנה עם כיפה
 r Kürbis : דלעת
 e Kurie (Lat. curia) : הקוריה הרומאית
@@ -6301,6 +6455,7 @@ r Schluss (pl. Schlüsse) : סוף; סיכום; מסקנה
   - zum Schluss : לבסוף, בסופו של דבר
   - zum Schluss kommen : לסכם, לסיים
 r Schlüssel (= pl.) : מפתח
+s Schlüsselbund
 s Schlüsselerlebnis : חוויה מרכזית, חווית מפתח
 r Schlussverkauf : מבצע (מכירה במחיר זול); מכירת חיסול
 e Schmach : בושה, חרפה
@@ -6584,6 +6739,8 @@ s Spiel : משחק
 s Spielfeld : מגרש משחקים
 e Spiellust : חשק לשחק
 spiellustig [adj.] : שמתחשק לו לשחק
+r Spieß : שיפוד
+r Spießbürger : זעיר בורגני; חסר נימוס, חסר תרבות
 r Spinat : תרד
 e Spinne : עכביש
 r Spion : מרגל
@@ -7182,6 +7339,7 @@ verbleiben : להישאר, להיוותר
 s Verbleiben
 verblüffend [adj.]
 verbieten : לאסור
+verbinden
 e Verbindung : קשר
   - in Verbindung mit + [Dat.]
   - Verbindung zwischen + [Dat.]
@@ -7190,7 +7348,9 @@ verblassen
 r Verbraucher (= pl.) : צרכן
 verbringen, verbrachte, hat verbracht [vt.] : להעביר (זמן), לבלות (זמן)
   - Zeit verbringen : להעביר את הזמן
+verbuchen : לרשום; להשיג בשל הצלחה; לקבוע כהצלחה
 s Verbum (pl. Verben) : פועל
+sich verbünden : לבוא בברית; לאחד כוחות; להצטוות
 verbürgen, verbürgte, verbürgt + Akk : לאשר, לאמת, להוכיח
   - sich für + Akk. verbürgen : להעיד לטוב, לערוב ל־
 verbüßen, verbüßte, verbüßt [vt.] : לרַצות (עונש)
