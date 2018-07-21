@@ -2995,7 +2995,8 @@ r Brei (pl. -e)
 breit [adj.] : רחב
 breitbeinig [adv.] : ברגליים מפושקות
 e Breite
-breiten
+breiten, breitete, hat gebreitet [vt.] : לפרוס (מפה על השולח)
+  - eine Decke über den Tisch breiten
 r Breitengrad
 sich breít|machen, machte sich breit, hat sich breitgemacht : להתפשט; להתערבב ולהיעלם
 bretrandig
@@ -3017,13 +3018,56 @@ e Bresche (pl. -n)
   - eine Bresche schlagen
   - in die Bresche springen
 s Brett (pl. -er) : לוח עץ
+e Brezel (pl. -n) : כעך, בייגל, פרצל
+s Bridge : ברידג'
+r Brief (pl. -e) : מכתב
+brieflich [adj.] : שנשלח במכתב
+brieflich [adv.] : במכתב
+e Brigade (pl. -n) : בריגדה
+r Brillant [briljant] (pl. -en)
+brillant [adj.]
+s Brillantfeuerwerk
+e Brillanz
+e Brille (pl. -n): משקפיים
 brillieren, brillierte, hat brilliert : לזהור, להיות מבריק, להיות גאוני
 bringen, brachte, hat gebracht [vt.] : להביא
+  - Freude bringen
+  - [Akk.] hinter sich bringen : להביא משהו לידי סיום; לגמור עם משהו
+  - unter seine Gewalt bringen
   - ein Kind zur Welt bringen : להביא ילד לעולם
-brodeln : לבעבע; לרתוח
+  - j-b unter die Haube bringen
+  - sein Geld unter die Leute bringen
+e Brise (pl. -n) : בריזה
+bröck(e)lig [adj.]
+e Bröck(e)ligkeit
+bröckeln
+r Brocken : חתיכה, נתח
+brodeln, brodelte, hat gebrodelt [vi.] : לבעבע; לרתוח
 s Brodeln : בעבוע
 e Brombeere (pl. -n) : אסנה, פרי אכיל דומה לפטל בצבע סגול־שחור
+r Bronchialkatarrh
+e Bronchie (pl. -n) : סִמְפוֹן
+e Bronchitis : דלקת סמפונות, ברונכיטיס
+e Bronze
+e Bronzemedaille
+e Bronzezeit
+e Brosche (pl. -n)
+broschieren : לתפור; לכרוך יחד
+broschiert [adj.]
+e Broschüre (pl. -n)
+s Brot (pl. -e) : לֶחֶם
+s Brötchen (= pl.) : לחמניה
+r Brotkorb
+brotlos [adj.]
+r Bruch (pl. Brüche)
+  - Die Feundschaft ging in die Brüche
+brüchig [adj.]
+e Brüchigkeit
+e Bruchlandung
+e Bruchstelle
+r Bruchteil
 e Brücke (pl. -n) : גשר
+r Brückenkopf
 r Bruder : אח
 brüllen : לשאוג
   - Der Ochse brüllt.
@@ -3351,6 +3395,10 @@ ein [adj.] : אחד
   - Er ist einer von uns : הוא אחד משלנו
 eín|äschern
 eín|beziehen, bezog ein, hat einbezogen [vt.] : לכלול, לערב, לצרף
+eín|brocken [vt.]
+  - j-m [Akk.] einbrocken : לסבך מישהו במשהו
+sich eín|brocken
+  - sich[Dat.] [Akk.] selber einbrocken : להסתבך במשהו, לסבך את עצמו במשהו
 r Einbruch (pl. -e) : התפרצות; פריצה
 eín|dämmen + Akk. : לעצור, לשים סוף ל־, לחסום
 eín|dämmern : להירדם, לשקוע בשינה
@@ -4489,6 +4537,7 @@ e Hassliebe : אהבה־שנאה, יחסי אהבה־שנאה
 r Haufen (= pl.)h : ערמה; כמות של
 häufig [adj.] : נפוץ; שחל לעתים קרובות
 häufig [adv.] : לעתים קרובות; במקרים רבים
+e Haube (pl. -n) : מכסה; מכסה מנוע; מצנפת
 s Haupt : ראש
 r Hauptbahnhof (pl. Hauptbahnhöfe) : תחנת רכבת מרכזית
 e Hauptsache : העניין העיקרי; העיקר
@@ -7539,6 +7588,7 @@ wahnsinnig [adv.] : באופן מדהים, בצורה יוצאת דופן
 wahr [adj.] : אמיתי
 während [präp.]: במהלך, תוך כדי, בעת
   - während + [Gen.] [präp.] : במהלך, תוך כדי, בעת
+währenddessen [adv.] : בינתיים; תוך כדי כך
 wahrhaben : להכיר בכך ש־
   - wahrhaben wollen
   - nicht wahrhaben wollen : לסרב להאמין ש־
