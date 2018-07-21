@@ -3198,8 +3198,8 @@ e Bürde (pl. -n)
 e Burg
 r Bürge (pl. -n) : עָרֵב
 bürgen
-r Bürger
-e Bürgerin
+r Bürger (= pl.) : אזרח
+e Bürgerin (pl. -nen) : אזרחית
 e Bürgerinitiative
 bürgerlich [adj.] : בורגני
 r Bürgermeister
@@ -3207,13 +3207,13 @@ r Bürgersteig (pl. -e) : מדרכה
 e Bürgschaft
 s Büro (pl. -s) : משרד
 s Bürohaus
-r Bürokrat
-e Bürokratie
+r Bürokrat : ביורוקרט, פקיד המייחס חשיבות רבה מדי לנהלים
+e Bürokratie : ביורוקרטיה
 r Bürokratismus
 bürokratisch
 Bürschchen
 r Bursche (pl. -n)
-burschikos
+burschikos [adj.] : חצוף, מחוצף; נערי
 e Bürste (pl. -n) : מברשת
 bürsten, bürstete, hat gebürstet : להבריש
 r Bürstenbinder
@@ -3235,41 +3235,166 @@ büßen : לכפר
 r Busfahrer
 r Bussard (pl. -e)
 Buße : כפרה
-  - Buße tun
-büßen
-r Büßer
+  - Buße tun : לכפר; לעשות תשובה
+büßen : לכפר
+  - für + [Akk.] büßen : לכפר על משהו
+r Büßer : אדם שמכה על חטא, אדם שמביע חרטה
+e Büßerin : אישה שמכה על חטא, אישה שמביעה חרטה
 s Büßerhemd
 bußfertig [adj.]
 r Bußprediger
-s Bußsakrament
+s Bußsakrament : פולחן כפרה
 e Büste (pl. -n) : חזה, שד; פרוטומה, פסל של ראש אדם, כתפיים וחזה
 r Büstenhalter (= pl.) : חזיה
 e Bushaltestelle (pl. -n) : תחנת אוטובוס
 busseln [vt.] : לנשק
 s Bussi [ugs.] : נשיקה
-e Butter
+e Butter : חמאה
+  - in Butter sein : ללכת חלק
   - alles ist in Butter
-s Butterbrot
-e Buttermilch
-buttern
+s Butterbrot : לחם בחמאה
+e Buttermilch : חֻבְצָה, חלב־חמאה, הנוזל שנותר לאחר הפרדת החמאה מהחלב, לֶבֶּן
+buttern : למרוח בחמאה
 bützen [vt.] [ugs.] : לנשק
 bzw. : Abk. für beziehungsweise
 
 = C =
-e Chance : סיכוי; הזדמנות
+s C
+ca. [Abk. für circa] : בערך
+s Café (pl. -s) : בית קפה
+e Cafeteria
+r Camambert
+s Camping
+s Cape
+e Caritas
+r Cartoon : קַרְטוּן, סרט מצויר
+CDU [kurz für Christlich-Demokratische Union]
+s Cello : צֶ'לוֹ
+s Cellophan
+Celsius
+s Cembalo : צ'מבלו
+r Cent : סנט
+s Chamäleon (pl -s) : זיקית
+r Champagner
+r Champion (pl. -s)
+e Chance (pl. -n) : סיכוי; הזדמנות
+  - seine Chance wahrnehmen
+e Chanson (pl. -s)
+s Chaos
+chaotisch [adj.]
+r Charakter (pl. e)
+charakterfest
+charakterisieren, charakterisierte, hat charakterisiert : לאפיין
+e Charakteristik
+charakteristisch [adj.]
+s Charakteristikum
+charakterlich
+charakterlos
+charmant
+r Charme
+e Charta
+chartern ['tšartern]
+s Charterflugzeug
+s Chasis [ša'si]
+r Chaufeur
+chaufieren
 r Check : בדיקה
 checken [vt.] : לבדוק
+r Chef (pl. s)
+r Chefarzt
+r Chefpilot
+r Chefsekretär
+s Chefsekretäriat
+e Chefsekretärin
 e Chemie : כימיה
+e Chemikalien
+r Chemiker
+e Chemikerin
 chemisch [adj.] : כימי
 s Chi : צ'י
+e Chiffre [šifr(ə)] (pl. -n)
 chillen, chillte, gechillt [ugs.] : להירגע
+r Chinese (pl. -n)
+s Chinesisch : סינית
+chinesisch [adj.] : סיני
+  - die Chinesische Mauer
+s Chinin
+Chips (pl.)
+r Chirurg (pl. -en)
+e Chirurgie
+chirurgisch [adj.]
+s Chlor
+s Chloroform
+chloroformieren
+s Chlorophyl
+e Cholera
+e Choleraepidemie
+r Choleriker
+cholerisch
+r Chor (pl. Chöre)
+r Choral
+r Chorgesang
+r Chorsänger
 e Chose : עסק; עניין
+r Christ
+s Christentum
+e Christenverfolgung
+s Christkind
+christlich [adj.]
+e Christrose
+r Christus
+s Chrom
+e Chronik
+chronisch
+r Chronist
+chronologisch
+circa
+e City
+clever [adj.]
+r Clinch
+e Clique ['klikə]
+e Cliquenwirtschaft
+r Clown [klaun]
+r Club
+s Cockpit
+r Cocktail
+r Code
+r Cognac
+e Collage
+r Colt
+s Comeback
+r Comic
 r Computer (= pl.) : מחשב
+r Container
+s Containerschiff
+contra
+cool [adj.]
+r Cord
+e Cordhose
+e Couch [kautš]
+s Coupé
+r Coupon [kupoŋ]
+e Courage
+r Cousin
+r Cowboy
+e Creme
+ČSSR
+CSU
+r Cup
+r Cutter ['katər]
+CVJM
 
 = D =
+s D
 da [adv.] : בנמצא; שם; כאן
 da [konj.] : משום ש־, שכן, כי
+dabehalten
 dabei [adv.] : בכך; תוך כדי כך
+  - dabei sein : לקחת חלק; להיות במהלך; להיות נוכח; להיות בנמצא
+  - dabei sein, etwas zu tun
+dabeí|bleiben, blieb dabei, ist dabeigeblieben [vi.] : להישאר עם־, להתמיד ב־
+  - bei + [Dat.] : להישאר עם, להתמיד ב
+  - ich bleibe dabei. : אני מתמיד בכך
 dabeí|haben (hat dabei), hatte dabei, hat dabeigehabt : לשאת עמו; לקחת איתו
 s Dach (pl. Dächer) : גג
 dagégen|halten (hält dagegen), hielt dagegen, hat dagegengehalten : לטעון כנגד
@@ -5161,7 +5286,7 @@ s Kopfgeld
 e Kopfhaut
 r Kopfhörer : אוזניה
 kopieren : להעתיק, לצלם (מסמכים)
-Kopfkissen
+s Kopfkissen (= pl.) : כרית
 kopflos [adj.]
 Kopfmassage
 r Kopfsalat : חסה
@@ -5660,6 +5785,7 @@ mufflig : grumpy
 muhen : לגעות, לעשות מוּ
   - Die kuh muht.
 r Müll : אשפה
+r Müllcontainer
 r Mülleimer (= pl.) : פח אשפה
 r Mund (pl. Münder) : פה
 mündlich [adj.] : בעל פה, אוראלי, מילולי
@@ -6755,6 +6881,16 @@ s Spülen : שטיפה
 e Spur (pl. -en) : עקבה; עקבות; זכר; רושם, סימן; רמז 
 r Spurt (pl. Spurts, Suprte) : ספרינט
 r Staat (pl. -en) : מדינה
+r Staatsangehöriger : אזרח
+  - deutscher Staatsangehöriger
+e Staatsangehörigerin : אזרחית
+  - deutsche Staatsangehörigerin
+e Staatsangehörigkeit : אזרחות
+  - deutsche Staatsangehörigkeit
+r Staatsbürger (= pl.) : אזרח
+  - deutscher Staatsbürger
+e Staatsbürgerin (pl. -nen) : אזרחית
+  - deutsche Staatsbürgerin
 r Staatsdienst : השירות הציבורי
 r Staatsdiener : שליח ציבור, משרת ציבור
 s Staatsoberhaupt : ראש המדינה
