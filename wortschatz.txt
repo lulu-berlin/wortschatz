@@ -2011,6 +2011,8 @@ beitragspflichtig [adj.]
 beí|treten + Dat. : להצטרף ל־, להיכנס ל־
 sich beí|zeiten
 bejahen [vt.] : להסכים, להשיב כן
+bejahend [adj.] : חיובי
+bejahendenfalls [adv.] : במידה שכן
 bekannt [adj.] : מוכר
   - bekannt geben : להכריז על
 r Bekannte (pl. -n) : מכר
@@ -7978,8 +7980,10 @@ veränderlich [adj.] : משתנה, נתון לשינוי
 verändern [vt.] : לשנות, לערוך שינויים, לבצע שינויים
 verändert [adj.] : ששונה, משונה
 e Veränderung (pl. -en) : שינוי
-veranlassen [vt.]
-e Veranlassung
+e Veranlagung
+veranlassen [vt.] : לארגן; לגרום
+veranlassend
+e Veranlassung : סיבה
   - auf Veranlassung von + [Dat.] [präp.]
 verantworten [vt.] : לקחת אחריות על, להצדיק את
   - sich für + [Akk.] verantworten : לענות ל־
@@ -7994,7 +7998,11 @@ verarschen [vt.] : לעבוד על־
   - j-n verarschen : לעבוד על מישהו
 verarzten [vt.] : לרפא; לבדוק, לערוך בדיקה רפואית
 verästelt [adj.] : מסועף, מסתעף
-verausgeben
+verausgaben
+sich verausgaben
+verausgabt
+e Verausgabung
+verauslagen
 s Verb (pl. -en) : פועל
 r Verband (pl. Verbände) : אגודה, ארגון
 verbannen : להחרים, להגלות
@@ -8043,7 +8051,14 @@ verdammt [interj.] : לעזאזל
 verdenken : להאשים
   - [Akk.] j-m verdenken : להאשים מישהו במשהו
   - Wer kann es ihm verdenken?
+verdeutlichen
+verdichten
+verdichtet
+e Verdichtung
 verdienen [vt.] : להרוויח; להיות ראוי ל־
+s Verdienst
+verdient
+verdrängen [vt.]
 vereidigen [vt.] : להשביע (נשיא)
   - j-n vereidigen : להשביע (נשיא)
 verehren [vt.] : להעריץ; להוקיר
@@ -8094,12 +8109,21 @@ verhindern, verhinderte, hat verhindert [vt.] : למנוע
 e Verhinderung (pl. -en) : מניעה
 verhungern [vi.] : לרעוב; למות מרעב
   - verhungern lassen : להרעיב
+verfahren
+verfehlen
+verfeinern
+verfeinert
+verfestigen
 verfinstern : להחשיך
   - sich verfinstern : להאפיל על, להטיל צל על
+verfügbar [adj.]
 verfügen : to dispose, to order, to rule (that ...)
   - über + Akk. verfügen : ישנו לשימושו של מישהו, יש לרשותו
   - Das Haus verfügt über eine separate Küche.
   - Alle Verben verfügen über einen indikativen Modus.
+e Verfügung
+  - zur Verfügung stehen
+  - zur Verfügung stellen
 vergammeln : להירקב
 vergammelt [adj.] : מטונף; מוזנח; מרושל
 j-m (Akk.) vergeben : לסלוח
@@ -8151,6 +8175,10 @@ verlangen [vt.] : לדרוש; לבקש; לתבוע; לקרוא ל; להתעקש 
 s Verlangen : דרישה; חשק, דחף, תאווה
 verlassen : לנטוש; לעזוב
   - "Darumb / wird ein Man seinen Vater vnd seine Mutter verlassen" [Lutherbibel, Gen 2:24] = עַל־כֵּן יַעֲזָב־אִישׁ אֶת־אָבִיו וְאֶת־אִמּוֹ [בראשית ב כד]
+sich verlassen
+  - sich auf + [Akk.] verlassen : לסמוך על מישהו
+s Verlassen
+r Verlauf
 verlaufen : לרוץ
   - sich verlaufen : ללכת לאיבוד
 verletzen : לפצוע; לפגוע; לגרום נזק
@@ -8174,6 +8202,9 @@ vernachlässigbar [adj.] : זניח
 vernachlässigen : להזניח
 vernachlässigt [adj.] : מוזנח
 e Vernachlässigung : הזנחה
+verneinen
+verneinend
+e Verneinung
 vernichten [vt.] : להשמיד, לחסל, להרוס, להחריב
 e Vernichtung : השמדה
 veröffentlichen, veröffentlichte, veröffentlicht [vt.] : לפרסם
@@ -8213,12 +8244,16 @@ verschleiern : לטייח, להסתיר, לטאטא מתחת לשטיח; לכס�
 verschlimmern : להרע, להחמיר
 verschlüsseln : להצפין
 verschlingen : לזלול; לבלוע (כלומר, לאכול בבת אחת)
-verschlossen : סגור, חתום, נעול
+verschlossen [adj.] : סגור, חתום, נעול
   - hinter verschlossenen Türen : בחדרי חדרים
 verschmähen [vt.] : לבוז
 verschmutzt [adj.] : מלוכלך; מזוהם
 verschnaufen : להתאושש
   - verschnaufen lassen : לתת (למישהו) להתאושש, לאפשר (למישהו) להתאושש
+verschoben
+verschollen
+verschonen
+verschont
 verschwenden, verschwendete, hat verschwendet [vt.] : לבזבז
   - Zeit verschwenden : לבזבז זמן
 e Verschwendung : בזבוז
@@ -8303,12 +8338,22 @@ verwahren [vt.] : לאחסן
 verwahrlosen : להיכנס למצב גרוע
 verwahrlost [adv.] : מוזנח
 e Verwahrlosung : הזנחה
+verwalten [vt.]
+verwaltet
+e Verwaltung
+verwechseln
+verwechselt
+e Verwechslung
+e Verwechslungsgefahr
 verwehren : לאסור, למנוע
   - j-n den Zutritt verwehren : לאסור את כניסתו של מישהו
   - j-n verwehren, etwas zu tun : לאסור על מישהו לעשות משהו
 verwehrt [adj.] : מנוע
 verweigern, verweigerte, hat verweigert [vt.] : לסרב, לא להסכים, למנוע, לא להרשות, לאסור
 e Verweigerung : סירוב
+e Verweildauer
+r Verweis
+verweisen
 verwenden
 verwendet
 e Verwendung
@@ -8760,6 +8805,8 @@ r Zeitpunkt
 r Zeitraum
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 zerfressen [vt.] : לזלול (חיה)
+zerlegen
+s Zerlegen
 Zermürbend [adj.] : מתיש, מפרך
 zerrinnen, zerrann, nat zerronnen : להתפוגג, להיעלם
   - zwischen den Fingern zerrinnen : לברוח בין האצבעות
@@ -8770,7 +8817,13 @@ zersetzen, zersetzte, hat zersetzt [vt.] : לשבור; לערער, לחתור ת
   sich zersetzen : להתפרק, להתערער, להישבר, להיחלש
 e Zersplitterung : פיצול, פלגנות
 zerstören, zerstörte, hat zerstört [vt.] : להרוס
+e Zerstörung
+zerstreuen
+zerstreut
+e Zerstreuung
+zerstritten
 zerstückeln, zerstückelte, zerstückelt : לחתוך לחתיכות, לפרק לחתיכות
+s Zertifikat
 zeugungsfähig : שיש לו יכולת הולדה, בעל און
 e Ziege (pl. -n) : עז
 ziehen, zog, hat gezogen
