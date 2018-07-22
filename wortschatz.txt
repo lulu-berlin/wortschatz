@@ -13,17 +13,18 @@ s Aas : פגר, נבלה; נבלה (קללה)
 aasen, aaste, hat geaast 
   - mit + [Dat.] aasen : לבזבז משהו
 r Aasgeier : נשר (שאוכל פגרים); (לשון ציורית) אדם נצלני
-ab [adv.] : 
-  - von + [Dat.] ab : החל מ־(נקודת זמן)
+ab [adv.] 
   - Ab ins Bett mit dir! : קדימה למיטה!
   - ab und zu : מדי פעם
   - ab und an : מדי פעם
   - ab dafür : קדימה לדרך
-ab + [Dat.] [präp.] : מ־; החל מ־
+ab [präp.]
+  - ab + [Dat.] [präp.] : מ־; החל מ־
   - ab heute : החל מהיום
   - ab sofort : החל מעכשיו
   - ab jetzt : החל מעכשיו
   - ab diesem Zeitpunkt : החל מרגע זה
+  - von + [Dat.] ab : החל מ־(נקודת זמן)
 áb|ändern, änderte ab, hat abgeändert [vt.] : לשנות משהו במעט
 e Abänderung : שינוי מועט
 áb|arbeiten, arbeitete ab, hat abgearbeite [vt.] : לעבוד ולצמצם משהו, לטפל במשהו
@@ -675,6 +676,8 @@ sich ändern
 anderthalb [Zahlwort] : אחד וחצי
   - anderthalb Stunden : שעה וחצי
 e Änderung (pl. -en) : שינוי
+án|deuten [vt.] : לסמן; לרמוז
+sich án|deuten : להסתמן
 e Aneignung (pl. -en) : ניכוס
 aneinander : אחד על השני, אחד לשני, זה לצד זה
 aneinánder|geraten, geriet aneinander, ist aneinandergeraten : להיתקל ב־, לפגוש ב־
@@ -1739,7 +1742,7 @@ bedauernswert
 bedecken : לכסות
 bedenken, bedachte, hat bedacht [vt.] : לשקול
 s Bedenken (= pl.) : שיקול; דאגה
-bedeuten [vt.]
+bedeuten, bedeutete, hat bedeutet [vt.] : לציין, לשמש במובן מסוים, פירושו היה
 bedeutend [adj.]
 bedeutsam [adj.]
 e Bedeutung (pl. -en) : משמעות
@@ -3727,11 +3730,62 @@ desto
 deswegen
 s Detail (pl. -s) : פרט
 detaillieren, detaillierte, hat detailliert [vt.] : לפרט
-e Deutung : analysis, interpretation
-deuten : לפרש
+r Detektiv (pl. -s)
+e Detektei
+r Detektor
+e Detonation (pl. -en)
+detonieren
+deutbar [adj.]
+deuten, deutete, hat gedeutet [vt.] : לפרש
+  - auf +[Akk.] deuten : להצביע על, לסמן
+r Deuter
+deutlich [adj.]
+e Deutlichkeit
+s Deutsch : גרמנית
+deutsch [adj.] : גרמני
+r Deutsche : גרמני
+deutschfreundlich : גרמנופיל
+deutschsprachig [adj.] : מדבר גרמנית, דובר גרמנית
 Deutschland : גרמניה
+s Deutschlandlied
+s Deutschtum
+e Deutung : פירוש; ניתוח
+  - falsche Deutung : פירוש לא נכון
+  - andere Deutung : פירוש אחר
 e Devise : מוטו
-dezimieren [vt.] : להשמיד, להכחיד
+devot [adj.] : נכנע, כנוע
+r Dezember
+dezent [adj.]
+dezimal [adj.]
+r Dezimalbruch
+s Dezimalsystem
+r Dezimeter
+dezimieren, dezimierte, hat dezimiert [vt.] : להשמיד, להכחיד
+DFB [Abk. für Deutscher Fußball-Bund]
+DGB [Abk. für Deutscher Gewerkschaftsbund]
+Dia
+r Diabetes
+r Diabetiker
+diabolisch [adj.]
+e Diagnose (pl. -n)
+diagnostizieren
+diagonal [adj.]
+e Diagonale (pl. -n)
+r Diakon
+e Diakonisse
+e Diakonissin
+r Dialekt (pl. -e) : דיאלקט
+r Dialog (pl. -e) : דיאלוג
+r Diamant (gen. -en, pl, -en) : יהלום
+r Diamantschiff
+s Diapositiv
+e Diaspora
+e Diasporagemeinde
+e Diät : דיאטה
+diät
+Diätkost
+r Diätplan
+Diäten (pl.)
 dick [adj.] : עבה; שמן; גדול
 dies : זה
 s Diesseits : העולם הזה
@@ -3963,6 +4017,7 @@ eín|dämmern : להירדם, לשקוע בשינה
 eín|deichen
 eín|dringen : לחדור לתוך־
   - in + [Akk.] eindringen : לחדור לתוך־
+eindeutig [adj.] : חד־משמעי
 einen : לאחד
   - einend : מאחד
 einfach [adj.] : פשוט, קל
@@ -8657,6 +8712,8 @@ zwar [adv.] : אמנם
   - und zwar : ואכן
 zwei : שתיים; שני; שתי
 zweideutig [adj.] : דו־משמעי, משתמע לשתי פנים, שנוי במחלוקת, עמום, מעורפל
+zweideutig [adv.] : באופן עמום, באופן מעורפל, באופן שמשתמע לשתי פנים
+e Zweideutigkeit : אי־בהירות
 zweifach [adj.] : כפול
 r Zweifel (= pl.) : ספק
   - ohne Zweifel : ללא ספק
