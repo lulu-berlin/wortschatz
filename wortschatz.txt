@@ -7934,6 +7934,7 @@ unübersichtlich [adj.] : לא ברור; מבלבל; שלא ניתן לתפוש 
 unübertroffen [adj.] : שאין כמוהו; שאין לו אח ורע; שאין דומה לו; שעולה על כולם
 unvergleichlich [adj.] : שאין דומה לו; שאין כמוהו
 unverhofft : לא צפוי, מפתיע
+unverletzt [adj.] : שלא ניזוק; שלא נפגע
 unversöhnlich [adj.] : שלא ניתן לפייס אותו, שאינו סולח
 unverständlich [adj.] : בלתי מובן
 unordentlich : messy
@@ -8153,6 +8154,7 @@ verlassen : לנטוש; לעזוב
 verlaufen : לרוץ
   - sich verlaufen : ללכת לאיבוד
 verletzen : לפצוע; לפגוע; לגרום נזק
+verletzt [adj.] : פגוע; פצוע
 e Verletzung : הפרה; נזק; פגיעה; פציעה
 sich (in j-n) verlieben : להתאהב (במישהו)
 s Verlieben : התאהבות
@@ -8180,13 +8182,18 @@ verpeilt
 sich verpissen : להסתלק
   - verpiss dich! : תסתלק מפה!, עוף מפה!
 verprügeln [vt.] : להרביץ ל־; להכות
+verquer [adj.]
 r Verrat : בגידה
 verraten [adj.] : לבגוד; לחשוף; לגלות
 r Verräter (= pl.) : בוגד
 verrecken : למות, ללכת פייפן, להיגמר
+verringern
+verringert
+e Verringerung
 e Verrohung : הפיכה לאכזרי
 verrückt [adj.] : משוגע
   - nach + [Dat.] verrückt sein : להיות משוגע על
+r Vers
 versagen, versagte, hat versagt : להיכשל
 s Versagen : כשלון
 versauen [vt.] [ugs.] : לחרבן משהו
@@ -8200,6 +8207,7 @@ verschaffen : לספק
 sich verschanzen : להתבצר
 e Verschärfung : aggravation, worsening
 verschieben, verschob, hat verschoben [vt.] : לדחות למועד אחר; להזיז למקום אחר
+e Verschiebung
 verschieden [adj.] : שונה
 verschleiern : לטייח, להסתיר, לטאטא מתחת לשטיח; לכסות ברעלה/בצעיף
 verschlimmern : להרע, להחמיר
@@ -8271,11 +8279,26 @@ e Vertretung : ייצוג
 vertrauen : לסמוך, לתת אמון
 vertuschen [vt.] : לכסות על־; להסתיר
   - [Akk.] als [Akk.] vertuschen : להסתיר משהו כמשהו; לכסות על משהו על ידי הצגתו כמשהו
+verunfallen
+verunglückt
+verunmöglichen
+verunreinigen
+verunreinigt
+e Verunreinigung
+verunsichern
+verunsichert
+e Verunsicherung
+verunstalten
+veruntreuen
+e Veruntreuung
 verursachen, verursachte, hat verursacht [vt.] : לגרום ל־
   - verursacht werden : להיגרם
+r Verursacher
+verursacht
 verurteilen : לגנות; לגזור (מאסר)
 verurteilt [adj.] : נידון
   - zum Scheitern verurteilt sein : להיות נידון לכשלון
+e Verurteilung
 verwahren [vt.] : לאחסן
 verwahrlosen : להיכנס למצב גרוע
 verwahrlost [adv.] : מוזנח
@@ -8286,6 +8309,9 @@ verwehren : לאסור, למנוע
 verwehrt [adj.] : מנוע
 verweigern, verweigerte, hat verweigert [vt.] : לסרב, לא להסכים, למנוע, לא להרשות, לאסור
 e Verweigerung : סירוב
+verwenden
+verwendet
+e Verwendung
 verwerfen (verwirft), verwarf, hat verworfen [vt.] : לדחות, לבטל, לסרב ל־
   - einen Vorschlag / eine Idee verwerfen : לדחות הצעה
   - Änderungen verwerfen : לבטל שינויים
@@ -8296,6 +8322,12 @@ verwirrend [adj.] : מבלבל
 verwischen [vt.] : לטשטש; למרוח; להסתיר את עקבותיו
   - seine Spuren verwischen : להסתיר את עקבותיו
 verworfen [adj.] : דחוי
+verwunden
+verwundend
+verwunderlich
+verwundern
+verwundert
+e Verwunderung
 verzeihen : לסלוח
 verzweifeln, verzweifelte, ist verzweifelt [vi.]
   - an + [Dat.] verzweifeln : להתייאש מ־, להיות נואש מ־
