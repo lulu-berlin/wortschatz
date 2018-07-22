@@ -1737,10 +1737,12 @@ bedauern [vt.]
 s Bedauern
 bedauernswert
 bedecken : לכסות
-bedeuten
+bedenken, bedachte, hat bedacht [vt.] : לשקול
+s Bedenken (= pl.) : שיקול; דאגה
+bedeuten [vt.]
 bedeutend [adj.]
-bedautsam [adj.]
-e Bedeutung : משמעות
+bedeutsam [adj.]
+e Bedeutung (pl. -en) : משמעות
   - von Bedeutung sein : להיות חשוב, להיות בעל־חשיבות
 bedeutungslos [adj.]
 bedeutungsvoll [adj.]
@@ -3662,13 +3664,69 @@ e Demütigung : השפלה
 demutsvoll
 demzufolge
 den
+e Denkaufgabe
+denkbar
 denken, dachte, hat gedacht [vt.] : לחשוב
+r Denker
+r Denkfehler
+s Denkmal
+denkwürdig
+r Denkzettel
 denn [konj.] : כי
 denn [part.]
   - es sei denn, (dass) ... : אלא אם
+denn [adv.] [beim Komparativ statt 'als']
+  - denn je
+  - mehr denn je  
+dennoch [adv.] : בכל זאת
+r Denunziant
+e Denunziation
+denunzieren
+Deo [Abk. für Deodorant] : דיאודורנט
+s Deodorant (pl. Deodorante, Deodorants) : דיאודורנט
+e Depesche (pl. -n)
+e Deportation (pl. -en)
+s Depot (pl. -s)
 r Depp (pl. -en) : דביל, סתום
+e Depression (pl. -en)
+depressiv [adj.]
+deprimiert
+der
 derart [adv.] : בצורה כזאת; כל כך; במידה כזאת; כה
   - derart, dass [konj.] : כך ש־, במידה כזאת ש־
+derartig [adj.] : כזה
+derb [adj.] : מחוספס
+s Derby (pl. -s)
+dereinst
+dergestalt
+dergleichen [pron.] : כדומה
+  - und dergleichen : וכדומה
+derjenige, diejenige, dasjenige
+dermaßen [adv.] : במידה כזאת
+  - ... dermaßen ..., dass ...
+derselbe, dieselbe, dasselbe [pron.] : אותו
+des
+r Deserteur (pl. -e) : עריק
+desertieren : לערוק
+desgleichen [adv.] : בדומה, בדומה לכך
+deshalb [adv.] : לכן
+s Design (pl. -s) : עיצוב
+e Desinfektion (pl. -en)
+s Desinfektionsmittel
+desinfezieren
+r Despot (gen. -en, pl. -en)
+despotisch
+dessen [pron.]
+dessentwillen
+dessenungeachtet
+s Dessert (pl. -n) : קינוח
+r Dessertteller
+e Destillation (pl. -en)
+destillieren
+desto
+deswegen
+s Detail (pl. -s) : פרט
+detaillieren, detaillierte, hat detailliert [vt.] : לפרט
 e Deutung : analysis, interpretation
 deuten : לפרש
 Deutschland : גרמניה
@@ -4306,6 +4364,9 @@ e Expertin (pl. -nen) : מומחית
 e Fabrik : בית חרושת, מפעל
 r Fahnder (= pl.) : חוקר (משטרה)
 e Fahnderin (pl. -nen) : חוקרת (משטרה)
+e Fahne : דגל
+e Fahnenflucht : עריקה
+fahnenflüchtig [adj.] : עריק
 e Fähre (pl. -n) : מעבורת
 fahren (fährt), fuhr, ist gefahren [vi.] : לנהוג, לנסוע
   - mit dem Zug fahren : לקחת רכבת, לנסוע ברכבת
@@ -7752,9 +7813,12 @@ verdächtigen, verdächtigte, hat verdächtigt [vt.] : לחשוד ב־
 e Verdächtigung : חשד
 verdammen, verdammte, hat verdammt [vt.] : לדון; לדון לגיהנום
 verdammt [interj.] : לעזאזל
-verdenken : להאשים?
+verdenken : להאשים
+  - [Akk.] j-m verdenken : להאשים מישהו במשהו
+  - Wer kann es ihm verdenken?
 verdienen [vt.] : להרוויח; להיות ראוי ל־
-j-n vereidigen : להשביע (נשיא)
+vereidigen [vt.] : להשביע (נשיא)
+  - j-n vereidigen : להשביע (נשיא)
 verehren [vt.] : להעריץ; להוקיר
 verehrt [adj.] : נערץ; מוערך
 e Verehrung : הערצה; הוקרה
@@ -7771,6 +7835,9 @@ verfallend : נרקב
 verfassen : לחבר
 r Verfasser : מחבר
 e Verfasserin : מְחַבֶּרֶת
+e Verfassung : חוקה
+r Verfassungsschutz
+verfassungswidrig [adj.] : מנוגד לחוקה
 verfechten, verfocht, verfochten : להגן, לגונן
 r Verfechter, e Verfechterin : תומך, חסיד (של רעיון)
 verfehlen : להחמיץ
