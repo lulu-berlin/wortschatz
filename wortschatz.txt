@@ -740,6 +740,8 @@ r Angestellte : שכיר
 e Angestellte : שכירה
 angewiesen [adj.] : תלוי
   - auf + Akk. angewiesen sein : להיות תלוי ב־
+angezogen [adj.] : נמשך
+  - von + [Dat.] angezogen sein : להימשך ל־
 án|greifen, griff an, angegriffen [vt.] : לתקוף, להתקיף
 r Angreifer (= pl.) : תוקף
 r Angriff (pl. -e) : מתקפה
@@ -4943,6 +4945,9 @@ hinaús|wollen
 hineín|fühlen, fühlte hinein, hat hineingefühlt [vt.] : להבין (מישהו); להזדהות עם
 hín|geben, gab hin, hingegeben : להעניק; להקריב
   - sein Leben hingeben : להקריב את חייו
+hingezogen [adj.] : נמשך ל־
+  - zu + [Dat.] hingezogen werden : להימשך ל־
+  - sich zu + [Dat.] hingezogen fühlen : להרגיש משיכה ל־
 hín|kriegen [vt.] [ugs.] : להצליח, להשיג, לסדר
 hín|nehmen, nahm hin, hingenommen [vt.] : לקבל, להסכים ל
 j-n hín|richten : להוציא להורג
@@ -4971,6 +4976,9 @@ sich hinwég|setzen : לזלזל, לבוז
   - sich über + [Akk.] hinwegsetzen : להתעלם מ(הכללים, המוסכמות)
 hinwég|täuschen
   - j-n über etw. hinwegtäuschen : להזים, לכסות על, להוליך שולל
+hín|ziehen, zog hin, hat hingezogen [vt.] : להאריך
+  - zu + [Dat.] hingezogen werden : להימשך ל־
+sich hín|ziehen, zog sich hin, hat sich hingezogen
 hinzu [adv.] : בנוסף
   - hinzu kommt : בנוסף לכך...
 hinzú|fügen, fügte hinzu, hinzugefügt [vt.] : להוסיף
@@ -5614,6 +5622,8 @@ lügen : לשקר
 r Lügner (= pl.) : שקרן
 e Lügnerin (pl. -nen) : שקרניתe
 lukrativ [adj.] : רווחי, משתלם, מכניס
+r Lumpen (= pl.)
+lumpig [adj.] : מרופט
 lustig [adj.] : מצחיק
   - sich über j-n lustig machen : לצחוק על מישהו
 lutschen [vt.] : למצוץ
@@ -5635,6 +5645,7 @@ makellos [adj.] : ללא פגם, מושלם
 s Mal (pl. -e) : פעם
   - zum Ersten Mal : בפעם הראשונה
   - dieses Mal : הפעם; בהזדמנות הזאת
+  - ein anderes Mal [adv.]m : בפעם אחרת
 mal [adv.] : פעמים; לפעמים
   - schon mal : כבר; אי פעם
   - mal wieder : שוב פעם
@@ -7496,8 +7507,8 @@ r Verdacht (pl. -e, Verdächte) : חשד
 r Verdachtsfall
 s Verdachtsmoment
 verdächtig [adj.] : חשוד
-verdächtigen [vt.] : לחשוד ב־
-e Verdächtigung
+verdächtigen, verdächtigte, hat verdächtigt [vt.] : לחשוד ב־
+e Verdächtigung : חשד
 verdammen, verdammte, hat verdammt [vt.] : לדון; לדון לגיהנום
 verdammt [interj.] : לעזאזל
 verdenken : להאשים?
@@ -7748,6 +7759,17 @@ verwischen [vt.] : לטשטש; למרוח; להסתיר את עקבותיו
   - seine Spuren verwischen : להסתיר את עקבותיו
 verworfen [adj.] : דחוי
 verzeihen : לסלוח
+verzweifeln, verzweifelte, ist verzweifelt [vi.]
+  - an + [Dat.] verzweifeln : להתייאש מ־, להיות נואש מ־
+  - nur nicht verzweifeln! : רק לא להתייאש!
+s Verzweifeln
+  - zum Verzweifeln
+verzweifelt [adj.] : נואש
+  - verzweifelt sein : להיות נואש
+  - in einer verzweifelten Lage sein : להיות במצב נואש
+verzweifelt [adv.] : באופן נואש
+  - verzweifelt nach + [Dat.] fassen
+e Verzweiflung : יאוש
 s Vieh : בקר
 viel [adj.] : רב(ים)
 viel [adv.] : הרבה
