@@ -3389,6 +3389,7 @@ CVJM
 = D =
 s D
 da [adv.] : בנמצא; שם; כאן
+  - da bleiben : להישאר שם
 da [konj.] : משום ש־, שכן, כי
 dabehalten
 dabei [adv.] : בכך; תוך כדי כך
@@ -3398,26 +3399,119 @@ dabeí|bleiben, blieb dabei, ist dabeigeblieben [vi.] : להישאר עם־, ל�
   - bei + [Dat.] : להישאר עם, להתמיד ב
   - ich bleibe dabei. : אני מתמיד בכך
 dabeí|haben (hat dabei), hatte dabei, hat dabeigehabt : לשאת עמו; לקחת איתו
+dá|bleiben, blieb da, ist dageblieben [vi.] : להישאר; להישאר בסביבה
 s Dach (pl. Dächer) : גג
+  - ein Dach über dem Kopf haben
+  - etwas unter Dach und Fach bringen
+  - j-m aufs Dach steigen
+r Dachdecker
+r Dachfirst
+r Dachs (pl. -e) : גירית
+r Dachsbau
+r Dachshund : כלב תחש, דָּקֶל
+r Dackel (pl. -e) : כלב תחש, דָּקֶל
+dadurch
+dafür
+dagegen
+daheim [adv.]
+  - daheim bleiben
+  - daheim sein
+s Daheim
+daher
+dahin
+dahinab
+dahinauf
+dahinaus
+dahinein
+dahingegen
+dahinten
+dahinter
+dahínter|kommen, kam dahinter, ist dahintergekomen [ugs.] : לגלות (משהו שהוסתר, סוד)
+  - dahinterkommen, dass ... : לגלות ש־
+dahínter|stehen, stand dahinter, dahintergestanden : לעמוד מאחורי זה (להיות אחראי, לתמוך)
+e Dahlie (pl. -n) : דָּלִיָּה
+dá|liegen, lag da, hat dagelegen : לשכב בלי תנועה
 dagégen|halten (hält dagegen), hielt dagegen, hat dagegengehalten : לטעון כנגד
 daheim [adv.] : בבית
   - daheim bleiben : להישאר בבית
   - weg von daheim : הרחק מן הבית
 s Daheim : הבית
-e Dame : גברת
+damals [adv.] : אז; אי אז; בזמנו; בזמן ההוא
+  - seit damals
+damasten
+r Damast (pl. -e)
+e Dame (pl. -n) : גברת
+damenhaft [adj.]
+s Damespiel
+r Damhirsch (pl. -e)
+damit
+r Dämlack
 dämlich [adj.] : טיפש
+e Dämlichkeit
+r Damm (pl. Dämme)
+r Dammbruch
+dämmern
+e Dämmerung (pl. -en)
+dämmerig
+r Dämmstoff
+r Dämon (pl. -en)
+dämonisch [adj.]
+r Dampf (pl. Dämpfe)
+dampfen
+dämpfen
+r Dämpfer
+  - j-m einen Dämpfer aufsetzen
+e Dampfmaschine
+e Dampfwalze
+s Damwild
+danach
 r Däne (pl. -n) : דֶּנִי
+daneben
 s Dänemark : דנמרק
 Dänin (pl. -nen) : דֶּנִית
+r Dank : תודה
+dank [präp.] : הודות ל־
+  - dank + [Gen.] [präp.] : הודות ל־
+  - dank + [Dat.] [präp.] : הודות ל־
+dankbar [adj.] : אסיר תודה
+  - dankbar sein : להיות אסיר תודה
+e Dankbarkeit : הכרת תודה
 danken : להודות
   - [Dat.] danken : להודות ל־
+dankenswert [adj.]
+s Dankgebet : הודיה
+s Dankschreiben : מכתב תודה
+dann [adv.] : אז
+  - dann und wann : מדי פעם
+daran
+darauf
+daraus
+darein
+darin
+darben
+dár|bieten, bot dar, hat dargeboten [vt.] : להציג; להופיע
+e Darbietung : הופעה
+s Darlehen : הלוואה
+r Darm (pl. Därme) : מעי
 dár|stellen, stellte dar, hat dargestellt [vt.] : להוות; לייצג; להציג; לתאר (בקווים כלליים); לשרטט; לחקות; להציב
   - Problem darstellen : להוות בעיה
   - ein Gefahr darstellen : להוות סיכון
   - bildlich darstellen : לאייר
   - stark vereinfacht darstellen : להציג באופן מפושט
   - zeichnerisch darstellen : לתאר, לצייר
+e Darstellung
+darüber
+darum
+darunter
+das
+  - das heißt
+dá|sein
 s Dasein : הקיום; החיים; הקיום האנושי
+daseinberechtigt
+r Daseinkampf : מלחמת קיום
+dass
+  - so dass
+dasselbe : אותו, אותו אחד
 e Datei (pl. -en) : קובץ (במחשב)
 Daten (pl.) : מידע, נתונים
 dauerhaft : ארוך־טווח, קבוע, מתמשך
@@ -3678,7 +3772,7 @@ eín|brocken [vt.]
 sich eín|brocken
   - sich[Dat.] [Akk.] selber einbrocken : להסתבך במשהו, לסבך את עצמו במשהו
 r Einbruch (pl. -e) : התפרצות; פריצה
-eín|dämmen + Akk. : לעצור, לשים סוף ל־, לחסום
+eín|dämmen [vt.] : לעצור, לשים סוף ל־, לחסום
 eín|dämmern : להירדם, לשקוע בשינה
 eín|dringen : לחדור לתוך־
   - in + [Akk.] eindringen : לחדור לתוך־
@@ -4087,6 +4181,7 @@ e Fähre (pl. -n) : מעבורת
 fahren (fährt), fuhr, ist gefahren [vi.] : לנהוג, לנסוע
   - mit dem Zug fahren : לקחת רכבת, לנסוע ברכבת
 fahren (fährt), fuhr, hat gefahren [vt.] : להסיע, להרכיב
+r Fahrdamm
 e Fahrkarte (pl. -n) : כרטיס נסיעה
 r Fahrkartenschalter : קופה (משרד לקניית כרטיסי נסיעה)
 s Fahrrad (pl. Fahrräder) : אופניים
@@ -4430,6 +4525,7 @@ r Geburtshelfer, e Geburtshelferin : מיילד/ת
 e Gebühr (pl. -en) : שכר, עלות, אגרה, עמלה
 r Gedanke (pl. -n) : מחשבה; רעיון
 s Gedankenspiel (pl. -e) : משחק מחשבתי
+s Gedärm
 gedrillt
   - hart gedrillt
 e Geduld : סבלנות
@@ -6488,6 +6584,8 @@ r Schaden (pl. Schäden) : נזק, פגיעה
 s Schaf : כבשה
 schaffen, schuf, hat geschaffen [vt.] : ליצור; לברוא
 schaffen, schaffte, hat geschafft [vt.] : להשלים; להצליח לעשות; לעבוד
+r Schall (pl. Schalle, Schälle)
+r Schalldämpfer
 schalten : להתחלף; להחליף ל־
 r Schalter (= pl.) : מתג; כפתור; דלפק
 s Schampon : שמפו
@@ -6933,6 +7031,8 @@ starten : להתחיל
 r Startschuss : יריית הפתיחה
 statuieren : להציב
   - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
+r Stau (pl. Staue, Staus) : פקק תנועה, פקק
+r Staudamm
 staunen, staunte, hat gestaunt : להשתאות; להיות נדהם
   - über + [Akk.] staunen : להשתאות על
 s Staunen : פליאה; השתאות
@@ -7238,10 +7338,12 @@ e Übelkeit : בחילה
 überall [adv.] : בכל מקום
 überallhin : לכל כיוון, לכל מקום
 überbevölkert [adj.]
+überdachen
 e Übereinkunft : agreement, accord
 übereinstimmen : להתאים
 r Überfall : פשיטה, התקפה, שוד
 überfallen [vt.] : לתקוף, להתקיף
+überfällig [adj.]
 e Überflutung : הצפה
 e Übergabe (pl. -n) : מסירה; העברה; הסגרה	
 r Übergang (pl. Übergänge) : מעבר
