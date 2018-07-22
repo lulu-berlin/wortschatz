@@ -3588,17 +3588,80 @@ dehnen [vt.] : למתוח
 sich dehnen : להתמתח; להימתח
 e Dehnung
 r Deich (pl. -e) : דייק, סוללה
+r Deichbruch
+deichseln [vt.] [ugs.] : להשיג משהו במרמה או בתחבולה
+e Deichsel (pl. -n) : מוט גרירה
+dein
+deinerseits [adv.] : מצידך; מבחינתך
+deinesgleichen
+deinethalben
+deinetwegen
+deinetwillen
+deinig
+dekadent [adj.] : דקדנטי
 r Dekan : דיקן
+e Deklamation (pl. -en)
+daklamieren : לדקלם
+  - ein Gedicht deklamieren : לדקלם שיר
+e Deklaration (pl. -en)
+deklarieren
+deklassieren
+e Deklassierung
+e Deklination
+deklinieren
 e Deko : קישוט
 r Dekor
 s Dekor
+r Dekorateur
 e Dekoration : קישוט
 dekorieren : לקשט
+e Dekorierung
 s Dekret : צו
-dementieren : to disclaim, to repudiate, to deny s.th.
+e Delegation (pl. -en)
+delegieren
+delikat [adj.]
+e Delikatesse
+s Delikatessengeschäft
+s Delikatessgeschäft
+s Delikt (pl. -e)
+r Delinkquent
+e Delle (pl. -n)
+r Delphin (pl. -e)
+s Delta (pl. -s)
+dem
+r Demagoge
+demagogisch [adj.]
+s Dementi (pl. -s)
+dementieren [vt.] : להכחיש
+  - [Akk.] mit aller Entschiedenheit dementieren : להכחיש בכל תוקף
+  - weder bestätigen noch dementieren : לא לאשר ולא להכחיש
 demgegenüber [adv.] : מנגד; כנגד זה
 demnach : לכן, עקב כך, אפוא
+demnächst [adv.] : בקרוב; בעתיד הקרוב; בכל רגע
+  - demnächst stattfindend [adj.]
+r Demokrat
+e Demokratie (pl. -n) : דמוקרטיה
+demokratisch [adj.]
+demolieren
+e Demolierung
+e Demonstration
+demonstrativ
+s Demonstrativpronomen
+demonstrieren
+e Demontage(pl. -n)
+demontieren
+e Demoskopie
+demoskopisch [adj.]
 demotivieren : לרפות את ידיו של מישהו, לפגוע במוטיבציה
+e Demut
+demütig
+r Demütige
+demütigen, demütigte, hat gedemütigt [vt.] : להביא לידי צניעות וענווה; להשפיל, להכניע
+e Demütigung : השפלה
+  - öffentliche Demütigung : השפלה פומבית
+demutsvoll
+demzufolge
+den
 denken, dachte, hat gedacht [vt.] : לחשוב
 denn [konj.] : כי
 denn [part.]
@@ -3839,6 +3902,7 @@ sich eín|brocken
 r Einbruch (pl. -e) : התפרצות; פריצה
 eín|dämmen [vt.] : לעצור, לשים סוף ל־, לחסום
 eín|dämmern : להירדם, לשקוע בשינה
+eín|deichen
 eín|dringen : לחדור לתוך־
   - in + [Akk.] eindringen : לחדור לתוך־
 einen : לאחד
@@ -7099,6 +7163,11 @@ starr [adj.] : קשיח, נוקשה, קשה
 starren, starrte, hat gestarrt [vt.] : לבהות
 starten : להתחיל
 r Startschuss : יריית הפתיחה
+e Statt : מקום
+statt [präp.]
+  - an seiner stattst
+státt|finden, fand statt, hat stattgefunden : להתקיים; להתרחש; לקרות
+stattfindend
 statuieren : להציב
   - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
 r Stau (pl. Staue, Staus) : פקק תנועה, פקק
