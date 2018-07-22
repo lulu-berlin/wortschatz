@@ -636,8 +636,12 @@ an [präp.] : על; ליד; אל
   - an + [Akk.] [präp.]
   - an die Wand stellen 
   - von + [Dat.] an [präp.] : החל מ־
+anal [adj.]
+r Analbereich
+analfixiert [adj.]
 analog [adj.] : אנלוגי
 e Analogie (pl. -n) : אנלוגיה
+e Analregion
 e Analyse (pl. -n) : ניתוח, אנליזה
 e Ananas (pl. -se) : אננס
 e Anarchie (pl. -n) : אנרכיה
@@ -2195,6 +2199,8 @@ berühren [vt.] : להשפיע (רגשית); לגעת ב־
 sich berühren : לגעת זה בזה
 e Berührung
 r Berührungspunkt
+besamen : להזריע
+e Besamung : הזרעה
 r Besatzer : כובש, כוח כובש
 beschaffen, beschaffte, hat beschafft [vt.] : להשיג, לרכוש
 sich beschaffen, beschaffte sich, hat sich beschafft : להשיג לעצמו
@@ -2359,7 +2365,7 @@ r Betracht
 betrachten
 Betrachter
 e Betrachtung
-r Betrag (pl. Beträge)
+r Betrag (pl. Beträge) : סכום
 betragen
 s Betragen
 betrachten, betrachtete, hat betrachtet [vt.] : לשקול
@@ -2779,6 +2785,7 @@ blóß|stellen, stellte bloß, hat bloßgestellt [vt.] : לחשוף
   - bloßgestellt werden : להיות נבוך
 sich blóß|stellen, stellte sich bloß, hat sich bloßgestellt [vt.] : להיחשף
 e Bloßstellung
+r Blowjob
 e Bluejeans
 r Blues
 r Bluff (pl. -s)
@@ -3389,6 +3396,7 @@ r Cowboy
 e Creme
 ČSSR
 CSU
+r Cunnilingus : גירוי אוראלי של אבר המין הנשי
 r Cup
 r Cutter ['katər]
 CVJM
@@ -4664,6 +4672,8 @@ fést|ziehen [vt.] : להדק
 s Feuer : אש
 r Feueralarm : גלאי אש
 r Feuerlöscher : מטף
+ficken [vt.] [ugs.] : לזיין
+fickrig [adj.] : חרמן
 e Figur (pl. -en) : גזרה, פיגורה; דמות; פסלון
 r Film (pl. -e) : סרט
   - einen Film drehen : לצלם סרט
@@ -5647,6 +5657,12 @@ Kanake (gen. -n, pl. -n) : כינוי גנאי למישהו מהמזרח התי�
 kannibalisch [adj.] : קניבאלי
 kannibalisch [adv.] : באופן קניבאלי
 e Kante (pl. -n) : קצה
+kaputt [adj.] [ugs.] : שבור; מקולקל
+  - kaputt sein : להיות מקולקל
+  - kaputt gegangen [adj.]
+  - kaputt gemacht [adj.]
+kapútt|gehen, ging kaputt, ist kaputtgegangen : להיהרס; להישבר; להתקלקל; ללכת קאפוט
+kapútt|machen, machte kaputt, hat kaputtgemacht [vt.] : לשבור; להחריב
 Karfreitag : יום שישי הטוב
 karg [adj.] : דליל
 e Karotte (pl. -n) : גזר
@@ -6165,6 +6181,9 @@ massierend
 e Mäßigung : מתינות, איפוק
 maßlos : מוגזם, ללא מידה
 e Maßnahme (pl. -n) : צעד, פעולה; התערבות
+e Masturbation
+masturbieren
+s Masturbieren
 matt [adj.] : מט; קהה, עמום, קלוש, חלוש; רך
 e Mauer : חומה
 s Mauerfall : נפילת חומת ברלין
@@ -6466,8 +6485,17 @@ r Ohrendruck : לחץ באוזניים
 e Ohrfeige (pl. -n) : סטירת לחי
 e Ölsardine (pl. -n) : סרדינים בשמן
   - wie die Ölsardinen : כמו סרדינים (על צפיפות)
+e Onanie : אוננות, אונניזם
+onanieren : לאונן
+onanierend
 r Onkel (= pl.) : דוד
 s Opfer (= pl.) : קורבן
+oral [adj.]
+r Oralchirurg
+e Oralchirurgie
+e Oralchirurgin
+r Oralsex
+  - Oralsex machen
 orange [adj.] : כתום
 s Orchester : תזמורת
 r Orden (= pl.) : מסדר; מדליה
@@ -6722,6 +6750,7 @@ ran (adv.)
 rán- [ugs. ~= heran-]
 r Rang (pl. Ränge) : דרגה, מעמד
   - gesellschaftlicher Rang : מעמד חברתי
+rán|lassen, ließ ran, hat rangelassen [vt.] : לתת למישהו להתקרב
 sich rán|machen, machte sich ran, hat sich rangemacht : להתחיל עם־
   - sich an j-n ranmachen : להתחיל עם מישהו 
 rán|nehmen, nahm ran, hat rangenommen : to push, to hit, to abuse, to pick on s.o.
@@ -6901,6 +6930,7 @@ r Rülps : גיהוק
 rülpsen : לגהק
 s Rülpsen : גיהוק
 r Rum (pl. Rums, Rume) : רום
+rúm|machen [ugs.] : לזיין
 runter|schlucken, schluckte runter, hat runtergeschluckt [vt.] : לבלוע; לשתות בלגימה אחת
 r Ruß (pl. -e) : זוהמה, טינפות, לכלוך
 Russland : רוסיה
@@ -7134,6 +7164,8 @@ schrittweise [adj.] : רציף, עוקב; בשלבים
   - schrittweise Erweiterung : הרחבה מדורגת
   - schrittweise Umstellung : מעבר הדרגתי
 schrittweise [adv.] : בהדרגה, לאט לאט, צעד אחרי צעד
+r Schrott : פיסה; פסולת; גרוטאה; זבל
+  - [Akk.] zu Schrott fahren : להרוס משהו; להפוך משהו לגרוטאה
 r Schlagabtausch (um + Akk.) : חילופי מהלומות; חילופי דברים קשים
 r Schöngeist : אסתטיקן, בעל טעם, אנין
 e Schubkarre (pl. -n) : מריצה
@@ -7522,6 +7554,7 @@ r Süden : דרום
 r Südpol : הקוטב הדרומי
   - am Südpol : בקוטב הדרומי
 e Sühne : כפרה
+e Summe : סכום
 e Sünde (pl. -n) : חטא
 r Sündenbock
 r Sünder : חוטא
@@ -7623,6 +7656,9 @@ r Todesfall : מקרה מוות
 s Todeslager (= pl.) : מחנה מוות
 e Todesstrafe : עונש מוות
 tot [adj.] : מֵת
+s Total : סך הכול
+total [adj.] : לגמרי
+r Totalverlust : טוטאל־לוס
 r Totschlag : רצח
 e Toilette : בית שימוש
   - auf Toilette gehen : ללכת לבית שימוש
@@ -7722,6 +7758,7 @@ e Übelkeit : בחילה
 überall [adv.] : בכל מקום
 überallhin : לכל כיוון, לכל מקום
 überbevölkert [adj.]
+r Überblick (pl. -e) : סקירה כללית
 überdachen
 e Übereinkunft : agreement, accord
 übereinstimmen : להתאים
@@ -7743,6 +7780,8 @@ e Überlegenheit : עליונות, שליטה
 überschwemmen, überschwemmte, hat überschwemmt [vt.] : להציף
 überschwemmt [adj.] : מוצף
 e Überschwemmung : הצפה
+e Übersicht (pl. -en) : סקירה כללית; מבט כללי; סינופסיס
+übersichtlich [adj.] : ברור
 überstehen, überstand, hat überstanden [vt.] : לשרוד; לשאת; להחזיק מעמד
 übertragen, übertrug, hat übertragen [vt.] : להעביר, למסור, לשדר
 übertragen [adj.] : שנמסר
@@ -7889,6 +7928,9 @@ Unterzeichnerstaat (pl. -en) : המדינה החתומה
 e Unterzeichnung : חתימה
 untröstlich [adj.] : שלא ניתן לנחם אותו; שבור לב
 unüberhörbar : שלא ניתן לטעות בו
+unüberschaubar [adj.]
+unübersehbar [adj.] : ברור כשמש; שאין להחמיצו; שלא ניתן לטעות בו
+unübersichtlich [adj.] : לא ברור; מבלבל; שלא ניתן לתפוש אותו בכללותו
 unübertroffen [adj.] : שאין כמוהו; שאין לו אח ורע; שאין דומה לו; שעולה על כולם
 unvergleichlich [adj.] : שאין דומה לו; שאין כמוהו
 unverhofft : לא צפוי, מפתיע
@@ -8115,6 +8157,7 @@ e Verletzung : הפרה; נזק; פגיעה; פציעה
 sich (in j-n) verlieben : להתאהב (במישהו)
 s Verlieben : התאהבות
 verlieren, verlor, hat verloren [vt.] : להפסיד
+vermasseln [vt.] [ugs.] : לחרבן משהו
 vermeiden : להימנע מ־
 vermissen : להתגעגע ל־/אל־
   - [Akk.] an j-m vermissen : למצוא מגרעה אצל מישהו
@@ -8146,6 +8189,7 @@ verrückt [adj.] : משוגע
   - nach + [Dat.] verrückt sein : להיות משוגע על
 versagen, versagte, hat versagt : להיכשל
 s Versagen : כשלון
+versauen [vt.] [ugs.] : לחרבן משהו
 versammeln : לכנס; לאסף
 versammelt [adj.] : מכונס; שהתאסף
 versäumen [vt.] : להחמיץ, להחטיא, להזניח, להשמיט
@@ -8802,6 +8846,7 @@ zusammen [adv.] : ביחד; יחדיו
   - zusammen mit + [Dat.] [präp.] : יחד עם
 zusámmen|brechen : להתמוטט
 zusámmen|fallen (fällt zusammen), fiel zusammen, ist zusammengefallen [vi.] : לחפוף; לעלות בקנה אחד; ליפול יחד
+e Zusammenfassung : סיכום
 zusámmen|fügen, fügte zusammen, zusammengefügt : לחבר, לצרף
 zusammengefügt [adj.] : מחובר
 r Zusammenhalt : לכידות
