@@ -1305,6 +1305,7 @@ e Ausdauer
 ausdauernd [adj.]
 aús|dehnen [vt.] : להרחיב
   - sich ausdehnen : להתרחב
+e Ausdehnung
 r Ausdruck
 aús|drücken, drückte aus, hat ausgedrückt [vt.] : לבטא, להביע
 ausdrücklich [adj.]
@@ -3514,14 +3515,78 @@ dass
 dasselbe : אותו, אותו אחד
 e Datei (pl. -en) : קובץ (במחשב)
 Daten (pl.) : מידע, נתונים
+datieren
+r Dativ (pl. -e) : דאטיב, יחסת מושא עקיף
+e Dattel (pl. -n) : תמר
+e Dattelpalme : דקל
+s Datum (pl. Daten)
+e Dauer
 dauerhaft : ארוך־טווח, קבוע, מתמשך
+r Dauerlauf
 dauern, dauerte, hat gedauert : להימשך (זמן)
+  - es dauert lange
+dauernd [adj.]
+dauernd [adv.]
 r Dauerregen : גשם מתמשך
+e Dauerwelle
+r Daumen (= pl.) : אגודל
+  - (j-m) die Daumen drücken : להחזיק (למישהו) אצבעות
+  - j-m den Daumen halten : להחזיק למישהו אצבעות
+  - [Akk.] über den Daumen peilen
+r Daumenabdruck
+daumenbreit : כמידת אגודל
+daumendick : בעובי של אגודל
+e Daumenschraube
+r Däumling
+e Daune (pl. -n)
+s Daunenbett
+daunenweich
+davon
+  - etwas davon haben wollen
+  - nichts davon haben wollen
+davón|bleiben, blieb davon, ist davongeblieben
+davón|kommen, kam davon, ist davongekommen
 davón|laufen : לברוח מ־
-e Debatte : ויכוח, דיון; עימות
+s Davonlaufen : בריחה
+sich davón|machen, machte sich davon, hat sich davongemacht
+davón|tragen, trug davon, hat davongetragen
+davor
+dazu
+dazú|gehören, gehörte dazu, hat dazugehört : להיות שייך לזה
+  - zu + [Dat.] dazugehören : להיות שייך ל־, להשתייך ל־
+  - automatisch dazugehören
+dazugehörig [adj.] : קשור, נלווה
+dazú|kommen, kam dazu, ist dazugekommen
+dazwischen
+dazwischen|kommen
+dazwischen|reden
+DB [kurz für Deutsche Bundesbahn]
+DBP [kurz für Deutsche Bundespost]
+DDR [kurz für Deutsche Demokratische Republik]
+e Debatte (pl. -n) : ויכוח, דיון; עימות
+s Deck (pl. -s)
 e Decke (= pl.) : תקרה; שמיכה
-e Deckung : coverage, backing
+r Deckel : מכסה
+e Deckung : כיסוי
+r Defekt (pl. -e)
+defekt
+  - defekt sein : להיות פגום
+defensiv [adj.]
+e Defensive (pl. -n)
+definieren
+e Definition
+definitiv
+s Defizit (pl. -e)
+r Defroster
+deftig [adj.] : ממלא (אוכל)
 r Degen : פגיון
+e Degeneration (pl. -en)
+degenerieren
+dehnbar [adj.] : גמיש; אלסטי
+  - ein dehnbarer Begriff
+dehnen [vt.] : למתוח
+sich dehnen : להתמתח; להימתח
+e Dehnung
 r Deich (pl. -e) : דייק, סוללה
 r Dekan : דיקן
 e Deko : קישוט
@@ -5780,9 +5845,13 @@ r Marmorkuchen : עוגת שיש
 e Marotte (pl. -n) : whim
 r Märtyrer : קדוש מעונה
 e Märtyrerin : קדושה מעונה
-e Massage
-Masseur
-massieren
+e Maschine (pl. -n) : מכונה
+r Maschinenbau : הנדסת מכונות
+r Maschinendefekt : פגם במכונה
+e Massage : מסז'
+r Masseur : מסז'יסט
+e Masseurin : מסז'יסטית
+massieren : לעסות; לעשות מסז'
 massierend
 e Mäßigung : מתינות, איפוק
 maßlos : מוגזם, ללא מידה
@@ -6140,6 +6209,7 @@ pauschal [adv.] : באופן גורף
   - [Akk.] pauschal abtun : לבטל משהו במחי יד
   - So pauschal kann man das nicht sagen. : אי אפשר לומר את זה בצורה כל כך גורפת.
 e Pause (pl. -n) : הפסקה
+peilen
 r Penis (pl. Penes, Penisse) : פין
 e Pest : מגיפה
 e Pfalz : רוֹזנוּת
@@ -7742,6 +7812,8 @@ e Vernachlässigung : הזנחה
 vernichten [vt.] : להשמיד, לחסל, להרוס, להחריב
 e Vernichtung : השמדה
 veröffentlichen, veröffentlichte, veröffentlicht [vt.] : לפרסם
+verpeilt
+  - verpeilt sein [ugs.] : להיות לא מרוכז; להיות מבולבל; להיות לא מאורגן
 sich verpissen : להסתלק
   - verpiss dich! : תסתלק מפה!, עוף מפה!
 verprügeln [vt.] : להרביץ ל־; להכות
