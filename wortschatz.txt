@@ -3881,15 +3881,52 @@ dinglich [adj.]
 r/e/s Dingsda
 s Dingwort
 s Diolen
+e Diözese
+e Diphtherie
+r Diphthong (pl. -e) : דיפתונג
+s Diplom (pl. -e)
+e Diplomarbeit
+r Diplomat (gen. -en, pl. -en)
+dir
 direkt [adj.]
 direkt [adv.]
+r Direktflug
+e Direktion
+e Direktsendung
+r Direktor (pl. -en)
+s Direktorium
+e Direktübertragung
 r Dirigent (gen. -en, pl. -en) : מנצח (של תזמורת)
 e Dirigentin : מנצחת (של תזמורת)
 dirigieren : לנצח (על תזמורת)
+s Dirndl
+s Dirndlkleid
+e Dirne (pl. -n)
+r Discjockey
+r Discountladen
+Diskette (pl. -n)
+r Diskjockey
+e Diskothek (pl. -en)
+diskret
+e Diskretion
+r Diskus
+r Diskuswerfer
 e Diskussion : דיון
 Diskussions- [K]
 r Diskussionsteilnemher (= pl.) : משתתף בדיון
 e Diskussionsteilnemherin (pl. -nen) : משתתפת בדיון
+diskutabel
+diskutieren
+e Disonanz
+disponieren
+e Disposition
+e Disqualifikation
+disqualifizieren
+e Distanz
+distanzieren
+e Distel (pl. -n)
+e Diva
+divers [adj.]
 s Dokument (pl. -e) : מסמך
 s Dorf (pl. Dörfer) : כפר
 e Dose : פחית; קופסה
