@@ -1410,6 +1410,7 @@ aús|rollen
 aús|rufen : להכריז (על משהו כמשהו); לקרוא לבעל מקצוע לבוא
 s Ausrufen : הכרזה, קריאה
 aús|ruhen : לנוח
+e Aussage
 r Aussatz
 aussätzig
 aús|schalten [vt.] : לכבות (מתג, מפסק, מכשיר, אור, מוסיקה); לחסל, למנוע
@@ -1443,7 +1444,7 @@ außerdem [adv.] : חוץ מזה, גם, בנוסף לזה
 s Äußere
 außergewöhnlich [adj.]
 außerhalb
-äußern [vt.] : לבטא, להביע, להגיד
+äußern, äußerte, hat geäußert [vt.] : לבטא, להביע, להגיד
 sich äußern : להתבטא
 äußerst [adv.]
 e Äußerung (pl. -en) : התבטאות
@@ -2816,6 +2817,7 @@ blutig [adj.]
 blutjung [adj.]
 blutleer [adj.]
 e Blutrache
+e Blutrinne (pl. -n)
 blutrünstig [adj.]
 r Blutsauger
 e Blutschande
@@ -4178,6 +4180,7 @@ eín|gravieren, gravierte ein, hat eingraviert [vt.] : לחקוק
 eingraviert [adj.] : חרוט; חקוק
 eín|greifen, griff ein, hat eingegriffen [vt.] : להתערב ב־
 s Eingreifen : התערבות (במשהו)
+eín|grenzen
 r Einhalt : סוף
   - [Dat.] Einhalt gebieten : לרסן; לשים למשהו סוף
 eín|hauen (vt.) : לרסק
@@ -4312,6 +4315,7 @@ entrinnen, entrann, ist entronnen : לחמוק
 s Entrinnen : בריחה; התחמקות
 entschärfen [vt.] : לנטרל; להשבית; לפרק מנשקו; לרכך
 entscheiden, entschied, hat entschieden : להחליט; לקבוע (אם); לפסוק
+entschieden [adj.]
 sich entschließen, entschloss sich, hat sich entschlossen : להחליט
   - sich entschließen, etwas zu tun : להחליט לעשות משהו
   - sich anders entschließen : לשנות את דעתו
@@ -4724,6 +4728,7 @@ e Flucht : מנוסה, בריחה
 fluchten [vt.] : ליישר
 r Flüchtling (pl. -e) : פליט
 s Flüchtlingslager (= pl.) : מחנה פליטים
+e Flüchtlingspolitik
 r Fluchtpunkt : נקודת מגוז
 r Fluchtweg (pl. -e) : דרך מילוט
 s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
@@ -4735,6 +4740,12 @@ flussaufwärts : במעלה הנהר
 flüstern [vt./vi.] : ללחוש
   - [Akk.] flüstern : ללחוש משהו
 s Flüstern : לחישה
+e Flut (pl. -en) : מבול; הצפה
+  - Ebbe und Flut
+  - Es ist Flut.
+fluten
+s Fluten
+e Flutrinne (pl. -n)
 fordern [vt.] : לדרוש; לתבוע; לבקש
   - [Akk.] von j-m fordern : to demand s.th. from s.o., to require, to request
   - Ersatz fordern : to claim compensation
@@ -4979,6 +4990,8 @@ r Geist (pl. -er) : רוח; רוח רפאים
   - "Vnd der Geist Gottes schwebet auff dem Wasser" [Lutherbibel, Gen 1:2] = וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם [בראשית א ב]
 geistesabwesend : פזור דעת, מפוזר, לא מרוכז
 e Geisteshaltung : הלך רוח, גישה, מצב רוח
+Geisteswissenschaften (pl.) : מדעי הרוח
+  - Hochschulabschluss in Geisteswissenschaften
 r Geisteszustand : הלך רוח
 s Gelächter : צחוק
 gelagert [adj.] : מאוחסן
@@ -5478,6 +5491,9 @@ hóch|fahren, fuhr hoch, hat hochgefahren [vt.] : להתחיל, לאתחל, למ
   - Ich trank einen Schluck Kaffee und fuhr meinen Computer hoch.
 hóch|kommen [ugs.] : לקום על הרגליים
 hóch|laden (lädt hoch), lud hoch, hat hochgeladen [vt.] : להעלות (לאינטרנט), לעשות אפלוד
+r Hochschulabschluss : תואר אקדמי; תואר באוניברסיטה
+e Hochschule (pl. -n) : אוניברסיטה; קולג'; מוסד להשכלה גבוהה
+s Hochschulstudium : לימודים גבוהים
 e Hochstimmung : התעלות, התרוממות רוח
 e Höchstleistung : שיא הכוח, שיא העוצמה, שיא היעילות
 höchstpersönlich : אישי ביותר
@@ -5943,8 +5959,11 @@ r Lauf (pl. Läufe) : ריצה; מירוץ; קנה (של רובה); מסלול
 laufen : לרוץ; ללכת; להתקדם; לעבוד
 laufend [adj.] : נוכחי
 läufig [adj.] : מיוחם
+s Laufwerk (pl. -e)
 e Laufzeit (pl. -en) : משך זמן
-e Laune : מצב רוח
+e Laune (pl. -n) : מצב רוח
+launig [adj.]
+launisch [adj.] : בעל מצב רוח משתנה; קפריזי; מצוברח
 e Laus (pl. Läuse) : כינה
 r Lausbub (pl. -en) : פרחח
 Lausbubenmanieren (pl.) : התנהגות פרחחית
@@ -6510,8 +6529,11 @@ r Orkan (pl. -e) : הוריקן
 Österreich : אוסטריה
 
 = P =
+s Paar (pl. -en) : זוג
 paar 
   - ein paar : כמה
+paaren [vt.] : לצרף יחד
+sich paaren : להזדווג
 s Pack (pl. -s) : להקה (של כלבים, זאבים, וכו')
 packen [vt.]  : לארוז; לתפוס; לעטוף
 e Palme : דקל; עץ דקל
@@ -6524,6 +6546,8 @@ panzern : לשריין, למגן
 Papier (pl. -e) : נייר
 s Papierkram [ugs.] : ניירת
 parieren : to counter
+s Pärchen (= pl.) : זוג (צעיר)
+pärchenweise [adv.] : בזוגות
 r Park (pl. -s) : פארק
 parken, parkte, hat geparkt [vt.] : לחנות
 r Parkplatz (pl. Parkplätz) : חניון
@@ -6704,6 +6728,7 @@ profitieren : להרוויח
 s Projekt (pl. -n) : פרויקט
 s Pronomen (= pl.) : כינוי גוף
 r Protest : מחאה
+protestieren
 r Proviant : צידה לדרך
   - mit Proviant beliefern : לצייד
 prüfen : לבדוק
@@ -6722,6 +6747,7 @@ putzen : לנקות
   - die Nase putzen : לקנח את האף
 
 = Q =
+quadrat
 quaken, quakte, hat gequakt [vt.] : לגעגע
   - Die Ente quakt. : הברווז מגעגע
 e Qual : עינוי
@@ -6790,9 +6816,11 @@ r Raubvogel : ציפור טרף
 rauchen : לעשן
 r Raucher : מעשן
 räudig [adj.] : מטונף, מרופט, קמצני
+rauf [adv.] : כלפי מעלה
 r Raum (pl. Räume) : מרחב; שטח; חדר
 räumlich [adj.] : מרחבי
 e Räumlichkeit : מרחב; מרחביות
+e Raupe (pl. -n) : זחל
 r Rausch : שכרון, השתכרות, מסטוליות
 rauschen : לרשרש, לרחשש, להשמיע אוושה
 s Rauschmittel : סם משכר
@@ -6858,7 +6886,10 @@ reklamieren : to claim, to complain, to object, to protest
   + Akk. : to complain about s.th., to take s.th. back
   etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
 relaxen, relaxte, relaxt : להירגע, להרגיע
-rennen : לרוץ
+e Rennbahn
+s Rennrad (pl. Rennräder) : אופני מירוץ
+rennen, rannte, ist gerannt [vi.] : לרוץ
+r Renner
 renommieren
 renommiert
 e Rente (pl. -n) : פנסיה
@@ -6871,6 +6902,8 @@ respektieren [vt.] : לכבד
 respektlos [adj.] : חסר נימוס; גס רוח; חסר כבוד
 respektvoll [adj.] : מכבד, רוחש כבוד
 r Revoluzzer : מורד, מיליטנט
+e Rezession
+rezessiv [adj.] : רצסיבי
 riechen [vt.] : להריח
   - nach + [Dat.] riechen : להריח כמו, להפיץ ריח של
   - j-n nicht riechen können [ugs.] : לא לסבול מישהו
@@ -6883,6 +6916,7 @@ ringen, rang, hat gerung : להיאבק
   - mit + [Dat.] ringen : להיאבק עם־
   - um + [Akk.] ringen : להיאבק על־
 s Ringen : מאבק, היאבקות
+rinnen, rann, ist geronnen [vi.] : לנזול
 s Risiko : סכנה, סיכון
 riskant [adj.] : מסוכן
   - riskant spielen : להמר, לשחק באופן מסוכן
@@ -7260,6 +7294,10 @@ s Segel (= pl.) : מפרש
   - j-m den Wind aus den Segeln nehmen : להוציא למישהו את הרוח מהמפרשים
 segeln, segelte, gesegelt : לשוט, להפליג
 segnen : לברך
+s Sekret (pl. -e)
+r Sekretär
+e Sekretärin
+sekretieren, sekretierte, hat serkretiert
 selbig : אותו (אחד)
 selbst [adv.] : בעצמו
 Selbst- [K] : ־עצמי
@@ -7272,12 +7310,15 @@ seltsam [adj.] : משונה, מוזר
 r Sendbote, e Sendbotin : emissary
 senden, sendete/sandte, gesendet/gesandt
   - j-m [Akk.] senden : לשלוח משהו למישהו
+r Senf (pl. -e) : חרדל
 senkrecht [adj.] : מאונך, ניצב, אנכי, בזווית ישרה
 r Senn [österr.] : רועה באלפים
 e Sennerin [österr.] : רועה באלפים
 r Sessel (= pl.) : כורסה
 setzen, setzte, hat gesetzt [vt.] : לשים, להציב, להניח
   - seinem Leben ein Ende setzen
+sezernieren, sezernierte, hat sezerniert
+e Sezession
 sicher [adj.] : בטוח
 sicherlich [adv.] : לבטח, ללא ספק
 sícher|stellen, stellte sicher, hat sichergestellt : להבטיח
@@ -7315,6 +7356,7 @@ r Sinn (pl. -e) : חוש; משמעות; מטרה; שכל
   - keinen Sinn machen : לא להתקבל על הדעת
   - in diesem Sinne
   - in Sinne von + [Dat.] [präp.]
+s Sinnbild (pl. -er)
 sinnen : להרהר
 s Sinnen : הרהורים
 sinnig [adj.] : הולם, מתאים
@@ -8497,10 +8539,16 @@ e Vorwarnung : אזהרה מראש
 vór|werfen (wirft vor), warf vor, hat vorgeworfen [vt.] : להאשים
   - j-m [Akk.] vorwerfen : להאשים מישהו במשהו
 vórwiegend : עיקרי, ראשי, מוביל, בולט, מכריע
+e Vorzeit (pl. -en)
+vorzeitig [adj.] : מוקדם; מוקדם מדי
 
 = W =
 wach [adj.] : ער
 wachen : לשמור; להיות ער
+r Wachs
+wachsen : לגדול; להתגבר; לשים שעווה על־
+s Wachsen
+wachsend
 e Waffel : ופל
   - einen an der Waffel haben : להיות חסר לו משהו, יש לו כמעט כל מה שהוא צריך
 r Waffenschmied : יצרן נשק
@@ -8552,6 +8600,9 @@ r Wasserhahn (pl. Wasserhähne) : ברז
 s Watt : וואט
 e Watte : כותנה
 wechselhaft [adj.] : מתחלף; משתנה
+wechseln, wechselte, hat gewechselt : להחליף; לשנות
+wechselnd [adj.] : מתחלף
+wechselnd [adv.] : מתחלף
 wecken, weckte, hat geweckt [vt.] : להעיר
 wedeln, wedelte, hat gewedelt : לכשכש
   - mit dem Schwanz wedeln : לכשכש בזנב
@@ -8631,6 +8682,7 @@ e Wette (pl. -n) : התערבות
   - Die Wette gilt. : ההתערבות עומדת בעינה.
 wetten : להתערב
 s Wetter : מזג אוויר
+r Wetterfrosch (pl. Wetterfrösche)
 e Wettervorhersage : תחזית מזג האוויר
 wettern : לגנות, לנגח
 s Wettrüsten : מירוץ חימוש
@@ -8923,6 +8975,8 @@ zurück|halten, hielt zurück, zurückgehalten : להימנע, לנהוג במת
 s Zurückhalten : מתינות
 zurück|spulen, spulte zurück, hat zurückgespult [vt.] : להחזיר לאחור
 s Zurückspulen : החזרה לאחור
+zurück|treten, trat zurück, ist zurückgetreten : להתפטר מ־; לסגת מ־; לפרוש מ־
+zurücktretend [adj.] : רצסיבי
 zurück|ziehen, zog zurück, zurückzogen
   - sich (aus/von + [Dat.]) zurückziehen : לסגת (מ־)
   - Er bat, sich zurückziehen zu dürfen. : הוא ביקש להיות מורשה לסגת
