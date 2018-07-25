@@ -549,6 +549,7 @@ s Allerlei : שונות
 allerseits [adv.] : מכל הצדדים
 r Allerwertester [ugs.] : תחת
 alles [pron.] : הכול
+  - vor allem : מעל הכול
 allesamt : כולם, כולם ביחד
   - wir allesamt : כולנו
 allezeit [adv.] : תמיד, כל הזמן
@@ -4019,29 +4020,86 @@ r/s Dotter
 e Dotterblume
 dottergelb
 dotterweich
+s Double /dubəl/ (pl. -s)
+down /daun/ [adj.]
+  - down sein
 downgeknockt [adj.] [ugs.] : גמור, שנפל לגמרי
 down|loaden, loadete down, hat downgeloadet [vt.] [gespr.] : לעשות דאונלוד, להוריד מהאינטרנט
+r Dozent (gen. -en, pl. -en) : מורה באוניברסיטה
+dpa
 e DPA [kürz für Deutsche presse-Agentur] : סוכנות העיתונות הגרמנית
-r Drache
-r Drachen : דרקון; עפיפון
+Dr.
+r Drache (gen. -n, pl. -n) : דרקון
+r Drachen (= pl.) : עפיפון
+s Dragee (pl. -s)
+r Draht (pl. Drähte) : כבל, חוט חשמל
+drahten
+  - [Akk.] new drahten : לחווט מחדש
+r Drahtesel
+drahthaarig [adj.]
+drahtig [adj.]
+drahtlos [adj.] : אלחוטי
+s Drahtseil
+e Drahseilbahn
+e Drahtzange
+r Drall (pl. -e)
+s Dralon
+s Drama (pl. Dramen) : דרמה
+e Dramatik
+r Dramatiker (= pl.)
+dramatisch [adj.]
+dramatisieren : להמחיז
 dran
-  gut dran (sein) : להיות במצב טוב
-  besser dran (sein) : להיות במצב יותר טוב
-  schlecht dran (sein) : להיות במצב גרוע
-  dran sein / kommen : להיות תורו של מישהו
-  dran bleiben : to stay tuned
-  alles Drum und Dran : the works
+  - gut dran (sein) : להיות במצב טוב
+  - besser dran (sein) : להיות במצב יותר טוב
+  - schlecht dran (sein) : להיות במצב גרוע
+  - dran sein
+  - dran kommen : להיות תורו של מישהו
+  - dran bleiben : to stay tuned
+  - alles Drum und Dran : the works
+  - drauf und dran
+s Dran
+  - das ganze Drum und Dran
 r Drang (pl. Dränge) : דחף
+e Drängelei
+drängeln
+drängen
+e Drangsal
+drangsalieren [vt.]
+e Drastik
+drastisch [adj.]
 drauf
-  gut drauf sein : להיות במצברוח טוב
-  ziellos drauf los : all over the place
-  ich pfeif drauf : I don't give a damn about it
-  Scheiß drauf : don't give a shit
+  - gut drauf sein : להיות במצברוח טוב
+  - ziellos drauf los : all over the place
+  - ich pfeif drauf : I don't give a damn about it
+  - Scheiß drauf : don't give a shit
+r Draufgänger
+drauflos
+draußen
+  - draußen bleiben
+  - draußen sein
+drechseln
+r Drechsler
+r Dreck
+e Dreckarbeit
+r Dreckfink
+dreckig [adj.]
+e Drecksarbeit
+s Dreckschwein
+r Dreckspatz
 drehen, drehte, hat gedreht [vt.] : לסובב; לצלם (סרט), להסריט
   - einen Film drehen : לצלם סרט
   - sich drehen : להסתובב
 drei : שלוש
+e Drei
+s Dreieck
+e Dreieinigkeit
+dreierlei
 dreifach : כפול שלוש
+r Dreifuß
+dreijährig [adj.]
+r Dreikäsehoch
+dreimal
 dreißig : שלושים
 dreißigst [adj.] : השלושים
 dreist : חצוף, חסר בושה, נמהר
@@ -4059,7 +4117,6 @@ dröhnen : לזמזם
 e Droge (pl. -n) : סם
 e Drogensucht : התמכרות לסמים
 drogensüchtig [adj.] : מכור לסמיםa
-s Dogma : דוגמה
 drüben
   - da/dort drüben : over there
   - hüben und drüben : on both sides
@@ -4764,6 +4821,9 @@ r Film (pl. -e) : סרט
   - einen Film drehen : לצלם סרט
 finden, fand, hat gefunden [vt.] : למצוא
   - Wie findest du das? : מה דעתך לגבי זה? איך אתה מוצא את זה?
+r Finger (= pl.) : אצבע
+r Fingernagel : ציפורן
+e Fingerspitze (pl. -n) : קצה אצבע
 finster [adj.] : חשוך
   - finster sein : חושך
   - "vnd es war finster auff der Tieffe" [Lutherbibel, Gen 1:2] = וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם [בראשית א ב]
@@ -5819,6 +5879,7 @@ klar [adj.] : ברור
   - Für mich ist ganz klar, dass : לי לגמרי ברור ש
 klatschen : למחוא כפיים; לסטור; לרכל
 s Klatschen (= pl.) : מחיאות כפיים
+e Klausur
 s Klavier : פסנתר
 e Kleidung : בגדים
 klein [adj.] : קטן
@@ -5833,6 +5894,7 @@ e Klinge (pl. -n) : להב
 klingen : להישמע; לצלצל
   - nach + [Dat.] klingen : להישמע כמו 
 klingeln : להשמיע צלצול, לצלצל בדלת
+s Kloster (pl. Klöster) : מנזר
 r Kollege (pl. -n) : קולגה, חבר לעבודה
 komplett [adj.] : שלם
 komprimieren [vt.] : לכווץ
@@ -6123,6 +6185,10 @@ lesen (liest), las, hat gelesen [vt.] : לקרוא
 s Lesezeichen (= pl.) : סימניה
 letztere [adj.] : האחרון, ההוא (בניגוד ל"זה")
   - erstere ... letztere ...
+e Leuchte
+leuchten
+s Leuchten
+r Leuchtturm
 Leute (pl.) : אנשים
 s Licht (pl. -er) : אור
   - "VND Gott sprach / Es werde Liecht / Vnd es ward Liecht" [Lutherbibel, Gen 1:3] = וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר [בראשית א ג]
@@ -6537,6 +6603,8 @@ r Nippel (= pl.) : פטמה
 nippelfrei [adj.]
 s Niveau : רמה; סטנדרט
 s Nomen (= pl.) : שם־עצם
+e Nonne (pl. -n) : נזירה
+s Nonnenkloster (pl. Nonnenklöster) : מנזר של נזירות
 r Nord : רוח הצפון
 r Norden : צפון
   - im Norden : בצפון
@@ -7138,6 +7206,7 @@ r Saufkumpan (pl. -e) [ugs.] : חבר לשתייה
 saugen : למצוץ
 s Saugen : מציצה
 säuseln : ללחוש
+e Schablone
 schade (adj.) : עצוב
   - Ich fand es schade, dass mein Team nicht gewonnen hat. : חבל בעיניי, שהצוות שלי לא ניצח
   - zu schade : ממש חבל
@@ -7904,6 +7973,10 @@ r Türke : טורקי
 e Türkei : טורקיה
 e Türkin : טורקיה
 türkis [adj.] : טורקיז
+r Turm
+e Turmanlage
+turmartig
+r Turmaufbau
 turnen, turnte, hat geturnt : להתעמל
 s Turnen : התעמלות
 e Turnhalle (pl. -n) : אולם ספורט, אולם התעמלות
@@ -8432,6 +8505,7 @@ versinken, versank, ist versunken [vi.] : לשקוע
   - im Morast versinken : לשקוע בביצה
   - in Schlaf versinken : לשקוע בשינה
 versohlen, versohlte, hat versohlt [vt.] [ugs.] : להלקות, להכות, להפליק, לסטור, לחבוט, להרביץ
+  - j-m den Hintern versohlen : להפליק בישבן, לסטור בישבן
 versöhnen [vt.] : לפייס
   sich (mit j-m) versöhnen : להתפייס (עם מישהו)
 e Versöhnung : פיוס, התפייסות
@@ -8588,6 +8662,7 @@ von [präp.] : מן, מ־
 vor [präp.] : לפני; מפני; מ־(רגש)
   - vor Angst : מפחד
   - vor Freude : משמחה
+  - vor allem : מעל הכול
 vorab [adv.] : מראש, מלכתחילה, מההתחלה
   - vorab aufnehmen : להקליט מראש
 voran [adv.] : קדימה, מלפנים
@@ -8603,7 +8678,8 @@ vór|bereiten, bereitete vor, hat vorbereitet [vt.] : להכין
 sich vór|bereiten, bereitete sich vor, hat sich vorbereitet : להתכונן, להכין את עצמו
 e Vorbereitung (pl. -en) : הכנה
 vór|bringen [vt.] : לציין; להציג (רעיון)
-vordringen : לחדור; להתקדם
+sich vór|drängen, drängte sich vor, hat sich vorgedrängt : להידחף קדימה; להידחף לראש התור
+vór|dringen, drang vor, ist vorgedrungen [vi.] : לחדור; להתקדם
   - in + [Akk.] vordringen : לחדור ל־
 s Vordringen : התקדמות
 vorerst [adv.] : לעת עתה
