@@ -1041,6 +1041,8 @@ arrogant [adj.] : יהיר
 e Arroganz : יהירות, גאוותנות
 r Arsch (pl. Ärsche) [ugs.] [vulg.] : ישבן, תחת
   - im Arsch : fucked up, messed up
+  - am Arsch der Welt
+r Arschkriecher
 s Arschloch (pl. Arschlöcher) : אידיוט
 s Arsen : ארסן, ארסניק
 e Art (pl. -en) : סוג
@@ -3115,7 +3117,8 @@ e Brust (pl. Brüste) : שד; חזה
 sich brüsten : להתרברב
   - sich mit + [Dat.] brüsten : להתרברב על משהו
 e Brüstung : מעקה, חומת מגן
-e Brustwarze : פטמה
+e Brustwarze (pl. -n) : פטמה
+r Brustwarzenhof
 e Brut (pl. -en) : זן; קבוצת חיות צעירות שבקעו יחד מביציהן
 brüten, brütete, hat gebrütet [vi.] : להתרבות, להזדווג
   - über + [Akk.] brüten : לשקוד על, לתכנן
@@ -3939,11 +3942,83 @@ distanzieren
 e Distel (pl. -n)
 e Diva
 divers [adj.]
+e Dividende
+dividieren
+d.J.
+DJH
+DLRG
+DM
+doch
+  - ja doch
+  - nicht doch
+r Docht (pl. -e)
+s Dock (pl. -s)
+e Dogge (pl. -n)
+s Dogma (pl. Dogmen) : דּוֹגְמָה
+dogmatisch [adj.] : דוגמטי
+e Dohle (pl. -n)
+r Doktor (pl. -en) : דוקטור
+  - Dr. des.
+  - Dr. jur.
+  - Dr. med.
+  - Dr. med. dent.
+  - Dr. med. vet.
+  - Dr. phil.
+  - Dr. rer. nat.
 s Dokument (pl. -e) : מסמך
+r Dolch (pl. -e)
+r Dollar (pl. s) : דולר
+dolmetschen
+r Dolmetscher (= pl.)
+r Dom (pl. -e)
+e Domäne (pl. -n)
+r Dompteur (pl. -e)
+r Donner (= pl.) : רעם
+  - Donner und Doria!
+  - wie vom Donner gerührt dastehen
+donnern
+r Donnerstag (pl. e)
+donnerstags
+s Donnerwetter
+doof [adj.] [ugs.]
+dopen
+s Doping
+e Dopingkontrolle
+s Doppel
+doppeldeutig
+r Doppelgänger
+r Doppelkopf
+r Doppellaut
+doppeln
+doppelreihig
+doppelseitig
+doppelsinnig
+doppelt
+r Doppelzentner
+s Doppelzimmer
+doppelzüngig
 s Dorf (pl. Dörfer) : כפר
-e Dose : פחית; קופסה
+r Dorfbewohner
+r Dörfler
+dörflich [adj.]
+r Dorn (pl. -en)
+dort [adv.]
+dorther
+dorthin
+dorthinab
+dorthinauf
+dorthinüber
+e Dose (pl. -n) : פחית; קופסה
 dösen, döste, hat gedöst : לנמנם
+e Dosenmilch
 r Dosenöffner
+dosieren
+e Dosierung
+e Dosis (pl. Dosen)
+r/s Dotter
+e Dotterblume
+dottergelb
+dotterweich
 downgeknockt [adj.] [ugs.] : גמור, שנפל לגמרי
 down|loaden, loadete down, hat downgeloadet [vt.] [gespr.] : לעשות דאונלוד, להוריד מהאינטרנט
 e DPA [kürz für Deutsche presse-Agentur] : סוכנות העיתונות הגרמנית
@@ -4249,6 +4324,10 @@ elft [adj.] : האחד עשר, האחת עשרה
 s Elftel (= pl.) : החלק האחד עשר
 r [~ s] Elter (pl. -n) : הורה
 empfehlen (empfiehlt), empfahl, hat empfohlen [vt.] : להמליץ על־
+empfinden [vt.]
+s Empfinden
+empfindlich [adj.]
+e Empfindlichkeit
 empor : למעלה
 s Emporkommen : עליה, שגשוג, נסיקה
 r Emporkömmling (pl. -e) : שאפתן, נובוריש
@@ -5249,6 +5328,12 @@ e Gürtellinie : קו מותן
   - Das ist ein Schlag unter die Gürtellinie : זו מכה מתחת לחגורה
 s Gut : נכס; רכוש; אחוזה
 gut (besser, am besten) [adj.] : טוב
+s Gute : דבר טוב
+  - im Guten : בידידות
+  - sich zum Guten wenden
+  - zu viel des Guten
+Gutes
+  - Gutes tun : לעשות משהו טוב
 gutbezahlt [adj.] : 
 r Gutsherr : בעל אחוזה 
 
@@ -6312,6 +6397,9 @@ muhen : לגעות, לעשות מוּ
 r Müll : אשפה
 r Müllcontainer
 r Mülleimer (= pl.) : פח אשפה
+e Mülltonne (pl. -n)
+e Mülltrennung
+e Mülltüte (pl. -n)
 r Mund (pl. Münder) : פה
 mündlich [adj.] : בעל פה, אוראלי, מילולי
 s Mundstück (pl. -e) : פִּיָּה
@@ -6446,6 +6534,7 @@ níeder|schreiben : לרשום; לכתוב (במחברת, פנקס, וכו'); ל
 niesen, nieste, geniest : להתעטש
 nimmermehr : לעולם לא עוד, שוב לא
 r Nippel (= pl.) : פטמה
+nippelfrei [adj.]
 s Niveau : רמה; סטנדרט
 s Nomen (= pl.) : שם־עצם
 r Nord : רוח הצפון
@@ -6575,15 +6664,18 @@ e Pause (pl. -n) : הפסקה
 peilen
 r Penis (pl. Penes, Penisse) : פין
 e Pest : מגיפה
+r Pfad
 e Pfalz : רוֹזנוּת
 s Pfand : ערבון
 e Pfanne (pl. -n) : מחבת
 r Pfannkuchen (= pl.) : סופגניה; פנקייק
+r Pfarrer
 r Pfennig (pl. -e) : מטבע קטן בעל ערך מועט
 s Pferd : סוס
 r Pfiff
 pfiffig [adj.]
 s Pfingsten
+r Pfirsich
 e Pflanze (pl. -n) : שתיל; צמח
 pflanzen : לשתול; לטעת
   - "VND Gott der HERR pflanzet einen Garten in Eden" [Lutherbibel, Gen 2:8] = וַיִּטַּע יהוה אֱלֹהִים גַּן־בְּעֵדֶן [בראשית ב ח]
@@ -6635,7 +6727,14 @@ e Pflichtverletzung
 e Pflichtversicherung
 pflichtwidrig [adj.]
 e Pflichtwidrigkeit 
+e Pforte (pl. -n)
+r Pfosten (= pl.)
+s Pfötchen (= pl.)
 e Pfote (pl. -n) : כפה
+r Pfropf
+pfui [interj.]
+s Pfund
+r Pfusch
 s Piano : פסנתר
 picheln, pichelte, hat gepichelt [ugs.] : לשתות לשוכרה
 r Piep : צפצוף
@@ -6930,6 +7029,25 @@ e Ritze (pl. -n) : חריץ
 ritzen : לגרד
 r Rivale : יריב
 r Rock : חצאית
+roh [adj.]
+roh [adv.]
+r Rohbau
+s Rohr (pl. -e) : צינור
+r Rohrabschneider
+r Rohrabschnitt
+e Rohrachse
+r Rohranschluss
+r Rohrbogen
+r Rohrbruch
+e Rohrbrücke
+s Rohrbündel (= pl.)
+e Rohrdimension
+e Rohrdommel
+e Rohrführung
+s Rohrgeflecht
+e Rohrhalterung
+e Rohrisolierung
+e Rohrleitung (pl. -en)
 r Rohstoff (pl. -e) : חומר גלם
 e Rolle (pl. -n) : תפקיד
 rollen [vt.] : לגלגל, להסיע (משהו עם גלגלים)
@@ -7367,7 +7485,7 @@ sinnvoll [adj.] : שימושי; הגיוני; נבון
 sitzen, saß, ist gesessen : לשבת
   - sitzen bleiben : להישאר לשבת
 r Ski (pl. Ski, Skier) : סקי
-  - Ski fahren : ל= עשות סקי
+  - Ski fahren : לעשות סקי
   - Ski laufen : לעשות סקי
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
@@ -7381,6 +7499,7 @@ solidarisch [adj.] : סולידרי
   - sich mit + [Dat.] solidarisch zeigen : להביע סולידריות עם
 r Sold (pl. -e) : פרס, גמול, שילום
 r Soldat (pl. -en) : חייל
+somit [adv.] : ובכך
 r Sonderfall : מקרה מיוחד
 r Sonderling : אקצנטרי; משונה
 sondern [konj.] : אלא
@@ -7789,6 +7908,9 @@ turnen, turnte, hat geturnt : להתעמל
 s Turnen : התעמלות
 e Turnhalle (pl. -n) : אולם ספורט, אולם התעמלות
 tuscheln : ללחוש
+e Tüte (pl. -n) : שקית
+r Tütenhalter
+e Tütensuppe
 r Typ (pl. -en) : טיפוס
 
 = U, Ü =
@@ -8100,6 +8222,7 @@ e Verdichtung
 verdienen [vt.] : להרוויח; להיות ראוי ל־
 s Verdienst
 verdient
+verdoppeln
 verdrängen [vt.]
 vereidigen [vt.] : להשביע (נשיא)
   - j-n vereidigen : להשביע (נשיא)
