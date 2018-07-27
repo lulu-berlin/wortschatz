@@ -4358,13 +4358,54 @@ e Durchsetzung : אכיפה; ביצוע; קיום
 durchsetzungsfähig [adj.] : דעתני, אסרטיבי, החלטי, נחרץ
 e Durchsetzungsfähigkeit : החלטיות, אסרטיביות, נחרצות
 s Durchsetzungsvermögen
+e Durchsicht
+durchsichtig [adj.]
+e Durchsichtigkeit
+durchsuchen, durchsuchte, hat durchsucht [vt.]
+e Durchsuchung
+r Durchsuchungsbefehl
 durchweg
+durchwegs
+r Durchzug
 dürfen (darf), durfte, gedurft : להיות רשאי
+  - das hätte er nicht tun dürfen
+  - das dürfte genug sein
+dürftig
+e Dürftigkeit
+dürr [adj.]
+e Dürre
+e Dürrekatastrophe
+e Durst
+dursten
+dürsten
+durstig [adj.]
+durstlöschend
+e Durststrecke
 e Dusche (pl. -n) : מקלחת
+  - eine kalte Dusche : מקלחת קרה
 duschen : להתקלח
 sich duschen : להתקלח
+e Düse (pl. -n)
+r Düsenantrieb
+s Düsenflugzeug
+r Düsenjäger
+Düsseldorf : דיסלדורף
+dusselig
+e Dusseligkeit
 düster [adj.] : עגום, קודר
+e Düsternis
+s Dutzend (pl. -e) : תריסר
+dutzendfach
+e Dutzendware
+r Duzbruder
 duzen [vt.] : לפנות באופן לא רשמי (ב־du)
+sich duzen
+r Duzfreund (pl. -e)
+e Dynamik
+dynamisch
+s Dynamit
+r Dynamo (pl. -s)
+r D-Zug [Abk. für Durchgangzug]
 
 = E =
 e Ebbe : שפל
@@ -8441,6 +8482,7 @@ verdoppeln
 verdrängen [vt.]
 verdunsten [vi.] : להתאדות, להתנדף
 e Verdunstung : התאדות
+verdursten
 vereidigen [vt.] : להשביע (נשיא)
   - j-n vereidigen : להשביע (נשיא)
 verehren [vt.] : להעריץ; להוקיר
