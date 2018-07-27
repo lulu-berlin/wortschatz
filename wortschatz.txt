@@ -1773,9 +1773,9 @@ bedrängen
 e Bedrängnis
 e Bedrängung
 e Bedrängnis : מצוקה, צרה, יסורים
-bedrohen
-bedrohlich [adj.]
-e Bedrohung (pl. -en)
+bedrohen [vt.] : לאיים על־
+bedrohlich [adj.] : מאיים
+e Bedrohung (pl. -en) : איום
 r Beduine (gen. -n, pl. -n) : בדואי
 bedürfen (bedarf), bedurfte, hat bedurft : להצריך
   - [Dat.] bedürfen : להצריך
@@ -4121,27 +4121,97 @@ dribbeln
 s Dribbling
 r Drill : תרגיל צבאי, אימון
 drillen, drillte, hat gedrillt : לתרגל, לאמן, לעשות תרגיל
+e Drillmaschine
+drin [adv.] : בפנים
+  - drin sein : להיות בפנים
 dringen, drang, hat gedrungen [vt.] : לעורר (לפעולה), לדרבן; להתעקש
 dringen, drang, ist gedrungen [vi.] : לדלוף
   - auf + [Akk.] dringen : להתעקש על־
+dringend [adj.] : דחוף
+  - auf das dringendste
+dringend [adv.]
+dringlich [adj.] : דחוף
+r Drink (pl. -s) : משקה אלכוהולי, דרינק
+drinnen [adv.] : בפנים
+  - drinnen bleiben : להישאר בפנים
 dritt [adj.]
   - zu dritt
 s Drittel (= pl.) : שליש
-e Drohne (pl. Drohnen) : רחפן, מטוס ללא טייס
-dröhnen : לזמזם
+s DRK [Abk. für Deutsche Rotes Kreuz] : הצלב האדום הגרמני
 e Droge (pl. -n) : סם
 e Drogensucht : התמכרות לסמים
-drogensüchtig [adj.] : מכור לסמיםa
+drogensüchtig [adj.] : מכור לסמים
+e Drogerie : בית מרקחת; כל־בו
+r Drogist
+r Drohbrief
+drohen [vt.] : לאיים על־
+drohend [adj.] : מאיים
+dröhnen : לזמזם
+  - mir dröhnt der Kopf
+dröhnend : מזמזם
+  - mit dröhnender Stimme
+e Drohung
+e Drohne (pl. Drohnen) : רחפן, מטוס ללא טייס
+dröhnen : לזמזם
 drüben
   - da/dort drüben : over there
   - hüben und drüben : on both sides
+drüber [adv.] [ugs.] : על כך
+  - Es geht drunter und drüber
+s Drüber
+  - s Drunter und Drüber
+r Drückeberger (= pl.) : משתמט
+e Drückebergerei
+drückebergerisch [adj.]
+druckempfindlich
 drucken : להדפיס
 s Drucken : דפוס
 drücken : ללחוץ, לדחוף
+sich drücken : להשתמט
+  - sich vor + [Dat.] drücken : להשתמט מ־
+r Drucker
+r Drücker
+  - auf den letzten Drücker [adv.] : ברגע האחרון
 e Druckerei (pl. -en) : בית דפוס
+r Druckknopf
+e Druckluftbremse
+druckreif [adj.]
+e Drucktaste
+drum [adv.] [ugs.]
+s Drum
+  - das Drum und Dran
+r Drummer (= pl.)
+drunter [adv.] [ugs.]
+e Drüse (pl. -n) : בלוטה
+r Dschungel
 du [pron.] : את; אתה
+r Dübel
+dübeln
+ducken : להשפיל
+sich ducken
+r Duckmäuser
+r Dudelsack
+r Dudelsackpfeifer
+s Duell (pl. -e)
+s Duett (pl. -e)
 r Duft : ניחוח, ריח טוב
-dumm [adj.] : טיפש; טיפשי
+duften
+duftig [adj.]
+r Dukaten (= pl.)
+dulden
+r Dulder
+duldsam [adj.]
+e Duldsamkeit
+e Duldung : סובלנות
+dumm (dümmer, am dümmsten) [adj.] : טיפש; טיפשי
+  - dummes Zeug reden
+  - sich dumm stellen
+  - j-m dumm kommen
+  - Ich lasse mich doch nicht für dumm verkaufen.
+  - j-n wie einen dummen Jungen behandeln
+  - es wird mir langsam zu dumm
+  - so was Dummes!
+e Dummheit : טפשות
 r Dummkopf [ugs.] : טיפש, מטומטם
 dulden [vt.] : לסבול, לשאת, לעמוד ב־
 s Dulden : סובלנות
