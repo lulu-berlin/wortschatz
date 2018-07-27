@@ -4198,7 +4198,8 @@ r Duft : ניחוח, ריח טוב
 duften
 duftig [adj.]
 r Dukaten (= pl.)
-dulden
+dulden [vt.] : לסבול, לשאת, לעמוד ב־
+s Dulden : סובלנות
 r Dulder
 duldsam [adj.]
 e Duldsamkeit
@@ -4213,31 +4214,85 @@ dumm (dümmer, am dümmsten) [adj.] : טיפש; טיפשי
   - so was Dummes!
 e Dummheit : טפשות
 r Dummkopf [ugs.] : טיפש, מטומטם
-dulden [vt.] : לסבול, לשאת, לעמוד ב־
-s Dulden : סובלנות
-e Düne : דיונה
+dumpf
+e Dumpfheit
+dumpfig
+e Düne (pl. -n) : דיונה
 r Dung : גללים; דשן
 düngen : לדשן, לזבל
+r Dünger
+e Düngung
 s Dunkel : חושך, חשיכה
-dunkel (dunkl-) [adj.] : כהה
+dunkel (dunkler, am dunkelsten) [adj.] : כהה
+dunkelblau [adj.]
 dunkelblond [adj.] : בלונדיני כהה
 dunkelgrün [adj.] : ירוק בהיר
+e Dunkelhaft
 dünkelhaft [adj.] : יהיר, מלא חשיבות עצמית
+dünken : להידמות
+sich dünken : לחשוב את עצמו
+dünn [adj.]
+  - durch dick und dünn
+  - sich dünne machen
+dünnbevölkert [adj.]
+dünnflüssig
+sich dünn|machen, machte sich dünn, hat sich dünngemacht : להיעלם בחשאי
+sich dünne|machen, machte sich dünne, hat sich dünnegemacht : להיעלם בחשאי
+r Dunst (pl. Dünste) : ערפל
+dunsten
+dünsten
+e Dunstglocke
+r Dunstkreis
+dunstig
+s Duo (pl. -s)
+s Duplikat (pl. -e)
+durch [präp.] : דרך־
+  - durch + [Akk.] [präp.] : דרך־
+durchaus
+r Durchblick
+dúrch|blicken
+  - [Akk.] durchblicken lassen
+durchbluten, durchblutete, hat durchblutet [vt.] : לספק דם ל־
+dúrch|bluten, blutete durch, ist durchgeblutet : להיספג בדם
+e Durchblutung
+e Durchblutungsstörung
 dúrch|brechen : to break through, to disrupt
 r Durchbruch : פריצת דרך; שבר, סדק
+dúrch|drehen, drehte durch, hat durchgedreht
 dúrch|dringen : לחדור; להתפשט; לחלחל
+e Durchdringung
 s Durcheinander : בלגן
 durcheinander [adj.] : מבולבל, מבולגן
 durcheinander [adv.] : בבלגן
-r Durchfall : שלשול
+durcheinander|bringen, brachte durcheinander, hat durcheinandergebracht [vt.]
+durcheinanderbringend [adj.]
+r Durchfall (pl. Durchfälle) : שלשול
   - Durchfall haben : יש לו שלשול
 dúrch|fallen : to flunk
   - in etw.[Dat.] durchfallen : to fail at s.th.
   - bei einer Prüfung durchfalen : to fail an exam
 durchfluten, durchflutete, hat durchflutet : לזרום (דרך)
+durchforsten [vt.] : לסרוק, לחפש ביסודיות
+e Durchforstung
+durchführbar [adj.]
 dúrch|führen, führte durch, hat durchgeführt [vt.] : להוציא לפועל
+e Durchführung
+r Durchgang (pl. Durchgänge)
+durchgängig
+r Durchgangsverkehr
 dúrch|gehen : לעבור דרך
+durchgehend
+dúrch|greifen, griff durch, hat durchgegriffen
 dúrch|halten : להתמיד, להחזיק מעמד
+r Durchlass
+dúrch|lassen, ließ durch, hat durchgelassen [vt.]
+durchlässig
+e Durchlässigkeit
+r Durchlauf (pl. Durchläufe)
+dúrch|laufen, lief durch, ist durchgelaufen
+r Durchlauferhitzer
+e Durchsage (pl. -n)
+r Durchschlag (pl. Durchschläge)
 r Durchschnitt (pl. -e) : ממוצע
 durchschnittlich [adj.] : ממוצע
 durchschnittlich [adv.] : בממוצע
@@ -4302,6 +4357,8 @@ dúrch|setzen, setzte durch, hat durchgesetzt [vt.] : להתעקש (על זכו�
 e Durchsetzung : אכיפה; ביצוע; קיום
 durchsetzungsfähig [adj.] : דעתני, אסרטיבי, החלטי, נחרץ
 e Durchsetzungsfähigkeit : החלטיות, אסרטיביות, נחרצות
+s Durchsetzungsvermögen
+durchweg
 dürfen (darf), durfte, gedurft : להיות רשאי
 e Dusche (pl. -n) : מקלחת
 duschen : להתקלח
@@ -8382,6 +8439,8 @@ s Verdienst
 verdient
 verdoppeln
 verdrängen [vt.]
+verdunsten [vi.] : להתאדות, להתנדף
+e Verdunstung : התאדות
 vereidigen [vt.] : להשביע (נשיא)
   - j-n vereidigen : להשביע (נשיא)
 verehren [vt.] : להעריץ; להוקיר
