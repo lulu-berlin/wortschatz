@@ -4078,18 +4078,21 @@ drauflos
 draußen
   - draußen bleiben
   - draußen sein
-drechseln
-r Drechsler
-r Dreck
-e Dreckarbeit
+drechseln 
+r Drechsler (= pl.) : חָרָט
+r Dreck : לכלוך, זוהמה
+e Dreckarbeit : עבודה מלוכלכת
 r Dreckfink
-dreckig [adj.]
-e Drecksarbeit
-s Dreckschwein
+dreckig [adj.] : מלוכלך, מזוהם
+e Drecksarbeit : עבודה מלוכלכת
+s Dreckschwein : חזיר מזוהם
 r Dreckspatz
 drehen, drehte, hat gedreht [vt.] : לסובב; לצלם (סרט), להסריט
   - einen Film drehen : לצלם סרט
   - sich drehen : להסתובב
+r Dreher (= pl.) : חרט
+e Drehorgel
+e Drehung : סיבוב
 drei : שלוש
 e Drei
 s Dreieck
@@ -4102,8 +4105,20 @@ r Dreikäsehoch
 dreimal
 dreißig : שלושים
 dreißigst [adj.] : השלושים
-dreist : חצוף, חסר בושה, נמהר
+dreist [adj.] : חצוף, חסר בושה, נמהר
+e Dreistigkeit : הֶעָזָה, חֻצְפָּה
 dreizehn : שלוש עשרה, שלושה עשר
+e Dresche
+dreschen (drischt), drosch, hat gedroscht [vt.] : לדוש
+r Drescher
+r Dreschflegel
+e Dreschmaschine
+r Dress (pl. -e)
+dressieren : לאמן
+r Dresseur
+e Dressur
+dribbeln
+s Dribbling
 r Drill : תרגיל צבאי, אימון
 drillen, drillte, hat gedrillt : לתרגל, לאמן, לעשות תרגיל
 dringen, drang, hat gedrungen [vt.] : לעורר (לפעולה), לדרבן; להתעקש
@@ -8411,9 +8426,9 @@ verkümmert [adj.] : stunted
 verkünden [vt.] : להכריז, להכריז על־
 verlangen [vt.] : לדרוש; לבקש; לתבוע; לקרוא ל; להתעקש על־
 s Verlangen : דרישה; חשק, דחף, תאווה
-verlassen : לנטוש; לעזוב
+verlassen, verließ, hat verlassen [vt.] : לנטוש; לעזוב
   - "Darumb / wird ein Man seinen Vater vnd seine Mutter verlassen" [Lutherbibel, Gen 2:24] = עַל־כֵּן יַעֲזָב־אִישׁ אֶת־אָבִיו וְאֶת־אִמּוֹ [בראשית ב כד]
-sich verlassen
+sich verlassen, verließ sich, hat sich verlassen
   - sich auf + [Akk.] verlassen : לסמוך על מישהו
 s Verlassen
 r Verlauf
