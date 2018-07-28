@@ -4609,8 +4609,7 @@ eiligst
 r Eilzug
 r Eimer (= pl.) : דלי
 eimerweise [adv.] : בדליים
-ein [adj.] : אחד
-  - Er ist einer von uns : הוא אחד משלנו
+ein, eine, ein [unbestimmter Artikel]
 eín|äschern
 eín|beziehen, bezog ein, hat einbezogen [vt.] : לכלול, לערב, לצרף
 eín|brocken [vt.]
@@ -4626,20 +4625,68 @@ eín|dringen : לחדור לתוך־
   - in + [Akk.] eindringen : לחדור לתוך־
 eindeutig [adj.] : חד־משמעי
 einen : לאחד
-  - einend : מאחד
+einend : מאחד
+einer, eine, ein(e)s [unbestimmtes Pronomen] : אחד
+  - Er ist einer von uns : הוא אחד משלנו
+r Einer
+einerlei
+einerseits
+einesteils
 einfach [adj.] : פשוט, קל
-eín|fallen : (1) to cave in, to fall, (2) to come to mind
-  sich etw. einfallen lassen : to come up with an idea, to conceive of s.th.
+e Einfachheit
+eín|fädeln, fädelte ein, hat eingefädelt
+eín|fahren, fuhr ein, ist eingefahren [vi.] : להיכנס בנסיעה, לנסוע ולהיכנס
+  - in + [Akk.] einfahren : לנסוע לתוך־
+e Einfahrt : נסיעה פנימה
+r Einfall : פלישה; רעיון; פשיטה
+eín|fallen (fällt ein), fiel ein, ist eingefallen : לעלות בדעתו (של מישהו); לקרוס
+  - j-m [Akk.] einfallen : לעלות בדעתו של מישהו
+  - mir fällt etwas ein
+sich eín|fallen (fällt sich ein), fiel sich ein, hat sich eingefallen
+  - sich[Dat.] [Akk.] einfallen lassen : to come up with an idea, to conceive of s.th.
+einfallsreich [adj.] : מלא־דמיון, רב־תושייה, בעל כושר המצאה
+e Einfalt : פשטות; תום
+einfältig [adj.] : פשוט; תם
+r Einfaltspinsel : שוטה, כסיל, גולם
+eín|fassen, fasste ein, hat eingefasst [vt.]
+e Einfassung
+eín|flößen : להחדיר; להשרות; ליצוק
+s Einflößen
 Einfluss (pl. Einflüsse) : השפעה
   - auf + [Akk.] Einfluss haben : להשפיע על־
+  - seinen Einfluss geltend machen
+einflußreich
+eín|frieden, friedete ein, hat eingefriedet : להקיף
+eín|friedigen, friedigte ein, hat eingefriedigt : להקיף
+e Einfriedung : גדר
+eín|frieren, fror ein, hat eingefroren [vt.] : להקפיא
+s Einfrieren
+e Einfuhr
 eín|führen : להציג, להפגיש, לערוך היכרות
+e Einführung
+r Einführungspreis
+r Einfuhrzoll
+e Eingabe (pl. -n) : הכנסה; תשומה, קלט, אינפוט
+r Eingang (pl. Eingänge) : כניסה
+eingangs [adv.] : בהתחלה
+eín|geben (gibt ein), gab ein, hat eingegeben [vt.]
+e Eingebung
 eingebildet [adj.] : יהיר, רברבן
   - eingebildet sein : להתייהר
 eingedenk + [Gen.] [präp.] : מתוך שימת לב ל־, בשום לב ל־
+eín|gehen, ging ein, ist eingegangen : להתקבל; לקחת, ליטול; ליצור
+  - auf + [Akk.] eingehen : להזכיר; לדון ב־, לגעת ב־; להראות עניין ב־; להגיב ל־
+  - ein Risiko eingehen : לקחת סיכון, ליטול סיכון
+  - eine Allianz eingehen : ליצור ברית
 eingekreist [adj.] : מוקף, מכותר
+eín|gemeinden, gemeindete ein, hat eingemeindet
+e Eingemeindung
+eingestandenermaßen : יש להודות
+s Eingeständnis
 eín|gestehen, gestand ein, hat eingestanden [vt.] : להודות במשהו
 sich eín|gestehen, gestand sich ein, hat sich eingestanden [vt.] : להודות במשהו
   - sich[Dat.] [Akk.] eingestehen : להודות במשהו
+s Eingeweide (= pl.) : מעיים, קרביים
 eingeweiht : (1) inaugurated, (2) privy, on the inside, in the loop
   - eingeweiht sein : to be in the loop
   - in etw.[Akk.] eingeweiht sein : to be privy to s.th.
@@ -4652,19 +4699,44 @@ eín|grenzen
 r Einhalt : סוף
   - [Dat.] Einhalt gebieten : לרסן; לשים למשהו סוף
 eín|hauen (vt.) : לרסק
+einheimisch [adj.] : ילידי, בן המקום
+s Einheimische
+e Einheit (pl. -en)
+einheitlich [adj.]
+r Einheitspreis
+einhellig
+e Einhelligkeit
+einig
+einige : כמה
+einigen
+e Einigkeit
 eín|jagen
   - j-m einen Schreck(en) einjagen : להפחיד מישהו
   - j-m Angst einjagen : להפחיד מישהו
+r Einkauf
 eín|kaufen, kaufte ein, hat eingekauft [vt.] : לעשות קניות, לקנות
 s Einkaufen : קניות, שופינג
 s Einkaufszentrum (pl. Einkaufszentren) : קניון
+e Einkehr : עצירה
+eín|kehren, kehrte ein, ist eingekehrt : לעצור כדי לאכול
+eín|kommen
+s Einkommen
 eín|kreisen [vt.] : לבודד, להקיף, לכתר
   - ein Problem einkreisen : לבחון בעיה מכל הכיוונים
+e Einkünfte
 eín|laden [vt.] : להזמין
+e Einladung
+eín|lassen [vt.] : להכניס, לאפשר למשהו להיכנס
+  - j-n einlassen : לתת למישהו להיכנס
+sich einlassen
+  - sich auf + [Akk.] einlassen
 r Einlauf : חוקן
+eín|laufen, lief ein, ist eingelaufen
+sich einlaufen, lief sich ein, hat sich eingelaufen
 eín|leiten : להתחיל, לפתוח, ליזום
 eín|lenken [vt.] : to give in, to steer, to back down
   - in etw.[Akk.] einlenken : להפוך למשהו
+s Einlenken
 eín|lösen, löste ein, hat eingelöst : לפדות; לממש
 s Einnässen : הרטבה
 eín|ordnen : למיין, לסווג
@@ -8362,6 +8434,7 @@ e Übelkeit : בחילה
 überbevölkert [adj.]
 r Überblick (pl. -e) : סקירה כללית
 überdachen
+s übereinkommen
 e Übereinkunft : agreement, accord
 übereinstimmen : להתאים
 r Überfall : פשיטה, התקפה, שוד
@@ -8670,14 +8743,22 @@ vereidigen [vt.] : להשביע (נשיא)
 verehren [vt.] : להעריץ; להוקיר
 verehrt [adj.] : נערץ; מוערך
 e Verehrung : הערצה; הוקרה
+r Verein (pl. -e) : אגודה, איגוד, ארגון, התאחדות; מועדון
 vereinbar [adj.] : מתאים; קומפטיבילי
 vereinbaren [vt.] : להסכים; לסכם; לקבוע
   - einen Termin vereinbaren : לקבוע פגישה
 vereinbart [adj.] : מוסכם; שנקבע
+e Vereinbarung
 vereinen, vereinte, hat vereint [vt.] : לשלב, למזג, לאחד
   - [Akk.] mit + [Dat.] vereinen : לשלב משהו עם משהו
   - Kräfte vereinen : לשלב כוחות
   - sich vereinen : להתאחד
+vereinigen [vt.] : לאחד
+sich vereinigen : להתאחד
+vereinigt [adj.]
+vereinigt [adv.]
+e Vereinigung
+vereint [adj.]
 verfallen : לפוג (תוקף); לפקוע; להתדרדר
 verfallend : נרקב
 verfassen : לחבר
