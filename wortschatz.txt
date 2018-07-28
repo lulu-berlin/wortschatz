@@ -4408,9 +4408,48 @@ r Dynamo (pl. -s)
 r D-Zug [Abk. für Durchgangzug]
 
 = E =
-e Ebbe : שפל
+e Ebbe (pl. -n) : שפל
   - Ebbe und Flut : שפל וגאות
+eben [adj.] : שטוח; ישר; חלק; שווה; שקול
+  - ebenes Land
+eben [adv.] : הרגע; פשוט; בדיוק
+  - Eben! : בדיוק!
+  - gerade eben
+  - Ich pfeife eben darauf.
+  - Es ist eben angekommen. : זה הרגע הגיע
+  - Das ist es ja eben!
+  - der eben erwähnte Vorfall
+s Ebenbild (pl. -er)
 ebenbürtig : שווה, ראוי
+e Ebenbürtigkeit
+ebenda
+ebendaher
+ebendarum
+ebendas
+ebender
+ebendeshalb
+ebendeswegen
+ebendieser
+ebendort
+e Ebene (pl. -n) : קומה; משטח; רמה; מישור
+ebenfalls [adv.]
+s Ebenholz (pl. Ebenhölzer)
+s Ebenmaß : סימטריה
+ebenmäsßig [adj.]
+e Ebenmäßigkeit
+ebenso [adv.]
+ebensogut
+  - du kannst das ebensogut machen
+ebensolang(e)
+ebensoviel
+ebensoweit
+ebensowenig
+ebensowohl
+r Eber (= pl.) : חֲזִיר בַּר
+e Eberesche
+s Echo (pl. -s) : הֵד
+e Echse (pl. -n)
+echt [adj.] : מקורי, אותנטי; אמיתי, כן, לא מזויף
 ebnen : to level, to smooth
   den Weg ebnen (für etw.) : to pave the way (for s.th.)
   sich ebnen : to even out
@@ -7561,6 +7600,7 @@ e Schranke (pl. -n) : גבול, שער
   - alle Schranken fallen lassen : להפיל את כל הגבולות/מחיצות
 schrecklich : מחריד
 schreiben, schrieb, hat geschrieben [vt.] : לכתוב
+e Schreibweise (pl. -n) : כתיב
 schreien, schrie, hat geschrien : לצעוק
 r Schrein : מקדש; מקום קדוש; כלי קיבול המכיל שרידים או חפצים קדושים
 r Schriftsetzer : סַדָּר (דפוס)
@@ -7843,6 +7883,8 @@ stammen : לבוא מ־, להיות מיוחס ל־
 r Stammbaum : אילן יוחסים
 r Stammgast : אורח קבוע
 r Stammtisch : השולחן של היושבים הקבועים במסעדה או פאב
+r Stand
+  - im Stande sein
 standhaft [adj.] : נחוש
 r Standort (pl. -e) : מיקום
 r Standpunkt (pl. -e) : נקודת מבט; עמדה; זווית ראיה
