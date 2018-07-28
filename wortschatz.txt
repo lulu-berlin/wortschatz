@@ -1783,6 +1783,10 @@ s Bedürfnis
 bedürfnislos [adj.]
 bedürftig [adj.]
 s Beefsteak (pl. -s) : ביפסטיק, נתח בקר מטוגן או צלוי
+beehren, beehrte, hat beehrt [vt.] : לכבד
+  - j-n mit + [Dat.] beehren : לכבד מישהו ב־
+  - Bitte beehren Sie uns mit einem Besuch auf der Messe.
+beehrend [adj.]
 sich beeilen : להזדרז
 beeinflussbar [adj.] : נוח להשפעה
 beeinflussen [vt.] : להשפיע על־
@@ -1848,6 +1852,7 @@ sich begegnen, begegnete sich, hat sich begegnet : להיפגש
   - sich zum ersten Mal begegnen : להיפגש בפעם הראשונה
 e Begegnung
 begehen, beging, hat begangen [vt.] : לבצע (פשע); לבדוק, לבחון
+  - Ehebruch begehen : לנאוף
 begehren, begehrte, hat begehrt [vt.] : לחמוד, לחשוק ב־, להיכסף ל־, לחפוץ ב־, לבקש
 s Begehren : תשוקה, חשק
 begehrenswert [adj.] : נחשק
@@ -1855,9 +1860,10 @@ begeistern [vt.] : לעורר השראה, לעודד, להלהיב, להדהים
 begeistert: מורשם, שמשהו מרשים אותו
 e Begeisterung
 begeisterungsfähig [adj.]
-e Begier
-e Begierde
+e Begier : חשק, תשוקה
+e Begierde : תשוקה
 begierig [adj.]
+e Begierigkeit
 r Beginn : התחלה, פתיחה
 beginnen, begann, hat begonnen [vt.] : להתחיל, להחל
 beglaubigen : לאשר (מסמך), להעיד על אותנטיות
@@ -4447,54 +4453,162 @@ ebensowenig
 ebensowohl
 r Eber (= pl.) : חֲזִיר בַּר
 e Eberesche
+ebnen, ebnete, hat geebnet : ליישר, להחליק; לסלול
+  - den Weg (für + [Akk.]) ebnen : לסלול את הדרך (למשהו)
+sich ebnen, ebnete sich, hat sich geebnet : to even out
+e Ebnung (pl. -en) : יישור
+  - die Ebnung des Weges (zum + [Inf.] / für + [Akk.]) : סלילת דרך (ל־)
+  - Ebnung der Oberflächen
+  - Ebnung der Fläch
 s Echo (pl. -s) : הֵד
-e Echse (pl. -n)
+e Echse (pl. -n) : לטאה
 echt [adj.] : מקורי, אותנטי; אמיתי, כן, לא מזויף
-ebnen : to level, to smooth
-  den Weg ebnen (für etw.) : to pave the way (for s.th.)
-  sich ebnen : to even out
-e Echse : לטאה
-echt [adj.] : מקורי, אותנטי; אמיתי; כן; לא מזויף
+echt [adv.] : באמת
+  - Echt? : באמת?
 e Echtheit : אותנטיות
+r Eckball
+e Ecke (pl. -n)
+e Eckfahne
+eckig
+r Eckzahn
 edel [adj.] : יקר; אצילי
+r Edelmann
 s Edelmetall : מתכת אצילית
+r Edelmut
+edelmütig [adj.]
 r Edelstahl (pl. Edelstähle, Edelstahle) : פלדת אל־חלד
 r Edelstein : אבן חן, אבן טובה
-s Edikt (pl. -e) : edict [Zaw, hora'ah, pqudah]
+e Edeltanne
+s Edelweiß
+edieren, edierte, hat ediert [vt.] : לערוך
+s Edieren : עריכה
+edierend [adj.]
+ediert [adj.]
+s Edikt (pl. -e) : צו, הוראה, פקודה
+e Edition (pl. -en)
+r Efeu : קיסוס
+r Effekt (pl. -e)
+e Effekthascherei
+effektvoll [adj.]
+EG [kurz für Europäische Gemeinschaft]
 egal [adj.] : לא משנה
   - Das ist mir egal. : לא אכפת לי
 egal [adv.] : לא חשוב
   - Egal, was ... : לא משנה מה ...
+e Egge (pl. -n) : מַשְׁדֵּדָה
+r Egoismus (pl. Egoismen)
+r Egoist
+egoistisch [adj.]
 e Ehe (pl. -n) : נישואים
 ehe [konj.] : לפני ש־, טרם
+ehebrechen : לנאוף
+  - "Du sollst nicht ehebrechen" : לא תנאף
+r Ehebrecher (= pl.) : נואף
+e Ehebrecherin (pl. -nen) : נואפת
+r Ehebruch : ניאוף
+  - Ehebruch begehen
 e Ehefrau : אישה נשואה
+Eheleute (pl.)
+ehelich [adj.]
+ehelos [adj.]
 ehemalig [adj.] : דאז
 r Ehemann : בעל
 s Ehepaar : זוג נשוי
+e Eheschließung
+r Ehestand
 eher [adv.] : למדי, במידה רבה יותר
   - eher als [konj.] : מאשר
 ehesten - סופרלטיב בלי תואר בסיס?
   - am ehesten : ככל הנראה; באופן הכי פשוט
   - So geht es am ehesten. : ככה הכי קל לעשות את זה.
+r Ehrabschneider
+r Ehrbegriff
 e Ehre (pl. -n): כבוד; הוקרה
 ehren, ehrte, hat geehrt [vt.] : להעריך; להוקיר
+ehrenhaft [adj.]
+s Ehrenmal
+e Ehrenrunde
+s Ehrentor
+ehrenvoll [adj.]
+ehrenwert
+s Ehrenwort
+ehrfürchtig [adj.]
+s Ehrgefühl
 r Ehrgeiz : שאיפה, אמביציה
 ehrgeizig [adj.] : שאפתן, תחרותי, אמביציוזי
 ehrlich [adj.] : הוגן, ישר, הגון, כֵּן
+e Ehrung
 s Ei (pl. -er) : ביצה
+  - Sie gleichen einander wie ein Ei dem anderen.
+  - Er sieht aus wie aus dem Ei gepellt,
+  - j-m wie ein rohes Ei behandeln
+  - Das Ei des Kolumbus
+s Eichamt
+e Eiche (pl. -n) : אַלּוֹן
+e Eichel : עטרה; בַּלּוּט
+eichen : לְכַיֵּל
+s Eichen : כִּיּוּל
+s Eichenlaub
+s Eichhörnchen (= pl.) : סְנָאִי
+e Eichung : כִּיּוּל
 r Eid (pl. -e) : שבועה
+  - einen Eid ablegen
+  - einen Eid schwören
+  - unter Eid aussagen
+r Eidbruch
 e Eidechse (pl. -n) : לטאה
 e Eidechsenhaut : עור לטאה
+e Eierspeise (pl. -n)
 r Eifer : להט
+r Eiferer
+eifern
+eifrig [adj.]
+e Eifersucht : קנאה
+s Eigelb (pl. -e) : חלמון
+s Eigelbpulver : אבקת חלמון
 eigen [adj.] : משל עצמו, מיוחד, ייחודי
   - sehr eigen : מאוד משונה
+  - j-m eigen sein
   - sich etwas zu eigen machen : לנכס, לתפוס בעלות
+e Eigenart
+eigenartig [adj.]
+r Eigenbrötler
+eigenhändig [adj.]
+s Eigenheim
+s Eigenlob
+r Eigennutz
+eigennützig [adj.]
 eigens [adv.] : במיוחד, באופן מובהק
+e Eigenschaft
+s Eigenschaftswort
 eigenständig [adj.] : עצמאי; אוטונומי
 e Eigenständigkeit : אוטונומיה, עצמאות, שלטון עצמי
+eigentlich [adj.]
+eigentlich [adv.] : למעשה, לאמיתו של דבר
+s Eigentor
+s Eigentum
 sich eignen : להתאים, להיות מתאים
+  - sich [präd.] eignen
+  - sich gut eignen
   - sich für + [Akk.] eignen : להתאים ל־; להיות מתאים ל־
+  - sich zu + [Dat.] eignen
+eignend [adj.]
+e Eignung
+e Eignungsprüfung
+s Eiland (pl. -e) : אי
 r Eilbote, e Eilbotin : שליח, רץ, בלדר
+r Eilbrief
+e Eile
+eilen, eilte, ist geeilt [vi.] : לאוץ, להזדרז
+  - zu + [Dat.] eilen : להזדרז ל
+sich eilen, eilte sich, hat sich geeilt : להזדרז
+eilends [adv.] : בזריזות, בהזדרזות
+eilfertig
+eilig
+eiligst
+r Eilzug
+r Eimer (= pl.) : דלי
+eimerweise [adv.] : בדליים
 ein [adj.] : אחד
   - Er ist einer von uns : הוא אחד משלנו
 eín|äschern
@@ -4739,6 +4853,13 @@ e Erdbeere (pl. -n) : תות, תות שדה
 e Erde : אדמה, כדור הארץ
 e Erdkunde : גיאוגרפיה
 erdkundlich [adj.] : גיאוגרפי
+sich ereifern : להתרגש
+ereifernd
+sich ereignen : להתרחש
+sich ereignend
+s Ereignis (pl. -se)
+r Eremit
+e Eremitin
 erfassen [vt.] : לתפוס; לתפוש; לגלות; לכלול; להגיע להכרה
 erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
   - "Was in der Revolution erfochten wurde, ist das Bewusstsein, dass der Gedanke stärker, größer und gewaltiger ist als die Macht der Bajonette und Kanonen." [Die Deutschen]
@@ -6723,6 +6844,8 @@ s Nachäffen : חיקוי
 e Nachäfferei : חיקוי
 e Nachahmung : חיקוי
 r Nachbar (pl. -n) : שכן
+nách|eifern, eiferte nach, hat nachgeeifert
+  - j-m nacheifern : לחקות מישהו
 nách|geben + Dat. : להיכנע (ליצר), לוותר (בעקבות לחץ)
 nách|gehen : לעסוק ב־, למלא אחר
 s Nachhinein : דיעבד
@@ -6950,8 +7073,23 @@ pauschal [adj.] : כולל; מקיף; גורף
 pauschal [adv.] : באופן גורף
   - [Akk.] pauschal abtun : לבטל משהו במחי יד
   - So pauschal kann man das nicht sagen. : אי אפשר לומר את זה בצורה כל כך גורפת.
+r Pauschalbetrag
+r Pauschalpreis
+r Pauschalsatz
+e Pauschalsteuer
+e Pauschalsumme
 e Pause (pl. -n) : הפסקה
-peilen
+pausen
+r Pausenraum
+peilen, peilte, hat gepeilt [vt.] [ugs.] : למקם ?
+  - [Akk.] über den Daumen peilen : לנחש בהערכה גסה
+  - die Lage peilen : להעריך את המצב
+s Peilen
+e Peilgenauigkeit
+s Peilgerät
+Peilsender
+pellen, pellte, hat gepellt [vt.] : לקלף
+e Peilung
 r Penis (pl. Penes, Penisse) : פין
 e Pest : מגיפה
 r Pfad
@@ -8329,7 +8467,9 @@ unbekannt [adj.] : לא מוכר, בלתי מוכר
 unbestritten [adj.] : מוסכם; שאין עליו עוררין
 unbezahlbar [adj.]
 und : וְ־
+unehelich [adj.]
 uneins : מפולג, מפוצל, מחולק
+unendlich [adj.]
 e Unendlichkeit : אינסוף
 unerfreulich [adj.] : לא נעים
 unerhört : מזעזע, שלא נשמע כמותו
@@ -9271,7 +9411,10 @@ s Zeichen : סימן
 r Zeichenblock
 zeichnen, zeichnete, hat gezeichnet [vt.] : לצייר
 e Zeichnung (pl. -en) : רישום, ציור; סקיצה
-zeigen [vt.] : להראות; לסמן
+r Zeigefinger (= pl.)
+zeigen, zeigte, hat gezeigt [vt.] : להראות; לסמן
+sich zeigen, zeigte sich, hat sich gezeigt : להופיע; להציג את עצמו
+r Zeiger
 e Zeit (pl. -en) : זמן; זמן־פועל; תקופה
   - Die Zeit ist um. : נגמר הזמן.
   - Wurde auch zeit : הגיע הזמן באמת
@@ -9293,7 +9436,7 @@ zerrüttet : מנופץ, שבור, הרוס
 zerschlagen (zerschlägt), zerschlug, hat zerschlagen : למחוץ, לשבור לרסיסים, לפרק
   - Die polizei hat den Schmuggelring zerschlagen.
 zersetzen, zersetzte, hat zersetzt [vt.] : לשבור; לערער, לחתור תחת, להחליש
-  sich zersetzen : להתפרק, להתערער, להישבר, להיחלש
+sich zersetzen, zersetzte sich, hat sich zersetzt : להתפרק, להתערער, להישבר, להיחלש
 e Zersplitterung : פיצול, פלגנות
 zerstören, zerstörte, hat zerstört [vt.] : להרוס
 e Zerstörung
@@ -9311,6 +9454,17 @@ ziehen, zog, hat gezogen
   - nach + [Ort] ziehen : לעבור למקום
 s Ziel (pl. -e) : מטרה
 zielbewusst [adj.] : מוכוון מטרה
+r Zielflughafen
+zielführend [adj.]
+e Zielfunktion
+e Zielgruppe
+s Zielland
+ziellos [adj.]
+e Zielperson
+r Zielpreis
+s Zielpublikum
+r Zielpunkt
+e Zielsetzung
 e Zigarre (pl. -n) : סיגר
 e Zigarette (pl. -n) : סיגריה
 s Zimmer (= pl.) : חדר
@@ -9440,8 +9594,11 @@ zú|wenden, wendete zu/wandte zu, hat zugewendet/zugewandt [vt.] : להפנות;
   - [Dat.] Aufmerksamkeit zuwenden : להפנות תשומת לב ל־
   - sich[Akk.] [Dat.] zuwenden : לפנות ל
 zwicken : לצבוט
+e Zwinge (pl. -n)
 zwingen [vt.] : להכריח
 zwingend [adj.] : הכרחי
+zwischenzeitlich [adj.]
+zwischenzeitlich [adv.]
 r Zwang (pl. Zwänge) : כוח; כפיה, כורח, אילוץ
 e Zwangsarbeit : עבודת כפייה
 zwangsläufig [adj.] : בלתי נמנע
