@@ -1407,6 +1407,8 @@ aús|gehen : לצאת; להיגמר; לצאת לדייט, לצאת עם־
 ausgeliefert
   - ausgeliefert sein : to be committed
   - j-m ausgeliefert sein : to be at s.o.'s mercy
+ausgeschlossen [adj.] : ממין הנמנע
+  - nicht ausgeschlossen sein : לא להיות ממין הנמנע
 ausgestellt [adj.] : מוצג
 ausgezeichnet [adj.] : מצוין
 ausgiebig [adj.] : נרחב, שופע, מלא; יסודי, מעמיק
@@ -1482,6 +1484,7 @@ ausschließlich
   - adv. : בלבד, רק
   - sich ausschließlich mit jemandem beschäftigen
   - präp. + Gen. : פרט ל, מלבד־
+r Ausschuss (pl. Ausschüsse) : ועדה, ועד
 aús|schütten [vt.] : לחלק בין; לפזר בין
 aús|sehen, sah aus, hat ausgesehen [vi.] : להיראות
 s Aussehen : מראה
@@ -2076,6 +2079,8 @@ sich beí|zeiten
 bejahen [vt.] : להסכים, להשיב כן
 bejahend [adj.] : חיובי
 bejahendenfalls [adv.] : במידה שכן
+bekämpfen [vt.]
+e Bekämpfung : מאבק
 bekannt [adj.] : מוכר
   - bekannt geben : להכריז על
 r Bekannte (pl. -n) : מכר
@@ -2450,7 +2455,8 @@ betreten, betrat, hat betreten : להיכנס
 betreuen
 r Betreuer
 e Betreuung : דאגה; תמיכה
-r Betrieb (pl. -e)
+r Betrieb (pl. -e) : עסק; הרצה; מפעל
+s Betriebsergebnis
 sich betrinken, betrank sich, hat sich betrunken : להשתכר
 betroffen [adj.] : מושפע
 betröppelt [adj.] : מדוכדך
@@ -3611,6 +3617,7 @@ dass
 dasselbe : אותו, אותו אחד
 e Datei (pl. -en) : קובץ (במחשב)
 Daten (pl.) : מידע, נתונים
+s Datenleck : דליפת מידע
 datieren
 r Dativ (pl. -e) : דאטיב, יחסת מושא עקיף
 e Dattel (pl. -n) : תמר
@@ -3909,7 +3916,9 @@ diebisch
   - sich diebisch freuen
 r Diebstahl
 e Diele (pl. -n) : קורות עץ לריצוף; רצפה מקורות עץ
-dienen
+dienen : לשרת; לשמש כ־
+  - j-m dienen : לשרת מישהו
+  - als + [präd.] dienen : לשמש כ־
 r Diener
 dienern
 dienlich
@@ -4737,7 +4746,8 @@ s Einflößen
 Einfluss (pl. Einflüsse) : השפעה
   - auf + [Akk.] Einfluss haben : להשפיע על־
   - seinen Einfluss geltend machen
-einflußreich
+e Einflussnahme : השפעה
+einflussreich
 eín|frieden, friedete ein, hat eingefriedet : להקיף
 eín|friedigen, friedigte ein, hat eingefriedigt : להקיף
 e Einfriedung : גדר
@@ -4834,6 +4844,8 @@ r Einsatz (pl. Einsätze) : שימוש; מחויבות; סיכון
 eín|schätzen [vt.] : להעריך, לעשות הערכה, לתת הערכה
 e Einschätzung : הערכה
 r Einschnitt (pl. -e) : חתך
+eín|schränken [vt.] : להגביל; לצמצם
+sich eín|schränken
 eín|schreiben
   - sich einschreiben : להירשם (ללימודים)
 s Einschreiben : מכתב רשום
@@ -5271,6 +5283,7 @@ fegen [vt.] : לטאטא
 fehlen, fehlte, hat gefehlt : להיות חסר; להיעדר; לא להימצא, לא להיות בנמצא
 s Fehlen : מחסור; היעדר
 r Fehler (= pl.) : שגיאה
+e Fehlinformation : מידע מוטעה, מידע כוזב; מסירת מידע כוזב במכוון
 r Fehlschlag : כשלון
 féhl|schlagen (schlägt fehl), schlug fehl, ist fehlgeschlagen [vi.] : להיכשל
 feiern, feierte, hat gefeiert : לחגוג
@@ -5401,10 +5414,10 @@ e Flut (pl. -en) : מבול; הצפה
 fluten
 s Fluten
 e Flutrinne (pl. -n)
-fordern [vt.] : לדרוש; לתבוע; לבקש
-  - [Akk.] von j-m fordern : to demand s.th. from s.o., to require, to request
-  - Ersatz fordern : to claim compensation
-  - Geld fordern : to claim one's money
+fordern, forderte, hat gefordert [vt.] : לדרוש; לתבוע; לבקש
+  - [Akk.] (von j-m) fordern : לדרוש משהו )ממישהו(; לתבוע משהו )ממישהו(; לבקש משהו )ממישהו(
+  - Ersatz fordern : לדרוש פיצוי
+  - Geld fordern : לדרוש כסף
   - seinen Tribut fordern : to take its toll
 e Forderung : תביעה, דרישה, קריאה ל־
   Forderungen stellen : להציב דרישות
@@ -5421,6 +5434,7 @@ e Form (pl. -en) : צורה
 e Formel (pl. -n) : נוסחה; נוסח
 forsch [adj.] : פזיז, נמהר
 forschen : לחקור
+r Forscher
 fortan [adv.] : מעתה ואילך,מכאן ואילך
 fórt|fahren, fuhr fort, fortgefahren : להמשיך
 fórt|fallen, fiel fort, ist fortgefallen [vi.] : להפסיק להתקיים, להישמט
@@ -5484,6 +5498,7 @@ führen, führte, hat geführt [vt.] : להוביל, לקחת ל־, להדריך
   - dieser Weg führt nach ...
   - zu + [Dat.] führen : להוביל ל־
 e Führung : הנהלה; הנהגה
+s Führungsteam
 r Fuffi (pl. -s) [ugs.] : שטר של חמישים
 e Fülle : עושר
   - große Fülle : מגוון רחב
@@ -5581,6 +5596,7 @@ s Gedicht (pl. -e) : שיר
 gedrillt
   - hart gedrillt
 e Geduld : סבלנות
+  - die Geduld verlieren : לאבד את הסבלנות
 geduldig [adj.] : סבלני
   - geduldig sein : להיות סבלני
 geduldig [adv.] : בסבלנות
@@ -6600,6 +6616,8 @@ e Kulturleistung (pl. -en) : הישג תרבותי
 e Kultursprache (pl. -n) : לשון תרבות
 r Kunde (gen. -n, pl. -n) : לקוח
 e Kundenbetreuung : שירות לקוחות; תמיכה טכנית
+kündigen, kündigte, hat gekündigt [vt.] : לסיים; לבטל
+e Kündigung (pl. -en)
 e Kundin (pl. -nen) : לקוחה
 e Kundschaft : קליינטורה; קהל לקוחות
 e Kundgebung : הפגנה, עצרת
@@ -6704,6 +6722,7 @@ r Lebenslauf : קורות חיים
 s Lebensmittel : מצרכים; מצרכי מזון; אוכל
 s Lebensmittelgeschäft : מכולת
 lebhaft [adj.] : מלא חיים
+s Leck : דליפה
 s Lederwams : מעיל עור
 leer [adj.] : ריק
 legen, legte, hat gelegt : להניח
@@ -7013,6 +7032,9 @@ mít|halten (hält mit), hielt mit, hat mitgehalten : לעמוד בקצב
   - nicht mithalten können : לא להצליח לעמוד בקצב
 Mitleid
   - Mitleid mit j-m haben : לרחם על מישהו
+mít|nehmen (nimmt mit), nahm mit, hat mitgenommen [vt.] : לקחת
+s Mitnehmen : טייק־אוויי
+  - zum Mitnehmen : טייק־אוויי
 e Mitsprache : אמירה (במובן של: הזכות או הסמכות לומר משהו)
 r Mittag : צהריים
   - zu Mittag essen : לאכול ארוחת צהריים
@@ -7312,6 +7334,8 @@ r Parkplatz (pl. Parkplätz) : חניון
 s Parlament : פרלמנט
 Paroli
   - [Dat.] Paroli bieten : להתייצב כנגד, לקרוא תיגר על
+e Partei : מפלגה
+r Parteikollege (gen. -n, pl. -n)
 r Pass (pl. Pässe) : מסירה (בספורט); דרכון
 s Passwort : סיסמה
 passabel [adj.] : סביר, מתקבל על הדעת
@@ -7461,6 +7485,7 @@ r Plastikteller (= pl.)
 e Plastiktüte (pl. -n)
 e Plastikumhüllung
 r Plastikumschlag
+e Platform (pl. -en) : פלטפורמה
 r Platz (pl. Plätze) : מקום
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
 plaudern : לפטפט
@@ -7590,6 +7615,7 @@ r Rasierschaum : קצף גילוח
 e Rast : מנוחה
 rasten : לנוח
 s Raster (= pl.) : רשת (קואורדינטות במפה); דגם
+r Rat
 e Rate (pl. -n) : תשלום
   - [Akk.] in Raten bezahlen : לשלם משהו בתשלומים
 raten, riet, hat raten [vt.] : לנחש
@@ -7648,6 +7674,7 @@ regnen, regnete, hat geregnet [vi.] : לרדת (גשם)
   - stark regnen : יורד גשם חזק
 regnerisch [adj.] : גשום
 regulieren, regulierte, hat reguliert : להסדיר
+r Regulierer (= pl.) : רגולטור
 reguliert [adj.] : מוסדר, תחת רגולציה
 e Regulierung : רגולציה, הסדרה
 e Regulierungsbehörde : רשות ההסדרה
@@ -7692,6 +7719,11 @@ e Rentenversicherung : ביטוח פנסיה
 r Rentner (= pl.) : פנסיונר
 e Rentnerin (pl. -nen) : פנסיונרית
 reparieren : לתקן
+r Repräsentant
+s Repräsentantenhaus : בית הנבחרים
+e Repräsentanz
+Repräsentativ [adj.]
+repräsentieren
 r Respekt : כבוד, הוקרה
 respektieren [vt.] : לכבד
 respektlos [adj.] : חסר נימוס; גס רוח; חסר כבוד
@@ -8281,6 +8313,8 @@ e Staatsangehörigerin : אזרחית
   - deutsche Staatsangehörigerin
 e Staatsangehörigkeit : אזרחות
   - deutsche Staatsangehörigkeit
+r Staatsanwalt
+e Staatsanwältin (pl. -nen)
 r Staatsbürger (= pl.) : אזרח
   - deutscher Staatsbürger
 e Staatsbürgerin (pl. -nen) : אזרחית
@@ -8310,7 +8344,7 @@ r Standpunkt (pl. -e) : נקודת מבט; עמדה; זווית ראיה
 e Stange (pl. -n) : מוט
   - vor der Stange : מוכן מראש, רדימייד
   - bei der Stange bleiben : להתמיד, להישאר עם זה
-stark [adj.] : חזק
+stark (stärker, am stärksten) [adj.] : חזק
 stärken [vt.] : לחזק; להגביר
 starr [adj.] : קשיח, נוקשה, קשה
 starren, starrte, hat gestarrt [vt.] : לבהות
@@ -8369,6 +8403,7 @@ e Stickerei : רקמה
 r Stiefel (= pl.) : מגף
 r Stiel (pl. -e) : ידית; מקל; גרעין (של פרי)
   - Eis am Stiel : שלגון, קרטיב, ארטיק
+e Stiftung (pl. -en) : קרן
 stillen : להניק; לספק; להרוות; להשביע
 stimmen, stimmte, hat gestimmt : להיות נכון
   - Das stimmt meiner Meinung nach nicht : לדעתי זה לא נכון
@@ -8514,12 +8549,14 @@ Tausende (pl.)
   - Tausende von + [Dat.] : אלפי
 tappen : לגשש
   - im Dunkeln tappen : לגשש באפלה
+s Team
 r Technokrat (pl. -en) : טכנוקרט
 e Technokratie : טכנוקרטיה
 technokratisch [adj.] : טכנוקרטי
 e Technologie (pl. -n) : טכנולוגיה
 e Technologiefirma (pl. Technologiefirmen) : חברת טכנולוגיה
 r Technologiekonzern (pl. -e) : קונצרן טכנולוגי
+e Technologiemesse
 technologisch [adj.] : טכנולוגי
 e Technophilie : טכנופיליה
 r Technophobe (gen. -n, pl. -n) : טכנופוביה
@@ -8537,7 +8574,10 @@ e Telefonnummer : מספר טלפון
 r Teller (= pl.) : צלחת
 r Teppich (pl. -e) : שטיח
   - j-m den roten Teppich ausrollen : לפרוש בפני מישהו שטיח אדום
+r Test : מבחן
 testen : לבחון
+r Testzweck (pl. -e)
+  - zu Testzwecken
 teuer [adj.] : יקר
 s Theater (= pl.) : תאטרון
 r Thron : כס המלכות
@@ -8582,6 +8622,7 @@ töten : להרוג
 tragen : לשאת; ללבוש
 trainieren [vt.] : לתרגל, להתאמן
 s Trainiren : אימון
+e Transparenz : שקיפות
 e Trauer : שכול; יגון; צער
 traurig [adj.] : עצוב
 e Traurigkeit : עצבות
@@ -8774,6 +8815,8 @@ unausweichlich [adj.] : בלתי־נמנע
 unausweichlich [adv.] : באופן בלתי־נמנע
 unabdingbar [adj.] : חיוני, הכרחי
 unangebracht [adj.] : בלתי הולם; שלא במקומו
+unabhängig [adj.] : עצמאי, בלתי תלוי
+e Unabhängigkeit : עצמאות
 unantastbar [adj.] : שלא ניתן להפר או לחלל אותו; שלא ניתן לגעת בו
 e Unantastbarkeit
 unartig [adj.]
@@ -8827,6 +8870,7 @@ e Unterkunft : מחסה
 únter|legen + Akk. : לשים מתחת
 unternehmen (unternimmt), unternahm, hat unternommen : לקחת על עצמו; לעשות; לפעול; לעסוק ב־
 s Unternehmen (= pl.) : עסק
+s Unternehmensinteresse (pl. -n)
 r Unterricht (pl. -e) : שיעור
   - Heute ist kein Unterricht : היום אין שיעור
 unterrichten, unterrichtete, hat unterrichtet [vt.] : ללמד, להעביר שיעור
@@ -9474,6 +9518,7 @@ wahnsinnig [adj.] : משוגע, מטורף
   - j-n wahnsinnig machen : לשגע מישהו, להוציא מישהו מהכלים, להוציא מישהו מדעתו
 wahnsinnig [adv.] : באופן מדהים, בצורה יוצאת דופן
 wahr [adj.] : אמיתי
+währen : להימשך
 während [präp.]: במהלך, תוך כדי, בעת
   - während + [Gen.] [präp.] : במהלך, תוך כדי, בעת
 währenddessen [adv.] : בינתיים; תוך כדי כך
@@ -9857,6 +9902,7 @@ zú|fügen : לפגוע; להוסיף, לצרף
   - j-m Unrecht zufügen : לעשות למישהו משהו לא בסדר
 e Zufuhr : אספקה
 r Zug (pl. Züge) : רכבת; מהלך; בריזה
+r Zugang (pl. Zugänge) : גישה, זכות כניסה
 zú|geben : להוסיף (לתת בנוסף)
 zú|gehen : להתקרב; להיסגר (חלון)
 r Zügel (= pl.) : כליות; רסן
