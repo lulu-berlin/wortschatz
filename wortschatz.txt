@@ -1345,6 +1345,10 @@ s Auge (pl. -n) : עין
   - j-m etwas unter vier Augen erzählen : לספר למישהו משהו בארבע עיניים
 r Augenblick : רגע
 e Augenbraue (pl. -n) : עפעף
+e Augenhöhe : גובה העיניים
+  - auf Augenhöhe : בגובה העיניים
+  - gleiche Augenhöhe : בסיס שווה, אותו גובה עיניים
+  - in Augenhöhe : בגובה העיניים
 r August : אוגוסט
 e Auktion (pl. -en) : מכירה פומבית
 r Auktionator
@@ -1407,6 +1411,7 @@ aús|geben, gab aus, hat ausgegeben [vt.] : to issue, to spend, to expend, to di
 ausgedehnt [adj.] : מורחב, נרחב
 ausgefochten [adj.] : שנלחם עד הסוף
 aús|gehen : לצאת; להיגמר; לצאת לדייט, לצאת עם־
+  - ein- und ausgehen : להיכנס ולצאת
   - mit j-m ausgehen : לצאת עם מישהו, לצאת לדייט עם מישהו
 ausgeliefert
   - ausgeliefert sein : to be committed
@@ -4784,6 +4789,7 @@ eín|gehen, ging ein, ist eingegangen : להתקבל; לקחת, ליטול; לי
   - auf + [Akk.] eingehen : להזכיר; לדון ב־, לגעת ב־; להראות עניין ב־; להגיב ל־
   - ein Risiko eingehen : לקחת סיכון, ליטול סיכון
   - eine Allianz eingehen : ליצור ברית
+  - ein- und ausgehen : להיכנס ולצאת
 eingekreist [adj.] : מוקף, מכותר
 eín|gemeinden, gemeindete ein, hat eingemeindet
 e Eingemeindung
@@ -4843,48 +4849,115 @@ eín|leiten : להתחיל, לפתוח, ליזום
 eín|lenken [vt.] : to give in, to steer, to back down
   - in etw.[Akk.] einlenken : להפוך למשהו
 s Einlenken
+eín|leuchten
 eín|lösen, löste ein, hat eingelöst : לפדות; לממש
+eín|machen, machte ein, hat eingemacht [vt.] : לשמר
+s Einmachen : שימור
+s Einmachglas : צנצנת שימורים
 s Einnässen : הרטבה
 eín|nehmen (nimmt ein), nahm ein, hat eingenomment [vt.] : ליטול; למלא )זמן(; לקחת; לתפוס
+e Einöde (pl. -n) : שממה
 eín|ordnen : למיין, לסווג
 eín|packen : לארוז
+eín|parken, partke ein, hat eingeparkt : לחנות
+eín|prägen, prägte ein, hat eingeprägt : להחתים
+sich eín|prägen, prägte sich ein, hat sich eingeprägt : לשנן
+  - sich[Dat.] [Akk.] einprägen : לשנן
+  - sich [Akk.] ins Gedächtnis einprägen : לשנן
+  - sich[Akk.] j-m einprägen : להיתקע למישהו בזכרון
+einprägsam [adj.] : בלתי נשכח, שקל לזכור
+e Einprägung (pl. -en) : סימן, חותם
+eín|räumen
+e Einreise
+e Einreiseerlaubnis
+eín|reisen
 eín|reißen [vt.] : להרוס, להפיל, למוטט
-etw. eín|richten : to set up, to establish, to adapt, to arrange לארגן משהו, לסדר משהו, לדאוג, לספק
+eín|richten : להתקין, להכין, לארגן, לערוך, לכונן, להקים, לקבוע מראש
+  - [Akk.] einrichten : לארגן משהו, לסדר משהו, לדאוג, לספק
   - Der Techniker richtete die Website innerhalb einer Woche ein.
   - Um die Schmugglerbande zu bekämpfen, wurde eine Sondereinheit eingerichtet.
+e Einrichtung (pl. -en) : יִסּוּד; גוף )רשמי(; מוסד; ארגון
+eins [pron.]
+e Eins : אחת )המספר(, יחידה
 einsam [adj.] : בודד
   - sich einsam fühlen : להרגיש בודד
+e Einsamkeit
 r Einsatz (pl. Einsätze) : שימוש; מחויבות; סיכון
+einsatzbereit
+s Einsatzkommando
+eín|schalten
+e Einschaltquote
 eín|schätzen [vt.] : להעריך, לעשות הערכה, לתת הערכה
 e Einschätzung : הערכה
+r Einschlag : רושם, השפעה
+eín|schlagen, schlug ein, hat eingeschlagen [vi.] : להצליח )סרט(, להיות הצלחה מסחררת, להיות שובר קופות
+eín|schlagen, schlug ein, hat eingeschlagen [vt.] : לקחת; לבחור; לנפץ
+  - einen Weg einschlagen : לבחור דרך
+eín|schließen, schloss ein, hat eingeschlossen [vt.] : לכלול; לערב
+einschließend [adv.] : כולל; באופן שמערב
+einschließlich [adv.] : כולל
+e Einschließung
 r Einschnitt (pl. -e) : חתך
 eín|schränken [vt.] : להגביל; לצמצם
 sich eín|schränken
-eín|schreiben
-  - sich einschreiben : להירשם (ללימודים)
+e Einschränkung
+eín|schreiben [vt.] : לחרות, לחקוק; לרשום
+s Einschreiben : דואר רשום
+sich eín|schreiben : להירשם (ללימודים)
+  - sich für + [Akk.] einschreiben : להירשם למשהו
 s Einschreiben : מכתב רשום
+eín|schüchtern, schüchterte ein, hat eingeschüchtert [vt.] : להלך אימים, להפחיד, לאיים
+e Einschüchterung : הפחדה, איום
+eín|sehen
+s Einsehen
 einseitig [adj.] : חד־צדדי, מוטה
 einseitig [adv.] : באופן חד־צדדי, באופן מוטה
+eín|senden
 eín|setzen, setzte ein, hat eingesetzt [vt.] : להשתמש ב־, לעשות שימוש ב־
 sich eín|setzen, setzte sich ein, hat sich eingesetzt [vt.] : לתמוך; לעשות קמפיין
   - sich für + [Akk.] einsetzen : לתמוך ב־, לפעול למען, לעשות קמפיין לטובת, להתאמץ בשביל, לקדם
 s Einsetzen
 e Einsetzung
-r Einspruch : התנגדות; מחאה
+e Einsicht : בדיקה, בחינה, פיקוח
+einsichtig
+e Einsichtigkeit
+r Einsiedler
+einsiedlerisch [adj.]
+r Einsiedlerkrebs
+eín|schlafen, schlief ein, ist eingeschlafen [vi.] : להירדם
+e Einsparrung (pl. -en)
+r Einspruch (pl. Einsprüche) : התנגדות; מחאה
+einst
+einstmals
+einstweilen
 eín|stehen
   - für + [Akk.] einstehen : להיות אחראי על; לערוב ל־; להתחייב ל־; להבטיח
 eín|stellen : להעסיק, למנות, לשכור את שירותיו של מישהו
-eín|schlafen, schlief ein, ist eingeschlafen [vi.] : להירדם
-einseitig : חד־צדדי, מוטה
-e Einsparrung (pl. -en)
-r Eintopf : תבשיל; נזיד
+einstellig
+e Einstellung
+s Einstellungsgespräch
+r Eintopf (pl. Eintöpfe) : תבשיל; נזיד
+e Eintracht
+einträchtig
 eín|tragen [vt.] : לרשום, להכניס לרשימה, להוסיף לרשימה
   - sich eintragen : להירשם
 eín|treffen : להגיע
-sich[Dat.] [Akk.] eín|verleiben : לכלול, לשלב, לעשות אסימילציה
-eín|verleiben
-  - sich[Dat.] einverleiben : לכלול, לשלב, לאגד
-e Einverleibung (pl. -n) : אסימילציה
+eín|treten
+r Eintritt
+s Eintrittsgeld
+sich eín|verleiben
+  - sich[Dat.] [Akk.] eín|verleiben : לכלול, לשלב, לעשות אסימילציה, לאגד
+e Einverleibung (pl. -n) : אסימילציה; הכללה; אינקורפורציה; שילוב
+einverstanden [adj.] : מוסכם
+  - einverstanden sein : להסכים
+s Einverständnis : הסכמה
+r Einwanderer
+eín|wandern
+e Einwanderung
+r Einwand (pl. Einwände) : התנגדות
+  - Einwand erheben : להעלות התנגדות
+einwandfrei [adj.]
+e Einwegflasche (pl. -n)
 e Einweihung : חניכה; כניסה רשמית לתפקיד
 eín|werfen [vt.] : להכניס (מכתב לתיבת המכתבים; מטבע למכונה)
 s Einwerfen : הכנסה (של מטבע)
@@ -6876,7 +6949,7 @@ e List : עורמה
 e Liste (pl. -n) : רשימה
 r LKW (= pl.) [kurz für Lastkraftwagen] : משאית
 s Lob
-f Lobby : לובי
+e Lobby : לובי
 e Lobbygruppe (pl. -n)
 loben [vt.]
 s Loch (pl. Löcher) : חור
@@ -7847,6 +7920,11 @@ e Rolle (pl. -n) : תפקיד
 rollen [vt.] : לגלגל, להסיע (משהו עם גלגלים)
 rollen [vi.] : להתגלגל, לנסוע (מטוס לטרמינל)
 s Rollenspiel (pl. -e) : משחק תפקידים
+röntgen [vt.] : לעשות צילום רנטגן של
+s Röntgen : רנטגן
+s Röntgenbild (pl. -er)
+e Röntgenstrahlung
+e Röntgenpraxis
 rosa [adj.] : ורוד
 r Rosenkranz (pl. Rosenkränze) : מחרוזת תפילה
   - den Rosenkranz beten : להתפלל עם מחרוזת תפילה
@@ -8658,10 +8736,10 @@ s Teil (pl. -e) : חתיכה; חלק יחסי; קטע
 teilen, teilte, hat geteilt : לחלק, לחלוק; לשתף
 teíl|nehmen, nahm teil, hat teilgenommen [vt.] : להשתתף, לקחת חלק
 r Teilstamm : תת־ענף (של משפחה, שבט)
-teilweise : partial(ly), partly, to some extent
-f Teilzeit : משרה חלקית
-Teilzeit-Professor
-Teilzeit-Praktikum
+teilweise [adv.] : partial(ly), partly, to some extent
+e Teilzeit : משרה חלקית
+r Teilzeit-Professor
+s Teilzeit-Praktikum
 s Telefon : טלפון
 e Telefonnummer : מספר טלפון
 r Teller (= pl.) : צלחת
@@ -8911,21 +8989,33 @@ unabdingbar [adj.] : חיוני, הכרחי
 unangebracht [adj.] : בלתי הולם; שלא במקומו
 unabhängig [adj.] : עצמאי, בלתי תלוי
 e Unabhängigkeit : עצמאות
+unangenehm [adj.] : לא נעים, בלתי נעים
 unantastbar [adj.] : שלא ניתן להפר או לחלל אותו; שלא ניתן לגעת בו
 e Unantastbarkeit
 unartig [adj.]
 unbändig
+unbedenklich [adj.]
+unbedingt [adj.]
+unbedingt [adv.]
+unbefristet [adj.]
 unbekannt [adj.] : לא מוכר, בלתי מוכר
 unbestritten [adj.] : מוסכם; שאין עליו עוררין
 unbezahlbar [adj.]
 und : וְ־
+undicht [adj.] : דולף; לא אטום
+e Undichtigkeit : דליפה
 unehelich [adj.]
+uneingeschränkt [adj.] : בלתי מוגבל
+uneinheitlich [adj.]
+uneinig [adj.]
+e Uneinigkeit
 uneins : מפולג, מפוצל, מחולק
-unendlich [adj.]
+unendlich [adj.] : אינסופי; בלתי נגמר; נצחי
 e Unendlichkeit : אינסוף
 unerfreulich [adj.] : לא נעים
 unerhört : מזעזע, שלא נשמע כמותו
 unerklärlich : שלא ניתן להסבירו
+unerlässlich [adj.]
 r Unfall (pl. Unfälle) : תאונה; תאונת דרכים
 Unfallzeuge (pl. -n) : עד לאונה
 r Unfug : שטויות; מעשה קונדס; נזק; רעה
