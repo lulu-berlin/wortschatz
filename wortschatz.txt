@@ -5050,8 +5050,27 @@ s Ekel
 ekelerregend
 ekelhaft
 sich ekeln
+EKG [kurz für Elektrokardiogramm]
 r Eklat : סקנדל; מהומה
 eklig
+e Ekliptik
+ekliptisch
+e Ekstase (pl. -n)
+r Elefant (gen. -en, pl. -en)
+elegant [adj.] : אלגנטי
+e Eleganz : אלגנטיות
+r Elektriker (= pl.)
+elektrisch
+elektrisieren
+e Elektrizität
+e Elektrode
+s Elektrogerät
+s Elektron (pl. -en)
+Elektronenröhre
+elektronisch
+s Element
+elementar
+e Elementarschule (pl. -n)
 elf : אחת־עשרה
 elft [adj.] : האחד עשר, האחת עשרה
 s Elftel (= pl.) : החלק האחד עשר
