@@ -358,6 +358,7 @@ abseits + [Dat.] [präp.] : הרחק מ־
 áb|senden [vt.] : לשלוח (מכתב), לשגר (מכתב)
   - einen Brief absenden : לשלוח מכתב
 r Absender (= pl.) : שולח, מוען
+s Abservieren
 áb|setzen, setzte ab, hat abgesetzt
   - j-n absetzen : להוריד מישהו איפשהו (ממכונית, בהסעה)
   - den Hut absetzen : להוריד את הכובע
@@ -437,6 +438,8 @@ sich áb|wenden
 e Abzahlung : תשלום
 s Abzeichen : תג, סמל, סיכה, אות הצטיינות
 áb|ziehen : להוריד, להסיר
+áb|zielen, zielte ab, hat abgezielt
+  - auf + [Akk.] abzielen : להיות מכוון ל־
 r Abzug : הפחתה, ניכוי; הסגה; העתק
 abzüglich [präp.] : פחות־, מינוס־
 áb|zweigen : להסתעף
@@ -1243,6 +1246,7 @@ aufgedunsen [adj.]
 r Aufgang
 aúf|gehen
 aufgeregt [adj.] : מרוגש, נרגש, מתרגש
+aufgeschlossen [adj.] : פתוח; פתוח לרעיונות חדשים
 aufgetaut [adj.] : מופשר
 aufgezehrt : אכול, משומש, ממוצה
 aufgrund [präp.] : בשל
@@ -1308,6 +1312,8 @@ r Aufsatz (pl. Aufsätze)
 aúf|schieben
 r Aufschlag
 aúf|schlagen
+aúf|schließen [vt.] : לפתוח )מנעול, דלת(
+s Aufschließen
 r Aufschluss
 aúf|schneiden
 r Aufschneider
@@ -1354,11 +1360,14 @@ s Auge (pl. -n) : עין
   - unter vier Augen : בארבע עיניים
   - j-m etwas unter vier Augen erzählen : לספר למישהו משהו בארבע עיניים
 r Augenblick : רגע
+  - im Augenblick : כרגע
+augenblicklich [adv.]
 e Augenbraue (pl. -n) : עפעף
 e Augenhöhe : גובה העיניים
   - auf Augenhöhe : בגובה העיניים
   - gleiche Augenhöhe : בסיס שווה, אותו גובה עיניים
   - in Augenhöhe : בגובה העיניים
+Augentropfen (pl.) : טיפות עיניים
 r August : אוגוסט
 e Auktion (pl. -en) : מכירה פומבית
 r Auktionator
@@ -1851,6 +1860,7 @@ bedingen, bedingte, hat bedingt [vt.]
 e Bedingung (pl. -en) : תנאי
   - einzige Bedingung : התנאי היחיד
   - notwendige Bedingung : תנאי הכרחי
+bedingungslos [adj.] : לא מותנה; חסר תנאים; שאינו מוגבל בשום תנאי
 bedingungslos [adv.] : ללא תנאים
   - j-n bedingungslos lieben : לאהוב מישהו ללא תנאים
 bedrängen
@@ -1881,6 +1891,10 @@ beeindrucken [vt.] : להרשים
   - nicht zu beeindrucken : שלא ניתן להרשימו
   - tief beeindrucken : להרשים עמוקות
 beeindruckend [adj.] : מרשים
+beeinträchtigen [vt.]
+beeinträchtigend [adj.]
+beeinträchtigt [adj.]
+e Beeinträchtigung
 beenden [vt.] : לגמור, לסיים, להשלים; להפסיק; לסגור; לסכם; לצאת מ־
 beendet [adj.] : נגמר; שהסתיים
 e Beendung
@@ -2294,6 +2308,7 @@ berufen [adv.] : באופן כשיר, באופן קומפטנטי
 beruflich [adj.]
 e Berufsberatung
 berufserfahern
+r Berufsfahrer
 berufsfremd
 e Berufsschule
 berufstätig
@@ -2488,6 +2503,9 @@ betragen, betrug, hat betragen : מונה, אורך, מגיע לכדי [להיו
   - Die Entferunung beträgt vier Meilen.
   - Die Telefonrechnung beträgt 50 Euro.
 betreiben, betrieb, hat betrieben : לתפעל; לקחת חלק ב־; לשקוד, לעסוק ב‏־; לנהל; להריץ
+betreffen (betrifft), betraf, hat betroffen [vt.] : להיות נוגע ל; להיות קשור ל
+  - was [Akk.] betrifft
+  - Das betrifft Sie nicht. : זה לא נוגע לך
 betreten, betrat, hat betreten : להיכנס
 betreuen
 r Betreuer
@@ -2495,7 +2513,8 @@ e Betreuung : דאגה; תמיכה
 r Betrieb (pl. -e) : עסק; הרצה; מפעל
 s Betriebsergebnis
 sich betrinken, betrank sich, hat sich betrunken : להשתכר
-betroffen [adj.] : מושפע
+betroffen [adj.] : מושפע; מוכה
+  - von + [Dat.] betroffen sein : להיות מושפע מ; להיות מוכה מ; לסבול מ
 betröppelt [adj.] : מדוכדך
 betrüben
 betrüblich [adj.]
@@ -2735,6 +2754,7 @@ bis [konj.] : עד אשר
 r Bischof (pl. Bischöfe)
 r Bischofsstab
 bisher [adv.] : עד כה
+bisherig [adj.]
 bislang [adv.] : עד כה
 r Biss : נגיסה; נשיכה; טעימה, ביס
 S Bisschen : מעט
@@ -2942,7 +2962,7 @@ e Blutschande
 r Blutspender
 r Blutspur
 blutstillend [adj.]
-r Blutstropfen
+r Blutsropfen
 r Blutsturz
 e Bluttransfusion
 e Blutung
@@ -3370,6 +3390,7 @@ Buschwindröschen
   - Buße tun : לעשות תשובה, לכפר
 r Busen (= pl.) : חזה (של אישה); חיק
 r Busenfreund
+e Buslinie (pl. -n) : קו אוטובוס
 büßen : לכפר
   - für + [Akk.] büßen : לכפר על
 r Busfahrer
@@ -3706,6 +3727,7 @@ DB [kurz für Deutsche Bundesbahn]
 DBP [kurz für Deutsche Bundespost]
 DDR [kurz für Deutsche Demokratische Republik]
 e Debatte (pl. -n) : ויכוח, דיון; עימות
+  - Debatte über + [Akk.] : דיון על
 s Deck (pl. -s)
 e Decke (= pl.) : תקרה; שמיכה
 r Deckel : מכסה
@@ -3845,6 +3867,8 @@ derjenige, diejenige, dasjenige
 dermaßen [adv.] : במידה כזאת
   - ... dermaßen ..., dass ...
 derselbe, dieselbe, dasselbe [pron.] : אותו
+derzeit [adv.] : כרגע
+derzeitig [adv.]
 des
 r Deserteur (pl. -e) : עריק
 desertieren : לערוק
@@ -4009,7 +4033,7 @@ e Diktatur : דיקטטורה
 diktieren
 r Dilettant (gen. -en, pl. -en)
 dilettantisch
-e Dimension (pl. -en)
+e Dimension (pl. -en) : ממד
 DIN [Abk. für Deutsche Industrienorm]
 s Ding (pl. -e)
   - der Lauf der Dinge
@@ -4055,7 +4079,7 @@ Diskussions- [K]
 r Diskussionsteilnemher (= pl.) : משתתף בדיון
 e Diskussionsteilnemherin (pl. -nen) : משתתפת בדיון
 diskutabel
-diskutieren
+diskutieren, diskutierte, hat diskutiert [vt.] : לדון ב
 e Disonanz
 disponieren
 e Disposition
@@ -4064,6 +4088,7 @@ disqualifizieren
 e Distanz
 distanzieren
 e Distel (pl. -n)
+e Distribution
 e Diva
 divers [adj.]
 e Dividende
@@ -4670,6 +4695,7 @@ s Ehrgefühl
 r Ehrgeiz : שאיפה, אמביציה
 ehrgeizig [adj.] : שאפתן, תחרותי, אמביציוזי
 ehrlich [adj.] : הוגן, ישר, הגון, כֵּן
+e Ehrlichkeit
 e Ehrung
 s Ei (pl. -er) : ביצה
   - Sie gleichen einander wie ein Ei dem anderen.
@@ -4759,6 +4785,7 @@ eín|deichen
 eín|dicken, dickte ein, hat eingedickt : לרכז; לעבות
 eín|dringen : לחדור לתוך־
   - in + [Akk.] eindringen : לחדור לתוך־
+r Eindruck : רושם
 eindeutig [adj.] : חד־משמעי
 einen : לאחד
 einend : מאחד
@@ -4910,6 +4937,8 @@ einsam [adj.] : בודד
   - sich einsam fühlen : להרגיש בודד
 e Einsamkeit
 r Einsatz (pl. Einsätze) : שימוש; מחויבות; סיכון
+  - zum Einsatz kommen : להיכנס לשימוש
+  - sich zum Einsatz melden : להגיע לעבודה; להיות מוכן לקבל הוראות
 einsatzbereit
 s Einsatzkommando
 eín|schalten
@@ -5448,13 +5477,14 @@ erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
 r Ersthelfer (= pl.), e Ersthelferin
 ersticken [vt.] : לחנוק
 erstickend [adj.] : נחנק; חונק
-ertsmal [adv.] [ugs.] : קודם כל
+erstmal [adv.] [ugs.] : קודם כל
 erstreiten : לזכות ב־
 ertappen [vt.]
   - j-n ertappen : לתפוס מישהו בשעת מעשה
   - Lass dich nicht ertappen! : תיזהר לא להיתפס!
 sich ertappen
   - sich bei + [Dat.] ertappen : לתפוס את עצמו (עושה משהו)
+erteilen
 ertragen (erträgt), ertrug, hat ertragen [vt.] : לשאת; לסבול; לעמוד ב־
   - [Akk.] nicht mehr ertragen können : לא להיות יכול יותר לשאת משהו
 erübrigen [vt.] : לחסוך
@@ -5620,6 +5650,8 @@ fertig [adj.] : מוכן
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
   - fertig (mit j-m) sein
 e Fertigkeit (pl. -en)
+e Fertigung (pl. -en)
+r Fertigungsprozess (pl. -e)
 fesch [adj.] [ugs.] : אופנתי (בלשון הדיבור)
 Fesselballon
 fesseln
@@ -5730,8 +5762,9 @@ fordern, forderte, hat gefordert [vt.] : לדרוש; לתבוע; לבקש
   - Geld fordern : לדרוש כסף
   - seinen Tribut fordern : to take its toll
 e Forderung : תביעה, דרישה, קריאה ל־
-  Forderungen stellen : להציב דרישות
-  politische Forderung : דרישה פוליטית
+  - Forderung nach + [Dat.] : קריאה ל־
+  - Forderungen stellen : להציב דרישות
+  - politische Forderung : דרישה פוליטית
 fordern, forderte, hat gefordert [vt.] : לדרוש, לתבוע
 fördern : to foster, to promote, to encourage, to further
 e Förderung : promotion, support, funding, advancement, grant, encouragement
@@ -5782,6 +5815,8 @@ e Freizeit : זמן פנוי; פנאי
 fremd [adj.] : זר, גֵּר
   - fremd werden
   - "Das soltu wissen / Das dein Same wird frembd sein in einem Lande das nicht sein ist" [Gen. 15:13] = יָדֹעַ תֵּדַע כִּי־גֵר יִהְיֶה זַרְעֲךָ בְּאֶרֶץ לֹא לָהֶם ]בראשית טו, יג[
+r Fremde
+e Fremde
 e Fremdheit : זרות
 frémd|gehen : לבגוד ב־; לא להיות נאמן ל־
   - j-m fremdgehen : לבגוד במישהו; לא להיות נאמן למישהו
@@ -5921,6 +5956,8 @@ geduldig [adj.] : סבלני
   - geduldig sein : להיות סבלני
 geduldig [adv.] : בסבלנות
 geehrt [adj.] : נכבד
+geeignet [adj.] : מתאים; מותאם
+  - für + [Akk.] geeignet sein : להיות מתאים ל; להיות מותאם ל
 e Gefahr (pl. -en) : סכנה, סיכון
   - Gefahr laufen, ... zu + Inf. : להסתכן ב...
 gefährden, gefährdete, hat gefährdet [vt.] : לסכן
@@ -6035,6 +6072,7 @@ genauso [adv.] [ugs.] : ממש בדיוק
   - genauso wie [konj] : ממש כמו
   - genauso gut : טוב באותה מידה
 genehmigen : לאשר, להרשות
+generell [adv.] : באופן כללי
 genervt
   - von + [Dat.] genervt sein : להישבר (למישהו) ממשהו
 genießen, genoss, hat genossen [vt.] : ליהנות מ־
@@ -6147,6 +6185,8 @@ s Gewitter (= pl.) : סערה
 gewittrig [adj.] : רועם
 gewöhnen, gewöhnte, hat gewöhnt [vt.] : להרגיל
 sich gewöhnen, gewöhnte sich, hat sich gewöhnt : להתרגל
+gewöhnlich [adj.] : רגיל
+gewöhnlich [adv.] : באופן רגיל
 s Gewölbe : כספת
 s Gewölk : עננים
 gewünscht [adj.] : מבוקש
@@ -6197,6 +6237,7 @@ s Gold : זהב
 gold [adj.] : בצבע זהב
 golden [adv.] : מוזהב
 r Gott : אלוהים
+  - über Gott und die Welt
 gottgefällig [adj.] : אלוהי; בהתאם לרצון האל
 r Götze (pl. -n) : אליל
 s Götzenbild : אליל, צלם
@@ -6241,9 +6282,12 @@ grotesk [adj.] : גרוטסקי
 r Grund (pl. Gründe) : סיבה
   - im Grund(e) : באופן עקרוני, בבסיסו של דבר
   - von Grund auf
+s Grundeinkommen : הכנסה בסיסית
 gründen [vt.] : להקים, לייסד
+  - eine Familie gründen : להקים משפחה
 r Gründer (= pl.) : מקים, מייסד
 e Gründerin (pl. -nen) : מקימה, מייסדת
+grundlegend [adj.]
 e Grundlinie : קו ההתחלה
 s Grundrecht : זכות יסוד
 r Grundsatz (pl. Grundsätze) : עקרון; אקסיומה
@@ -6333,6 +6377,7 @@ e Hand (pl. Hände) : יד, כף יד
   - Hände halten : להחזיק ידיים
   - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
 r Handel : מסחר
+r Handgriff (pl. -e) : ידית
 handeln, handelte, hat gehandelt : לפעול, לעשות מעשה; לסחור
   - "Du hast mit mir gehandelt / nicht wie man handeln sol" [Lutherbibel, Gen 20:9] = מַעֲשִׂים אֲשֶׁר לֹא־יֵעָשׂוּ עָשִׂיתָ עִמָּדִי
 r Händler (= pl.) : סוחר; מפיץ
@@ -6485,12 +6530,16 @@ hin oder her : בין אם כך ובין אם כך, לא משנה אם כך או
 hinab : למטה
 hináb|sehen :
   - auf j-n hinabsehen : to look down on s.o.
+e Auswirkung (pl. -en) : אפקט; השפעה; השלכות
 hinaús|wollen
   - auf + [Akk.] hinauswollen : לשאוף ל־; לכוון ל־; לחתור ל־
   - Ich verstehe nicht, worauf Sie hinauswollen : אני לא מבין לאן אתה חותר
 hineín|fühlen, fühlte hinein, hat hineingefühlt [vt.] : להבין (מישהו); להזדהות עם
+hineín|gehen, ging hinein, ist hineingegangen [vi.]
+hineín|spielen
 hín|geben, gab hin, hingegeben : להעניק; להקריב
   - sein Leben hingeben : להקריב את חייו
+hingegen [adv.] : באופן הפוך, אולם, בעוד ש
 hingezogen [adj.] : נמשך ל־
   - zu + [Dat.] hingezogen werden : להימשך ל־
   - sich zu + [Dat.] hingezogen fühlen : להרגיש משיכה ל־
@@ -6551,6 +6600,7 @@ s Hochschulstudium : לימודים גבוהים
 e Hochstimmung : התעלות, התרוממות רוח
 e Höchstleistung : שיא הכוח, שיא העוצמה, שיא היעילות
 höchstpersönlich : אישי ביותר
+hockqualifiziert [adj.]
 r Hocker (= pl.) : שרפרף
 r Hof (pl. Höfe) : חצר
 hoffen, hoffte, hat gehofft  : לקוות; לסמוך על כך ש־
@@ -6586,6 +6636,7 @@ r Hunger : רעב
   - Hunger stillen
 hungern : לרעוב
 s Hungern : רעב
+e Hürde (pl. -n) : משוכה
 huschen, huschte, ist gehuscht [vi.] : למהר, לרוץ; לעופף
 r Hut (pl. Hüte) : כובע
 e Hütte : בקתה
@@ -6646,6 +6697,7 @@ r Inhalt (pl. -e) : תוכן; נושא; עצם העניין
 initiieren : ליזום
 innen [adv.] : פְּנִים
 innenpolitisch [adj.] : פנים־פוליטי, של פוליטיקה פנימית
+e Innenstadt
 r Insasse (pl. -n) : אסיר
 e Insassin (pl -nen) : אסירה
 insbesondere [adv.] : במיוחד
@@ -6765,6 +6817,7 @@ karg [adj.] : דליל
 e Karotte (pl. -n) : גזר
 e Karte (pl. -n) : כרטיס; קלף; מפה; תפריט
 e Kartoffel (pl. -n) : תפוח אדמה
+r Karton (pl. Kartons, Kartone) : קרטון
 r Käse : גבינה
 e Kasse
 r Kassier
@@ -6864,8 +6917,20 @@ e Kohle
 r Kollege (pl. -n) : קולגה, חבר לעבודה
 komplett [adj.] : שלם
 komplett [adv.] : לגמרי
+komplex [adj.] : מורכב
+e Komponente (pl. -n) : מרכיב, רכיב, קומפוננט
 komprimieren [vt.] : לכווץ
 komprimiert [adj.] : מכווץ
+r Kompromiss (pl. -e) : פשרה
+  - einen Kompromiss eingehen
+  - (mit j-m) einen Kompromiss (in + [Dat.]) schließen : להתפשר עם מישהו על משהו
+  - Kompromisse suchen
+  - ohne Kompromisse
+  - keine Kompromisse eingehen
+s Kompromiss [selten] : פשרה
+kompromittieren [vt.]
+kompromittierend
+kompromittiert [adj.]
 konkret [adj.] : קונקרטי
 r Konkurrent (pl. -en) : מתחרה
 e Konkurrenz : תחרות
@@ -6892,8 +6957,8 @@ r Knuff
 knuffen
 knüpfen, knüpfte, hat geknüpft [vt.] : לקשור
 r Kragen (= pl.) : צווארון
-  j-m an den Kragen wollen : to act against, to attack, to eradicate
-  es geht j-m an den Kragen : to have something done against s.o.
+  - j-m an den Kragen wollen : to act against, to attack, to eradicate
+  - es geht j-m an den Kragen : to have something done against s.o.
 krass [adj.] : קיצוני; יוצא דופן; אדיר
 kriegen [vt.] : להשיג
 kross [adj.] : פריך
@@ -6904,6 +6969,7 @@ kochen, kochte, hat gekocht [vt.] : לבשל, להרתיח
 e Koinzidenz : צירוף מקרים
 r Kollaps : קריסה
   - plötzlicher Kollaps : קריסה פתאומית
+r Koller : התקף זעם
 kollern : להשמיע קול כמו תרנגול הודו
   - Der Truthahn kollert.
 komisch [adj.] : מוזר; משונה
@@ -6912,6 +6978,8 @@ kommen, kam, ist gekommen [vi.] : לבוא
   - zu + [Dat.] kommen : לבוא לידי
 e Kommode (pl. -n) : שידה
 e Konfitüre (pl. -n) : ריבה
+konfrontieren
+konfrontiert
 können (kann), konnte, hat gekonnt [vt.] : להיות יכול, להיות מסוגל
 r Kontrahent : יריב
 e Konzentration : ריכוז
@@ -6989,6 +7057,8 @@ r Kriegsschauplatz (pl. Kriegsschauplätze) : זירת המלחמה
 e Krise (pl. -n) : משבר
 r Kriseherd : אזור מועד לפורענות
 r Kritiker (= pl.) : מבקר
+kritisch [adj.] : ביקורתי
+kritisch [adv.] : באופן ביקורתי
 e Krone (pl. -n) : כתר
 krönen, krönte, hat gekrönt [vt.] : להכתיר
 e Krönung (pl. -en) : הכתרה
@@ -7017,6 +7087,8 @@ e Kundgebung : הפגנה, עצרת
 künftig [adj.] : עתידי
 künftig [adv.]
 r Kunstfehler : רשלנות פושעת
+künstlich [adj.] : מלאכותי
+  - künstliche Intelligenz : בינה מלאכותית
 r Kunststoff : פלסטיק
 kunterbunt [adj.] : מעורבב, מגוון, רבגוני; צבעוני
 r Kuppelbau : מבנה עם כיפה
@@ -7076,6 +7148,7 @@ längst [adv.] : זה זמן רב
   - längst überfällig
   - längst nicht
   - noch längst nicht : רחוק מ־; עדיין לא
+e Langstrecke (pl. -n)
 r Lappen (= pl.) : סמרטוט
 r Laptop : מחשב נייד, מחשב נישא
 r Lärm : רעש
@@ -7131,6 +7204,7 @@ e Leistung (pl. -en) : ביצועים; תשלום; שירות; תועלת; כו�
   - große Leitsung : הישג משמעותי
   - Leistungen erbringen : לספק שירותים
   - einen Beweis erbringen : לספק הוכחה
+Leistungsfähig [adj.]
 leiten, lietete, hat geleitet [vt.] : להדריך
 Leit- [K.] : מוביל, מרכזי
 e Leitfigur : דמות מובילה, דמות מרכזית
@@ -7407,6 +7481,8 @@ s Metall : מתכת
 meutern : למרוד
 miauen : לעשות מיאו
   - Die Katze miaut.
+mies [adj.] : רקוב; עלוב; גרוע
+  - sich mies fühlen : להרגיש רע
 e Miete : שכירות; שכר דירה
 mieten, mietete, hat gemietet [vt.] : לשכור
 e Mietskaserne : בית מגורים, בניין
@@ -7431,6 +7507,7 @@ misstrauen : לחשוד; לפקפק
 misstrauisch [adj.] : חשדני
 mit [präp.] : עם
 mít|bestimmen bestimmte mit, mitgebestimmt (!) : להשתתף בתהליך קבלת ההחלטות
+mít|bringen, brachte mit, hat mitgebracht [vt.] : להביא )איתו(; לקחת ולבוא
 s Mitglied (pl. -er) : חבר (במועדון, בקבוצה); אחד מתוך קבוצה; עמית; חלק במבנה; איבר
 e Mitgliedschaft : חברות (במועדון)
 mít|halten (hält mit), hielt mit, hat mitgehalten : לעמוד בקצב
@@ -7463,6 +7540,10 @@ mögen (mag), mochte, hat gemocht : לחבב
   - gern mögen : לאהוב
 e Möglichkeit : אפשרות
 e Möhre (pl. -n) : גזר
+r Moment (pl. -e) : רגע
+  - im Moment : כרגע
+momentan [adj.] : נוכחי
+momentan [adv.] : כרגע
 r Mond : ירח, לבנה
 r Morast (pl. Moraste, Moräste) : ביצה; סבך; תסבוכת
 r Mord : רצח
@@ -7652,11 +7733,20 @@ r Nordpol : הקוטב הצפוני
 e Nörgelei : תלונה
 nörgeln [ugs.] : לרטון, להתלונן
   - meckern und nörgeln : to bitch and moan
+s Normal (pl. -e) : מידה סטנדרטית
+normal [adj.] : נורמאלי; סטנדרטי; רגיל
+normal [adv.] : באופן רגיל; בדרך כלל
+e Normale
+normalerweise [adv.] : בדרך כלל
+normalisiern, normalisierte, hat normalisiert [vt.] : לנרמל
+e Normalisierung : נורמליזציה
+e Normung (pl. -en) : סטנדרטיזציה
 e Not (pl. Nöte) : צורך; מקרה חירום; צרה
   - zur Not : במקרה הצורך
 r Notfall (pl. Notfälle) : מקרה חירום
 notfalls [adv.] : in case of emergency
 notieren [vt.] : לציין (בכתב), לכתוב הערה, להעיר (בכתב)
+nötig [adj.] : דרוש
 e Notlandung : נחיתת חירום
 notwendig [adj.] : נחוץ, חיוני
 notwendigerweise [adv.]
@@ -8006,6 +8096,9 @@ r Preis : מחיר
   - um jeden Preis : בכל מחיר
   - seinen Preis haben : יש לו מחיר
 e Prellung : חבּורה, חבלה, מכה, חבטה
+s Problem (pl. -e) : בעיה
+problemlos [adj.] : קל; נטול בעיות
+problemlos [adv.] : בלי בעיות; בקלות
 e Produktion : יצור
 r Produktionsprozess (pl. -e) : תהליך הייצור
 r Professional : מומחה
@@ -8063,6 +8156,7 @@ e Quote (pl. -n) : מידה; כמות; קווטה
 = R =
 s Rabatt (pl. -e) : הנחה
 radieren [vt.] : למחוק
+radikal [adj.] : רדיקלי; קיצוני
 raffiniert [adj.]
 s Ragout : רגו, נזיד מתובל של בשר וירקות
 e Rallye
@@ -8233,6 +8327,7 @@ ringen, rang, hat gerung : להיאבק
 s Ringen : מאבק, היאבקות
 rinnen, rann, ist geronnen [vi.] : לנזול
 s Risiko : סכנה, סיכון
+e Risikotoleranz
 riskant [adj.] : מסוכן
   - riskant spielen : להמר, לשחק באופן מסוכן
 riskieren + Akk. : לסכן, לקחת סיכון, להסתכן ב־
@@ -8244,11 +8339,11 @@ r Ritz (pl. -e) : סדק
 e Ritze (pl. -n) : חריץ
 ritzen : לגרד
 r Rivale : יריב
+r Roboter (= pl.) : רובוט
 r Rock : חצאית
 roh [adj.]
 roh [adv.]
 r Rohbau
-Roboter (= pl.) : רובוט
 s Rohr (pl. -e) : צינור
 r Rohrabschneider
 r Rohrabschnitt
@@ -8285,6 +8380,8 @@ rot [adj.] : אדום
 rotblond [adj.] : בלונד־אדמדם
 e Rotte : עדר, להקה
 e Roulade : רולדה, בשר מגולגל ממולא
+e Routine
+e Routinearbeit (pl. -en)
 e Rübe (pl. -n) : לפת
 rüber [adv.] : הנה
 rücken : לזוז
@@ -8657,6 +8754,7 @@ r Seelsorger : כומר; רועה רוחני
 e Seemacht : הכוח הימי
 s Segel (= pl.) : מפרש
 segeln : לשוט, להפליג
+s Segment : סגמנט, מקטע, חלק, קטע
 segnen [vt.] : לברך
 sich sehnen : לערוג, להיכסף
   - sich nach + [Dat.] sehnen : לערוג ל־, להיכסף ל־
@@ -8738,6 +8836,7 @@ sinken, sank, gesunken
   - mir sank das Herz in die Hose : נפל לי הלב לתחתונים
 r Sinn (pl. -e) : חוש; משמעות; מטרה; שכל
   - Sinn ergeben : להיות הגיוני; להיות מתקבל על הדעת
+  - Sinn haben : להיות הגיוני; להיות מתקבל על הדעת
   - Sinn machen : להיות הגיוני, להתקבל על הדעת
   - keinen Sinn machen : לא להתקבל על הדעת
   - in diesem Sinne
@@ -8752,6 +8851,7 @@ e Sinnlichkeit : חושניות
 sinnvoll [adj.] : שימושי; הגיוני; נבון
 sitzen, saß, ist gesessen : לשבת
   - sitzen bleiben : להישאר לשבת
+e Skala : סקאלה
 skeptisch [adj.] : סקפטי
 r Ski (pl. Ski, Skier) : סקי
   - Ski fahren : לעשות סקי
@@ -8820,6 +8920,7 @@ spenden, spendete, hat gespendet [vt.] : לתרום
   - für einen guten Zweck spenden : לתרום לצדקה
 s Sperma (pl. Spermen, Spermata) : זרע
 e Sperrung : blocking, closing, inhibition
+speziell [adv.] : במיוחד
 r Spiegel (= pl.) : מראה
 spielen : לשחק
 s Spiel : משחק
@@ -8945,6 +9046,8 @@ e Stickerei : רקמה
 r Stiefel (= pl.) : מגף
 r Stiel (pl. -e) : ידית; מקל; גרעין (של פרי)
   - Eis am Stiel : שלגון, קרטיב, ארטיק
+r Stift (pl. -e) : עֵט
+stiften, stiftete, hat gestiftet [vt.] : לגרום ל; ליצור
 e Stiftung (pl. -en) : קרן
 stillen : להניק; לספק; להרוות; להשביע
 stimmen, stimmte, hat gestimmt : להיות נכון
@@ -8989,6 +9092,9 @@ r Streit : argument, conflict, quarrel, conflict, fight
 streiten : להתווכח
 strecken [vt.] : למתוח
 e Streitmacht : כוח צבאי
+streuen, streute, hat gestreut [vt.] : לפזר; לזרות; לבזוק; לרסס
+streuend
+e Streuung
 r Strich (pl. -e) : קו, מקף; זנות
 r Strick : חבל
 stricken [vt.] : לסרוג
@@ -9101,6 +9207,7 @@ täuschen [vt.] : להונות, להוליך שולל
   - sich täuschen : לשגות, לטעות
 Tausende (pl.)
   - Tausende von + [Dat.] : אלפי
+tausendfach [adv.] : פי אלף; אלפי מונים
 tappen : לגשש
   - im Dunkeln tappen : לגשש באפלה
 s Team
@@ -9136,6 +9243,11 @@ testen : לבחון
 r Testzweck (pl. -e)
   - zu Testzwecken
 teuer [adj.] : יקר
+r Text (pl. -e) : טקסט
+s Textil (pl. -ien) : טקסטיל
+e Textkritik
+textlich [adj.]
+textuell [adj.]
 s Theater (= pl.) : תאטרון
 s Thema : נושא
 r Thron : כס המלכות
@@ -9183,6 +9295,8 @@ tragisch [adj.] : טראגי
 trainieren [vt.] : לתרגל, להתאמן
 s Trainiren : אימון
 e Transparenz : שקיפות
+r Transport (pl. -e) : הובלה, טרנספורט
+s Transportgewerbe
 e Trauer : שכול; יגון; צער
 traurig [adj.] : עצוב
 e Traurigkeit : עצבות
@@ -9342,9 +9456,11 @@ r Umfang (pl. Umfänge) : היקף
 umfangreich [adj.] : נרחב, מקיף
 umfassen, umfasste hat umfasst : לכלול, לכסות
 umfassend [adj.] : כולל, מקיף
+s Umfeld : סביבה
 e Umfrage (pl.-n) : סקר
 úm|geben (umgibt), umgab, hat umgeben [vt.] : להקיף; לעטוף
 umgeben [adj.] : מוקף
+e Umgebung
 úm|gehen [vt.] : לעקוף
   - mit + [Dat.] umgehen : לטפל ב־, להסתדר עם־, לעסוק ב־
   - mit einem Problem umgehen : לטפל בבעיה
@@ -9358,6 +9474,7 @@ umkämpft [adj.] : תחרותי
 umsäumen, umsäumte, hat umsäumt : להקיף; לעמוד בשורה
 umsäumt [adj.] : תחום; מוקף
 úm|schwenken : לשנות צד
+e Umschulung (pl. -en)
 sich úm|sehen (sieht sich um), sah sich um, hat sich umgesehen : להסתכל סביב
   - sich auf + [Dat.] umsehen : להסתכל סביב על־
   - sich nach + [Dat.] umsehen : להסתכל סביב ולחפש משהו
@@ -9365,11 +9482,13 @@ sich úm|sehen (sieht sich um), sah sich um, hat sich umgesehen : להסתכל �
   - in die Tat umsetzen : לתרגם למעשים
 umsonst [adv.] : לשווא
   - Das war nicht umsonst : זה לא היה לשווא
+e Umstellung
 úm|stimmen [vt.] : לשנות (דעה)
 umstritten [adj.] : שנוי במחלוקת
 r Umsturz : הפיכה
 r Umstürzler : מהפכן
 úm|wälzen, wälzte um, umgewälzt : למחזר, להחליף במשהו חדש, to revolutionize
+e Umwälzung (pl. -en)
 úm|wandeln : להמיר
 úm|ziehen, zog um, ist umgezogen : לעבור מקום, להגר
   - sich umziehen : להחליף בגדים
@@ -9427,6 +9546,7 @@ e Uniformität
 uniform [adj.]
 s Unikat : יחיד במינו
 e Universität (pl. -en) : אוניברסיטה
+unkalkulierbar
 Unkosten (pl.) : הוצאות
   - Unkosten decken : לכסות את ההוצאות
 unliebsam [adj.] : לא נעים
@@ -9436,6 +9556,7 @@ e Unmittelbarkeit : מיידיות, ישירות
 e Unruhe : אי־נחת; חוסר שקט; מהומה, המולה
 unschlüssig : הססני, שלא הוסכם לגביו
 Unsitte : הרגל מגונה
+unstrukturiert [adj.]
 e Untat : פשע
 untätig : לא פעיל
 unten [adv.] : למטה
@@ -9759,6 +9880,8 @@ e Verletzung : הפרה; נזק; פגיעה; פציעה
 sich (in j-n) verlieben : להתאהב (במישהו)
 s Verlieben : התאהבות
 verlieren, verlor, hat verloren [vt.] : להפסיד
+r Verlierer (= pl.) : מפסיד, לוזר
+e Verliererin (pl. -nen) : מפסידה, לוזרית
 vermasseln [vt.] [ugs.] : לחרבן משהו
 vermeiden : להימנע מ־
 vermissen : להתגעגע ל־/אל־
@@ -9794,6 +9917,8 @@ verpassen, verpasste, hat verpasst [vt.] : להחמיץ, לפספס; לתת למ
   - j-m einen Kopfstoß verpassen
   - j-m eine Ohrfeige verpassen : לתת למישהו סטירת לחי
   - j-m einen Maulkorb verpassen : להוציא צו איסור פרסום על מישהו
+verpasst [adj.] : שהוחמץ
+  - Verpasster Sprachanruf
 verpeilt
   - verpeilt sein [ugs.] : להיות לא מרוכז; להיות מבולבל; להיות לא מאורגן
 sich verpissen : להסתלק
@@ -10147,6 +10272,7 @@ wahrhaben : להכיר בכך ש־
   - nicht wahrhaben wollen : לסרב להאמין ש־
 wáhr|nehmen (nimmt wahr), nahm wahr, hat wahrgenommen [vt.] : לתפוש; להכיר; להעריך; לחוש; להבחין
 wahrscheinlich [adj.] : סביר; מסתבר
+wahrscheinlich [adv.]
 r Wald (pl. Wälder) : יער
 walten, waltete, hat gewaltet : לשלוט
 walzen, walzte, gewalzt [vt.] : לגלגל
@@ -10245,6 +10371,7 @@ r Welpe : כלבלב
 r Welpenschutz : ירח דבש
 e Welt : עולם
   - ein Kind zur Welt bringen : להביא ילד לעולם
+  - über Gott und die Welt
 e Weltanschauung
 weltberühmt [adj.] : מפורסם בכל העולם
 e Weltgeltung : מעמד בינלאומי
@@ -10365,6 +10492,7 @@ s Wohlbehagen
 r Wohnbezirk
 r Wohnblock
 wohnen, wohnte, hat gewohnt [vi.] : לגור; להתגורר
+s Wohlergehen
 e Wohnung (pl. -en) : דירה
 s Wohnzimmer (= pl.) : סלון
 r Wolf (pl. Wölfe) : זאב
@@ -10454,6 +10582,7 @@ e Zeit (pl. -en) : זמן; זמן־פועל; תקופה
   - Die Zeit ist um. : נגמר הזמן.
   - Wurde auch zeit : הגיע הזמן באמת
   - Zeit verbringen : להעביר את הזמן
+  - zur Zeit
 r Zeitgeist
 zeitgemäß [adj.] : עכשווי
 zeitgerecht [adj.] : בזמן
@@ -10492,6 +10621,7 @@ ziehen, zog, hat gezogen
   - nach + [Ort] ziehen : לעבור למקום
 s Ziel (pl. -e) : מטרה
 zielbewusst [adj.] : מוכוון מטרה
+zielen
 r Zielflughafen
 zielführend [adj.]
 e Zielfunktion
@@ -10556,6 +10686,8 @@ zugunsten [präp.]
   - zugunsten + Gen. : in favor of, in support of, for the benefit of
   - zugunsten von
 zú|kommen, kam zu, ist zugekommen [vi.]
+  - auf + [Akk.] zukommen : להיות שייך ל; להיות משויך ל; להיות מקושר ל
+  - zukommen lassen
 e Zukunft : עתיד
 zukünftig [adj.] : עתידי
 zú|lassen (lässt zu), ließ zu, hat zugelassen : להרשות; להתיר
@@ -10588,6 +10720,7 @@ r Zustand (p. Zustände) : תנאי; מצב
 zustande
   - zustande bringen
   - zustande kommen : לבוא לידי קיום
+e Zustellung
 zú|trauen : לסמוך
   - j-m [Akk.] zutrauen : לסמוך על מישהו במשהו
 zú|treffen (trifft zu), traf zu, hat zugetroffen : להיות בתוקף, להיות תקף
@@ -10612,6 +10745,7 @@ zurück|ziehen, zog zurück, zurückzogen
   - sich (aus/von + [Dat.]) zurückziehen : לסגת (מ־)
   - Er bat, sich zurückziehen zu dürfen. : הוא ביקש להיות מורשה לסגת
   - sich aus der Welt zurückziehen : לפרוש מן העולם
+zurzeit [adv.] : כרגע
 zusammen [adv.] : ביחד; יחדיו
   - zusammen mit + [Dat.] [präp.] : יחד עם
 zusámmen|brechen : להתמוטט
