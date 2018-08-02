@@ -1356,6 +1356,7 @@ aúf|werfen, warf auf, hat aufgeworfen [vt.] : להעלות, לעורר, להצ�
 aúf|wiegen
 aúf|wiegeln
 s Auge (pl. -n) : עין
+  - wie die Faust aufs Auge
   - sich die Augen reiben : לשפשף את העיניים
   - unter vier Augen : בארבע עיניים
   - j-m etwas unter vier Augen erzählen : לספר למישהו משהו בארבע עיניים
@@ -1369,6 +1370,7 @@ e Augenhöhe : גובה העיניים
   - in Augenhöhe : בגובה העיניים
 Augentropfen (pl.) : טיפות עיניים
 r August : אוגוסט
+r Augustiner
 e Auktion (pl. -en) : מכירה פומבית
 r Auktionator
 e Aula (pl. Aulen, Aulas) : אולם, אודיטוריום
@@ -2275,6 +2277,7 @@ bereít|stellen, stellte bereit, hat bereitgestellt [vt.] : לספק
 bereitwillig [adj.]
 bereuen
 r Berg (pl. -e) : הר
+  - am Fuß des Berges
   - unter einem Berg von Arbeit begraben sein : להיות קבור תחת הררי עבודה
 bergab [adv.] : במורד ההר
 r Bergadler
@@ -5185,12 +5188,47 @@ endgültig [adv.] : סוף סוף, באופן מוחלט, באופן סופי, �
   - [Akk.] endgültig festlegen : להביא לידי סיום, להשלים
   - endgültig festgelegt : מתוקן באופן סופי
 r Endlauf
+endlich [adj.] : שסוף סוף; שבסופו של דבר
+endlich [adv.] : סוף סוף; בסופו של דבר
 endlos [adj.]
 e Endrunde
 r Endspurt
+e Energie (pl. -n)
+energisch [adj.]
+eng [adj.]
+eng [adv.]
+enganliegend
+engbefreundet
+e Enge
+  - j-n in die Enge treiben
+r Engel
+engherzig
+England
+r Engländer
+englisch [adj.]
+engstirnig
+r Enkel
+e Enkelin
 enorm [adj.] : אדיר; ענקי
+s Ensemble (pl. -s)
+s Ensemblespiel
+entbehren [vt.] : להחמיץ; להחסיר; לוותר על
+  - [Akk.] entbehren
+  - [Gen.] entbehren
+  - [Akk.] entbehren können : להסתדר בלי משהו
+entbehrlich [adj.] : שניתן לוותר עליו; בלתי נחוץ; מיותר
+entbehrlich [adv.] : באופן בלתי נחוץ; באופן מיותר
+e Entbehrung : מחסור
+entbinden
+e Entbindung
+entblößen
+e Entblößung
 entdecken : לגלות
+r Entdecker
 e Entdeckung (pl. -en) : גילוי; תגלית
+enteignen
+e Enteignung
+entern
 entfachen [vt.] : לעורר, להצית
   - ein Feuer entfachen : להצית אש
   - Wut entfachen : לעורר זעם
@@ -5201,6 +5239,7 @@ entfernen [vt.] : להרחיק; לסלק; להעלים; להיפטר מ־
 entfernt [adj.] : מרוחק
   - von + [Dat.] entfernt : מרוחק מ־
 e Entfernung (pl. -en) : מרחק; סילוק; הסרה
+r Entfernungsmesser
 entfesseln [vt.] : לשחרר, להתיר (את הרסן)
 entgégen|kommen, kam entgegen, ist entgegengekommen : לפגוש; לגשת אל־; לפגוש (צורך); למלא אחר (בקשה)
   - [Dat.] entgegenkommen : לפגוש; לגשת אל־; לפגוש (צורך); למלא אחר (בקשה)
@@ -5605,7 +5644,8 @@ faul [adj.] : עצלן
   - "GEhe hin zur Emmeissen du Fauler / sihe jre weise an / vnd lerne." [Spr 6:6] = לֵךְ אֶל נְמָלָה עָצֵל רְאֵה דְרָכֶיהָ וַחֲכָם ]משלי ו, ו[
 faulenzen : להתעצל; להתבטל
 e Faust : אגרוף, שעל
-- "WEr misset die Wasser mit der faust / vnd fasset den Himel mit der spannen?" [Jes 40:12] = מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם בַּזֶּרֶת תִּכֵּן ]ישעיה מ, יב[
+  - wie die Faust aufs Auge
+  - "WEr misset die Wasser mit der faust / vnd fasset den Himel mit der spannen?" [Jes 40:12] = מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם בַּזֶּרֶת תִּכֵּן ]ישעיה מ, יב[
 r Faustschlag : אגרוף (מכה), בוקס
 s Faustpfand : קלף מיקוח
 e Faxe (pl. -n) : העוויה
@@ -5883,6 +5923,8 @@ s Fürwort : כינוי גוף
 r Furz (pl. -e) [ugs.] : פלוץ
 furzen [ugs.] : להפליץ
 r Fuß (pl. Füße) : כף רגל
+  - am Fuß + [Gen.]
+  - am Fuße + [Gen.]
 r Fußball : כדורגל
 r Fußballverein (pl. -e) : מועדון כדורגל
 r Fußgänger, e Fußgängerin : הולך רגל
@@ -6497,13 +6539,21 @@ heulen, heulte, geheult : לילל
   - Es ist zum heulen : זה גורם לבכות
   - Ich hätte heulen können. : הייתי יכול לבכות.
   - Heul nicht ständig! : די לילל כל הזמן!
+s Heute : היום
 heute [adv.] : היום
+  - von heute an
   - von heute auf morgen : מהיום למחר
+heutig [adj.] : עכשווי; מודרני
+  - aus heutiger Sicht
+  - bis zum heutigen Tag
+  - heutige Zeit
+heutzutage [adv.] : בימינו
 e Hilfe : עזרה
   - j-m zu Hilfe kommen : לבוא לעזרתו של מישהו
   - j-m zu Hilfe eilen : להזדרז לעזרתו של מישהו
 e Himbeere (pl. -n) : פטל
 r Himmel (= pl.) : שמיים; גן עדן
+  - am Himmel : בשמיים
   - sich wie im siebten Himmel fühlen
   - wie im siebten Himmel sein
 himmlisch [adj.] : שמיימי
@@ -6573,6 +6623,10 @@ sich hinwég|setzen : לזלזל, לבוז
   - sich über + [Akk.] hinwegsetzen : להתעלם מ(הכללים, המוסכמות)
 hinwég|täuschen
   - j-n über etw. hinwegtäuschen : להזים, לכסות על, להוליך שולל
+r Hinweis (pl. -e)
+hín|weisen, wies hin, hat hingewiesen
+  - auf + [Akk.] hinweisen
+e Hinweisung (pl. -en)
 hín|ziehen, zog hin, hat hingezogen [vt.] : להאריך
   - zu + [Dat.] hingezogen werden : להימשך ל־
 sich hín|ziehen, zog sich hin, hat sich hingezogen
@@ -6621,6 +6675,16 @@ Hopp [interj.]
 Hoppla [interj.] : אופס; הופלה
 hören, hörte, hat gehört [vt.] : לשמוע
 s Hotel (pl. -s) : מלון
+r Hügel (= pl.) : גבעה
+  - am Fuß des Hügels : לרגלי הגבעה
+hügelan [adv.]
+hügelab [adv.]
+hügelig [adj.]
+e Hügelkette (pl. -n)
+s Hügelland
+e Hügellandschaft
+e Hügelseite
+e Hügelspitze
 s Huhn (pl. Hühner) : תרנגולת
   - Da lachen ja die Hühner! : זה מגוחך!, זה אבסורד!, זה לא רציני
 human [adj.] : אנושי
@@ -6771,6 +6835,12 @@ jener/jene/jenes [pron.] : ההוא/ההיא
   - zu jener Zeit : בזמן ההוא
   - in jener Zeit : בימים ההם
   - aus jener Zeit : מהתקופה ההיא
+jetzt [adv.] : עכשיו; עתה; כעת
+  - bis jetzt
+jetztig [adj.]
+jeweilig [adj.]
+jeweilig [adv.]
+jeweils [adv.] : בכל מקרה; לכל אחד
 r Job [džop] (pl. -s) : עבודה, משרה
 s Johannisbrot : חרוב
 johlen
@@ -6915,6 +6985,9 @@ s Klubhaus
 r Klubraum
 e Kohle
 r Kollege (pl. -n) : קולגה, חבר לעבודה
+kompetent [adj.] : קומפטנטי
+e Kompetenz : קומפטנטיות; מומחיות
+e Kompetenzstufe (pl. -n)
 komplett [adj.] : שלם
 komplett [adv.] : לגמרי
 komplex [adj.] : מורכב
@@ -6931,6 +7004,7 @@ s Kompromiss [selten] : פשרה
 kompromittieren [vt.]
 kompromittierend
 kompromittiert [adj.]
+e Kompromittierung
 konkret [adj.] : קונקרטי
 r Konkurrent (pl. -en) : מתחרה
 e Konkurrenz : תחרות
@@ -7096,12 +7170,20 @@ r Kürbis : דלעת
 e Kurie (Lat. curia) : הקוריה הרומאית
   - Römische Kurie : הקוריה הרומאית
 kurz [adj.] : קצר
+  - vor kurzem : לפני זמן קצר
+kurz [adv.] : בקצרה; בקיצור; קצת )לפני(
+  - kurz gesagt [adv.] : בקצרה; בקיצור
+  - kurz vor + [Dat.] [präp.] : קצת לפני
+kurzatmig [adj.] : בעל קוצר נשימה
+e Kurzatmigkeit : קוצר נשימה
 kurzerhand [adv.] : מיד, על המקום, ללא שהות
 kurzfristig [adj.] : קצר מועד, לטווח קצר
 r Kurzzug (pl. Kurzzüge) : רכבת קצרה
 kuschelig [adj.] : מתרפק, נוח להתכרבל
 kuscheln : להתכרבל; להתגפף
   - sich aneinander kuscheln : להתכרבל ביחד
+kurzsichtig [adj.] : קצר רואי
+e Kurzsichtigkeit : קוצר רואי
 küssen, küsste, hat geküsst [vt.] : לנשק
 s KZ : מחנה ריכוז
 
@@ -7336,6 +7418,14 @@ Lösungs- [K] : פתרון
 e Lösungsfindung : מציאת פתרון
 lösungsorientiert [adj.]
 lós|lassen, ließ los, hat losgelassen [vt.] : לשחרר, להרפות, לעזוב
+s Loslassen
+loslassend [adj.]
+lós|legen, legte los, hat losgelegt : לצאת לדרך; להתחיל לעשות משהו
+  - mit + [Dat.] loslegen : להתחיל לעשות משהו
+lós|lösen, löste los, hat losgelöst [vt.]
+sich lós|lösen, löste sich los, hat sich losgelöst
+loslösend
+e Loslösung
 r Lotse : טייס
 lotsen : להטיס (מטוס)
 r Löwe : אריה
@@ -7373,6 +7463,10 @@ mäh [interj.] : מֶה (פעיה)
 mähen, mähte, hat gemäht [vt.] : לכסח (דשא), לגזום
   - den Rasen mähen : לכסח את הדשא, לגזום את הדשא
 s Mähen : כיסוח דשא, גיזום
+e Majestät
+  - Ihre Majestät : הוד מלכותה
+  - Seine Majestät : הוד מלכותו
+majestätisch [adj.]
 r Makel : פגם
   - ohne Makel : ללא פגם
 makellos [adj.] : ללא פגם, מושלם
@@ -7440,6 +7534,8 @@ s Maul : לוע
   - Halt das Maul : שתוק ת'פה
 r Maulbeerbaum : עץ תות
 e Maulbeere (pl. -n) : תות עץ
+r Maulwurf : חפרפרת
+r Maulwurfshügel (= pl.)
 mechanisch [adj.] : מכאני
 meckern : לפעות; להתלונן
   - Die Ziege meckert.
@@ -7694,6 +7790,7 @@ s Netto : נטו
 r Netz (pl. -e) : רשת
 s Netzwerk : רשת (תקשורת)
 neu [adj.] : חדש
+  - aufs Neue [adv.] : מחדש
 r Neuanfang : התחלה חדשה
 e Neuigkeit
 neun : תשע
@@ -8173,6 +8270,9 @@ sich rán|machen, machte sich ran, hat sich rangemacht : להתחיל עם־
   - sich an j-n ranmachen : להתחיל עם מישהו
 rán|nehmen, nahm ran, hat rangenommen : to push, to hit, to abuse, to pick on s.o.
 r Rand (pl. Ränder) : קצה, גבול, שוליים
+  - am Rande [adv.] : בשוליים; באופן שולי
+  - am Rande + [Gen.] [präp.]
+  - am Rande von + [Dat.] [präp.] : בקצה־; על סף־
 rar [adj.] : נדיר
   - sich rar machen : לעשות את עצמו קשה להשגה; להדיר את רגליו
 rasant [adj.] : במהירות, בקצב מסחרר
