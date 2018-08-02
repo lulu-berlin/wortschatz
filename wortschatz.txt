@@ -5241,42 +5241,62 @@ entfernt [adj.] : מרוחק
 e Entfernung (pl. -en) : מרחק; סילוק; הסרה
 r Entfernungsmesser
 entfesseln [vt.] : לשחרר, להתיר (את הרסן)
+entfremden
+e Entfremdung
+entführen
+r Entführer
+e Entführung
+entgegen [präp.]
+  - entgegen + [Dat.] [präp.]
+  - [Dat.] + entgegen [präp.]
+entgegengesetzt
 entgégen|kommen, kam entgegen, ist entgegengekommen : לפגוש; לגשת אל־; לפגוש (צורך); למלא אחר (בקשה)
   - [Dat.] entgegenkommen : לפגוש; לגשת אל־; לפגוש (צורך); למלא אחר (בקשה)
+entgégen|nehmen
 entgégen|sehen
   - [Dat.] entgegehnsehen : לצפות ל־
 entgégen|stehen
   - [Dat.] entgegenstehen : למנוע; להתנגד ל
+entgégen|stellen
+entgégen|treten
+entgégen|wirken
+entgegnen [vt.] : לענות ל; להשיב ל
+e Entgegnung : תשובה
 entgehen, entging, ist entgangen : לחמוק
   - [Dat.] entgehen : לחמוק מ־, לברוח מ־
   - sich[Dat.] [Akk.] entgehen lassen : להחמיץ משהו
-enthalten [vt.] : לכלול
-  - sich ([Gen.]) enthalten : להימנע מ־
+s Entgelt
+entgelten
+entgeltlich
+entgleisen
+e Entgleisung
+enthalten (enthält) [vt.] : לכלול
+sich enthalten (enthält sich)
+  - sich [Gen.] enthalten : להימנע מ־
+e Enthaltsamkeit
 e Enthaltung
 enthaupten [vt.] : לערוף ראש, לכרות ראש
 s Enthaupten : עריפת ראש
 e Enthauptung : עריפת ראש
+enthüllen
+e Enthüllung
+r Enthusiasmus
+r Enthusiast
+enthisiastisch [adj.]
+entkommen
 entkomprimieren [vt.] : לפתוח קובץ מכווץ
 entkomprimiert [adj.] : שנפתח מכיווץ (קובץ)
 entladen : לפרק
 s Entladen : פריקה
 entladen [adj.] : פרוק
 e Entladung
-entlasten [vt.] : להקל על; להרגיע
-e Entlastung : שחרור, פטור
-entlohnen, entlohnte, entlohnt
-  - j-n (für + [Akk.]) entlohnen : לשלם למישהו על משהו
-e Entlohnung
-s Entmachten : disempowerment
-j-n entmachten : to disempower s.o., to deprive s.o. of power
-entrichten, entrichtete, hat entrichtet : לשלם; להעניק
-  - an + [Akk.] entrichten : לשלם ל־
-  - eine Gebühr entrichten : לשלם אגרה
-  - j-m seinen Tribut einrichten : לתת כבוד ל־, להוקיר, לשבח
-e Entrichtung
-entlang [präp.] : לאורך
+entlang [präp.]
+  - [Akk.] entlang [präp.] : לאורך
+  - an + [Dat.] entlang [präp.]
+  - entlang + [Dat.] [präp.] : לאורך
   - entlang + [Gen.] [präp.] : לאורך
-  - [Gen.] + entlang [präp.] : לאורך
+entlarven
+e Entlarvung
 entlassen, entließ, hat entlassen [vt.] : לשחרר; לפטר
   - aus der Haftung entlassen : לשחרר ממעצר
   - aus + [Dat.] entlassen werden : להשתחרר מ־
@@ -5284,30 +5304,64 @@ entlassen, entließ, hat entlassen [vt.] : לשחרר; לפטר
   - aus einem Vertrag entlassen werden
   - aus einer Verpflichtung entlassen sein
 entlassen [adj.] : משוחרר
-e Entlassung
 e Entlassung : פיטורין
+entlasten [vt.] : להקל על; להרגיע
+e Entlastung : שחרור, פטור
+entlaufen
+sich entledigen
+  - sich [Gen.] entledigen : להיפטר מ
+  - sich [Dat.] entledigen : להיפטר מ
+  - sich von + [Dat.] entledigen : להיפטר מ; להשליך, לזרוק
+e Entledigung
+entlegen
+entlohnen, entlohnte, entlohnt
+  - j-n (für + [Akk.]) entlohnen : לשלם למישהו על משהו
+e Entlohnung
+entmachten
+  - j-n entmachten : to disempower s.o., to deprive s.o. of power
+s Entmachten : disempowerment
+entmündigen
+e Entmündigung
 entmutigen, entmutigte, entmutigt : לרפות את ידיו של מישהו, לפגוע במוטיבציה
 e Entmutigung
+sich entpuppen
 entreißen, entriss, hat entrissen [vt.] : למשוך בכוח; להוציא בכוח; לחטוף (משהו ממישהו)
+entrichten, entrichtete, hat entrichtet : לשלם; להעניק
+  - an + [Akk.] entrichten : לשלם ל־
+  - eine Gebühr entrichten : לשלם אגרה
+  - j-m seinen Tribut einrichten : לתת כבוד ל־, להוקיר, לשבח
+e Entrichtung
 entrinden [vt.]
 e Entrindung
 e Entrindungstrommel
 entrinnen, entrann, ist entronnen : לחמוק
   - [Dat.] entrinnen : לחמוק מ־
 s Entrinnen : בריחה; התחמקות
+entrüsten
+e Entrüstung
+entsagen
+e Entsagung
+entsagungsvoll
+entschädigen
+e Entschädigung
 entschärfen [vt.] : לנטרל; להשבית; לפרק מנשקו; לרכך
+r Entscheid
 entscheiden, entschied, hat entschieden : להחליט; לקבוע (אם); לפסוק
 sich entscheiden
+e Entscheidung (pl. -en)
+s Entscheidungsspiel
 entschieden [adj.]
 sich entschließen, entschloss sich, hat sich entschlossen : להחליט
   - sich entschließen, etwas zu tun : להחליט לעשות משהו
   - sich anders entschließen : לשנות את דעתו
+e Entschließung
 entschlossen [adj.] : החלטי, נחרץ, נחוש
   - entschlossen sein : להיות נחוש (בהחלטה)
-entschuldigen [vt.] : לסלוח, למחול
-  - sich entschuldigen : להתנצל
-e Entschuldigung : סליחה
+e Entschlossenheit
 r Entschluss : החלטה
+entschuldigen [vt.] : לסלוח, למחול
+sich entschuldigen : להתנצל
+e Entschuldigung (pl. -en) : סליחה
 entschlüsseln : לפענח (הצפנה)
 entsenden : לשגר, לשלח, לשלוח
 entsetzen, entsetze, hat entsetzt [vt.] : לזעזע; להחריד
@@ -5315,19 +5369,43 @@ s Entsetzen : זעזוע
   - blankes Entsetzen : זעזוע מוחלט
   - voller Entsetzen : מזועזע
   - sprachlos vor Entsetzen : מזועזע עד אין מילים
+entsetzlich [adj.]
+e Entsetzung
 entsetzlich [adj.] : מזעזע; נורא; מחריד
+sich entsinnen
 entsorgen, entsorgte, hat entsorgt [vt.] : לזרוק; להיפטר מ־; לסלק
 entsorgt [adj.] : שנזרק, שנפטרו ממנו, שסולק
+entspannen
+sich entspannen
+e Entspannung
 e Entsorgung : היפטרות; סילוק
 entspannen, entspannte, entspannt : להרגיע
 sich entspannen, entspannte sich, hat sich entspannt : להירגע
 entspannt [adj.] : רגוע; רפוי
 e Entspannung : רגיעה; הרפיה
+entsprechen
+entsprechend
+e Entsprechung
+entspringen
 entstehen : להתעורר; להתפתח; לבוא לידי קיום
+e Entstehung
+entstören
+e Entstörung
+enttäuschen
+e Enttäuschung
+enttäuscht
 entthronen, entthronte, hat entthront : להדיח מעל כס המלכות
+entwässern
+e Entwässerung
 entweder ... oder ... : או ... או ...
+entweihen
+e Entweihung
+entwenden
+e Entwendung
 entwerfen (entwirft), entwarf, hat entworfen [vt.] : לעצב; להכין טיוטה; לשרטט
 s Entwerfen : עיצוב
+entwerten
+e Entwerung
 r Entwurf (pl. Entwürfe) : עיצוב; קונספט
 entwickeln, entwickelte, hat entwickelt [vt.] : לפתח
 r Entwickler (= pl.) : מפתח
@@ -6078,6 +6156,7 @@ gelb [adj.] : צהוב
 s Geld : כסף
 s Geldautomat (pl. -en) : כספומט
 r Geldbeutel
+e Geldentwertung
 s Geleit (pl. -e) : escort
 s Gelenk : מפרק
 gelingen, gelang, ist gelungen [vt.] : להצליח
@@ -9625,6 +9704,8 @@ e Uneinigkeit
 uneins : מפולג, מפוצל, מחולק
 unendlich [adj.] : אינסופי; בלתי נגמר; נצחי
 e Unendlichkeit : אינסוף
+unentgeltlich
+unentschieden [adj.]
 unerfreulich [adj.] : לא נעים
 unerhört : מזעזע, שלא נשמע כמותו
 unerklärlich : שלא ניתן להסבירו
