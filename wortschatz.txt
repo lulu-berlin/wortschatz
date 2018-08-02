@@ -5531,26 +5531,43 @@ erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
   - "Was in der Revolution erfochten wurde, ist das Bewusstsein, dass der Gedanke stärker, größer und gewaltiger ist als die Macht der Bajonette und Kanonen." [Die Deutschen]
 erfinden, erfand, hat erfunden [vt.] : להמציא
   - neu erfinden : להמציא מחדש
+r Erfinder (= pl.)
+e Erfindung
+erfindungsreich
 e Erfindungְ (pl. -en) : המצאה
 r Erfolg (pl. -e) : הצלחה; הישג; שגשוג; נצחון
 erfolgen, erfolgte, ist erfolgt [vi.] : להתקיים; להיעשות; לקרות; להתרחש
   - aus + [Dat.] erfolgen : לנבוע מ־, להיגרם על ידי־, להיות תוצאה של־, לצאת מ־
+erfolggekrönt
 erfolglos [adj.] : לא מוצלח; חסר הצלחה; כושל
 erfolgreich [adj.] : מוצלח; מצליח; משגשג
 e Erfolgsgeschichte (pl. -n) : סיפור הצלחה
-erfolgversprechend : מבטיח (צפוי להצליח)
+erfolgversprechend [adj.] : מבטיח (צפוי להצליח)
 erforderlich [adj.] : נחוץ
 erfordern, erforderte, hat erfordert [vt.] : לדרוש, להצריך
 s Erfordernis : דרישה
 erfordert [adj.] : נדרש
+erfreuen
+erfreulich
+erfüllbar
 erfüllen : למלא (צורך, בקשה)
+e Erfüllung
+ergänzen
+e Ergänzung
+ergattern
 ergeben, ergab, hat ergeben [vt.] : להניב, להפיק, להוביל ל, לייצר
   - Sinn ergeben : להיות הגיוני; להיות מתקבל על הדעת
 sich ergeben, ergab sich, hat sich ergeben
   - sich ergeben : לקרות, להיות המקרה; להיכנע
   - sich aus + [Dat.] ergeben : לצאת מ־, לעלות מ־
   - sich von selbst ergeben : להסתדר מעצמו
+e Ergebenheit
 s Ergebnis (pl. -se) : תוצאה
+ergebnislos
+e Ergebung
+ergehen
+  - ein Gesetz ergehen lassen
+s Ergehen
 ergiebig [adj.] : עשיר; עתיר; פרודוקטיבי
 ergötzen, ergötzte, hat ergötzt [vt.] : לשעשע
 s Ergötzen : הֲנָאָה, עֹנֶג, תַּעֲנוּג
@@ -5558,8 +5575,13 @@ sich ergötzen, ergötzte sich, hat sich ergötzt : להשתעשע
   - sich (an + [Dat.]) ergötzen : לסעוד את ליבו; להשתעשע (ב־)
 ergreifen, ergriff, hat ergriffen [vt.] : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח); לקחת; ללכוד
 ergründen [vt.] : לחקור; לגלות
+erhaben
+e Erhabenheit
+r Erhalt
 erhalten (erhält), erhielt, hat erhalten [vt.] : לקבל
   - [Akk.] von j-m erhalten : לקבל משהו ממישהו
+erhältlich
+e Erhaltung
 erheben, erhob, hat erhoben [vt.] : להרים, לרומם; להטיל; לסקור, לערוך סקר
   - gegen + [Akk.] Anklage erheben : להטיל כתב אישום כנגד
   - (auf + [Akk.]) Steuern erheben : להטיל מיסים (על משהו)
@@ -5577,18 +5599,47 @@ erhoffen, erhoffte, hat erhofft [vt.] : לקוות ל
   - das Beste erhoffen : לקוות לטוב
   - sich[Dat.] [Akk.] erhoffen : לייחל למשהו
   - sich[Dat.] [Akk.] von j-m erhoffen : לצפות למשהו ממישהו
+sich erholen, erholte sich, hat sich erholt : להחלים; להירגע; לחדש כוחות
+  - sich (von + [Dat.]) erholen : להחלים )ממשהו(
+e Erholung
 erinnern, erinnerte, hat erinnert : להזכיר
   - an + [Akk.] erinnern : להזכיר משהו
   - sich an + [Akk.] erinnern : לזכור משהו; להיזכר במשהו
+  - sich [Gen.] erinnern : לזכור משהו; להיזכר במשהו
+erinnerlich
 e Erinnerung (pl. -en) : זכרון
   - Mir wird immer in Errinerung bleiben, wie ... : לנצח יהיה חרוט בזכרוני איך
-j-n erhören : להישמע לתפילתו של מישהו
+erhören [vt.] : להישמע לתפילתו של מישהו
+sich erkälten
+e Erkältung
+erkennbar
 erkennen, erkannte, hat erkannt [vt.] : להכיר; לזהות; לתפוש
+s Erkennen
+erkennlich
+e Erkennlichkeit
+e Erkenntnis
+s Erkennungszeichen
+r Erker
+s Erkerfenster
 erklären, erklärte, hat erklärt : להבהיר, להסביר
   - sich erklären : להכריז על עצמו
   - sich bereit erklären : להיות מוכן (לעשות משהו)
+erklärlich
+e Erklärung
+erkunden [vt.] : לחקור; לגלות
+sich erkundigen
+  - sich nach + [Dat.] erkundigen : לשאול בקשר ל;  להתעניין בנוגע ל
+  - sich über + [Akk.] erkundigen : לברר בנוגע ל
+sich erkundigend
+e Erkundigung
+e Erkundung
+r Erlass
+erlassen : להחיל, לבצע; לבטל )חוב(, לוותר על, לשחרר מ
 erlauben, erlaubte, hat erlaubt : להרשות
+erläutern
+e Erläuterung
 e Erlaubnis (pl. -se) : אישור; אשרה; הרשאה
+e Erle (pl. -n)
 erlebbar
 erleben, erlebte, hat erlebt [vt.] : לחוות; להיות עד ל־
 s Erlebnis (pl. -se) : חוויה; הרפתקה
@@ -5597,10 +5648,18 @@ e Erledigung
 erleichtern [vt.] : להקל על־
 e Erleichterung : הקלה
 erleiden, erlitt, hat erlitten [vt.] : לסבול; לספוג
+erliegen
+s Erliegen
+  - zum Erliegen kommen
+erlöschen
 erlösen : להושיע
   - j-n von + [Dat.] erlösen : להושיע מישהו ממשהו
-r Erlöser : מושיע
+r Erlöser (= pl.) : מושיע
 e Erlösung : ישועה
+ermächtigen
+e Ermätigung
+s Ermessen
+ermesslich
 ermuntern [vt.] : לעודד מישהו
   - zu + [Dat.] ermuntern : לעודד ל־(פעולה כלשהי)
   - ermuntern, etwas zu tun : לעודד לעשות משהו
@@ -9785,7 +9844,7 @@ unentschieden [adj.]
 unerfreulich [adj.] : לא נעים
 unerhört : מזעזע, שלא נשמע כמותו
 unerklärlich : שלא ניתן להסבירו
-unerlässlich [adj.]
+unerlässlich [adj.] : חיוני
 r Unfall (pl. Unfälle) : תאונה; תאונת דרכים
 Unfallzeuge (pl. -n) : עד לאונה
 r Unfug : שטויות; מעשה קונדס; נזק; רעה
