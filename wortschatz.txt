@@ -5411,7 +5411,46 @@ entwickeln, entwickelte, hat entwickelt [vt.] : לפתח
 r Entwickler (= pl.) : מפתח
 e Entwicklerin (pl. -nen) : מפתחת
 e Entwicklung (pl. -en) : פיתוח
+s Entwicklungsalter
+e Entwicklungshilfe
+entwicklungsfähig [adj.]
+entwöhnen
+e Entwöhnung
+entziehen
+e Entziehung
+e Entziehungskur
+entzifferbar
+entziffern
+e Entzifferung
+entzücken
+s Entzücken
+entzückend
 r Entzug : נסיגה; גמילה
+entzwei [adj.] : שבור
+  - entzwei sein : להיות שבור
+entzweí|brechen
+sich entzweien
+entzweí|gehen
+entzweí|schlagen
+e Entzweiung
+r Enzian (pl. -e)
+enzianblau [adj.]
+e Epidemie (pl. -n)
+epidemisch
+e Epik
+episch
+e Epilepsie (pl. -n)
+r Epileptiker
+epileptisch [adj.]
+s Episkop (pl. -e)
+e Episode (pl. -n)
+episodisch [adj.]
+e Epistel (pl. -n)
+  - j-m die Epistel lesen
+epochal
+e Epoche (pl. -n)
+epochemanchend [adj.]
+s Epos
 er [pron.] : הוא
 erachten, erachtete, hat erachtet [vt.] : לשקול; לראות כ־, לתפוש כ־
   - als notwendig erachten : לראות כהכרחי
@@ -5420,36 +5459,73 @@ s Erachten : דֵעה
   - meines Erachtens : לדעתי
 e Erachtung : דֵעה
   - meiner Erachtung nach : לדעתי
+erbarmen [vt.] : להביא מישהו לידי רחמים
+sich erbarmen
+  - sich [Gen.] erbarmen : לרחם על מישהו
+  - "und er wird sich seiner erbarmen" [Isaiah 55:7]
+s erbarmen : רחמים
+erbärmlich [adj.] : מעורר רחמים; עלוב
+erbarmungslos [adj.] : חסר רחמים
 e Erbe : ירושה
   - eine Erbe hinterlassen : להשאיר ירושה, להוריש
 erben, erbte, hat geerbt [vt.] : לרשת
   - von j-m [Akk.] erben : לרשת משהו ממישהו
 r Erbfeind : אויב נצחי, "אויב תורשתי"
 e Erbfeindschaft : איבה נצחית שמועברת מדור לדור
+e Erbfolge
 erbitten, erbat, erbeten : לבקש, לערוג
 erbittern [vt.] : למרר
 erbittert [adj.] : עז, פראי; מר
   - erbitterte Debatte : ויכוח מר
 e Erbitterung : מרירות
 erblassen
+r Erblasser
+erblich
+e Erblichkeit
 erblinden
+r Erbonkel
+s Erbrecht
 erbringen [vt.] : להעביר; לספק; להמציא (עדות, הוכחה)
   - Leistungen erbringen : לספק שירותים
   - Nachweis erbringen : להמציא הוכחה
+e Erbse (pl.-n)
+e Erbswurst
+e Erdachse
 r Erdapfel (pl. Erdäpfel) [österr.] : תפוח אדמה
+e Erdatmosphäre
 r Erdball : כדור הארץ
   - rund um den Erdball : מסביב לעולם
+s Erdbeben
 e Erdbeere (pl. -n) : תות, תות שדה
-e Erde : אדמה, כדור הארץ
+e Erde (pl. -n) : אדמה, כדור הארץ
+erden
+r Erdenbürger
+s Erdgas
+erdgebunden
+s Erdgeschoss (pl. -e)
+r Erdkreis
 e Erdkunde : גיאוגרפיה
 erdkundlich [adj.] : גיאוגרפי
+erdnah
+e Erdnuss
+erdrosseln
+erdrücken
+erdrückend
+r Erdrutsch
+e Erdumkreisung
+erdverbunden
 sich ereifern : להתרגש
-ereifernd
 sich ereignen : להתרחש
 sich ereignend
 s Ereignis (pl. -se)
-r Eremit
+ereignisreich
+e Erektion (pl. -en)
+r Eremit (gen. -en, pl. -en)
+s Eremitendasein
 e Eremitin
+erfahren, erfuhr, hat erfahren [vt.] : לחוות
+e Erfahrung : חוויה; נסיון
+erfahrungsgemäß
 erfassen [vt.] : לתפוס; לתפוש; לגלות; לכלול; להגיע להכרה
 erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
   - "Was in der Revolution erfochten wurde, ist das Bewusstsein, dass der Gedanke stärker, größer und gewaltiger ist als die Macht der Bajonette und Kanonen." [Die Deutschen]
@@ -6157,7 +6233,7 @@ s Geld : כסף
 s Geldautomat (pl. -en) : כספומט
 r Geldbeutel
 e Geldentwertung
-s Geleit (pl. -e) : escort
+s Geleit (pl. -e) : ליווי
 s Gelenk : מפרק
 gelingen, gelang, ist gelungen [vt.] : להצליח
 geloben [vt.] : להישבע, לנדור
