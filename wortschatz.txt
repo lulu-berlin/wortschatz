@@ -5983,19 +5983,37 @@ e Ethik : אתיקה, מוסר
 ethisch [adj.]
 s Ethos
 s Etikett
+e Etikette (pl. -n)
 etikettieren
 etliche [m.b.] : מספר ...
   - etliche Stunden : מספר שעות
+etlichemal
+s Etui (pl. -s)
 etwa [adv.] : בערך; למשל
   - in etwa [adv.] : בערך; פחות או יותר
   - wie etwa [konj.] : כמו למשל
 etwaig [adj.] : אפשרי
 etwas [pron.] : משהו
   - wenn sich etwas ändert
+  - etwas anderes
 etwas [adv.] : קצת; קמעה
+euch [pron.]
 euer [poss.pron.] : שלכן; שלכם
 e Eule (pl. -n) : ינשוף
 s Europa : אירופה
+e Eurovision
+s Euter : עטין
+ev. [kurz für evangelisch] [adj.]
+r e.V. [kurz für eingetragener Verein]
+evakuieren
+e Evakuierung
+evangelisch
+r Evangelist
+s Evangelium
+e Eventualität
+eventuell
+E-Werk
+EWG
 ewig [adj.] : נצחי
 e Ewigkeit : נצח
   - in Ewigkeit : לנצח
@@ -6003,13 +6021,56 @@ e Ewigkeit : נצח
   - seit einer Ewigkeit [ugs.] : במשך דורות
 ewiglich [adv.] : לנצח; לעולם
   - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
+exakt
+e Exaktheit
+s Examen (pl. Examen, Examina)
 s Exempel : דוגמה
   - als Exempel : לדוגמה
   - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
+s Exemplar
+exemplarisch
+exerzieren
+r Exerzierplatz
+s Exil
+existent
+e Existenz
+e Existenzgrundlage
 existieren, existierte, hat existiert [vi.] : להיות קיים, להתקיים
+e Exotik
+exotisch
+expandieren
+e Expansion (pl. -en)
+e Expansionskraft
+e Expansionspolitik
+expedieren
+e Expedition
+s Experiment
+experimentieren
+experimentierfreudig
 r Experte (gen. -n, pl. -n) : מומחה
 e Expertin (pl. -nen) : מומחית
+explodieren
+e Explosion
+e Explosionsgefahr
+s Explosivgeschoss
+r Export (pl. -e)
+exportieren
+r Express
+express [adv.]
+s Expressgut
+r Expresszug
 e Extase : אקסטזה
+s Extra
+extra
+s Extrablatt
+r Extrakt (pl. -e)
+extrem
+r Extremismus
+e Extremität (pl. -en)
+exzellent
+e Exzellenz
+exzentrisch
+r Exzess
 
 = F =
 e Fabrik : בית חרושת, מפעל
@@ -6083,6 +6144,7 @@ e Faxe (pl. -n) : העוויה
 fechten (ficht), focht, hat gefocht : לסייף
 s Fechten : סיוף
 e Feder (pl. -n) : קפיץ; נוצה; עט
+s Federetui
 s Federmäppchen : קלמר
 fegen [vt.] : לטאטא
 fehlen, fehlte, hat gefehlt : להיות חסר; להיעדר; לא להימצא, לא להיות בנמצא
@@ -6188,6 +6250,8 @@ flau [adj.] : רפוי; חלש
 r Flaum : תנומה
 flauschig [adj.] : צמרירי; תפוח; רך, קל, אוורירי
 e Flaute : מיתון
+s Fleisch : בשר
+r Fleischextrakt
 fleißig [adj.] : חרוץ
 flennen : ליבב, לבכות בכי תמרורים
 r Flieder (= pl.) : לילך
