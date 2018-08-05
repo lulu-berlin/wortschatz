@@ -3032,24 +3032,25 @@ s Bohnerwachs
 bohnern
 Bohr- [K]
 bohren, bohrte hat gebohrt [vt.] : לקדוח
-r Bohrer : מקדחה
-e Bohrinsel
+r Bohrer : מקדחה; מקדח
+e Bohrinsel : אסדת קידוח
+e Bohrmaschine : מקדחה
 r Bohrturm
-e Bohrung
+e Bohrung : חור
 böig [adj.] : מתפרץ (רוח)
   - böiger Wind : רוח מתפרצת
-r Boiler
+r Boiler : דוד חימום, בוילר
 e Boje (pl. -n) : מצוף
 r Bolero (pl. -s)
 s Bollwerk (pl. -e) : סוללה; ביצור
-r Bolschewik
-r Bolschewismus
-r Bolschewist
-bolschewistisch [adj.]
+r Bolschewik : בולשוויק
+r Bolschewismus : בולשוויזם
+r Bolschewist : בולשוויסט
+bolschewistisch [adj.] : בולשוויסטי
 bolzen, bolzte, gebolzt
 r Bolzen
 e Bolzerei
-bombardieren
+bombardieren [vt.] : להפציץ; להפגיז
 e Bombe (pl. -n) : פצצה
 r Bombenangriff
 bombenfest [adj.]
@@ -3068,74 +3069,77 @@ s Boot (pl. -e)
 r Bootsbau
 r Bootsmann
 s Bord (pl. -e)
-borgen
-  - j-m [Akk.] borgen
-sich borgen
-  - sich [Akk.] borgen
-e Borke (pl. -n)
-r Borkenkäfer
+borgen [vt.] : ללוות
+  - j-m [Akk.] borgen : ללוות ממישהו משהו
+s Borgen : הלוואה
+e Borke (pl. -n) : קליפת עץ
+r Borkenkäfer : חיפושת קליפת העץ
 borkig
 borniert [adj.] : צר אופקים
-e Borniertheit
-e Börse (pl. -n)
+e Borniertheit : צרות אופקים
+e Börse (pl. -n) : בורסה
 r Börsenbericht
 r Börsengang : ציפה )של מטבע(
 r Börsenkurs
 e Börsenspekulation
-e Borste (pl. -n)
+e Borste (pl. -n) : זיף
 s Borstenvieh
 borstig
 e Böschung (pl. -en) : שיפוע; מדרון
 r Böse : הרע, השטן
-böse [adj.]
+s Böse : רוע; רשע
+böse [adj.] : רע; מרושע
+  - j-m böse sein : לנטור טינה למישהו
+  - auf + [Akk.] böse sein : לכעוס על
 r Bösewicht
 r Bösewicht (pl. Bösewichte, Bösewichter) : נבל
 boshaft [adj.]
-e Bosheit
-böswillig [adj.]
+e Bosheit : זדון; זדוניות; רשעות
+böswillig [adj.] : מרושע; זדוני
 r Boss (pl. -e) : בוס
-e Botanik
-r Botaniker
-botanisch
+e Botanik : בוטניקה
+r Botaniker : בוטניקאי
+botanisch : בוטני
 r Bote (gen. -n, pl. -n)
-e Botschaft
-r Botschafter
+e Botschaft : הודעה, מסר; שגרירות
+r Botschafter : שגריר
+e Botschafterin : שגרירה
 r Böttcher : עושה חביות, חבתן
 r Bottich : מְכָל; חבית
 e Bouillon (pl. -s)
 e Boutique (pl. Boutiques, Boutiquen) : בוטיק
 e Bowle (pl. -n)
 e Box (pl. -en)
-boxen
+boxen, boxte, hat geboxt : להתאגרף; לחבוט; להכות
 r Boxer
 r Boy (pl. -s)
 r Boykott (pl. Boykotts, Boykotte)
-brach
-e Brache
-s Brachfeld
-brách|liegen, lag brach, hat brachgelegen
-brachliegend [adj.]
+brach [adj.] : בּוּר
+e Brache : אַדְמַת בּוּר
+s Brachfeld : שדה בּוּר
+brách|liegen, lag brach, hat brachgelegen : לשכב בחוסר מעש
+brachliegend [adj.] : רדום
 e Branche : תעשיה; תחום; שדה
 s Branchenverzeichnis
 r Brand (pl. Brände) : שריפה
-e Brandblase
-r Brandbrief
+e Brandblase : שלפוחית
+r Brandbrief : מכתב בהול
   - einen Brandbrief schreiben
 brandeilig [adj.]
 branden
 e Brandgefahr : סכנת בעירה
 brandgefährlich [adj.] : שעלול להתלקח; מסוכן מאוד
-s Brandmal
+s Brandmal : מותג
 brandmarken, brandmarkte hat gebrandmarkt [vt.] : לסמן; להטביע סימן; למתג
-brandneu [adj.]
+brandneu [adj.] : חדש בתכלית, חדש חדש
 brandschatzen
 r Brandstifter
 e Brandung
 r branntwein
 e Branntweinsteuer
-r Bratapfel
+r Bratapfel : תפוח אפוי
 braten (brät/bratet), briet, hat gebraten [vt.] : לטגן
-r Braten
+r Braten : צלי
 s Brathendl : עוף צלוי
 r Brathering : הרינג מטוגן
 e Bratpfanne
@@ -6013,17 +6017,20 @@ evangelisch
 r Evangelist
 s Evangelium
 e Eventualität
-eventuell
+eventuell [adj.] : אפשרי; פוטנציאלי
+eventuell [adv.] : יתכן, אולי
 E-Werk
 EWG
 ewig [adj.] : נצחי
+ewig [adv.] : לנצח, באופן נצחי
 e Ewigkeit : נצח
   - in Ewigkeit : לנצח
   - in alle Ewigkeit : לנצח; לנצח נצחים
   - seit einer Ewigkeit [ugs.] : במשך דורות
 ewiglich [adv.] : לנצח; לעולם
   - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
-exakt
+exakt [adj.] : מדויק
+exakt [adv.] : באופן מדויק
 e Exaktheit
 s Examen (pl. Examen, Examina)
 s Exempel : דוגמה
@@ -6033,46 +6040,49 @@ s Exemplar
 exemplarisch
 exerzieren
 r Exerzierplatz
-s Exil
-existent
-e Existenz
-e Existenzgrundlage
+s Exil : גלות
+existent [adj.] : קיים, שמתקיים
+e Existenz : קיום
+e Existenzgrundlage : מחייה; תנאי קיום
 existieren, existierte, hat existiert [vi.] : להיות קיים, להתקיים
-e Exotik
-exotisch
-expandieren
-e Expansion (pl. -en)
-e Expansionskraft
-e Expansionspolitik
+e Exotik : אדם או דבר אקזוטי
+exotisch [adj.] : אקזוטי
+expandieren [vi.] : להתרחב
+e Expansion (pl. -en) : התרחבות
+e Expansionskraft : כוח ההתרחבות
+e Expansionspolitik : התפשטות פוליטית; פוליטיקה של התפשטות
 expedieren
-e Expedition
-s Experiment
-experimentieren
-experimentierfreudig
+e Expedition : משלחת; מסע
+s Experiment : ניסוי
+experimentieren : לעשות ניסויים
+experimentierfreudig [adj.] : הרפתקני
 r Experte (gen. -n, pl. -n) : מומחה
 e Expertin (pl. -nen) : מומחית
-explodieren
-e Explosion
+explodieren [vi.] : להתפוצץ
+e Explosion : פיצוץ
 e Explosionsgefahr
 s Explosivgeschoss
 r Export (pl. -e)
-exportieren
+exportieren : לייצא
 r Express
 express [adv.]
 s Expressgut
 r Expresszug
 e Extase : אקסטזה
-s Extra
-extra
+s Extra : תוספת
+extra [adj.] : מיוחד
+extra [adj.] : אקסטרה; במיוחד; בנוסף
 s Extrablatt
 r Extrakt (pl. -e)
-extrem
-r Extremismus
-e Extremität (pl. -en)
-exzellent
-e Exzellenz
-exzentrisch
-r Exzess
+extrem [adj.] : קיצוני
+extrem [adv.] : באופן קיצוני; מאוד
+r Extremismus : קיצוניות
+e Extremität (pl. -en) : מצב קיצון
+exzellent [adj.] : מצוין; מובחר
+e Exzellenz : מצוינות; הצטיינות
+exzentrisch [adj.] : אקסצנטרי
+r Exzess (pl. -e) : עודף, יתר, הגזמה
+exzessiv [adj.] : מוגזם; עודף
 
 = F =
 e Fabel (pl. -n)
@@ -6081,12 +6091,13 @@ e Fabelei
 fabelhaft
 fabelieren
 s Fabeltier
-e Fabrik : בית חרושת, מפעל
+e Fabrik (pl. -en) : בית חרושת, מפעל
 r Fabrikant
 r Fabrikarbeiter
 s Fabrikat
 fabrikneu
 fabrizieren
+fabulieren
 s Fach (pl. Fächer) : תחום; נושא; תא
 r Facharzt
 s Fachblatt (pl. Fachblätter) : כתב עת מדעי
@@ -6666,10 +6677,11 @@ geraten (gerät), geriet, ist geraten [vi.] : להיכנס ל־(מצב); ליפ�
   - aus der Fasson geraten : לצאת מהאופנה, להפסיק להיות באופנה
 gerecht [adj.] : צודק, צדקן
 e Gerechtigkeit : צדק, הוגנות
+r Gerechtigkeitssinn : חוש צדק
 geregelt [adj.] : מוסדר; מווסת; שיש עליו רגולציה
 gering [adj.] : נמוך; קטן; מועט
-geringfügig [adj.]
-geringwertig [adj.]
+geringfügig [adj.] : מועט; מצומצם
+geringwertig [adj.] : נחות; בעל ערך מועט
 e Geringwertigkeit
 gern [adv.] : בשמחה
   - etwas gern tun : לרצות לעשות משהו
@@ -6682,14 +6694,15 @@ s Geschirr (pl. -e) : כלים
 r Geschirrspüler (= pl.) : מדיח כלים
 s Geschlecht (pl. -er) : מין
 e Geschlechterverteilung
-r Geschlechtsakt
-geschlechtsneutral [adj.]
-r Geschlechtspartner (= pl.)
+r Geschlechtsakt : אקט מיני
+geschlechtsneutral [adj.] : יוניסקס
+s Geschlechtsorgan (pl. -e) : אבר מין
+r Geschlechtspartner (= pl.) : פרטנר מיני; בן/בת זוג מיני/ת
 e Geschlechtspräferenz
 geschlechtsreif [adj.]
 geschlechtsspezifisch [adj.]
 r Geschlechtsverkehr : יחסי מין
-s Geschlechtswort
+s Geschlechtswort : תווית )יידוע(
 s Geschrei : רעש, המולה, צעקה
 geschummelt [adj.] : ברמייה
 s Geschütz (pl. -e) : נשק; תותח
@@ -6778,10 +6791,10 @@ e Gleichrangigkeit : מעמד שווה
 gleichzeitig [adj.] : בו־זמני
 gleichzeitig [adv.] : באותו זמן
 e Gleichzeitigkeit : בו־זמניות
-gleiten
-s Gleiten
-s Gleitgel (pl. -e)
-e Gleitzeit
+gleiten : להחליק
+s Gleiten : החלקה
+s Gleitgel (pl. -e) : חומר סיכה
+e Gleitzeit : זמן גמיש
 s Glück : שמחה; מזל
   - zum Glück : למרבה המזל
 e Glucke (pl. -n) : תרנגולת אֵם
@@ -6789,7 +6802,7 @@ glucken, gluckte, hat gegluckt : לקרקר
   - Die Henne gluckt. : התרנגולת מקרקרת
 glücken : להצליח, להיות מוצלח
   - Es wollte einfach nicht glücken.
-e Glühbirne
+e Glühbirne : נורה
 glühen
 glühend
 e Glühlampe
@@ -8623,13 +8636,13 @@ e Pfalz : רוֹזנוּת
 s Pfand : ערבון
 e Pfanne (pl. -n) : מחבת
 r Pfannkuchen (= pl.) : סופגניה; פנקייק
-r Pfarrer
+r Pfarrer : כומר
 r Pfennig (pl. -e) : מטבע קטן בעל ערך מועט
 s Pferd : סוס
-r Pfiff
-pfiffig [adj.]
-s Pfingsten
-r Pfirsich
+r Pfiff : שריקה
+pfiffig [adj.] : חכם
+s Pfingsten : פנטקוסט )החג הנוצרי המקביל לשבועות(
+r Pfirsich : אפרסק
 e Pflanze (pl. -n) : שתיל; צמח
 pflanzen : לשתול; לטעת
   - "VND Gott der HERR pflanzet einen Garten in Eden" [Lutherbibel, Gen 2:8] = וַיִּטַּע יהוה אֱלֹהִים גַּן־בְּעֵדֶן [בראשית ב ח]
@@ -8687,7 +8700,7 @@ s Pfötchen (= pl.)
 e Pfote (pl. -n) : כפה
 r Pfropf
 pfui [interj.]
-s Pfund
+s Pfund : פאונד; לירה
 r Pfusch
 e Physik : פיזיקה
 physisch [adj.] : פיזי
@@ -8698,12 +8711,12 @@ piepen : לצפצף
   - Die Maus piept.
 pinkeln : להשתין
 e Pinzette (pl. -n) : פינצטה
-e Pisse [ugs.] : ש
+e Pisse [ugs.] : שתן
 pissen [ugs.] : להשתין
 r Pisser : משתין
 planen, plante, hat geplant [vt.] : לתכנן
-s Pläsier
-pläsierlich
+s Pläsier : עונג
+pläsierlich [adj.] : מענג
 s Plastik : פלסטיק
 Plastik- [K] : שעשוי מפלסטיק
 r Plastikbecher (= pl.)
@@ -8743,7 +8756,8 @@ r Platz (pl. Plätze) : מקום
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
 plaudern : לפטפט
 plötzlich [adv.] : פתאום, לפתע
-polarisieren
+polarisieren : לקטב, להקצין
+sich polarisieren : להקצין
 r Po [ugs.] : תחת, ישבן, טוסיק, אחוריים
 e Polarisierung : קיטוב
 r Pole (pl. -n) : פולני
@@ -8770,10 +8784,10 @@ possessiv [adj.] : של שייכות; רכושני
 s Possessivpronomen (= pl.) : כינוי שייכות
 e Post
 r Postkasten
-prägen
-prägend [adj.]
+prägen [vt.] : לעצב; להטביע; להחתים, להשאיר חותם
+prägend [adj.] : מעצב; שהשאיר את חותמו
 prägend [adv.]
-e Prägung
+e Prägung : החתמה; טביעת מטבעות
 prahlen, prahlte, geprahlt : להתיהר, להיות יהיר, להתרברב; לעלוז
   - "Wie lange sollen di Gottlosen pralen?" [Lutherbibel, Ps 94:3] = עַד־מָתַי רְשָׁעִים יַעֲלֹזוּ [תהילים צד ג]
 e Prahlerei : רברבנות
@@ -8805,8 +8819,8 @@ problemlos [adj.] : קל; נטול בעיות
 problemlos [adv.] : בלי בעיות; בקלות
 e Produktion : יצור
 r Produktionsprozess (pl. -e) : תהליך הייצור
-r Produzent
-e Produzentin
+r Produzent : מפיק; יצרן
+e Produzentin : מפיקה; יצרנית
 r Professional : מומחה
 r Profi : מומחה
 profitieren : להרוויח
@@ -8818,7 +8832,11 @@ r Prostituierte : זונה ממין זכר
 e Prostituierte : זונה
 e Prostitution : זנות
 r Protest : מחאה
-protestieren
+  - aus Protest : מתוך מחאה
+  - aus Protest gegen + [Akk.] : מתוך מחאה כנגד
+protestieren : למחות
+  - gegen + [Akk.] protestieren : למחות כנגד
+  - protestieren, dass ... : למחות על כך ש; להתנגד לכך ש
 r Proviant : צידה לדרך
   - mit Proviant beliefern : לצייד
 e Provokation (pl. -en) : פרובוקציה
@@ -8845,7 +8863,10 @@ putzen : לנקות
   - die Nase putzen : לקנח את האף
 
 = Q =
-quadrat
+s Quadrat (pl. -e) : ריבוע
+Quadrat- [K] : מרובע
+quadratisch [adj.] : מרובע
+r Quadratmeter : מטר מרובע
 quaken, quakte, hat gequakt [vt.] : לגעגע
   - Die Ente quakt. : הברווז מגעגע
 e Qual : עינוי
@@ -8906,11 +8927,12 @@ r Rasierschaum : קצף גילוח
 e Rast : מנוחה
 rasten : לנוח
 s Raster (= pl.) : רשת (קואורדינטות במפה); דגם
-r Rat
+r Rat (pl. Räte) : מועצה; עֵצָה
 e Rate (pl. -n) : תשלום
   - [Akk.] in Raten bezahlen : לשלם משהו בתשלומים
 raten, riet, hat raten [vt.] : לנחש
-r Ratschlag (pl. Ratschläge) : עצה
+ratsam [adj.] : מומלץ, רצוי, כדאי
+r Ratschlag (pl. Ratschläge) : עֵצָה
 e Ratte : חולדה, עכברוש
 rau [adj.] : קשה; קשוח; מחוספס; כואב
 rau [adv.]
@@ -8963,8 +8985,8 @@ sich regen, regte sich, hat sich geregt : לנוע
 r Regen : גשם, מטר
 r Regenschirm : מטריה
 e Regie : בימוי; הפקה
-regieren
-e Regierung
+regieren, regierte, hat regiert [vt.] : לשלוט על
+e Regierung (pl. -en) : ממשלה
 r Regierungsbezirk
 s Regime (pl. -s) : שלטון
 r Regisseur : במאי
@@ -9399,6 +9421,9 @@ r Schrank (pl. Schränke) : ארון
 e Schranke (pl. -n) : גבול, שער
   - in Die Schranken weisen : להגביל, לשים גבול
   - alle Schranken fallen lassen : להפיל את כל הגבולות/מחיצות
+e Schraube (pl. -n) : בורג
+schrauben : להבריג
+e Schraubmaschine (pl. -n) : מברגה
 schrecklich : מחריד
 schreiben, schrieb, hat geschrieben [vt.] : לכתוב
 e Schreibweise (pl. -n) : כתיב
@@ -10156,7 +10181,10 @@ s Treppenhaus : חדר מדרגות
 treten : לצעוד, לבוא, לבעוט, לדרוך; להפוך
   - auf + [Akk.] treten : לדרוך על
   - in Kraft treten : לצאת מן הכוח לפועל
+treu [adj.] : נאמן
+  - ([Dat.]) treu bleiben : להישאר נאמן )ל־(
 e Treue : נאמנות
+e Treuhand : אפוטרופסות, נאמנות
 r Treuhänder (= pl.) : אפוטרופוס, נאמן
 e Treuhänderin (pl. -nen) : אפוטרופוסית, נאמנה
 treulos [adj.] : בלתי נאמן, בוגדני
@@ -10189,14 +10217,16 @@ trotzen [vt.] : להתריס כנגד; לצאת חוצץ כנגד; להתגבר 
 trotzend
 trotzig [adj.] : מתריס, מתנגד; מתעקש, עקשני
 e Trotzigkeit : עקשנות
-r Trotzkismus
-r Trotzkist
-e Trotzkistin
-trotzkistisch
+r Trotzkismus : טרוצקיזם
+r Trotzkist : טרוצקיסט
+e Trotzkistin : טרוצקיסטית
+trotzkistisch : טרוצקיסטי
 r Trotzkopf (pl. Trotzköpfe) : עקשן
 e Trotzphase (pl. -n)
 trotzten + Dat. : to defy, to outdare, to brave, to affront
-trüb [adj.]
+trüb [adj.] : אטום; עכור; מעונן
+trüben [vt.] : לטשטש; לעמעם
+  - die Gerechtigkeitssinn trüben
 sich trüben
 e Trübsal : מצוקה, יסורים
 trügen [vt.] : להשלות, להוליך שולל
@@ -10458,6 +10488,9 @@ s Unterzeichnen : חתימה
 r Unterzeichner : החתום מטה
 Unterzeichnerstaat (pl. -en) : המדינה החתומה
 e Unterzeichnung : חתימה
+untreu [adj.] : לא נאמן
+  - j-m untreu sein : לבגוד במישהו; להיות לא נאמן למישהו
+e Untreue : הפרת אמונים; שבירת אמון; בגידה
 untröstlich [adj.] : שלא ניתן לנחם אותו; שבור לב
 unüberhörbar : שלא ניתן לטעות בו
 unüberschaubar [adj.]
