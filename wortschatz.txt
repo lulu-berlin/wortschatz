@@ -5673,6 +5673,7 @@ erklären, erklärte, hat erklärt : להבהיר, להסביר
   - sich bereit erklären : להיות מוכן (לעשות משהו)
 erklärlich
 e Erklärung
+e Erkrankung
 erkunden [vt.] : לחקור; לגלות
 sich erkundigen
   - sich nach + [Dat.] erkundigen : לשאול בקשר ל;  להתעניין בנוגע ל
@@ -5705,19 +5706,19 @@ r Erlöser (= pl.) : מושיע
 e Erlösung : ישועה
 ermächtigen
 e Ermätigung
-ermessen
-  - sich ermessen lassen
-s Ermessen
-ermesslich
-ermitteln [vt.] : לזהות
-e Ermittlung
+ermessen : לשקול; לשפוט; למדוד
+  - sich ermessen lassen : להילקח בחשבון; להימדד
+s Ermessen : שיקול
+ermesslich : במידת האפשר
+ermitteln [vt.] : לזהות; לקבוע; לחקור
+e Ermittlung : בירור; חקירה; זיהוי
 ermuntern [vt.] : לעודד מישהו
   - zu + [Dat.] ermuntern : לעודד ל־(פעולה כלשהי)
   - ermuntern, etwas zu tun : לעודד לעשות משהו
 ermutigen [vt.] : לעודד
   - j-n ermutigen, etwas zu tun : לעודד מישהו לעשות משהו
 ernähren, ernährte, hat ernährt [vt.] : להאכיל, להזין
-sich ernähren : ליזון
+sich ernähren, ernährte sich, hat sich ernährt : ליזון
 e Ernennung : מינוי
 erneuerbar
 erneuern
@@ -5730,10 +5731,16 @@ r Ernst : רצינות
   - sein Ernst sein : להתכוון ברצינות
   - Das kann doch wohl nicht dein Ernst sein!
 ernst [adj.] : רציני
+  - ernste Erkrankung
 ernst [adv.] : באופן רציני
   - [Akk.] ernst nehmen : לקחת משהו באופן רציני
+r Ernstfall
 ernsthaft [adj.] : רציני
 ernsthaft [adv.] : ברצינות
+ernstgemeint [adj.]
+ernstgenommen
+ernsthaft [adj.] : רציני; אמיתי
+ernstlich : רציני
 e Ernte (pl. -n) : יבול, בציר
 s Erntedankfest
 ernten
@@ -5754,9 +5761,9 @@ erpressen
 r Erpresser
 erpresserisch
 e Erpressung
-erquicken
-erquicklich
-e Erquickung
+erquicken [vt.] : לרענן
+erquicklich [adj.] : מרענן
+e Erquickung : התרעננות
 erraten, erriet, hat erraten [vt.] : לנחש נכונה
 erraten [adj.] : שנוחש נכונה
 erregbar
@@ -5764,8 +5771,11 @@ erregen [vt.] : למשוך; לעורר; לרגש
   - Aufmerksamkeit erregen : לעורר תשומת לב; למשוך תשומת לב
 sich erregen : להתרגש
 e Erregung
+erreichbar [adj.] : נגיש; שניתן להשיגו; שנמצא בהישג יד
 erreichen : להגיע; להשיג
 e Erreichung
+errichten
+e Errichtung
 erringen, errang, errungen : להשיג, להרוויח, לזכות
 erröten : להסמיק
 s Erröten : הסמקה
@@ -5783,7 +5793,7 @@ erschaffen : ליצור
 e Erschaffung (pl. -en)
   - Erschaffung der Welt
 erschallen, erschallte, erschallt : להשמיע קול/צליל
-erschaudern
+erschaudern, erschuaderte, ist erschaudert [vi.] : להתכווץ; להתחלחל; לרעוד
 erscheinen : להופיע; להיעשות גלוי; לצאת לאור
   - Die Sonne erscheint : השמש מתגלה
   - Das Buch erscheint : הספר יוצא לאור
@@ -5796,13 +5806,14 @@ erschöpft [adj.] : מותש
 e Erschöpfung
 erschrecken (erschrickt), erschrak, hat erschrocken : להבהיל
   - Ich wollte dich nicht erschrecken : לא התכוונתי להבהיל אותך
+s Erschrecken
 erschreckend
 erschüttern
 e Erschütterung
 erschweren, erschwerte, hat erschwert [vt.] : לסבך; להחמיר
   - die Lage erschweren : להחמיר את המצב
 ersehnt [adj.] : נכסף
-ersetzbar
+ersetzbar [adj.] : בר־החלפה, ניתן להחלפה
 ersetzen, ersetzte, hat ersetzt [vt.] : להחליף
   - [Akk.] (durch + [Akk.]) ersetzen : להחליף משהו (במשהו)
 ersparen, ersparte, hat erspart [vt.] : לחסוך (זמן, תיאור)
@@ -5820,14 +5831,14 @@ e Erstarrung : התקבעות, התגבשות
 erstatten [vt.] : לפצות; להגיש (תלונה, דו"ח), לדווח על־
   - eine Anzeige erstatten : להגיש תלונה
   - eine Meldung erstatten : להגיש דו"ח
-erstaunen
-s Erstaunen
-erstaunlich
-erstaunt
+erstaunen [vt.] : להדהים; להמם
+s Erstaunen : הפתעה; תדהמה
+erstaunlich [adj.] : מפתיע; מדהים; מפעים
+erstaunt [adj.] : נדהם; מופתע; נפעם
 erstbeste : הטוב ביותר
   - Nimm nicht gleich das erstbeste
 erste
-j-n erstechen : to stab s.o.
+erstechen [vt.] : לדקור מישהו
 erstens [adv.] : קודם; דבר ראשון
 erstere [adj.] : הקודם, זה (בניגוד ל"אחר")
   - erstere ... letztere ...
@@ -5855,6 +5866,9 @@ erteilen
 r Ertrag (pl. Erträge)
 ertragen (erträgt), ertrug, hat ertragen [vt.] : לשאת; לסבול; לעמוד ב־
   - [Akk.] nicht mehr ertragen können : לא להיות יכול יותר לשאת משהו
+  - seine Schmerzen geduldig ertragen
+erträglich [adj.] : נסבל
+ertragreich [adj.] : רווחי
 erübrigen [vt.] : לחסוך
   - j-m [Akk.] erübrigen : לחסוך למישהו משהו
 sich erübrigen : להיחסך; לא להיות נחוץ; להתייתר
@@ -10140,9 +10154,10 @@ unerfreulich [adj.] : לא נעים
 unerhört : מזעזע, שלא נשמע כמותו
 unerklärlich : שלא ניתן להסבירו
 unerlässlich [adj.] : חיוני
-unermesslich
+unermesslich : בלתי ניתן למדידה
 unerquicklich
 unersprießlich
+unerträglich [adj.] : בלתי נסבל
 r Unfall (pl. Unfälle) : תאונה; תאונת דרכים
 Unfallzeuge (pl. -n) : עד לאונה
 r Unfug : שטויות; מעשה קונדס; נזק; רעה
