@@ -5573,9 +5573,9 @@ sich ereignend
 s Ereignis (pl. -se) : אירוע; מאורע; התרחשות
 ereignisreich
 e Erektion (pl. -en)
-r Eremit (gen. -en, pl. -en)
+r Eremit (gen. -en, pl. -en) : נזיר
 s Eremitendasein
-e Eremitin
+e Eremitin : נזירה
 erfahren, erfuhr, hat erfahren [vt.] : לחוות
 e Erfahrung : חוויה; נסיון
 erfahrungsgemäß
@@ -5585,9 +5585,8 @@ erfechten, erfocht, erfochten : להשיג, להרוויח, לזכות
 erfinden, erfand, hat erfunden [vt.] : להמציא
   - neu erfinden : להמציא מחדש
 r Erfinder (= pl.)
-e Erfindung
+e Erfindung (pl. -en) : המצאה
 erfindungsreich
-e Erfindungְ (pl. -en) : המצאה
 r Erfolg (pl. -e) : הצלחה; הישג; שגשוג; נצחון
 erfolgen, erfolgte, ist erfolgt [vi.] : להתקיים; להיעשות; לקרות; להתרחש
   - aus + [Dat.] erfolgen : לנבוע מ־, להיגרם על ידי־, להיות תוצאה של־, לצאת מ־
@@ -5600,14 +5599,14 @@ erforderlich [adj.] : נחוץ
 erfordern, erforderte, hat erfordert [vt.] : לדרוש, להצריך
 s Erfordernis : דרישה
 erfordert [adj.] : נדרש
-erfreuen
+erfreuen [vt.]
 erfreulich
-erfüllbar
+erfüllbar [adj.] : ניתן לביצוע; ניתן למימוש
 erfüllen : למלא (צורך, בקשה)
-e Erfüllung
-ergänzen
-e Ergänzung
-ergattern
+e Erfüllung : סיפוק; הגשמה, מימוש, ביצוע
+ergänzen [vt.] : להשלים
+e Ergänzung : השלמה
+ergattern [vt.] : לחטוף
 ergeben, ergab, hat ergeben [vt.] : להניב, להפיק, להוביל ל, לייצר
   - Sinn ergeben : להיות הגיוני; להיות מתקבל על הדעת
 sich ergeben, ergab sich, hat sich ergeben
@@ -5628,13 +5627,14 @@ sich ergötzen, ergötzte sich, hat sich ergötzt : להשתעשע
   - sich (an + [Dat.]) ergötzen : לסעוד את ליבו; להשתעשע (ב־)
 ergreifen, ergriff, hat ergriffen [vt.] : לנקוט (צעדים), לתפוס (הזדמנות), לאחוז (בחבל), לתפוס (חשוד), לתפוס (תיק ולברוח); לקחת; ללכוד
 ergründen [vt.] : לחקור; לגלות
-erhaben
-e Erhabenheit
-r Erhalt
-erhalten (erhält), erhielt, hat erhalten [vt.] : לקבל
+erhaben [adj.] : נשגב
+e Erhabenheit : גדולה, הדר, הוד, גדלות; נשגבות
+r Erhalt : קבלה
+erhalten (erhält), erhielt, hat erhalten [vt.] : לקבל, להשיג; לתחזק
   - [Akk.] von j-m erhalten : לקבל משהו ממישהו
+  - [Akk.] erhalten : לתחזק
 erhältlich
-e Erhaltung
+e Erhaltung : שימור; תחזוקה
 erheben, erhob, hat erhoben [vt.] : להרים, לרומם; להטיל; לסקור, לערוך סקר
   - gegen + [Akk.] Anklage erheben : להטיל כתב אישום כנגד
   - (auf + [Akk.]) Steuern erheben : להטיל מיסים (על משהו)
@@ -5654,17 +5654,18 @@ erhoffen, erhoffte, hat erhofft [vt.] : לקוות ל
   - sich[Dat.] [Akk.] von j-m erhoffen : לצפות למשהו ממישהו
 sich erholen, erholte sich, hat sich erholt : להחלים; להירגע; לחדש כוחות
   - sich (von + [Dat.]) erholen : להחלים )ממשהו(
-e Erholung
+e Erholung : החלמה
 erinnern, erinnerte, hat erinnert : להזכיר
   - an + [Akk.] erinnern : להזכיר משהו
   - sich an + [Akk.] erinnern : לזכור משהו; להיזכר במשהו
   - sich [Gen.] erinnern : לזכור משהו; להיזכר במשהו
-erinnerlich
+erinnerlich : זכור
+  - wie erinnerlich : כזכור
 e Erinnerung (pl. -en) : זכרון
   - Mir wird immer in Errinerung bleiben, wie ... : לנצח יהיה חרוט בזכרוני איך
 erhören [vt.] : להישמע לתפילתו של מישהו
-sich erkälten
-e Erkältung
+sich erkälten : להצטנן; להתקרר; לחטוף שפעת
+e Erkältung : צינון; הצטננות
 erkennbar
 erkennen, erkannte, hat erkannt [vt.] : להכיר; לזהות; לתפוש
 s Erkennen
@@ -5672,12 +5673,13 @@ erkennlich
 e Erkennlichkeit
 e Erkenntnis
 s Erkennungszeichen
-r Erker
+r Erker : מפרץ
 s Erkerfenster
 erklären, erklärte, hat erklärt : להבהיר, להסביר
   - sich erklären : להכריז על עצמו
   - sich bereit erklären : להיות מוכן (לעשות משהו)
-erklärlich
+erklärlich [adj.] : מובן
+erklärlich [adv.] : באופן מובן
 e Erklärung
 e Erkrankung
 erkunden [vt.] : לחקור; לגלות
@@ -5685,9 +5687,9 @@ sich erkundigen
   - sich nach + [Dat.] erkundigen : לשאול בקשר ל;  להתעניין בנוגע ל
   - sich über + [Akk.] erkundigen : לברר בנוגע ל
 sich erkundigend
-e Erkundigung
-e Erkundung
-r Erlass
+e Erkundigung : חקירה, תשאול, בירור
+e Erkundung : חקירה; גישוש; חקר
+r Erlass : צו
 erlassen : להחיל, לבצע; לבטל )חוב(, לוותר על, לשחרר מ
 erlauben, erlaubte, hat erlaubt : להרשות
 erläutern
@@ -5702,16 +5704,17 @@ e Erledigung
 erleichtern [vt.] : להקל על־
 e Erleichterung : הקלה
 erleiden, erlitt, hat erlitten [vt.] : לסבול; לספוג
-erliegen
-s Erliegen
+erliegen, erlag, ist erlegen : להיכנע ל
+  - [Dat.] erliegen : להיכנע ל
+s Erliegen : קיפאון; מבוי סתום
   - zum Erliegen kommen
-erlöschen
+erlöschen (erlischt), erlosch, ist erloschen [vi.] : לפוג
 erlösen : להושיע
   - j-n von + [Dat.] erlösen : להושיע מישהו ממשהו
 r Erlöser (= pl.) : מושיע
 e Erlösung : ישועה
-ermächtigen
-e Ermätigung
+ermächtigen : להסמיך; לאשר
+e Ermächtigung : אישור; הרשאה; הסמכה
 ermessen : לשקול; לשפוט; למדוד
   - sich ermessen lassen : להילקח בחשבון; להימדד
 s Ermessen : שיקול
@@ -5727,10 +5730,10 @@ ernähren, ernährte, hat ernährt [vt.] : להאכיל, להזין
 sich ernähren, ernährte sich, hat sich ernährt : ליזון
 e Ernennung : מינוי
 erneuerbar
-erneuern
+erneuern [vt.] : לחדש; להחליף במשהו חדש
 erneuernd
 sich erneuernd
-e Erneuerung
+e Erneuerung : חידוש
 r Ernst : רצינות
   - im Ernst [adv.] : ברצינות
   - Im Ernst! [interj.] : ברצינות!
@@ -5749,7 +5752,7 @@ ernsthaft [adj.] : רציני; אמיתי
 ernstlich : רציני
 e Ernte (pl. -n) : יבול, בציר
 s Erntedankfest
-ernten
+ernten [vt.] : לקצור
 r Eroberer (= pl.)
 erobern [vt.] : לכבוש; להשתלט על
 e Eroberung : כיבוש
@@ -10397,15 +10400,17 @@ unbezahlbar [adj.]
 und : וְ־
 undicht [adj.] : דולף; לא אטום
 e Undichtigkeit : דליפה
-unehelich [adj.]
+unehelich [adj.] : מחוץ לנישואים
+unehelich [adv.] : מחוץ לנישואים
+  - unehelich geboren sein : להיוולד מחוץ לנישואים
 uneingeschränkt [adj.] : בלתי מוגבל
 uneinheitlich [adj.]
-uneinig [adj.]
-e Uneinigkeit
+uneinig [adj.] : מפולג, מפוצל, מחולק
+e Uneinigkeit : פילוג, פיצול
 uneins : מפולג, מפוצל, מחולק
 unendlich [adj.] : אינסופי; בלתי נגמר; נצחי
 e Unendlichkeit : אינסוף
-unentgeltlich
+unentgeltlich : בחינם
 unentschieden [adj.]
 unerfreulich [adj.] : לא נעים
 unerhört : מזעזע, שלא נשמע כמותו
@@ -10424,7 +10429,7 @@ ungelegen : לא נוח, לא מתאים
   - ungelegen kommen : להיות לא נוח, לבוא בזמן לא טוב, לא להיות מתאים
 ungenutzt : לא בשימוש, במצב סרק
 e Ungnade : חרפה, בושה
-e Uni
+e Uni [Abk. für Universität] : אוניברסיטה
 e Uniform : מדים; תלבושת אחידה
 uniformiert [adj.]
 r Uniformierte : אדם לבוש מדים
@@ -10433,7 +10438,7 @@ e Uniformität
 uniform [adj.]
 s Unikat : יחיד במינו
 e Universität (pl. -en) : אוניברסיטה
-unkalkulierbar
+unkalkulierbar [adj.] : שלא ניתן לחשב אותו
 Unkosten (pl.) : הוצאות
   - Unkosten decken : לכסות את ההוצאות
 unliebsam [adj.] : לא נעים
