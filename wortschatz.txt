@@ -5869,40 +5869,121 @@ ertragen (erträgt), ertrug, hat ertragen [vt.] : לשאת; לסבול; לעמו
   - seine Schmerzen geduldig ertragen
 erträglich [adj.] : נסבל
 ertragreich [adj.] : רווחי
+ertränken [vt.] : להטביע
+sich ertränken : להתאבד בטביעה
+ertrinken
+r Ertrunkene
+e Ertrunkene
 erübrigen [vt.] : לחסוך
   - j-m [Akk.] erübrigen : לחסוך למישהו משהו
 sich erübrigen : להיחסך; לא להיות נחוץ; להתייתר
+e Eruption (pl. -en)
 erwachen, erwachte, erwacht : לעורר, להקים
 s Erwachen : התעוררות
+erwachsen, erwuchs, ist erwachsen [vi.] : לגדול; לצמוח
+erwachsen [adj.] : מבוגר; בוגר
+e Erwachsenbildung
+r Erwachsene
+e Erwachsene
+erwägen, erwog, hat erwogen [vt.] : לשקול )רעיון(
+erwägenswert
+e Erwägung
 erwähnen, erwähnte, hat erwähnt [vt.] : להזכיר, לציין
-erwarten : לצפות
+  - j-n namentlich erwähnen
+erwähnenswert
+e Erwähnung : ציון; אזכור; התייחסות ל
+erwarten, erwartete, hat erwartet [vt.] : לצפות
+  - zu erwarten [adj.] : שיש לצפות לו
+s Erwarten
+e Erwartung (pl. -en) : ציפייה
+erwartungsgemäß
+erwartungsvoll
 erweichen, erweichte, hat erweicht [vt.] : לרכך
+r Erweis (pl. -e) : הוכחה
 erweisen, erwies, erwiesen : להראות
   - j-m [Akk.] erweisen : להראות למישהו משהו
   - Kinder sollten ihren Eltern Respekt erweisen
-  - sich (als + [Nom.]) erweisen : להוכיח את עצמו, לצאת
+sich erweisen, erwies sich, hat sich erwiesen : להתברר כ, לצאת
+  - sich (als + [Nom.]) erweisen : להתברר כ, לצאת
   - Meine erste Idee erwies sich als richtig.
   - Der Umzug von einer Stadt in die andere erwies sich als sehr teuer.
 erweitern + Akk. : להרחיב
+r Erwerb
+erwerben
+erwerbslos
+s Erwerbsstreben
+e Erwerbung
+erwidern
+e Erwiderung
 erwischen [vt.] : לתפוס (רכבת); להשיג
   - erwischt werden : להיתפס
-s Exempel : דוגמה
-  - als Exempel : לדוגמה
-  - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
+Erz- [K]
 erzählen, erzählte, hat erzählt [vt.] : לספר
   - j-m etwas unter vier Augen erzählen : לספר למישהו משהו בארבע עיניים
+r Erzähler
+erzählerisch
+e Erzählung
+r Erzbischof
+erzdumm
+r Erzengel
+erzeugen
+r Erzeuger
+s Erzeugnis
+e Erzeugung
+erzfaul
+r Erzfeind
+r Erzgauner
 s Erzgebirge : הרי המחצב, בגבול בין סקסוניה בגרמניה לבין צ'כיה
 s Erzhaus : בית הארכידוכסות
+erziehbar
+erziehen
+r Erzieher
+erzieherisch
+e Erziehung
+e Erziehungsberatungsstelle
+r Erziehungsberchtigte
+s Erziehungsheim
+erzürnen [vt.] : להכעיס; לעורר כעס
+sich erzürnen
+  - sich über + [Akk.] erzürnen
 erzwingen, erzawng, hat erzwungen [vt.] : להכריח (דבר), להכריח שמשהו יקרה, לחייב
   - Man kann Kreativität nich erzwingen.
   - eine Entscheidung erzwingen : להביא להכרעה
   - Zahlung erzwingen : לחייב תשלום
   - eine andere Anordnung erzwingen : לחייב סדר חלופי
 es [pron.] : זה
+e Esche (pl. -n)
+r Esel
+e Eselei
+e Eskalation
+eskalieren
+r Eskimo
+e Espe
+s Esperanto
+essbar
+e Esse (pl. -n)
 essen (isst), aß, hat gegessen [vt.] : לאכול
+s Essen : אוכל
+e Essenz
+s Essgeschirr
+e Essgewohnheit
+r Essig
+e Essiggurke
+e Esskastanie
+s Esszimmer
+s Establishment
+r Estrich (pl. -e)
 etablieren : להקים, לייסד, להשתית
 e Etage (pl. -n) : קומה
+e Etappe (pl. -n)
+etappenweise
+r Etat /eta/ (pl. -s)
+etc. [kurz für et cetera] : וכן הלאה
 e Ethik : אתיקה, מוסר
+ethisch [adj.]
+s Ethos
+s Etikett
+etikettieren
 etliche [m.b.] : מספר ...
   - etliche Stunden : מספר שעות
 etwa [adv.] : בערך; למשל
@@ -5922,6 +6003,9 @@ e Ewigkeit : נצח
   - seit einer Ewigkeit [ugs.] : במשך דורות
 ewiglich [adv.] : לנצח; לעולם
   - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
+s Exempel : דוגמה
+  - als Exempel : לדוגמה
+  - an j-m ein Exempel statuieren : לעשות ממישהו דוגמה
 existieren, existierte, hat existiert [vi.] : להיות קיים, להתקיים
 r Experte (gen. -n, pl. -n) : מומחה
 e Expertin (pl. -nen) : מומחית
@@ -8177,6 +8261,9 @@ nahen, nahte, genaht : להיות קרוב, להתקרב
   - sich ([Dat.]) nahen [veralt.] : להתקרב ל־
 nahend : imminent, approaching, forthoming
 r Name (pl. -n) : שם; שם משפחה
+namentlich [adj.] : שמני
+namentlich [adv.] : בשם; באופן ספציפי
+  - j-n namentlich erwähnen
 nämlich [adj.]
 nämlich [adv.]
 e Narbe : צלקת
@@ -10158,6 +10245,7 @@ unermesslich : בלתי ניתן למדידה
 unerquicklich
 unersprießlich
 unerträglich [adj.] : בלתי נסבל
+unerwartet [adj.]
 r Unfall (pl. Unfälle) : תאונה; תאונת דרכים
 Unfallzeuge (pl. -n) : עד לאונה
 r Unfug : שטויות; מעשה קונדס; נזק; רעה
