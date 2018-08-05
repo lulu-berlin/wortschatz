@@ -280,8 +280,8 @@ sich áb|melden, meldete sich ab, hat sich abgemeldet : להתנתק מהמער�
 e Abmeldung (pl. -en) : ביטוי מינוי; צ'ק־אאוט
 áb|murksen [ugs.] : לחסל, לרצוח
 e Abnahme : הפחתה, ירידה, פיחות; אישור
-áb|nehmen, nahm ab, hat abgenommen [vt.] : להוריד, להסיר; להפחית
-áb|nehmen, nahm ab, hat abgenommen [vi.] : לרדת במשקל
+áb|nehmen (nimmt ab), nahm ab, hat abgenommen [vt.] : להוריד, להסיר; להפחית
+áb|nehmen (nimmt ab), nahm ab, hat abgenommen [vi.] : לרדת במשקל
 e Abneigung : היעדר רצון, אי־רצון
 abnorm [adj.] : חריג, סוטה, לא תקין, אנורמלי
 áb|nutzen, nutzte ab, hat abgenutzt [vt.] : לבַלּות משהו
@@ -467,6 +467,8 @@ e Ächtung : חרם, נידוי
 achtzehn : שמונה עשרה, שמונה עשר
 achtzig : שמונים
 achtzigst [adj.] : השמונים
+ächzen : לגנוח, להיאנק
+  - unter + [Dat.] ächzen
 r Acker (pl. Äcker) : שדה
 r Ackerbau : חקלאות
 ackern [vt.] : לחרוש
@@ -1272,6 +1274,8 @@ aufgrund [präp.] : בשל
   - aufgrund + [Gen.] [präp.] : בשל
 aúf|haben
 aúf|halten : לעצור, לעכב, למנוע
+aúf|heizen, heizte auf, hat aufgeheizt [vt.] : להגביר את הטמפרטורה; לחמם
+aufheizend [adj.] : מתחמם
 aúf|hören, hörte auf, hat aufgehört [vt.] : להפסיק
 aúf|kaufen, kaufte auf, hat aufgekauft [vt.] : לקנות )משהו בשלמותו; חברה, מניות של חברה(
 aufkaufend [adj.]
@@ -1370,12 +1374,19 @@ aúf|trumpfen
 aúf|wachen : להתעורר
 aúf|wachsen : לגדול
 r Aufwand : הוצאה; סיבוך
+aúf|wärmen, wärmte auf, hat aufgewärmt [vt.] : לחמם
+sich aúf|wärmen, wärmte sich auf, hat sich aufgewärmt : להתחמם
+aufwärmend [adj.] : מחמם
+sich aufwärmend [adj.] : מתחמם
 aufwärts [adv.] : למעלה
 aúf|wecken
 aúf|werfen, warf auf, hat aufgeworfen [vt.] : להעלות, לעורר, להציב
   - Fragen aufwerfen : לעורר שאלות
 aúf|wiegen
 aúf|wiegeln
+aúf|zeichnen, zeichnete auf, hat aufgezeichnet [vt.] : לתעד; להקליט; לרשום
+s Aufzeichnen : רישום; תיעוד
+e Aufzeichnung : רישום; תיעוד; רשומה
 s Auge (pl. -n) : עין
   - wie die Faust aufs Auge
   - sich die Augen reiben : לשפשף את העיניים
@@ -3842,7 +3853,7 @@ dementieren [vt.] : להכחיש
 dementsprechend [adj.]
 dementsprechend [adv.]
 demgegenüber [adv.] : מנגד; כנגד זה
-demnach : לכן, עקב כך, אפוא
+demnach [adv.] : לכן, עקב כך, אפוא
 demnächst [adv.] : בקרוב; בעתיד הקרוב; בכל רגע
   - demnächst stattfindend [adj.]
 r Demokrat
@@ -3909,6 +3920,8 @@ derjenige, diejenige, dasjenige
 dermaßen [adv.] : במידה כזאת
   - ... dermaßen ..., dass ...
 derselbe, dieselbe, dasselbe [pron.] : אותו
+derweil [adv.] : בינתיים
+derweilen [adv.] : בינתיים
 derzeit [adv.] : כרגע
 derzeitig [adv.]
 des
@@ -5901,6 +5914,10 @@ erwähnen, erwähnte, hat erwähnt [vt.] : להזכיר, לציין
   - j-n namentlich erwähnen
 erwähnenswert
 e Erwähnung : ציון; אזכור; התייחסות ל
+erwärmen [vt.] : לחמם
+sich erwärmen : להתחמם
+e Erwärmung : התחממות
+  - globale Erwärmung : התחממות גלובלית
 erwarten, erwartete, hat erwartet [vt.] : לצפות
   - zu erwarten [adj.] : שיש לצפות לו
 s Erwarten
@@ -7196,7 +7213,7 @@ r Hirt ~ Hirte (pl. Hirten) : רועֶה
 e Hirtin (pl. -nen) : רועָה
 e Hitze
 e Hitzewelle
-hoch [adj.] : גבוה
+hoch (höher, am höchsten) [adj.] : גבוה
 e Hochachtung : כבוד, הוקרה, הערכה
 hochachtungsvoll [adv.] : בהערכה, בהוקרה, בכבוד רב
 sich hóch|arbeiten, arbeitete sich hoch, hat sich hochgearbeitet : לעלות בסולם הדרגות
@@ -7210,6 +7227,8 @@ s Hochschulstudium : לימודים גבוהים
 e Hochstimmung : התעלות, התרוממות רוח
 e Höchstleistung : שיא הכוח, שיא העוצמה, שיא היעילות
 höchstpersönlich : אישי ביותר
+r Höchststand
+r Höchstwert (pl. -e) : ערך מקסימום
 hockqualifiziert [adj.]
 r Hocker (= pl.) : שרפרף
 r Hof (pl. Höfe) : חצר
@@ -7230,6 +7249,7 @@ höfisch [adj.] : אצילי; חצרוני; של חצר המלוכה
 höflich [adj.] : מנומס
 e Höhenangst : פחד גבהים
   - Höhenangst haben : לפחד מגבהים, יש לו פחד גבהים
+e Höhenmessung
 r Höhepunkt (pl. -e) : נקודת שיא
 r Hohlkopf : ראש בלטה
 s Holz (pl. Hölzer) : עץ
@@ -7276,16 +7296,26 @@ s Ich : האגו, האני
 identifizieren, identifizierte, hat identifiziert [vt.] : לזהות
 r Idiot (pl. -en) : אידיוט
 e Idiotin (pl. -nen) : אידיוטית
+r Igel : קיפוד
 igitt [interj.] : איכס
 ignorieren, ignorierte, hat ignoriert [vt.] : להתעלם מ־
 ihr [pron.] : אתן; אתם
 ihr [poss.pron.] : שלה
 ihr [poss.pron.] : שלהן; שלהם
 Ihr [poss.pron.] : שלכן (בכבוד); שלכם (בכבוד)
-e Ikone
+s Ikon
+e Ikone (pl. -n)
 illegal [adj.] : לא חוקי, בלתי חוקי
+illegitim [adj.]
+e Illegitimität
 e Illusion : אשליה; אילוזיה
 illusorisch [adj.] : מטעה; מתעתע
+e Illustration
+illustrativ
+illustrieren
+illustrierend
+imaginär [adj.]
+e Imagination
 imitieren [vt.] : לחקות
 immens [adj.]
 immer [adv.]
@@ -7302,9 +7332,18 @@ in [präp.] : בְּ; אל־
   - in + [Dat.] : בְּ־, בתוך־, תוך־ )זמן(
   - in + [Akk.] : אל־, ל־, לתוך־
 r Inbegriff : התגלמות ה־; תמצית ה־; שם דבר
+indem [konj.]
 indes : אולם; בינתיים
 indessen [adv.] : בינתיים
 indessen [konj.] : בעוד ש־
+Indianer
+s Indien
+r Indienuhu
+r Indik
+e Indikation
+r Indikator
+indikativ
+indirekt [adj.]
 indossieren [vt.] : לתמוך (במשהו), לקדם, להמליץ
 e Informatik : מדעי המחשב; תורת המידע
 r Informatiker : מדען מחשבים
@@ -7324,6 +7363,11 @@ e Inhaftierung : מעצר
 e Inhaftnahme : מעצר
 r Inhalt (pl. -e) : תוכן; נושא; עצם העניין
 initiieren : ליזום
+s Inkasso
+inkludieren
+inkludiert
+e Inklusion
+inklusive
 innen [adv.] : פְּנִים
 innenpolitisch [adj.] : פנים־פוליטי, של פוליטיקה פנימית
 e Innenstadt
@@ -7339,28 +7383,60 @@ instinktiv [adv.] : באופן אינסטינקטיבי
 s Institut : מוסד
 s Instrument (pl. -e) : כלי נגינה; אמצעי
 e Intelligenz : אינטליגנציה
-s Interesse : עניין, התעניינות
+e Intention
 interdisziplinär
+s Interesse : עניין, התעניינות
 interessieren [vt.] : לעניין; לנגוע ל־
   - j-n für + [Akk.] interessieren : לעניין מישהו במשהו
 sich interessieren : להתעניין
   - sich für + [Akk.] interessieren : להתעניין במשהו
 interessiert [adj.] : מעוניין
   - an + [Akk.] interessiert sein : להיות מעוניין ב־
+s Interface
 international [adj.] : בינלאומי
 international [adv.] : באופן בינלאומי
 s Internet : אינטרנט
 s Internetzeitalter : עידן האינטרנט
 interviewen : לראיין
+intim [adj.] : אינטימי
 r Intimfeind : אויב מושבע, ארכי‏־אויב
+e Intimität : אינטימיות
+r Intimpartner
+e Intimpflege
+s Intimproblem (pl. -e)
+e Intimsphäre
 e Investition : השקעה
 r Investor (pl. -en) : משקיע
 e Investorin (pl. -nen) : משקיעה
 investorisch
 involvieren : לערב
-inzwischen
-sich irren : לשגות
-  - Wenn ich mich nicht irre : אם אני לא טועה
+inzwischen [adv.] : בינתיים
+Irak
+Iran
+irgend [adv.]
+irgendein
+irgendetwas
+irgendwann
+irgendwas
+irgendwelche
+irgendwer
+irgendwie
+irgendwo
+irr [adj.] : משוגע
+irr [adv.] : באופן משוגע
+irre [adj.] : משוגע
+írre|führen, führte irre, hat irregeführt [vt.] : להוליך שולל
+irreführend [adj.]
+irregulär [adj.]
+irrelevant [adj.]
+irren, irrte, ist geirrt [vi.] : לשוטט; לתעות
+sich irren, irrte sich, hat sich geirrt : לשגות; לטעות
+  - Wenn ich mich nicht irre : אם אינני טועה
+sich irrend [adj.]
+s Irrenhaus : בית משוגעים
+irreparabel [adj.]
+e Irrigation
+e Irrung (pl. -en) : בלבול
 irritieren [vt.] : לבלבל; לעצבן
 r Irrtum : שגיאה
   - großer Irrtum : שגיאה גדולה
@@ -7545,6 +7621,11 @@ s Klettern : טיפוס
 e Kletterwand : קיר טיפוס
 s Klima : אקלים
 e Klimaanlage (pl. -n) : מזגן
+e Klimabehörde
+r Klimabericht : דו"ח מזג האוויר
+r Klimaforscher (= pl.)
+s Klimaphänomen
+r Klimatrend (pl. -s)
 r Klimawandel : שינוי אקלים
 e Klinge (pl. -n) : להב
 klingen : להישמע; לצלצל
@@ -7631,7 +7712,7 @@ konfrontieren
 konfrontiert
 können (kann), konnte, hat gekonnt [vt.] : להיות יכול, להיות מסוגל
 r Kontrahent : יריב
-e Konzentration : ריכוז
+e Konzentration (pl. -en) : ריכוז
 s Konzentrationslager (= pl.) : מחנה ריכוז
 s Konzept
 e Kooperation (pl. -en) : שיתוף פעולה
@@ -8147,6 +8228,8 @@ e Medientechnik
 s Medienunternehmen (= pl.) : חברת מדיה
 r Medienunternehmer : יזם מדיה
 s Medium : מדיום
+s Meer : ים; אוקינוס
+r Meeresspiegel
 s Mehl (pl. -e) : קמח
 mehlig [adj.] : קמחי
 mehrheitlich [adj.] : התומך בגישת "הרוב קובע"
@@ -8166,9 +8249,12 @@ menschenunwürdig [adj.]
 menschlich [adj.] : אנושי
 merken, merkte, hat gemerkt - לבחון באופן מכוון וכך לשים לב למשהו vgl. bemerken
   - + Akk. : לשים לב (ש־), לבוא לשימת ליבו של מישהו, להבחין, להסתכל ולראות
+r Messbeginn : תחילת המדידה
 messen (misst), maß, hat gemessen : למדוד
 s Messer (= pl.) : סכין
 s Metall : מתכת
+meteorologisch [adj.] : מטאורולוגי
+s Methan
 meutern : למרוד
 miauen : לעשות מיאו
   - Die Katze miaut.
@@ -8223,6 +8309,7 @@ e Mitternacht : חצות
 e Mitteilung : הודעה; מסר; הכרזה, הצהרה
 s Mittel (= pl.) : אמצעי; כלי; משאב
 r Mittelpunkt (pl. -e) : מרכז, נקודת אמצע, נקודה מרכזית
+mittlerweile [adv.] : בינתיים
 mít|tragen, trug mit, hat mitgetragen [vt.] : לתמוך ב־, להצטרף ל־, לעזור לשאת
 mitunter : לפעמים, מדי פעם, מפעם לפעם
 mít|wirken, wirkte mit, hat mitgewirkt : לתרום, להרים תרומה; לעזור, לסייע; לקחת חלק ב
@@ -8440,6 +8527,7 @@ s Nonnenkloster (pl. Nonnenklöster) : מנזר של נזירות
 r Nord : רוח הצפון
 r Norden : צפון
   - im Norden : בצפון
+e Nordhalbkugel : חצי הכדור הצפוני
 r Nordpol : הקוטב הצפוני
   - am Nordpol : בקוטב הצפוני
 e Nörgelei : תלונה
@@ -8615,6 +8703,7 @@ e Pauschalsumme
 e Pause (pl. -n) : הפסקה
 pausen
 r Pausenraum
+r Pazifik : האוקיינוס השקט
 peilen, peilte, hat gepeilt [vt.] [ugs.] : למקם ?
   - [Akk.] über den Daumen peilen : לנחש בהערכה גסה
   - die Lage peilen : להעריך את המצב
@@ -8705,6 +8794,7 @@ r Pfropf
 pfui [interj.]
 s Pfund : פאונד; לירה
 r Pfusch
+s Phänomen : תופעה, פנומן
 e Physik : פיזיקה
 physisch [adj.] : פיזי
 s Piano : פסנתר
@@ -8717,6 +8807,7 @@ e Pinzette (pl. -n) : פינצטה
 e Pisse [ugs.] : שתן
 pissen [ugs.] : להשתין
 r Pisser : משתין
+r Planet : פלנטה, כוכב לכת
 planen, plante, hat geplant [vt.] : לתכנן
 s Pläsier : עונג
 pläsierlich [adj.] : מענג
@@ -8982,6 +9073,7 @@ reden, redete, hat geredet : לדבר
   - von + [Dat.] reden : לדבר על משהו
 s Regal (pl. -e) : מדף
 e Regel (pl. -n) : חוק; כלל
+regelmäßig [adj.]
 regeln [vt.] : לשלוט; לעשות רגולציה; לווסת; להסדיר
 e Regelung : רגולציה
 sich regen, regte sich, hat sich geregt : לנוע
@@ -9220,6 +9312,8 @@ Sanftmut
 sanftmütig
 e Sammelwut : אספנות כפייתית
 r Sarg (pl. Särge) : ארון קבורה
+r Satellit : לווין
+  - über Satellit
 satt [adj.] : מלא
   - satt sein : היה לו מספיק
   - [Akk.] satt haben : להימאס ממשהו
@@ -10038,7 +10132,7 @@ s Teil (pl. -e) : חתיכה; חלק יחסי; קטע
 teilen, teilte, hat geteilt : לחלק, לחלוק; לשתף
 teíl|nehmen, nahm teil, hat teilgenommen [vt.] : להשתתף, לקחת חלק
 r Teilstamm : תת־ענף (של משפחה, שבט)
-teilweise [adv.] : partial(ly), partly, to some extent
+teilweise [adv.] : באופן חלקי; במידת מה
 e Teilzeit : משרה חלקית
 r Teilzeit-Professor
 s Teilzeit-Praktikum
@@ -10174,6 +10268,9 @@ s Treffen : פגישה
 r Treffpunkt : נקודת מפגש
 treiben
   - sich treiben lassen : להיסחף
+r Treiber (= pl.)
+s Treibhaus : חממה
+s Treibhausgas : גז חממה
 trennbar [adj.] : פריק; ניתן להפרדה
 t Trend (pl. -s) : מגמה; אופנה; טְרֶנְד
 trennen [vt.] : להפריד
@@ -10445,6 +10542,7 @@ unliebsam [adj.] : לא נעים
 unmittelbar [adj.] : ישיר, מיידי, רגעי
 unmittelbar [adv.] : באופן ישיר, מייד, באופן מיידי, בן רגע
 e Unmittelbarkeit : מיידיות, ישירות
+unregelmäßig [adj.]
 e Unruhe : אי־נחת; חוסר שקט; מהומה, המולה
 unschlüssig : הססני, שלא הוסכם לגביו
 Unsitte : הרגל מגונה
@@ -10457,6 +10555,8 @@ unten [adv.] : למטה
   - dort unten : שם למטה
 unter [präp.] : מתחת ל־, תחת
 unterbrechen (unterbricht), unterbrach, hat unterbrochen [vt.] : לקטוע באמצע, להפסיק, לעצור באמצע
+unterdes [adv.] : בינתיים
+unterdessen [adv.] : בינתיים
 r Untergang : מפלה
 únter|gehen, ging unter, ist untergegangen [vi.] : לשקוע (שמש); לרדת למטה; להפסיד
 untergraben, untergrub, hat untergraben [vt.] : לערער, להחליש
@@ -10623,7 +10723,7 @@ verdammt [interj.] : לעזאזל
 verdenken : להאשים
   - [Akk.] j-m verdenken : להאשים מישהו במשהו
   - Wer kann es ihm verdenken?
-verdeutlichen
+verdeutlichen, verdeutlichte, hat verdeutlicht [vt.] : להבהיר; להמחיש; להדגים; להסביר
 verdichten
 verdichtet
 e Verdichtung
@@ -10902,6 +11002,8 @@ verständigen, verstädigte, verständigt
   - j-n (von + [Dat.]) verständigen : ליידע מישהו (על אודות משהו)
 e Verständigung : הבנה
 verstärken : לחזק; להחמיר
+sich verstärken : להתחזק; להתגבר
+sich verstärkend [adj.] : מתחזק; מתגבר
 verstecken [vt.] : להסתיר
   - sich verstecken : להסתתר
 verstehen, verstand, hat verstanden [vt.] : להבין
@@ -11200,6 +11302,7 @@ s Wanken : התנודדות
 wann : מתי
 wappnen : לחמש
   - sich gegen + [Akk.] wappnen : להתכונן נגד משהו
+warm (wärmer, am wärmsten) [adj.] : חם
 warten, wartete, hat gewartet : לחכות; לתחזק, לטפל ב־
   - auf + [Akk.] warten : לחכות ל־
 s Waschbecken (= pl.) : כיור
@@ -11506,7 +11609,7 @@ s Zehntel : עשירית
 s Zeichen : סימן
   - Gib mir ein Zeichen : תן לי סימן
 r Zeichenblock
-zeichnen, zeichnete, hat gezeichnet [vt.] : לצייר
+zeichnen, zeichnete, hat gezeichnet [vt.] : לצייר; לשרטט
 e Zeichnung (pl. -en) : רישום, ציור; סקיצה
 r Zeigefinger (= pl.)
 zeigen, zeigte, hat gezeigt [vt.] : להראות; לסמן
@@ -11526,6 +11629,7 @@ zeitnah [adj.]
 r Zeitpunkt
 r Zeitraum
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
+r Zentimeter (= pl.) : סנטימטר
 zerfressen [vt.] : לזלול (חיה)
 zerlegen, zerlegte, hat zerlegt [vt.] : לפרק
   - [Akk.] in Teile zerlegen : לפרק לחתיכות
@@ -11645,6 +11749,7 @@ zünden [vt.] : להבעיר
   - sich zünden : לבעור, לעלות באש
 r Zündfunke : ניצוץ
 zú|nehmen (nimmt zu), nahm zu, hat zugenommen [vi.] : לגדול, לגבור, להאיץ; לעלות במשקל
+zunehmend [adj.] : גובר
 e Zuneigung : חיבה
 s Zunft (pl. Zünfte) : גילדה
 zurécht|kommen : להסתדר, להגיע להבנה
@@ -11689,6 +11794,8 @@ e Zusammenarbeit : שיתוף פעולה
   - Zusammenarbeit mit + [Dat.] : שיתוף פעולה עם־
 zusámmen|brechen : להתמוטט
 zusámmen|fallen (fällt zusammen), fiel zusammen, ist zusammengefallen [vi.] : לחפוף; לעלות בקנה אחד; ליפול יחד
+zusámmen|fassen, fasste zusammen, hat zusammengefasst [vt.] : לצרף; לסכם; לאסוף
+  - [Akk.] unter + [Dat.] zusammenfassen
 e Zusammenfassung : סיכום
 zusámmen|fügen, fügte zusammen, zusammengefügt : לחבר, לצרף
 zusammengefügt [adj.] : מחובר
@@ -11756,7 +11863,7 @@ zwingen [vt.] : להכריח
 zwingend [adj.] : הכרחי
 zwischen [präp.]
 zwischenzeitlich [adj.]
-zwischenzeitlich [adv.]
+zwischenzeitlich [adv.] : בינתיים
 e Zwischenlandung : נחיתת ביניים
 zwitschern, zwitscherte, hat gezwischert : לצפצף
   - Die Vögel zwitschern. : הציפורים מצפצפות
