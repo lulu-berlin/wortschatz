@@ -736,6 +736,8 @@ sich ändern
 anderthalb [Zahlwort] : אחד וחצי
   - anderthalb Stunden : שעה וחצי
 e Änderung (pl. -en) : שינוי
+anderweitig [adj.] : אחר
+anderweitig [adv.] : באופן אחר; אחרת
 án|deuten [vt.] : לסמן; לרמוז
 sich án|deuten : להסתמן
 e Aneignung (pl. -en) : ניכוס
@@ -6073,8 +6075,20 @@ exzentrisch
 r Exzess
 
 = F =
+e Fabel (pl. -n)
+s Fabelbuch (pl. Fabelbücher)
+e Fabelei
+fabelhaft
+fabelieren
+s Fabeltier
 e Fabrik : בית חרושת, מפעל
+r Fabrikant
+r Fabrikarbeiter
+s Fabrikat
+fabrikneu
+fabrizieren
 s Fach (pl. Fächer) : תחום; נושא; תא
+r Facharzt
 s Fachblatt (pl. Fachblätter) : כתב עת מדעי
 fädeln, fädelte, hat gefädelt [vt.] : להשחיל
   - durch ein Loch fädeln : להשתחל פנימה
@@ -6386,6 +6400,7 @@ früh [adj.] : מוקדם
 frühstücken, frühstückte, hat gefrühstückt : לאכול ארוחת בוקר
 frühzeitig [adv.]
 r Frust [ugs.] : תסכול
+frusten
 e Frustration : תסכול
 frustrieren [vt.] : לתסכל
 Fuck! [interj.]
@@ -6525,8 +6540,9 @@ s Gefolge : פמליה
 e Gefolgschaft : קבוצת החסידים
 s Gefüge : מבנה, מארג, מסגרת
   - soziales Gefüge : מארג חברתי
-s Gefühl : הרגשה
+s Gefühl (pl. -e) : הרגשה
   - j-m das Gefühl geben, dass ... : לתת למישהו את ההרגשה ש־
+  - verletzte Gefühle
 gegen [präp.] : נגד, כנגד
 r Gegensatz (pl. Gegensätze) : ניגוד
   - im Gegensatz zu + [Dat.] [präp.] : בניגוד ל־
@@ -10069,6 +10085,57 @@ e Transparenz : שקיפות
 r Transport (pl. -e) : הובלה, טרנספורט
 s Transportgewerbe
 e Trauer : שכול; יגון; צער
+r Traum (pl. Träume) : חלום
+  - im Traum : בחלום
+  - Ich denke nicht im Traum daran.
+  - wie ein Traum : כמו חלום
+s Trauma (pl. Traumen, Traumata) : טראומה
+traumatisieren
+traumatisierend [adj.]
+traumatisiert [adj.]
+e Traumatisierung
+e Traumatologie
+r Traumberuf
+s Traumbild (pl. -er)
+s Traumbuch
+r Traumdeuter (= pl.)
+e Traumdeuterin (pl. -nen)
+e Traumdeutung
+träumen : לחלום
+  - von + [Dat.] träumen : לחלום על
+  - mit offenen Augen träumen : לחלום בהקיץ; לחלום בעיניים פקוחות
+s Träumen : חלימה
+  - luzides Träumen
+e Traumfabrik
+e Traumfigur : גזרה אידיאלית
+e Traumforschung
+e Traumfrau
+traumhaft [adj.]
+s Traumhaus
+e Traumhochzeit
+e Traumkarriere
+s Traumkleid
+s Traumland : ארץ החלומות
+e Traumlandschaft
+traumlos [adj.]
+traumlos [adv.]
+r Traumpartner
+r Traumprinz : נסיך החלומות
+s Traumreich
+e Traumreise
+s Traumreiseziel
+s Traumschiff
+s Traumschloss
+e Traumstadt
+r Traumstrand
+r Traumtänzer : חולם, אדם שחי בעולם החלומות
+r Traumwagen
+e Traumwelt
+s Traumwetter
+e Traumwohnung
+e Traumzeit
+s Traumziel
+r Traumzustand
 traurig [adj.] : עצוב
 e Traurigkeit : עצבות
 r Trauring : טבעת נישואים
@@ -10115,10 +10182,19 @@ r Trotz : התרסה; כֵּסֶל
   - zum Trotz [adv.] : כנגד כל הסיכויים
   - [Dat.] + zum Trotz [präp.] : למרות
   - "Denn der HERR ist dein trotz" [Lutherbibel, Spr 3:26] = כִּי־יהוה יִהְיֶה בְכִסְלֶךָ [משלי ג כו]
+s Trotzalter
+r Trotzanfall (pl. Trotzanfälle)
 trotzdem [adv.] : למרות הכול; למרות זאת; בכל זאת
+trotzen [vt.] : להתריס כנגד; לצאת חוצץ כנגד; להתגבר על; להתעקש למול; להתנגד ל
+trotzend
 trotzig [adj.] : מתריס, מתנגד; מתעקש, עקשני
 e Trotzigkeit : עקשנות
+r Trotzkismus
+r Trotzkist
+e Trotzkistin
+trotzkistisch
 r Trotzkopf (pl. Trotzköpfe) : עקשן
+e Trotzphase (pl. -n)
 trotzten + Dat. : to defy, to outdare, to brave, to affront
 trüb [adj.]
 sich trüben
@@ -10662,7 +10738,9 @@ r Verlauf
 verlaufen : לרוץ
   - sich verlaufen : ללכת לאיבוד
 verletzen : לפצוע; לפגוע; לגרום נזק
+  - j-s Gefühle verletzen
 verletzt [adj.] : פגוע; פצוע
+  - verletzte Gefühle
 e Verletzung : הפרה; נזק; פגיעה; פציעה
 sich (in j-n) verlieben : להתאהב (במישהו)
 s Verlieben : התאהבות
