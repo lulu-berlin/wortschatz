@@ -32,7 +32,7 @@ sich abarbeiten : לעבוד הרבה עד כדי מותשות
 e Abarbeitung : טיפול, ביצוע, עבודה שמצמצמת משהו
 e Abart : תת־סוג
 abartig [adj.] : סוטה
-r Abbau
+r Abbau : פירוק; קיצוץ
 abbaubar [adj.] : שניתן לפרק אותו למרכיבים
 áb|bauen, baute ab, hat abgebaut [vt.] : לכרות; לפרק למרכיבים; לצמצם מספרית או במידה; להתפרק ל־ (בכימיה)
 áb|bekommen, bekam ab, hat abbekommen [vt.] : לקבל חלק ממשהו; לספוג נזק; להסיר
@@ -641,6 +641,7 @@ e Alte : זקנה
 s Alter (= pl.) : גיל; תקופה
 alternativ [adj.] : אלטרנטיבי, חלופי
 e Alternative : אלטרנטיבה, חלופה
+e Altersgrenze
 althergebracht : מסורתי
 altklug [adj.] : שמקדים להתפתח, מפותח בשביל גילו, שמבכיר להבשיל
 altmodisch [adj.] : מיושן, מחוץ לאופנה
@@ -1092,7 +1093,8 @@ s Argument (pl. -e)
 argumentieren
 r Argwohn (gegen j-n) : חשד, חוסר אמון
 e Arie (pl. -n)
-e Arithmetik
+e Arithmetik : אריתמטיקה
+arithmetisch [adj.]
 e Arkade (pl. -n)
 e Arktis : ארקטיקה; האוקיינוס הצפוני
 r Arm (pl. -e) : זרוע, יד
@@ -1504,8 +1506,9 @@ s Ausmaß (pl. -e) : מידה, היקף, מימדים
   - Zum Glück war das Ausmaß des Schadens begrenzt.
   - Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich.
 e Ausnahme : יוצא מן הכלל
+s Ausnahmetalent : כשרון יוצא דופן
 ausnahmslos [adj.] : ללא יוצא מן הכלל
-ausnahmsweise
+ausnahmsweise [adv.] : באופן יוצא דופן
 aús|nehmen + Akk. : להוציא מן הכלל
   - sich ausnehmen : להיראות, להיות מוצג
 aús|nutzen, nutzte aus, hat ausgenutzt [vt.] : לנצל, לעשות שימוש
@@ -1618,7 +1621,7 @@ auswendig : בעל־פה
   - etw. auswendig aufsagen : לצטט מהזכרון
 e Auswertung : הערכה
 aús|zeichnen
-e Auszeichnung
+e Auszeichnung : פרס; מענק
 aús|ziehen [vt.] : להוריד )בגד(, להסיר )בגד(; לעזוב )בית(
 autark
 e Autarkie
@@ -1884,7 +1887,7 @@ bedecken : לכסות
 bedenken, bedachte, hat bedacht [vt.] : לשקול
 s Bedenken (= pl.) : שיקול; דאגה
 bedeuten, bedeutete, hat bedeutet [vt.] : לציין, לשמש במובן מסוים, פירושו היה
-bedeutend [adj.]
+bedeutend [adj.] : משמעותי; חשוב
 bedeutsam [adj.]
 e Bedeutung (pl. -en) : משמעות
   - von Bedeutung sein : להיות חשוב, להיות בעל־חשיבות
@@ -3335,6 +3338,7 @@ s Buchenholz
 r Buchhalter (= pl.)
 e Buchhalterin (pl. -nen)
 r Buchhandel
+r Buchmacher (= pl.)
 r Buchsbaum (pl. Buchsbäume)
 e Buchse : שקע; תושבת; מחבר; בוקסה
 e Büchse : קופסה
@@ -3634,6 +3638,7 @@ daheim [adv.]
 s Daheim
 daher
 dahin
+  - bis dahin
 dahinab
 dahinauf
 dahinaus
@@ -3915,6 +3920,7 @@ derartig [adj.] : כזה
 derb [adj.] : מחוספס
 s Derby (pl. -s)
 dereinst
+deren
 dergestalt
 dergleichen [pron.] : כדומה
   - und dergleichen : וכדומה
@@ -4223,6 +4229,8 @@ r Dosenöffner
 dosieren
 e Dosierung
 e Dosis (pl. Dosen)
+dotieren
+dotiert [adj.]
 r/s Dotter
 e Dotterblume
 dottergelb
@@ -5203,6 +5211,7 @@ elliptisch [adj.]
 e Elster
 r [~ s] Elter (pl. -n) : הורה
 s Email (pl. -s) : אֶמַיְל
+e E-Mail : אימייל
 e Emaille (pl. -s) : אֶמַיְל
 emaillieren
 e Emanzipation (pl. -en)
@@ -6479,6 +6488,7 @@ forsch [adj.] : פזיז, נמהר
 forschen : לחקור
 r Forscher
 e Forschung : מחקר
+s Forschungsgebiet
 e Forschungslücke
 fortan [adv.] : מעתה ואילך,מכאן ואילך
 fórt|fahren, fuhr fort, fortgefahren : להמשיך
@@ -6681,7 +6691,7 @@ e Gefangene (pl. -n) : אסירה
 s Gefäß (pl. -e) : כלי, מיכל, צנצנת
 gefasst [adj.] : רגוע, שקול, מסוכם
   - kurz gefasst : מסוכם בקצרה
-gefeiert [adj.]
+gefeiert [adj.] : מהולל, מפורסם
 gefliest : מרוצף אריחים
 geflissentlich [adj.] : מכוון; מחושב; שקול
 s Gefolge : פמליה
@@ -6749,13 +6759,15 @@ s Geld : כסף
 s Geldautomat (pl. -en) : כספומט
 r Geldbeutel
 e Geldentwertung
+e Gelegenheit
 s Geleit (pl. -e) : ליווי
 s Gelenk : מפרק
 gelingen, gelang, ist gelungen [vt.] : להצליח
 geloben [vt.] : להישבע, לנדור
   - gehorsam geloben : להישבע אמונים
-gelten (gilt), galt, hat gegolten : להיות תקף, להיות בתוקף
+gelten (gilt), galt, hat gegolten : להיות תקף, להיות בתוקף; להיחשב ל־
   - für + [Akk.] gelten : להיות תקף ל־
+  - als + [präd.] gelten : להיחשב ל־
 e Geltung : תוקף
   - voll zur Geltung bringen : להיכנס למלוא התוקף
 s Gelöbnis : שבועה; נדר
@@ -7344,6 +7356,7 @@ hóch|kommen [ugs.] : לקום על הרגליים
 hóch|laden (lädt hoch), lud hoch, hat hochgeladen [vt.] : להעלות (לאינטרנט), לעשות אפלוד
 r Hochschulabschluss : תואר אקדמי; תואר באוניברסיטה
 e Hochschule (pl. -n) : אוניברסיטה; קולג'; מוסד להשכלה גבוהה
+r Hochschullehrer
 s Hochschulstudium : לימודים גבוהים
 e Hochstimmung : התעלות, התרוממות רוח
 e Höchstleistung : שיא הכוח, שיא העוצמה, שיא היעילות
@@ -7373,6 +7386,9 @@ e Höhenangst : פחד גבהים
 e Höhenmessung
 r Höhepunkt (pl. -e) : נקודת שיא
 r Hohlkopf : ראש בלטה
+holen, holte, hat geholt [vt.] : לקחת; להביא
+sich holen, holte sich, hat sich geholt
+  - sich[Dat.] [Akk.] holen
 s Holz (pl. Hölzer) : עץ
 r Holzblock
 s Holzfällen
@@ -7639,7 +7655,12 @@ e Kammer (pl. -n) : חדר, לשכה
 e Kammertür : דלת החדר, דלת הלשכה
 kämpfen : להילחם, להיאבק
 r Kämpfer (= pl.) : לוחם
+Kanada
+r Kanadier
+e Kanadierin
+kanadisch [adj.] : קנדי
 Kanake (gen. -n, pl. -n) : כינוי גנאי למישהו מהמזרח התיכון
+r Kandidat : מועמד
 kannibalisch [adj.] : קניבאלי
 kannibalisch [adv.] : באופן קניבאלי
 e Kante (pl. -n) : קצה
@@ -7660,7 +7681,7 @@ r Kartoffelsalat
 e Kartoffelsuppe
 r Karton (pl. Kartons, Kartone) : קרטון
 r Käse : גבינה
-e Kasse
+e Kasse (pl. -n)
 r Kassier
 kassieren
 kastrieren, kastrierte, hat kastriert [vt.] : לסרס
@@ -7729,6 +7750,7 @@ klar [adj.] : ברור
 klären
 klatschen : למחוא כפיים; לסטור; לרכל
 s Klatschen (= pl.) : מחיאות כפיים
+klauben : לקטוף
 e Klausur
 s Klavier : פסנתר
 e Kleidung : בגדים
@@ -7759,8 +7781,44 @@ s Kloster (pl. Klöster) : מנזר
 r Klub (pl. -s)
 s Klubhaus
 r Klubraum
+r Knall
+Knallbunt [ugs.] : בצבעים חזקים, בצבעים עליזים
+knallen, knallte, hat geknallt [vt.] : להטיח, לדפוק, להכות בחוזקה
+r Knaller
+knallhart [adj.]
+knapp [adj.] : קצר, קרוב, מועט, צפוף, צר, מוגבל
+  - zu knapp : מעט מדי
+  - eher knapp : די מעט
+knapp [adv.] : כמעט
+e Knarre
+kneifen [vt.] : לצבוט
+r Knick
+e Knie (pl. -n) : ברך
+  - fick dich ins Knie : לך תזדיין
+r Kniff : טריק; צביטה
+e Knolle
+r Knopf (pl. Knöpfe) : כפתור
+knoten [vt.]
+r Knoten (= pl.)
+r Knuff
+knuffen
+knüpfen, knüpfte, hat geknüpft [vt.] : לקשור
+r Koch (pl. Köche) : טבח
+e Köchin (pl. -nen) : טבחית
+kochen, kochte, hat gekocht [vt.] : לבשל, להרתיח
 e Kohle
+e Koinzidenz : צירוף מקרים
+r Kollaps : קריסה
+  - plötzlicher Kollaps : קריסה פתאומית
 r Kollege (pl. -n) : קולגה, חבר לעבודה
+r Koller : התקף זעם
+kollern : להשמיע קול כמו תרנגול הודו
+  - Der Truthahn kollert.
+kommen, kam, ist gekommen [vi.] : לבוא
+  - aus + [Dat.] kommen : לבוא מ־; שמוצאו מ־
+  - zu + [Dat.] kommen : לבוא לידי
+komisch [adj.] : מוזר; משונה
+e Kommode (pl. -n) : שידה
 kompetent [adj.] : קומפטנטי
 e Kompetenz : קומפטנטיות; מומחיות
 e Kompetenzstufe (pl. -n)
@@ -7783,6 +7841,8 @@ kompromittiert [adj.]
 e Kompromittierung
 s Kondom (pl. -e) : קונדום
 e Konfitüre (pl. -n) : ריבה
+konfrontieren
+konfrontiert
 konkret [adj.] : קונקרטי
 r Konkurrent (pl. -en) : מתחרה
 e Konkurrenz : תחרות
@@ -7790,50 +7850,9 @@ konkurrenzfähig [adj.]
 r Konkurrenzkampf
 konkurrenzlos [adj.]
 r Konkurs
+können (kann), konnte, hat gekonnt [vt.] : להיות יכול, להיות מסוגל
 e Konsolidierung
 s Konstrukt : קונסטרוקט, הבניה
-r Knall
-knallen, knallte, hat geknallt [vt.] : להטיח, לדפוק, להכות בחוזקה
-r Knaller
-knallhart [adj.]
-knapp [adj.] : קצר, קרוב, מועט, צפוף, צר, מוגבל
-  - zu knapp : מעט מדי
-  - eher knapp : די מעט
-knapp [adv.] : כמעט
-e Knarre
-kneifen [vt.] : לצבוט
-e Knie (pl. -n) : ברך
-  - fick dich ins Knie : לך תזדיין
-r Kniff : טריק; צביטה
-r Knopf (pl. Knöpfe) : כפתור
-r Knuff
-knuffen
-knüpfen, knüpfte, hat geknüpft [vt.] : לקשור
-r Kragen (= pl.) : צווארון
-  - j-m an den Kragen wollen : to act against, to attack, to eradicate
-  - es geht j-m an den Kragen : to have something done against s.o.
-krass [adj.] : קיצוני; יוצא דופן; אדיר
-kriegen [vt.] : להשיג; לקבל
-kross [adj.] : פריך
-klauben : לקטוף
-Knallbunt [ugs.] : בצבעים חזקים, בצבעים עליזים
-e Knolle
-kochen, kochte, hat gekocht [vt.] : לבשל, להרתיח
-e Koinzidenz : צירוף מקרים
-r Kollaps : קריסה
-  - plötzlicher Kollaps : קריסה פתאומית
-r Koller : התקף זעם
-kollern : להשמיע קול כמו תרנגול הודו
-  - Der Truthahn kollert.
-komisch [adj.] : מוזר; משונה
-kommen, kam, ist gekommen [vi.] : לבוא
-  - aus + [Dat.] kommen : לבוא מ־; שמוצאו מ־
-  - zu + [Dat.] kommen : לבוא לידי
-e Kommode (pl. -n) : שידה
-e Konfitüre (pl. -n) : ריבה
-konfrontieren
-konfrontiert
-können (kann), konnte, hat gekonnt [vt.] : להיות יכול, להיות מסוגל
 r Kontrahent : יריב
 e Konzentration (pl. -en) : ריכוז
 s Konzentrationslager (= pl.) : מחנה ריכוז
@@ -7878,9 +7897,13 @@ s Kräftemessen : מבחן כוח
 kräftig [adj.] : חזק
 kräftig [adv.] : בעוצמה
 r Kraftwagen (= pl.) : רכב ממונע
+r Kragen (= pl.) : צווארון
+  - j-m an den Kragen wollen : to act against, to attack, to eradicate
+  - es geht j-m an den Kragen : to have something done against s.o.
 e Krähe (pl. -n) : עורב
 krähen : לקרוא (תרנגול)
   - Der Hahn kräht : התרנגול קורא
+krass [adj.] : קיצוני; יוצא דופן; אדיר
 e Kralle (pl. -n) : טופר, ציפורן (של חיה)
 krallen : לשרוט בציפורניים; לתפוס עם טופר
 krank [adj.] : חולה
@@ -7901,6 +7924,7 @@ r Kreuzritter (= pl.) : צלבן
 e Kreuzung (pl. -en) : צומת
 r Krieg (pl. -e) : מלחמה
   - "Denn wo sich ein Krieg erhübe / möchten sie sich auch zu vnsern Feinden Schlahen" [Lutherbible, Ex 1:10] = וְהָיָה כִּי־תִקְרֶאנָה מִלְחָמָה וְנוֹסַף גַּם־הוּא עַל־שֹׂנְאֵינוּ [שמות א י]
+kriegen [vt.] : להשיג; לקבל
 r Krieger (= pl.) : לוחם
 e Kriegserklärung (pl. -en) : הכרזת מלחמה
 r Kriegsgrund (pl. Kriegsgründe) : עילה למלחמה, קזוס בלי
@@ -7916,8 +7940,7 @@ e Krone (pl. -n) : כתר
 krönen, krönte, hat gekrönt [vt.] : להכתיר
 e Krönung (pl. -en) : הכתרה
 r Kropf : זפק
-r Koch (pl. Köche) : טבח
-e Köchin (pl. -nen) : טבחית
+kross [adj.] : פריך
 e Küche (pl. -n) : מטבח
 r Kuchen (= pl.) : עוגה
 r Kuckuck (pl. -e) : קוקיה
@@ -7957,12 +7980,12 @@ kurzatmig [adj.] : בעל קוצר נשימה
 e Kurzatmigkeit : קוצר נשימה
 kurzerhand [adv.] : מיד, על המקום, ללא שהות
 kurzfristig [adj.] : קצר מועד, לטווח קצר
+kurzsichtig [adj.] : קצר רואי
+e Kurzsichtigkeit : קוצר רואי
 r Kurzzug (pl. Kurzzüge) : רכבת קצרה
 kuschelig [adj.] : מתרפק, נוח להתכרבל
 kuscheln : להתכרבל; להתגפף
   - sich aneinander kuscheln : להתכרבל ביחד
-kurzsichtig [adj.] : קצר רואי
-e Kurzsichtigkeit : קוצר רואי
 küssen, küsste, hat geküsst [vt.] : לנשק
 s KZ : מחנה ריכוז
 
@@ -8066,6 +8089,7 @@ s Leid : סבל; צער
 leiden, litt, hat gelitten [vt.] : לסבול
   - unter + [Dat.] leiden : לסבול מ־
   - an + [Dat.] leiden : להתלונן על, להיות מוטרד מ־
+leisten, leistete, hat geleistet [vt.] : לספק; להשיג; לבצע; להצליח
 e Leistung (pl. -en) : ביצועים; תשלום; שירות; תועלת; כוח; מאמץ; יכולת; הישג
   - große Leitsung : הישג משמעותי
   - Leistungen erbringen : לספק שירותים
@@ -8327,6 +8351,13 @@ e Maßnahme (pl. -n) : צעד, פעולה; התערבות
 e Masturbation
 masturbieren
 s Masturbieren
+e Mathe [kurz für Mathematik] : מתמטיקה
+s Mathegenie : גאון מתמטי
+e Mathematik : מתמטיקה
+r Mathematiker (= pl.) : מתמטיקאי
+r Mathematikerkongress : כנס מתמטי
+mathematisch [adj.] : מתמטי
+r Mathepreis
 e Matratze (pl. -n)
 matt [adj.] : מט; קהה, עמום, קלוש, חלוש; רך
 e Mauer : חומה
@@ -8341,6 +8372,7 @@ mechanisch [adj.] : מכאני
 meckern : לפעות; להתלונן
   - Die Ziege meckert.
   - meckern und nörgeln : to bitch and moan
+e Medaille (pl. -n) : מדליה
 Medien (pl.) : מדיה, תקשורת, אמצעי תקשורת
 a Medienarbeit
 r Medienbericht (pl. -e) : דיווח תקשורתי
@@ -8446,6 +8478,12 @@ mögen (mag), mochte, hat gemocht : לחבב
   - gern mögen : לאהוב
 e Möglichkeit : אפשרות
 e Möhre (pl. -n) : גזר
+r Monat (pl. -e) : חודש; ירח
+  - pro Monat
+  - einmal im Monat
+  - jeden Monat
+r Mond : ירח; לבנה
+s Mondlicht : אור הירח
 r Moment (pl. -e) : רגע
   - im Moment : כרגע
 momentan [adj.] : נוכחי
@@ -8646,6 +8684,10 @@ nimmermehr : לעולם לא עוד, שוב לא
 r Nippel (= pl.) : פטמה
 nippelfrei [adj.]
 s Niveau : רמה; סטנדרט
+nobel [adj.] : אצילי
+r Nobelpreis : פרס נובל
+r Noberpreisträger : חתן פרס נובל
+e Nobelpreisträgerin : כלת פרס נובל
 s Nomen (= pl.) : שם־עצם
 e Nonne (pl. -n) : נזירה
 s Nonnenkloster (pl. Nonnenklöster) : מנזר של נזירות
@@ -8672,6 +8714,8 @@ r Notfall (pl. Notfälle) : מקרה חירום
 notfalls [adv.] : in case of emergency
 notieren [vt.] : לציין (בכתב), לכתוב הערה, להעיר (בכתב)
 nötig [adj.] : דרוש
+e Notiz (pl. -en) : הערה; תזכורת
+r Notizzettel (= pl.) : פנקס; תזכורת
 e Notlandung : נחיתת חירום
 notwendig [adj.] : נחוץ, חיוני
 notwendigerweise [adv.]
@@ -8762,6 +8806,7 @@ r Oralsex
 orange [adj.] : כתום
 s Orchester : תזמורת
 r Orden (= pl.) : מסדר; מדליה
+ordentlich [adj.]
 ordnen [vt.] : לארגן
   - neu ordnen : לארגן מחדש
 r Ordner (= pl.) : תיקיה
@@ -9025,7 +9070,7 @@ r Pranger (= pl.) : עמוד קלון
 e Pracht : פאר, הוד, הדר
 prächtig [adj.] : מפואר, מהודר, מלא הוד והדר
 s Präsens : צורת ההווה של הפועל
-r Präsident : נשיא
+r Präsident (gen. -en, pl. -en) : נשיא
 e Präsidentin : נשיאה
 e Präsidentschaft : נשיאות
 e Präsidentschaftswahl : בחירת הנשיא
@@ -9274,6 +9319,8 @@ respektieren [vt.] : לכבד
 respektlos [adj.] : חסר נימוס; גס רוח; חסר כבוד
 respektvoll [adj.] : מכבד, רוחש כבוד
 r Rest : שאר
+e Revolution
+revolutionär [adj.]
 r Revoluzzer : מורד, מיליטנט
 e Rezession
 rezessiv [adj.] : רצסיבי
@@ -9880,6 +9927,7 @@ r Ski (pl. Ski, Skier) : סקי
 e Skizze : סקיצה
 r Skrupel : היסוס, פקפוק, יסורי מצפון, רגשי אשם
   - ohne Skrupel : ללא היסוס, ללא עכבות
+skypen
 so [adv.] : כך; כה
   - so tun, als ob ... : לעשות כאילו ש־
 s Sofa (pl. -s) : ספה
@@ -9911,6 +9959,7 @@ Sonstiges : עניין אחר; שונות
 Sorry [interj.]
 soweit [konj.] : ככל ש־; עד כמה ש־
 sozial [adj.] : חברתי
+sozusagen [adv.] : כמו שאומרים, אם אפשר לומר
 r Spähangriff (pl. -e) : מתקפת ריגול
 spähen : להציץ; לחטט
 e Spannung : מתח
@@ -9927,6 +9976,7 @@ r Spaß : כיף
 r Spatz : דרור, אנקור
   - Der Spatz piept. : הדרור מצייץ.
 spazíeren|gehen, ging spazieren, ist spazierengegangen : ללכת לטיול, ללכת לטייל
+r Spaziergang : טיול
 r Speck : קותלי חזיר
 e Speckseite : ירך חזיר מומלחת ומעושנת
 r Speer : חנית, רומח
@@ -10664,6 +10714,7 @@ e Uniformierte : אישה לבושה מדים
 e Uniformität
 uniform [adj.]
 s Unikat : יחיד במינו
+e Union
 e Universität (pl. -en) : אוניברסיטה
 unkalkulierbar [adj.] : שלא ניתן לחשב אותו
 Unkosten (pl.) : הוצאות
@@ -11678,6 +11729,7 @@ e Wucht : השפעה עוצמה; חתיך
   - volle Wucht : מלא עזוז
 e Wunde : פצע
 s Wunder (= pl.) : פלא, נס
+s Wunderkind (pl. -er) : עילוי
 sich wundern : לתהות, להתפלא
 wunderschön [adj.] : יפהפה
 wünschen, wünschte, hat gewünscht [vt.] : לאחל; לחשוק ב־, להיכסף ל־, לחפוץ, לבקש
