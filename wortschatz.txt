@@ -6186,25 +6186,77 @@ s Fahrzeug (pl. -e) : רכב; כלי תחבורה; מכונית
 fair [adj.]
 e Fairness
 s Fairplay
+r Fakt (pl. -en)
+faktisch [adj.]
+s Faktum
 r Faktor (pl. -en) : פקטור
 e Falke (pl. -n) : נץ
+r Falkner
 r Fall (pl. Fälle) : מקרה; ארוע; עניין; נפילה; יחסה
   - auf jeden Fall : בכל מקרה
   - auf keinen Fall : בשום פנים ואופן
+  - von Fall zu Fall
+  - für den Fall, dass
+  - j-m zu Fall bringen
+s Fallbeil
+e Falle
 fallen (fällt), fiel, ist gefallen [vt.] : ליפול; לרדת )מחיר, ערך(
   - mir fiel das Herz in die Hose : נפל לי הלב לתחתונים
   - fallen lassen : להפיל
-fällen : לכרות; להפיל; לחרוץ
+fällen [vt.] : לכרות; להפיל; לחרוץ
+  - einen Baum fällen
   - ein Urteil fällen : לחרוץ משפט; להכריז על גזר הדין
 fállen|lassen (lässt fallen), ließ fallen, fallengelassen [vt.] : להפיל
+r Fallensteller
+fällig
+e Fälligkeit
+r Fälligkeitstermin
+r Fallrückzieher
 falls [konj] : אם; במקרה ש; במידה ו
+  - falls möglich
 falsch [adj.] : שגוי; לא נכון
 fälschen [vt.] : לזייף
+r Fälscher
+e Falschheit
+fälschlich
+r Falschmünzer
+e Fällschung
+r Fallschirm
+fallweise
 e Fälschung : זיוף
+s Faltblatt
+e Falte
+falten
+faltenlos
+faltenreich
+r Faltenrock
+r Falter (= pl.) : פרפר
+faltig
+r Falz
+falzen
+falzig
+e Falzung
+familiär [adj.]
 e Familie (pl. -n) : משפחה
+s Familienbuch
+e Familienfeier
+r Familienname
+famos
+r Fan (pl. -s)
+r Fanatiker
+fanatisch
+r Fanatismus
+e Fanfare
+r Fanfarenbläser
+r Fanfarenzug
+r Fang
 fangen (fängt), fing, hat gefangen [vt.] : לתפוס; ללכוד; לכלוא
 s Fangen
 r Fänger (= pl.) : תופס, תפסן
+e Fangfrage
+e Fangleine
+r Fangnetz
+e Fangquote
 fantastisch [adj.] : פנטסטי
 r Farbdruck : הדפסה בצבע
 e Farbe (pl. -n) : צבע
@@ -6213,6 +6265,24 @@ r Farbfilm : סרט בצבעים (לא שחור לבן)
 farbig [adj.] : צבעוני
 farblich
 r Farbstoff : צבע (חומר לצביעה)
+e Farm (pl. -en)
+r Farmer
+r Farn (pl. -e)
+s Farnkraut
+r Fasan (pl. Fasane, Fasanen) : פסיון
+r Fasching
+e Faschingszeit
+r Faschismus
+r Faschist
+faschistisch
+e Faselei
+faseln
+e Faser (pl. -n)
+fasern
+e Faserpflanze
+e Faserung
+s Fass (pl. Fässer) : חבית
+s Fassbier
 fassen, fasste, hat gefasst : להחזיק; לתפוס
   - etwas in Worte fassen : לשים במילים, לבטא במילים
   - nicht zu fassen : אין לתאר, לא יעלה על הדעת
@@ -6220,6 +6290,7 @@ e Fasson : סגנון, אופנה
   - aus der Fasson geraten : לצאת מהאופנה, להפסיק להיות באופנה
   - jeder nach seiner Fasson : כל אחד לפי דרכו
   - jeder nach seiner Fasson selig werden : להיות שמח, כל אחד לפי דרכו
+fassweise [adv.] : לפי החבית
 fast [adv.] : כמעט
 faul [adj.] : עצלן
   - "GEhe hin zur Emmeissen du Fauler / sihe jre weise an / vnd lerne." [Spr 6:6] = לֵךְ אֶל נְמָלָה עָצֵל רְאֵה דְרָכֶיהָ וַחֲכָם ]משלי ו, ו[
@@ -6619,6 +6690,9 @@ s Gefüge : מבנה, מארג, מסגרת
 s Gefühl (pl. -e) : הרגשה
   - j-m das Gefühl geben, dass ... : לתת למישהו את ההרגשה ש־
   - verletzte Gefühle
+gegeben [adj.] : נתון
+gegebenenfalls [adv.] : במידת הצורך
+e Gegebenheit (pl. -en) : נסיבה
 gegen [präp.] : נגד, כנגד
 r Gegensatz (pl. Gegensätze) : ניגוד
   - im Gegensatz zu + [Dat.] [präp.] : בניגוד ל־
@@ -7299,6 +7373,8 @@ r Höhepunkt (pl. -e) : נקודת שיא
 r Hohlkopf : ראש בלטה
 s Holz (pl. Hölzer) : עץ
 r Holzblock
+s Holzfällen
+r Holzfäller
 Hopp [interj.]
 Hoppla [interj.] : אופס; הופלה
 hören, hörte, hat gehört [vt.] : לשמוע
@@ -10000,6 +10076,9 @@ e Stiftung (pl. -en) : קרן
 stillen : להניק; לספק; להרוות; להשביע
 stimmen, stimmte, hat gestimmt : להיות נכון
   - Das stimmt meiner Meinung nach nicht : לדעתי זה לא נכון
+e Stirn : מצח
+  - (j-m) die Stirn bieten
+Stirnfalten (pl.) : קמטים על המצח
 r Stock : קומה; מקל
 stöhnen, stöhnte, hat gestöhnt [vi.] : לגנוח; להיאנח
   - vor Schmerzen stöhnen
@@ -10805,6 +10884,7 @@ e Vereinigung
 vereint [adj.]
 verfallen : לפוג (תוקף); לפקוע; להתדרדר
 verfallend : נרקב
+verfänglich
 verfassen : לחבר
 r Verfasser : מחבר
 e Verfasserin : מְחַבֶּרֶת
