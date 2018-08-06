@@ -1239,8 +1239,8 @@ aúf|fallen : למשוך תשומת לב, להתבלט, להיות ראוי לצ
   - nicht auffallen : לא להתבלט
 auffallend [adj.] : ראוי לציון
 auffällig : conspicuous, apparent
-  auffällig werden : become apparent
-  Auffällig ist: ...
+  - auffällig werden : become apparent
+  - Auffällig ist: ...
 aúf|fassen : לתפוש, להבין, לקחת כ־
   - als + [Akk.] auffassen : לראות כ־, לתפוש כ־, לקחת כ־
   - [Akk.] als Scherz auffassen : לקחת משהו כבדיחה
@@ -1453,7 +1453,7 @@ e Ausfuhr (pl. -en)
 ausführlich [adj.]
 r Ausfall : קריסה
 aús|fallen : to fail, to be canceled, to be omitted, to drop out, to fall out
-  wegen Regen ausfallen : to be rained off
+  - wegen Regen ausfallen : to be rained off
 aús|führen [vt.] : לבצע; להוציא לפועל
 e Ausführung : ביצוע
 e Ausgabe
@@ -1496,8 +1496,8 @@ aús|lassen [vt.] : להשאיר בחוץ; להחמיץ; לדלג על־; להח
 e Ausleihe (pl. -n)
 aús|leihen, lieh aus, hat ausgeliehen [vt.] : ללוות
 aús|liefern : to supply, to surrender, to deliver, to ship
-  etw. ausliefern : to deliver, to roll out, to ship
-  j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
+  - [Akk.] ausliefern : to deliver, to roll out, to ship
+  - j-n an j-n ausliefern : to turn s.o. in, to hand s.o. over to s.o.
 aús|löschen : למחוק; לחסל
 aús|loten : לבדוק את השטח; לרדת לעומק הדברים
 s Ausmaß (pl. -e) : מידה, היקף, מימדים
@@ -2707,7 +2707,8 @@ sich beziehen, bezog sich, hat sich bezogen
 e Beziehung (pl. -en) : יחס; קשר; מערכת יחסים; אופן
 Beziehungsweise [adv.] : או לחלופין; או; ו־; ו/או; בהתאמה
 beziffern, bezifferte, hat bezieffer : לאמוד, לתת אומדן
-  sich auf etw.[Akk.] beziffern : להיאמד ב־
+sich beziffern
+  - sich auf etw.[Akk.] beziffern : להיאמד ב־
 r Bezirk (pl. -e)
 bezogen [adj.]
   - bezogen auf + [Akk.] : שמתייחס ל־
@@ -2790,10 +2791,10 @@ s Birkenholz : עץ ליבנה
 r Birnbaum
 e Birne (pl. -n) : אגס
 bis [präp.] : עד
- - bis auf + [Akk.] [präp.] : עד ל־, חוץ מ־, מלבד
- - bis zu : עד ל־
- - bis zu diesem Zeitpunkt : עד רגע זה
- - bis hin zu : עד לידי, עד כדי
+  - bis auf + [Akk.] [präp.] : עד ל־, חוץ מ־, מלבד
+  - bis zu : עד ל־
+  - bis zu diesem Zeitpunkt : עד רגע זה
+  - bis hin zu : עד לידי, עד כדי
 bis [konj.] : עד אשר
 r Bischof (pl. Bischöfe)
 r Bischofsstab
@@ -4927,7 +4928,7 @@ s Eingreifen : התערבות (במשהו)
 eín|grenzen
 r Einhalt : סוף
   - [Dat.] Einhalt gebieten : לרסן; לשים למשהו סוף
-eín|hauen (vt.) : לרסק
+eín|hauen [vt.] : לרסק
 einheimisch [adj.] : ילידי, בן המקום
 s Einheimische
 e Einheit (pl. -en)
@@ -6403,7 +6404,7 @@ e Fläche : שטח; משטח; פני השטח
 flächendeckend [adj.] : מקיף
 flächendeckend [adv.] : באופן מקיף
 e Flagge (pl. -n)
-  die Flagge auf Halbmast setzen
+  - die Flagge auf Halbmast setzen
 r Flansch (pl. -e)
 e Flasche (pl. -n) : בקבוק
 flau [adj.] : רפוי; חלש
@@ -6505,8 +6506,8 @@ frei [adj.] : חופשי
   - frei lassen [vt.] : לשחרר לחופשי
 r Freier (= pl.) : לקוח של זונה
 e Freiheit : חופש
-  sich die Freiheit herausnehmen : ליטול את החירות
-  sich die Freiheit nehmen : ליטול את החירות
+  - sich die Freiheit herausnehmen : ליטול את החירות
+  - sich die Freiheit nehmen : ליטול את החירות
 freí|lassen (lässt frei), ließ frei, hat freigelassen [vt.] : לשחרר לחופשי
 freilich [adv.] : בוודאי, בטח; אכן, אמנם, יש להודות
 e Freizeit : זמן פנוי; פנאי
@@ -7058,7 +7059,7 @@ s Haar (pl. -e) : שערה שיער
 s Haarwaschmittel : שמפו
 haben (hat), hatte, hat gehabt [vt.] : להיות ל־, להחזיק ב־, להיות הבעלים של־
 habhaft
-  einer Sache[Gen.] habhaft werden : to get hold of s.th.
+  - einer Sache[Gen.] habhaft werden : to get hold of s.th.
 r Hafen (pl. Häfen) : נמל
 e Haft : מעצר
 haftbar [adj.] : מחויב
@@ -7073,8 +7074,8 @@ r Hahn (pl. Hahnen/Hähne) : תרנגול
 halb
   - halb + [Zahl] : חצי שעה לפני־
 halbmast [adv.]
-  auf halbmast flaggen / wehen
-  halbmast flaggen
+  - auf halbmast flaggen / wehen
+  - halbmast flaggen
 halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
 halt [adv.]
@@ -7161,9 +7162,9 @@ her [adv.] : לכיוון המדבר/ת
   - hin und her [adv.] : הלוך ושוב; לכל הכיוונים
   - von + [Dat.] her :
 herab : down
-  von oben herab : מלמעלה, בהתנשאות
-  von oben herab behandeln : להתייחס למישהו בהתנשאות
-  von oben herab mit j-m reden : לדבר למישהו בהתנשאות
+  - von oben herab : מלמעלה, בהתנשאות
+  - von oben herab behandeln : להתייחס למישהו בהתנשאות
+  - von oben herab mit j-m reden : לדבר למישהו בהתנשאות
 herab|blicken : להתנשא על
 herab|hängen : להיות תלוי למטה
 heran [adv.] : קרוב
@@ -7181,9 +7182,10 @@ heraús|fordern, forderte heraus, hat herausgefordert [vt.] : להציב אתג�
 e Herausforderung (pl. -en) : אתגר
   - Herausforderungen bewältigen : להתמודד עם אתגרים
 heraús|holen [vt.] : לחלץ, לשלוף, לעקור
-heraús|nehmen
-  sich[Dat.] etw. heraús|nehmen : to be naughty
-  sich die Freiheit herausnehmen : to take the liberty, to allow oneself
+heraús|nehmen (nimmt heraus)
+sich heraús|nehmen (nimmt sich heraus), nahm sich heraus, hat sich herausgenommen
+  - sich[Dat.] etw. heraús|nehmen : to be naughty
+  - sich die Freiheit herausnehmen : to take the liberty, to allow oneself
 heraús|stellen, stellte heraus, hat herausgestellt [vt.] : להדגיש; להדגים, להציב דוגמה
 sich heraús|stellen, stellte sich heraus, hat sich herausgestellt
   - sich herausstellen : להוכיח את עצמו כ־, לצאת (באופן מסוים), להתברר
@@ -7471,9 +7473,9 @@ r Informatiker : מדען מחשבים
 r Informatiklehrer : מורה למדעי המחשב
 e Informatiklehrerin : מורה למדעי המחשב
 infrage
-  infrage kommen : to be considered
-  nicht infrage kommen : to be out of the question
-  [Akk.] infrage stellen : לערער על משהו, להציב שאלות בנוגע ל־
+  - infrage kommen : to be considered
+  - nicht infrage kommen : to be out of the question
+  - [Akk.] infrage stellen : לערער על משהו, להציב שאלות בנוגע ל־
 s Infragestellen : questioning
 r Inhaber (= pl.) : הבעלים; בעל ה־
 e Inhaberin (pl. -nen) : בעלת ה־
@@ -8234,6 +8236,8 @@ lügen : לשקר
 r Lügner (= pl.) : שקרן
 e Lügnerin (pl. -nen) : שקרניתe
 lukrativ [adj.] : רווחי, משתלם, מכניס
+r Lümmel : כפרי, גס, אדם חסר תרבות
+r Lümmel [ugs.] : זין
 r Lumpen (= pl.)
 lumpig [adj.] : מרופט
 lustig [adj.] : מצחיק
@@ -8612,7 +8616,7 @@ neunzig : תשעים
 neunzigst [adj.] : התשעים
 e Neuordnung : ארגון מחדש
 e Neuwahl (pl. -en) : reelection
-  vorgezogene Neuwahl : snap election
+  - vorgezogene Neuwahl : snap election
 nicht : לא
 e Nichtanerkennung
 e Nichtanwendbarkeit
@@ -8729,7 +8733,7 @@ oder : או
   - oder was auch immer : או מה שזה לא יהיה
 r Ofen (pl. Öfen) : תנור
 offenbaren : לחשוף
-  sich offenbaren : לחשוף את עצמו; לבוא לידי ביטוי
+  - sich offenbaren : לחשוף את עצמו; לבוא לידי ביטוי
 öffentlich [adj.] : פומבי, ציבורי, רשמי
 e Öffentlichkeit : ציבור; המרחב הציבורי
 r Offizier
@@ -9113,7 +9117,7 @@ rammeln, rammelte, gerammelt
   - j-n rammeln : לזיין
   - gerammelt voll sein : להיות מלא עד אפס מקום
 ran (adv.)
-  Er geht mächtig ran. : He drives a hard bargain
+  - Er geht mächtig ran. : He drives a hard bargain
 rán- [ugs. ~= heran-]
 r Rang (pl. Ränge) : דרגה, מעמד
   - gesellschaftlicher Rang : מעמד חברתי
@@ -9246,8 +9250,8 @@ reiten, ritt, hat/ist geritten : לרכב
 s Reiten : רכיבה על סוס
 e Reklame (pl. -n) : פרסומת
 reklamieren : to claim, to complain, to object, to protest
-  + Akk. : to complain about s.th., to take s.th. back
-  etw. für sich reklamieren : to take credit for s.th., to claim s.th. back
+  - [Akk.] reklamieren : to complain about s.th., to take s.th. back
+  - [Akk.] für sich reklamieren : to take credit for s.th., to claim s.th. back
 relaxen, relaxte, relaxt : להירגע, להרגיע
 e Rennbahn
 s Rennrad (pl. Rennräder) : אופני מירוץ
@@ -9361,8 +9365,8 @@ e Rückendeckung : תמיכה
   - volle Rückendeckung : תמיכה מלאה
 rückgängig : נסיגתי, שנסוג לאחור
   - rückgängig machen : להשיב את הנעשה, להחזיר לקדמותו
-Rückhol- : return ...
-  Rückholsendung : return shipment
+Rückhol- [K] : return ...
+Rückholsendung : return shipment
 e Rückholung : אחזור; שליפת מידע
 rück|rufen : to recall s.th. ???
 e Rücksicht : התייחסות; שימת לב; זהירות
@@ -11111,7 +11115,8 @@ versinken, versank, ist versunken [vi.] : לשקוע
 versohlen, versohlte, hat versohlt [vt.] [ugs.] : להלקות, להכות, להפליק, לסטור, לחבוט, להרביץ
   - j-m den Hintern versohlen : להפליק בישבן, לסטור בישבן
 versöhnen [vt.] : לפייס
-  sich (mit j-m) versöhnen : להתפייס (עם מישהו)
+sich versöhnen
+  - sich (mit j-m) versöhnen : להתפייס (עם מישהו)
 e Versöhnung : פיוס, התפייסות
 Versöhnungstag : יום הכיפורים, יום כיפור
 versperren [vt.] : לחסום
