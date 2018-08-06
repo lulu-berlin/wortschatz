@@ -1944,6 +1944,7 @@ e Beerdigung : לוויה; קבורה
 e Beere (pl. -n) : גרגר יער
 s Beerenobst
 s Beet (pl. -e)
+befähigen
 befangen
 r Befehl (pl. -e) : פקודה
 befehlen (befiehlt), befahl, hat befohlen [vt.] : לפקוד, להורות, לתת פקודה, לתת הוראה
@@ -6121,26 +6122,70 @@ fabulieren
 s Fach (pl. Fächer) : תחום; נושא; תא
 r Facharzt
 s Fachblatt (pl. Fachblätter) : כתב עת מדעי
+fächeln
+r Fächer
+fächerförmig
+e Fächerpalme
+fachgemäß
+s Fachgeschäft
+fachkundig
+r Fachlehrer (= pl.)
+fachlich
+r Fachmann
+fachmännisch
+fachsimpeln
+s Fachwerkhaus
+e Fackel (pl. -n)
+fackeln
+r Fackelzug
+fad [adj.] : משעמם; יבש
 fädeln, fädelte, hat gefädelt [vt.] : להשחיל
   - durch ein Loch fädeln : להשתחל פנימה
   - einen Faden durchs Nadelöhr fädeln : להשחיל חוט דרך קוף המחט
 r Faden (pl. Fäden) : חוט
+s Fadenkreuz
+e Fadennudel
+fadenscheinig
+s Fagott (pl. -e)
+r Fagottist
 fähig [adj.] : בעל יכולת
 e Fähigkeit (pl. -en) : יכולת
+fahl [adj.] : חיוור
+fahlgelb [adj.]
+fahnden : לחפש אחרי מישהו
+  - nach j-m fahnden : לחפש אחרי מישהו
 r Fahnder (= pl.) : חוקר (משטרה)
 e Fahnderin (pl. -nen) : חוקרת (משטרה)
+e Fahndung
+s Fahndungsbuch
 e Fahne : דגל
+r Fahneneid
 e Fahnenflucht : עריקה
 fahnenflüchtig [adj.] : עריק
+r Fähnrich
+fahrbar
+r Fahrdamm
 e Fähre (pl. -n) : מעבורת
 fahren (fährt), fuhr, ist gefahren [vi.] : לנהוג, לנסוע
   - mit dem Zug fahren : לקחת רכבת, לנסוע ברכבת
 fahren (fährt), fuhr, hat gefahren [vt.] : להסיע, להרכיב
-r Fahrdamm
+r Fahrer (= pl.)
+e Fahrerflucht
+s Fahrgestell
+fahrig
 e Fahrkarte (pl. -n) : כרטיס נסיעה
 r Fahrkartenschalter : קופה (משרד לקניית כרטיסי נסיעה)
+fahrlässig
+r Fahrplan
 s Fahrrad (pl. Fahrräder) : אופניים
+r Fahrstuhl : מעלית
+e Fahrt
+e Fährte
+r Fahrtenschwimmer (= pl.)
 s Fahrzeug (pl. -e) : רכב; כלי תחבורה; מכונית
+fair [adj.]
+e Fairness
+s Fairplay
 r Faktor (pl. -en) : פקטור
 e Falke (pl. -n) : נץ
 r Fall (pl. Fälle) : מקרה; ארוע; עניין; נפילה; יחסה
@@ -8666,6 +8711,8 @@ panisch : בפאניקה
 panzern : לשריין, למגן
 Papier (pl. -e) : נייר
 s Papierkram [ugs.] : ניירת
+e Papyrologie : פפירולוגיה
+r Papyrus : פפירוס
 parieren : to counter
 s Pärchen (= pl.) : זוג (צעיר)
 pärchenweise [adv.] : בזוגות
