@@ -3519,7 +3519,7 @@ r Brotkorb
 brotlos [adj.]
 r Bruch (pl. Brüche)
   - Die Feundschaft ging in die Brüche
-brüchig [adj.]
+brüchig [adj.] : שביר
 e Brüchigkeit
 e Bruchlandung
 e Bruchstelle
@@ -4647,8 +4647,8 @@ e Drohung
 e Drohne (pl. Drohnen) : רחפן, מטוס ללא טייס
 dröhnen : לזמזם
 drüben
-  - da/dort drüben : over there
-  - hüben und drüben : on both sides
+  - da/dort drüben : שם, שמה
+  - hüben und drüben : בשני הצדדים
 drüber [adv.] [ugs.] : על כך
   - Es geht drunter und drüber
 s Drüber
@@ -4780,9 +4780,9 @@ durcheinander|bringen, brachte durcheinander, hat durcheinandergebracht [vt.]
 durcheinanderbringend [adj.]
 r Durchfall (pl. Durchfälle) : שלשול
   - Durchfall haben : יש לו שלשול
-dúrch|fallen : to flunk
-  - in etw.[Dat.] durchfallen : to fail at s.th.
-  - bei einer Prüfung durchfalen : to fail an exam
+dúrch|fallen : להיכשל
+  - in + [Dat.] durchfallen : להיכשל במשהו
+  - bei einer Prüfung durchfalen : להיכשל בבחינה
 durchfluten, durchflutete, hat durchflutet : לזרום )דרך(
 durchforsten [vt.] : לסרוק, לחפש ביסודיות
 e Durchforstung
@@ -4964,7 +4964,7 @@ r Eber (= pl.) : חֲזִיר בַּר
 e Eberesche
 ebnen, ebnete, hat geebnet : ליישר, להחליק; לסלול
   - den Weg )für + [Akk.]( ebnen : לסלול את הדרך )למשהו(
-sich ebnen, ebnete sich, hat sich geebnet : to even out
+sich ebnen, ebnete sich, hat sich geebnet : להתיישר, להשתוות
 e Ebnung (pl. -en) : יישור
   - die Ebnung des Weges )zum + [Inf.] / für + [Akk.]( : סלילת דרך )ל־(
   - Ebnung der Oberflächen
@@ -5164,7 +5164,7 @@ eín|fallen )fällt ein(, fiel ein, ist eingefallen : לעלות בדעתו )ש�
   - j-m [Akk.] einfallen : לעלות בדעתו של מישהו
   - mir fällt etwas ein
 sich eín|fallen (fällt sich ein), fiel sich ein, hat sich eingefallen
-  - sich[Dat.] [Akk.] einfallen lassen : to come up with an idea, to conceive of s.th.
+  - sich[Dat.] [Akk.] einfallen lassen : לחשוב על רעיון, להעלות רעיון
 einfallsreich [adj.] : מלא־דמיון, רב־תושייה, בעל כושר המצאה
 e Einfalt : פשטות; תום
 einfältig [adj.] : פשוט; תם
@@ -5564,6 +5564,7 @@ emsig [adj.] [cf. Ameise, Emse] : עסוק, חרוץ
 e Emsigkeit
 s Ende : סוף
   - Ende und aus
+  - am Ende sein : להיות גמור
 r Endeffekt
 enden
 s Endergebnis
@@ -5709,7 +5710,7 @@ entlegen
 entlohnen, entlohnte, entlohnt
   - j-n (für + [Akk.]) entlohnen : לשלם למישהו על משהו
 e Entlohnung
-entmachten
+entmachten [vt.]
   - j-n entmachten : to disempower s.o., to deprive s.o. of power
 s Entmachten : disempowerment
 entmündigen [vt.] : לשים מישהו תחת פטרונות/חסות
@@ -9437,6 +9438,7 @@ r Nagel : ציפורן; מסמר
 e Nagelprobe : מבחן ליטמוס
 nah [adj.] : קרוב
   - nah scheinen : להיראות קרוב
+náhe|bringen
 nahen, nahte, genaht : להיות קרוב, להתקרב
   - sich ([Dat.]) nahen [veralt.] : להתקרב ל־
 nahend : imminent, approaching, forthoming
@@ -9866,6 +9868,7 @@ r Pfropf
 pfui [interj.]
 s Pfund : פאונד; לירה
 r Pfusch
+e Pfütze (pl. -n) : שלולית
 s Phänomen : תופעה, פנומן
 e Phase : תקופה, פאזה
 e Physik : פיזיקה
@@ -9889,6 +9892,7 @@ s Plakat
 plakatieren
 plakatiert [adj.]
 e Plakatierung
+e Plakatwand
 r Plan (pl. Pläne) : תוכנית; מפה; לוח זמנים
 r Planet : פלנטה, כוכב לכת
 planen, plante, hat geplant [vt.] : לתכנן
@@ -10417,6 +10421,7 @@ rufschädigend : משמיץ, פוגע בשם הטוב
 e Rufschädigung
 e Ruhe : שקט; שלווה
   - seine Ruhe haben
+  - in aller Ruhe : ברוגע
 ruhen : לנוח
   - [Akk.] ruhen lassen : להניח למשהו
 ruhig [adj.] : שקט; שליו; רגוע; איטי
@@ -10544,6 +10549,8 @@ e Schar : להקה )של ציפורים(,
 scharf [adj.] : חד; חריף, מתובל
 r Scharfmacher (= pl.) : מסית
 e Schärpe (pl. -n) : אבנט
+r Schatten (= pl.) : צֵל
+  - im Schatten
 r Schatz : אוצר; יקיר; יקירה
   - mein Schatz : יקירי; יקירתי
 e Schatzkammer : גנזך; חדר אוצר
@@ -11540,6 +11547,7 @@ r Tisch (pl. -e) : שולחן
 s Tittchen : ציצי
 e Titte (pl. -n) [ugs.] : שד, ציצי
 toben : לזעום; להתפרע
+s Toben
 e Tochter (pl. Töchter)
   - seine Tochter verkuppeln
 r Tod : מוות
@@ -11741,6 +11749,8 @@ e Tüte (pl. -n) : שקית
 r Tütenhalter
 e Tütensuppe
 r Typ (pl. -en) : טיפוס
+typisch [adj.] : טיפוסי, אופייני
+typisch [adv.] : באופן טיפוסי, באופן אופייני
 
 = U, Ü =
 übel [adj.] : רע, נורא
@@ -12960,6 +12970,7 @@ e Wehrpflicht
 wéh|tun, tat weh, hat wehgetan [vi.] : להכאיב
   - j-m wehtun : להכאיב למישהו
 weich [adj.] : רך
+sich weigern : לסרב
 weihen : לקדש
 s Weihnachten : חג המולד
   - an Weihnachten : בחג המולד
