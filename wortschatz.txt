@@ -875,6 +875,7 @@ anfassend
 án|fertigen, fertigte an, hat angefertigt [vt.] : לייצר, להכין
 án|feuchten [vt.] : ללחלח
 s Anfeuchten
+án|feuern
 án|flehen, flehte an, hat angefleht [vt.] : להתחנן, להפציר
 án|funken, funkte an, hat angefunkt [vt.] : לשדר ל
 sich án|freunden, freundete sich an, sich angefreundet : להתחבר
@@ -6468,6 +6469,7 @@ r Exzess (pl. -e) : עודף, יתר, הגזמה
 exzessiv [adj.] : מוגזם; עודף
 
 = F =
+e Fa. [Abk. für Firma]
 e Fabel (pl. -n)
 s Fabelbuch (pl. Fabelbücher)
 e Fabelei
@@ -6917,23 +6919,97 @@ feudalistisch
 s Feuer : אש
 r Feueralarm : גלאי אש
 r Feuerlöscher : מטף
+feuern
+e Feuersbrunst
+feuersicher [adj.]
+e Feuerung
+e Feuerwehr : מכבי אש
+s Feuerzeug : מצית
+feurig
+s Fiasko (pl. -s)
+  - Es endete alles mit einem Fiasko.
+e Fibel (pl. -n) : ספר לימוד בסיסי
+e Fiber (pl. -n)
+s Fibrin
+e Fichte (pl. -n)
 ficken [vt.] [ugs.] : לזיין
 fickrig [adj.] : חרמן
+fidel
+s Fieber (= pl.)
+fieb(e)rig
+fiebern
+s Fieberthermometer
+e Fiedel (pl. -n)
+fiedeln
+r Fiedler
+fies [adj.] : מגעיל, דוחה; מרושע, זדוני; מגונה
+r Fight /fait/ (pl. -s)
+fighten
+r Fighter
 e Figur (pl. -en) : גזרה, פיגורה; דמות; פסלון
+figürlich
+e Fiktion (pl. -en)
+s Filet /file/ (pl. -s)
+r Filetbraten
+e Filiale (pl. -n) : סניף
 r Film (pl. -e) : סרט
   - einen Film drehen : לצלם סרט
+filmen
+e Filmkamera
+r Filmschnitt
+r Filmstar
+s Filmtheater
+e Filmvorführung
+r Filter (= pl.) : פילטר
+r Filterkaffee
+filtern
+s Filterpapier
+e Filterzigarette
+filtrieren
+r Filz (pl. -e) : לֶבֶד
+filzen
+r Filzhut
+filzig
+r Filzschreiber
 filzen, filzte, hat gefilzt [vt.] : למשש
 s Filzen
+s Finale
+Finanzen (pl.)
+s Finanzamt
+finanziell
+r Finanzminister
 finden, fand, hat gefunden [vt.] : למצוא
   - Wie findest du das? : מה דעתך לגבי זה? איך אתה מוצא את זה?
+r Finder
+r Finderlohn
+findig
+r Findling
 r Finger (= pl.) : אצבע
+r Fingerabdruck
+fingerbreit
+fingerfertig
+r Fingerling
+fingern
 r Fingernagel : ציפורן
 e Fingerspitze (pl. -n) : קצה אצבע
+s Fingerspitzengefühl
+r Fingerzeig
+fingieren
+s Finish
+r Fink (gen. -en, pl. -en) : פָּרוּשׁ )סוג של ציפור(
 finster [adj.] : חשוך
   - finster sein : חושך
   - "vnd es war finster auff der Tieffe" [Lutherbibel, Gen 1:2] = וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם [בראשית א ב]
 e Finsternis (pl. -se) : חֹשֶׁךְ
   - "Da scheidet Gott das Liecht vom Finsternis" [Lutherbibel, Gen 1:4] = וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ [בראשית א ד]
+e Finte (pl. -n)
+r Firlefanz : גימיק
+firm
+e Firma (pl. Firmen) : חברה, פירמה
+firmen
+r Firmenchef
+r Firmpate
+e Firmung : קונפירמציה בכנסיה הקתולית
 r Fisch (pl. -e) : דג
 fischen, fischte, hat gefischt [vt.] : לדוג
 r Fixer (= pl.) : נרקומן
@@ -13767,6 +13843,8 @@ r Zweifel (= pl.) : ספק
   - Zweifel (an + [Dat.]) : ספק )ב־(
   - ohne Zweifel : ללא ספק
 zweifellos [adv.] : ללא ספק
+r Zweig : ענף
+s Zweiggeschäft (pl. -e) : סניף )של עסק(
 e Zweiklassengesellschaft
 e Zweisamkeit : תחושת קירבה, היות ביחד
 zweit [adj.] : שני
