@@ -4293,7 +4293,8 @@ e Dicke
 dicken : לְעַבּוֹת
 dickfellig
 r Dickhäuter
-dickköpfig
+dickköpfig [adj.] : עקשן
+e Dickköpfigkeit : עקשנות
 dicklebig
 r Dickschädel
 r Dickwanst
@@ -5090,9 +5091,13 @@ s Eigenheim
 s Eigenlob
 r Eigennutz
 eigennützig [adj.]
+eigenwillig [adj.] : אידיוסינקרטי; שרירות; גחמני, קפריזי, הפכפך, בלתי צפוי; דעתני
+e Eigenwilligkeit : מקוריות; אינדיבידואליות; רוח חופשית; עקשנות
 eigens [adv.] : במיוחד, באופן מובהק
 e Eigenschaft
 s Eigenschaftswort
+r Eigensinn : עקשנות
+eigensinnig [adj.] : עקשן
 eigenständig [adj.] : עצמאי; אוטונומי
 e Eigenständigkeit : אוטונומיה, עצמאות, שלטון עצמי
 eigentlich [adj.] : אמיתי, ממשי
@@ -6641,50 +6646,134 @@ fasern
 e Faserpflanze
 e Faserung
 s Fass (pl. Fässer) : חבית
+fassbar [adj.] : נתפש
+e Fassade
+r Fassadenkletterer
 s Fassbier
 fassen, fasste, hat gefasst : להחזיק; לתפוס
   - etwas in Worte fassen : לשים במילים, לבטא במילים
   - nicht zu fassen : אין לתאר, לא יעלה על הדעת
+fasslich
 e Fasson : סגנון, אופנה
   - aus der Fasson geraten : לצאת מהאופנה, להפסיק להיות באופנה
   - jeder nach seiner Fasson : כל אחד לפי דרכו
   - jeder nach seiner Fasson selig werden : להיות שמח, כל אחד לפי דרכו
+e Fassung
+fassubgslos
 fassweise [adv.] : לפי החבית
 fast [adv.] : כמעט
+fasten
+s Fasten
+e Fastenkur
+e Fastenzeit
+e Fastnacht
+r Fasttag
+e Faszination (pl. -en)
+faszinieren
+fatal [adj.]
+e Fata Morgana
+fauchen
 faul [adj.] : עצלן
   - "GEhe hin zur Emmeissen du Fauler / sihe jre weise an / vnd lerne." [Spr 6:6] = לֵךְ אֶל נְמָלָה עָצֵל רְאֵה דְרָכֶיהָ וַחֲכָם ]משלי ו, ו[
 faulenzen : להתעצל; להתבטל
-e Faust : אגרוף, שעל
+faulig
+e Fäule
+faulen
+faulenzen
+r Faulenzer
+e Faulheit
+s Faultier
+e Fauna (pl. Faunen)
+e Faust (pl. Fäuste) : אגרוף, שעל
   - wie die Faust aufs Auge
   - "WEr misset die Wasser mit der faust / vnd fasset den Himel mit der spannen?" [Jes 40:12] = מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם בַּזֶּרֶת תִּכֵּן ]ישעיה מ, יב[
+fausten
+faustgroß
+r Fausthandschuh
+r Faustkampf
+r Fäustling
+s Faustrecht
+e Faustreel
 r Faustschlag : אגרוף )מכה(, בוקס
 s Faustpfand : קלף מיקוח
 favorisieren [vt.] : להעדיף, לבכר
 favorisierend
 favorisiert [adj.] : מועדף
+r Favorit (gen. -en, pl. -en)
 e Faxe (pl. -n) : העוויה
   - Ich habe die Faxen dick : נמאס לי מזה לגמרי
+s Fazit : מסקנה; שורה תחתונה; תוצאה
+e FDP [= Freie Demokratische Partei]
+r Februar
 fechten (ficht), focht, hat gefocht : לסייף
 s Fechten : סיוף
+r Fechter (= pl.) : סַיָּף
+r Fechtkampf : קרב סיף
 e Feder (pl. -n) : קפיץ; נוצה; עט
+s Federbett
 s Federetui
+r Federfuchser
+s Federgewicht
+r Federhalter
 s Federmäppchen : קלמר
+federn
+e Federung
+e Fee (pl. -n)
+feenhaft
+e Fehde : סכסוך, איבה, שנאה, משטמה, נקמת דr
+  - (mit j-m) in Fehde liegen
+  - politische Fehde
 fegen [vt.] : לטאטא
+fehl
+  - sich fehl am Platz fühlen : להרגיש לא במקומו
+  - fehl am Platz sein : להיות שלא במקומו
+r Fehlbetrag
 fehlen, fehlte, hat gefehlt : להיות חסר; להיעדר; לא להימצא, לא להיות בנמצא
 s Fehlen : מחסור; היעדר
 r Fehler (= pl.) : שגיאה
   - einen Fehler machen : לשגות, לעשות שגיאה
   - Fehler machen : לעשות שגיאות
+e Fehlerkartei
+e Fehlerquelle
+féhl|greifen
+r Fehlgriff
+féhl|leiten
 e Fehlinformation : מידע מוטעה, מידע כוזב; מסירת מידע כוזב במכוון
+r Fehlpass
 r Fehlschlag : כשלון
 féhl|schlagen (schlägt fehl), schlug fehl, ist fehlgeschlagen [vi.] : להיכשל
+r Fehlstart
+féhl|treten
+e Fehlzündung
+e Feier (pl. -n) : חגיגה; מסיבה
 r Feierabend : הַעֲרָבָה; מנוחת־ערב
   - Feierabend haben
   - Feierabend machen
+feierlich
+e Feierlichkeit
+e Feierschicht
 feiern, feierte, hat gefeiert : לחגוג
+r Feiertag
+e Feige (pl. -n) : תאנה
 feige [adj.] : פחדן
+s Feigenblatt : עלה תאנה )כיסוי לדבר בלתי ראוי או מביש(
+e Feigheit
+r Feigling
+e Feile (pl. -n)
+feilen
+fein [adj.]
+e Feinarbeit
+e Feinbäckerei
 r Feind (pl. -e) : אויב
 feindlich [adj.]
+e Feineinstellung
+feinfühlig
+feingliedrig
+s Feingold
+e Feinheit
+r Feinmechaniker
+r Feinschnitt
+feinsinnig
 s Feld (pl. -er) : שדה; אזור
 r Feldzug : מערכה; מסע )פרסום; הסברה; בחירות(; קמפיין
   - einen Feldzug gegen + [Akk.] führen : לצאת למערכה נגד־; לצאת למסע צלב נגד
@@ -7583,7 +7672,12 @@ halbmast [adv.]
   - halbmast flaggen
 halbtags [adv.] : במשרה חלקית
   - halbtags arbeiten
+r Hals : צוואר; גרון
+  - Hals über kopf [adv.] : בטירוף; מעל הראש
+  - sich in j-n Hals über Kopf verlieben : להתאהב במישהו מעל הראש
 halt [adv.]
+halsstarrig [adj.] : עקשן
+e Halsstarrigkeit : עקשנות
 r Halter [bair.] : רועה באלפים
 e Halle (pl. -n) : אוּלָם; מסדרון, פרוזדור; היכל
   - "vnd sihe / fur der thür am Tempel des Herrn / zwischen der Halle vnd dem Alter." [Lutherbibel, Ez 8:16] = וְהִנֵּה־פֶתַח הֵיכַל יהוה בֵּין הָאוּלָם וּבֵין הַמִּזְבֵּחַ [יחזקאל ח טז]
@@ -7629,6 +7723,10 @@ hängen, hing, hat gehängt : להיות תלוי )פוסטר(, להיאחז ב�
 hängen|lassen (lässt hängen), ließ hänhen, hat hängengelassen [vt.] : לאכזב מישהו
 harmlos [adj.]
 harmlos [adv.]
+hart [adj.] : קשה; קשוח
+e Härte : קושי
+hartnäckig [adj.] : עקשן; קשה עורף; דבק במטרה
+e Hartnäckigkeit : התמדה; דבקות במטרה; עקשנות
 hassen [vt.] : לשנוא
   - "WEnn jemand zwey Weiber hat / Eine die er lieb hat / vnd eine die er hasset" [Lutherbibel, Dtn 21:15] = כִּי־תִהְיֶיןָ לְאִישׁ שְׁתֵּי נָשִׁים הָאַחַת אֲהוּבָה וְהָאַחַת שְׂנוּאָה [דברים כא טו]
 Hängetitte (pl. -n) : ציצים נפולים; ציצים תלויים
@@ -9382,6 +9480,7 @@ nách|eifern, eiferte nach, hat nachgeeifert
 nách|geben
   - [Dat.] nachgeben : להיכנע )ליצר(, לוותר )בעקבות לחץ(
 nách|gehen : לעסוק ב־, למלא אחר
+nachgiebig [adj.] : רך; גמיש; לא נוקשה
 nachhaltig [adj.] : בר קיימא
 e Nachhilfe
 s Nachhinein : דיעבד
@@ -10274,6 +10373,8 @@ reklamieren : to claim, to complain, to object, to protest
   - [Akk.] reklamieren : to complain about s.th., to take s.th. back
   - [Akk.] für sich reklamieren : to take credit for s.th., to claim s.th. back
 relaxen, relaxte, relaxt : להירגע, להרגיע
+renitent [adj.] : עקשן; מגושם ???עקשן; מגושם ???
+e Renitenz : עיקשות; עקשנות; קשות עורף; אי קבלת מרות
 e Rennbahn
 s Rennrad (pl. Rennräder) : אופני מירוץ
 rennen, rannte, ist gerannt [vi.] : לרוץ
@@ -11185,6 +11286,9 @@ stark (stärker, am stärksten) [adj.] : חזק
 stärken [vt.] : לחזק; להגביר
 starr [adj.] : קשיח, נוקשה, קשה
 starren, starrte, hat gestarrt [vt.] : לבהות
+starrköpfig [adj.] : עקשן
+e starrköpfigkeit : עקשנות
+r Starrsinn : עקשנות
 starten : להתחיל
 r Startschuss : יריית הפתיחה
 e Stasi
@@ -11354,6 +11458,8 @@ s Studium : לימודים
 r Stuhl (pl. Stühle) : כיסא
 stumpf [adj.] : קהה
 e Stunde (pl. -n) : שעה
+stur [adj.] : עקשן, עיקש, עקשני
+e Sturheit : עקשנות
 stürmen
 stürzen : ליפול; להתרסק
   - Ich rutschte auf nassem Laub aus und stürzte zu Boden.
@@ -11924,13 +12030,16 @@ e Unantastbarkeit
 unartig [adj.] : שובב
 unbändig
 unbedenklich [adj.]
-unbedingt [adj.]
-unbedingt [adv.]
-unbefristet [adj.]
+unbedingt [adj.] : מוחלט
+unbedingt [adv.] : באופן מוחלט; בהכרח; באמת; ללא תנאי
+unbefristet [adj.] : לא מוגבל בזמן
 unbekannt [adj.] : לא מוכר, בלתי מוכר
 unbeobachtet [adv.] : ללא השגחה
 unbequem [adj.] : לא נעים, בלתי נעים
 unbestritten [adj.] : מוסכם; שאין עליו עוררין
+unbeugsam [adj.] : שלא מוותר, שלא נכנע; עשוי ללא חת; בלתי גמיש, לא מתגמש; עקשן
+unbeugsam [adv.] : באופן לא גמיש; באופן עקשני
+e Unbeugsamkeit : עקשנות; חוסר גמישות
 unbezahlbar [adj.]
 und : וְ־
 undicht [adj.] : דולף; לא אטום
@@ -11991,6 +12100,8 @@ unmittelbar [adj.] : ישיר, מיידי, רגעי
 unmittelbar [adv.] : באופן ישיר, מייד, באופן מיידי, בן רגע
 e Unmittelbarkeit : מיידיות, ישירות
 unmöglich [adj.] : בלתי אפשרי
+unnachgiebig [adj.] : נוקשה; קשיח; קפדן; מחמיר; בלתי מתפקש
+e Unnachgiebigkeit : עקשנות; אי־פשרנות
 unplanmäßig [adv.] : באופן לא מתוכנן
 unrechtmäßig [adv.] : באופן בלתי חוקי
 unregelmäßig [adj.] : לא סדיר
@@ -12170,10 +12281,6 @@ sich verbeugen
 e Verbeugung
 verbeulen
 verbeult [adj.]
-verblassen - לדהות
-verbleiben : להישאר, להיוותר
-s Verbleiben
-verblüffend [adj.]
 verbieten, verbot, hat verboten [vt.] : לאסור על, לא להרשות
   - j-m [Akk.] verbieten : לאסור משהו על מישהו
   - sich[Dat.] [Akk.] verbieten lassen : לתת שיאסרו עליו משהו
@@ -12185,7 +12292,10 @@ e Verbindung (pl. -en) : קשר
   - Verbindung zu + [Dat.]
 e Verbindungsaufnahme
   - feindliche Verbindungsaufnahme
-verblassen
+verblassen - לדהות
+verbleiben : להישאר, להיוותר
+s Verbleiben
+verblüffend [adj.]
 r Verbraucher (= pl.) : צרכן
 r Verbraucherschutz
 s Verbrechen : פשע
@@ -12193,6 +12303,8 @@ r Verbrecher : פושע
 verbreiten [vt.] : להפיץ
 verbringen, verbrachte, hat verbracht [vt.] : להעביר )זמן(, לבלות )זמן(
   - Zeit verbringen : להעביר את הזמן
+verbohrt [adj.] : עקשן
+e Verbohrtheit : עקשנות
 verbuchen [vt.] : לרשום; להשיג בשל הצלחה; לקבוע כהצלחה
   - [Akk.] als Erfolg verbuchen
 s Verbum (pl. Verben) : פועל
@@ -12257,6 +12369,7 @@ e Verfasserin : מְחַבֶּרֶת
 e Verfassung : חוקה
 r Verfassungsschutz
 verfassungswidrig [adj.] : מנוגד לחוקה
+verfaulen
 verfechten, verfocht, verfochten : להגן, לגונן
 r Verfechter, e Verfechterin : תומך, חסיד )של רעיון(
 verfehlen : להחמיץ
@@ -13065,9 +13178,11 @@ wichtig [adj.] : חשוב
 r Widerpart : יריב
 widerrúfen : to revoke, to withdraw, to rescind, to repeal
 r Widersacher : יריב
-widersetzen
 sich widersetzen, widersetzte sich, hat sich widersetzt
   - sich[Akk.] [Dat.] widersetzen : להתריס כנגד, להתנגד ל־, לעמוד כנגד, לא לציית ל־
+  - sich der Verhaftung widersetzen : להתנגד למעצר
+widerspenstig [adj.] : עקשן; בלתי ניתן לשליטה; מרדן
+e Widerspenstigkeit : היות בלתי ניתן לשליטה; מרדנות; התעקשות; עקשנות
 widersprechen, widersprach, widersprochen : לסתור
   - j-m widersprechen : להמרות את פיו של מישהו
 r Widerstand (pl. Widerstände) : התנגדות
