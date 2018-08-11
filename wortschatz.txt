@@ -741,6 +741,7 @@ e Altersgrenze
 althergebracht : מסורתי
 altklug [adj.] : שמקדים להתפתח, מפותח בשביל גילו, שמבכיר להבשיל
 altmodisch [adj.] : מיושן, מחוץ לאופנה
+s Altschnee : שלג ישן
 e Alufolie : נייר אלומיניום
 s Alu [kurz für Aluminium] : אלומיניום
 e Alufolie : נייר אלומיניום
@@ -1390,6 +1391,7 @@ aúf|fassen : לתפוש, להבין, לקחת כ־
   - [Akk.] falsch auffassen : להבין לא נכון
 e Auffassung (pl. -en) : דֵעָה, נְקוּדַת מַבָּט, תפישה
 e Auffassungsgabe
+aúf|flammen
 aúf|fliegen : להתעופף
 aúf|fordern [vt.]
   - j-n auffordern : to request, to ask, to urge, to prompt, to call on
@@ -1459,7 +1461,7 @@ aúf|räumen
 aufrecht [adj.] : זקוף, ישר, מאונך
 aúfrecht|erhalten, erhielt aufrecht, hat aufrechterhalten [vt.] : לשמר, לתחזק, להחזיק )בחיים(, לגרום שיימשך
   - den Kontakt aufrechterhalten : להישאר בקשר
-aúfrecht|halten : להחזיק; לשמר
+e Aufrechterhaltung : שימור
 aúf|reißen [vt.]
 aúf|regen, regte auf, hat aufgeregt [vt.] :  לרגש; להתסיס, לעצבן, להציק
   - sich aufregen : להתרגש; להיות מודאג
@@ -2158,6 +2160,8 @@ e Befehlsverweigerung : סירוב פקודה
 befinden, befand, hat befunden [vt.] : למצוא )משהו בצורה כלשהי(
 sich befinden, befand sich, hat sich befunden : להימצא
 befindlich [adj.]
+sich befleißigen, befleißigte sich, hat sich befleißit
+  - sich[Akk.] [Gen.] befleißigen : להפעיל; להוציא לפועל; להחיל
 beflissen [adj.] : חרוץ, שקדן
 e Beflissenheit : חריצות, שקדנות
 befördern
@@ -2463,6 +2467,9 @@ e Bemerkung (pl. -en) : הערה, אבחנה
 sich bemühen : להתאמץ
   - sich um + [Akk.] bemühen
   - sich an + [Akk.] bemühen
+s Bemühen : מאמץ
+  - Bemühen zu + [Dat.] : מאמץ ל־
+  - Bemühen um + [Akk.]
 e Bemühung
 bemuttern [vt.] : לנהוג כאֵם ביחס לפ'
 benachrichtigen : להודיע, לתת התראה
@@ -2832,6 +2839,7 @@ r Beton : בטון
 betonen, betonte, hat betont [vt.] : להדגיש
 e Betonung : טעם )במילה; ההברה המודגשת(; הטעמה; הדגשה
 e Beuge
+beugbar [adj.] שניתן לכופף אותו
 beugen [vt.] : להסיט; לכופף; להטות
   - die Knie beugen
   - das Haupt beugen
@@ -4597,6 +4605,7 @@ s Dreieck
 e Dreieinigkeit
 dreierlei
 dreifach : כפול שלוש
+dreiflammig
 r Dreifuß
 dreijährig [adj.]
 r Dreikäsehoch
@@ -4609,7 +4618,7 @@ dreizehn : שלוש עשרה, שלושה עשר
 e Dresche
 dreschen (drischt), drosch, hat gedroscht [vt.] : לדוש
 r Drescher
-r Dreschflegel
+r Dreschflegel : כלי דיש, מחבט
 e Dreschmaschine
 r Dress (pl. -e)
 dressieren : לאמן
@@ -7006,13 +7015,42 @@ e Finte (pl. -n)
 r Firlefanz : גימיק
 firm
 e Firma (pl. Firmen) : חברה, פירמה
+s Firmament (pl. -e) : רקיע, כיפת הרקיע
 firmen
 r Firmenchef
 r Firmpate
 e Firmung : קונפירמציה בכנסיה הקתולית
+r Firn (pl. -e) : שאריות שלג שהתגבשו מחדש לקרח
+r Firnis (pl. -se) : לכה
+r First (pl. -e)
 r Fisch (pl. -e) : דג
 fischen, fischte, hat gefischt [vt.] : לדוג
+r Fischer (= pl.)
+s Fischerboot
+e Fistel (pl. -n)
+fisteln
+e Fistelstimme
+fit [adj.] : מלא עזוז; בכושר; מרגיש טוב
+e Fitness : כושר
+fix [adj.] : קבוע; מהיר
+  - einen fixen Verstand haben
+  - fix und fertig sein [ugs.] : להיות גמור
 r Fixer (= pl.) : נרקומן
+fixieren
+e Fixigkeit
+r Fixpunkt
+r Fixstern
+r Fjord (pl. -e)
+flach [adj.] : שטוח
+e Fläche : משטח
+flächenhaft [adj.] : שטוח; נרחב
+flächig [adj.] : שטוח
+s Flachland
+r Flachs : פשתן; פשתה
+flachsblond
+flachsen
+flackern
+flack(e)rig
 fühlen, fühlte, hat gefühlt : להרגיש
   - sich [präd.] fühlen : להרגיש )באופן מסוים(
   - sich fit fühlen : to feel fit
@@ -7020,19 +7058,77 @@ flach [adj.] : שטוח; שטחי
 e Fläche : שטח; משטח; פני השטח
 flächendeckend [adj.] : מקיף
 flächendeckend [adv.] : באופן מקיף
+r Fladen
 e Flagge (pl. -n)
   - die Flagge auf Halbmast setzen
+flaggen
+r Flaggenmast
+s Flaggschiff
+r Flamingo (pl. -s)
+e Flamme (pl. -n)
+flammen
+flammig
+r Flanell (pl. -e)
+flanellen
+e Flanke (pl. -n)
+flanken
+flankieren
+r Flankenangriff
 r Flansch (pl. -e)
 e Flasche (pl. -n) : בקבוק
+s Flaschenbier
+r Flaschenhals : צוואר בקבוק
+e Flaschenpost
+r flaschenzug
+flatt(e)rig
+flatterhaft
+flattern
 flau [adj.] : רפוי; חלש
   - Das Gescheft ist sehr flau.
+  - Mir ist flau zumute
+  - Das Geschäft geht flau.
 r Flaum : תנומה
+flaumig
+flaumweich
 flauschig [adj.] : צמרירי; תפוח; רך, קל, אוורירי
 e Flaute : מיתון
+e Flechte (pl. -n)
+flechten
+r Fleck (pl. -e) : כתם
+  - nicht vom Fleck kommen : לא להתקדם; לא להצליח להתקדם
+  - das Herz auf dem rechten Fleck haben : להיות עם הלב במקום הנכון
+flecken
+r Flecken (= pl.) : כתם
+s Fleckenwasser
+s Fleckfieber
+fleckig
+e Fledermaus (pl. Fledermäuse) : עטלף
+r Flegel : גס רוח; כלי דיש, מחבט
+e Flegelei : גסות רוח, חוסר נימוס
+Flegeljahre (pl.) : שנות הנעורים
+  - in den Flegeljahren : בשנות הנעורים; בקרב בני הנוער
+  - in den Flegeljahren sein
+flegelhaft
+flegeln
+flehen : להפציר; להתחנן ל־
+  - (um + [Akk.]) flehen : להתחנן ל־
+  - um j-s Leben flehen : להתחנן על חיי פ'
+s Flehen : הפצרה; תחנונים
+flehentlich [adv.] : בתחנונים
+  - flehentlich (um + [Akk.]) bitten
 s Fleisch : בשר
+r Fleischer (= pl.)
+e Fleischerei
 r Fleischextrakt
+fleischig
+fleischlich
+r Fleiß : חריצות; עבודה קשה
+e Fleißarbeit : עבודת פרך; עבודת שחורה; עבודה רפטטיבית שלא מצריכה חשיבה
 fleißig [adj.] : חרוץ
+flektieren [vt.] : לכופף; להטות )דקדוק(
 flennen : ליבב, לבכות בכי תמרורים
+flexibel [adj.] : גמיש
+e Flexion (pl. -en) : כיפוף; נטייה )דקדוק(
 r Flieder (= pl.) : לילך
 fliegen, flog, ist geflogen [vi.] : לטוס
 fliegen, flog, hat geflogen [vt.] : להטיס
@@ -7552,6 +7648,7 @@ geschlechtsreif [adj.]
 geschlechtsspezifisch [adj.]
 r Geschlechtsverkehr : יחסי מין
 s Geschlechtswort : תווית )יידוע(
+geschmeidig [adj.] : גמיש; רך
 geschockt [adj.]
   - geschockt sein
 s Geschrei : רעש, המולה, צעקה
@@ -7695,6 +7792,12 @@ graben (gräbt), grub, hat gegraben [vt.] : לחפור
 r Graben : שוחה
 s Graben : חפירה
 r Grad )pl. -e( : מעלה )זווית, טמפרטורה(
+s Gramm : גרם
+e Grammatik (pl. -en) : דקדוק
+grammatikalisch [adj.] : דקדוקי
+r Grammatiker (= pl.) : מדקדק
+r Grammatikfehler (= pl.) : שגיאה דקדוקית
+grammatisch [adj.] : דקדוקי
 r Granatapfel (pl. Granatäpfel) : רימון
 r Granatapfelbaum : עץ רימון
 e Granate (pl. -n) : רימון יד
@@ -8046,6 +8149,7 @@ r Himmel (= pl.) : שמיים; גן עדן
   - am Himmel : בשמיים
   - sich wie im siebten Himmel fühlen
   - wie im siebten Himmel sein
+s Himmelsgewölbe : רקיע, כיפת הרקיע
 himmlisch [adj.] : שמיימי
   - das himmlische Jerusalem : ירושלים של מעלה; ירושלים השמיימית
 hin
@@ -9346,9 +9450,10 @@ e Mappe : תיקיה
 e Maske (pl. -n) : מסכה
 r Maskenball : נשף מסכות
 s Märchen (= pl.) : מעשיה; סיפור מעשיה
-r Markt (pl. Märkte) : שוק
-r Marktführer
 markieren : לסמן
+r Markt (pl. Märkte) : שוק
+r Marktflecken : עיירת שוק
+r Marktführer
 e Marmelade : ריבה
 r Marmor : שיש
 r Marmorboden : רצפת שיש
@@ -12532,6 +12637,7 @@ verfeinert [adj.] : מעודן
 verfestigen
 verfickt [adj.] : מזדיין, דפוק
   - verfickte Scheiße : חרא מזדיין
+verflachen
 verfluchen [vt.] : לקלל; להטיל קללה
 verflucht [adj.] : מקולל
 verflucht [interj.] : לעזאזל!
@@ -13615,7 +13721,15 @@ ziemlich [adv.] : למדי
 e Zigarre (pl. -n) : סיגר
 e Zigarette (pl. -n) : סיגריה
 s Zimmer (= pl.) : חדר
+r Zimt : קינמון
+s Zink : אבץ, צינק
+s Zinn : בדיל, פיוטר
 Zins
+s Zion
+r Zionist
+e Zionistin
+zionistisch [adj.]
+r Zionismus : ציונות
 e Zitrone (pl. -n) : לימון
 zittern, zitterte, hat gezittert : לרעוד, לרטוט
 e Zitze (pl. n) : פטמה
