@@ -873,6 +873,8 @@ anfangs [adv.] : בהתחלה, בראשית, תחילה
 án|fassen, fasste an, hat angefasst [vt.] : לגעת ב, למשש, למוש
 anfassend
 án|fertigen, fertigte an, hat angefertigt [vt.] : לייצר, להכין
+án|feuchten [vt.] : ללחלח
+s Anfeuchten
 án|flehen, flehte an, hat angefleht [vt.] : להתחנן, להפציר
 án|funken, funkte an, hat angefunkt [vt.] : לשדר ל
 sich án|freunden, freundete sich an, sich angefreundet : להתחבר
@@ -1852,6 +1854,7 @@ backen, buk, hat gebacken [vt.] : לאפות
 r Bäcker (= pl.) : אופֶה
 e Bäckerei (pl. -en) : מאפיה
 e Bäckerin (pl. Bäckerinnen) : אופָה
+s Backferment
 s Backobst
 r Backofen
 r Backstein
@@ -5120,7 +5123,7 @@ eilen, eilte, ist geeilt [vi.] : לאוץ, להזדרז
   - zu + [Dat.] eilen : להזדרז ל
 sich eilen, eilte sich, hat sich geeilt : להזדרז
 eilends [adv.] : בזריזות, בהזדרזות
-eilfertig
+eilfertig [adj.] : מהיר, חפוז, בהול
 eilig
 eiligst
 r Eilzug
@@ -5176,6 +5179,7 @@ einfältig [adj.] : פשוט; תם
 r Einfaltspinsel : שוטה, כסיל, גולם
 eín|fassen, fasste ein, hat eingefasst [vt.]
 e Einfassung
+eín|fetten [vt.] : לשמן
 eín|flößen : להחדיר; להשרות; ליצוק
 s Einflößen
 Einfluss (pl. Einflüsse) : השפעה
@@ -6766,6 +6770,9 @@ e Feinarbeit
 e Feinbäckerei
 r Feind (pl. -e) : אויב
 feindlich [adj.]
+e Feindlichkeit
+e Feindschaft
+feindselig
 e Feineinstellung
 feinfühlig
 feingliedrig
@@ -6774,40 +6781,90 @@ e Feinheit
 r Feinmechaniker
 r Feinschnitt
 feinsinnig
+feist [adj.] : שמן
+e Feistheit
+feixen : לחייך חיוך יודע דבר
 s Feld (pl. -er) : שדה; אזור
+e Feldarbeit
+feldaus
+e Feldblume
+feldein
+r Feldherr
 r Feldzug : מערכה; מסע )פרסום; הסברה; בחירות(; קמפיין
   - einen Feldzug gegen + [Akk.] führen : לצאת למערכה נגד־; לצאת למסע צלב נגד
-s Fell : פרווה
-r Fels (pl. -en) : סלע; צוק
+e Felge (pl. -n)
+Felgenbremse
+r Felgumschwung
+s Fell (pl. -e) : פרווה; עור )של חיה(
+r Fels (gen. Felsens/Felsen, pl. -en) : סלע; צוק
 r Felsblock
 r Felsen (= pl.) : סלע; צוק
+felsenfest
 r Felsendom : כיפת הסלע
-Ferien (pl.) : חופשה
+felsig
+e Felswand
+e Feme (pl. -n)
+s Femegericht
+r Fememord
+feminin [adj.] : נשי
+s Femininum
+r Feminismus
+r Feminist
+e Feministin
+r Fenchel : שֻֻׁמָּר
+r Fencheltee : תה שומר
 s Fenster (= pl.) : חלון
+  - Er wirft sein Geld zum Fenster hinaus.
+Ferien (pl.) : חופשה
+s Ferkel (= pl.)
+e Ferkelei
+s Ferment (pl. -e)
+fern [adj.] : רחוק
+fern [adv.] : הרחק
+e Ferne : מרחק
 fern [adj.] : רחוק, מרוחק
 fern [präp.] : הרחק מ־
+férn|bedienen : לשלוט בשלט רחוק, לשלוט מרחוק
+e Fernbedienung : שלט רחוק
 férn|bleiben : להיעדר; לא להופיע
 s Fernbleiben : היעדרות
 ferner [adv.] : גם, בנוסף, כמו־כן
-férn|sehen, sah fern, ferngesehen : לצפות בטלוויזיה
+r Fernfahrer
+férn|halten (hält fern), hielt fern, hat ferngehalten [vt.] : להרחיק
+sich férn|halten (hält sich fern), hielt sich fern, hat sich ferngehalten : להתרחק
+  - sich (von + [Dat.]) fernhalten : להתרחק )מ־(
+e Fernheizung
+férn|sehen (sieht fern), sah fern, ferngesehen : לצפות בטלוויזיה
 s Fernsehen : טלוויזיה
   - Fernsehen schauen : לצפות בטלוויזיה
   - [Akk.] im Fernsehen zeigen : לשדר בטלוויזיה
   - [Akk.] im Fernsehen übertragen : לשדר בטלוויזיה
 r Fernseher (= pl.) : טלוויזיה
 e Fernsehzeitung
+r Fernsprecher
+férn|steuern, steuerte fern, hat ferngesteuert [vt.] : להפעיל משהו בשלט רחוק, לשלוט במשהו מרחוק
+s Fernsteuern : שלט רחוק
+e Fernsteuerung : שלט רחוק
+r Fernverkehr
 s Fernweh : תאוות נסיעה
+e Ferse (pl. -n) : עקב
+s Fersengeld
 fertig [adj.] : מוכן
+  - [Akk.] fertig machen : להשלים משהו; להביא משהו לידי סיום
   - sich fertig machen : להתכונן; להתלבש לאירוע
   - Auf die Plätze, fertig, los! : למקומות, היכון, צא!
   - fertig (mit j-m) sein
+fertigen [vt.] : לייצר
+s Fertighaus
 e Fertigkeit (pl. -en)
+e Fertigstellung (pl. -en)
 e Fertigung (pl. -en)
 r Fertigungsprozess (pl. -e)
 fesch [adj.] [ugs.] : אופנתי )בלשון הדיבור(
+e Fessel (pl. -n)
 Fesselballon
 fesseln
-s Fest : פסטיבל
+s Fest (pl. -e) : פסטיבל
 fest [adj.] : קבוע; יציב; מהודק; חזק; רגיל
 fést|drehen [vt.] : להדק )בתנועה סיבובית(
 fést|frieren, fror fest, festgefroren : לקפוא
@@ -6828,16 +6885,35 @@ fést|legen, legte fest, hat festgelegt [vt.] : לקבוע, להחליט על
 sich fést|legen
   - sich auf + [Akk.] festlegen : להתחייב על
   - sich nicht festlegen wollen : לא להתחייב, לא לרצות להתחייב
+festlich
 e Festnahme : מעצר
 fést|nehmen (nimmt fest), nahm fest, hat festgenommen [vt.] : לעצור, לשים במעצר, לתפוס ולשים במעצר
 s Festnetz : קו טלפון נייח
 fést|setzen, setzte fest, hat festgesetzt [vt.] : לקבוע; לנסח, לציין
 fést|stellen, stellte fest, hat festgestellt [vt.] : לזהות, לגלות; לתפוש, להבין פתאום, לשים לב; לשים בכלא
   - Während des Gesprächs stellen wir fest, dass wir aus derselben Stadt waren. : במהלך השיחה תפשנו שאנחנו מאותה עיר.
+r Festtag
 fést|ziehen [vt.] : להדק
-e Fete : מסיבה
+e Fete (pl. -n) : מסיבה
 r Fetisch (pl. -e)
+s Fett
+fett [adj.]
+fettarm
+s Fettauge
+fetten [vt.] : לשמן
+r Fettfleck(en)
+fettig
+fettleibig
+fetzen
+r Fetzen
 feucht [adj.] : לח, רטוב
+feuchtfröhlich
+e Feuchtigkeit
+r Feuchtigkeitgehalt
+feuchtkalt
+feudal
+r Feudalismus
+feudalistisch
 s Feuer : אש
 r Feueralarm : גלאי אש
 r Feuerlöscher : מטף
@@ -7027,6 +7103,7 @@ e Freundschaft : חברות
 r Frevel : פשע
 r Frieden : שלום
   - Frieden halten : לשמר את השלום
+friedfertig
 friedlich [adv.] : באופן רגוע; בשלווה; בשקט
 frieren, fror, ist/hat gefroren [vi.] : לקפוא
 frisch [adj.] : טרי; רענן; צח
@@ -13121,6 +13198,7 @@ Weiteres
 weíter|entwickeln [vt.] : לפתח הלאה
 sich weíter|entwickeln : להתפתח הלאה
 e Weiterentwicklung : התפתחות נוספת
+weiterhin [adv.] : בנוסף, גם, כמו כן
 e Welle (pl. -n) : גל
 r Welpe : כלבלב
 r Welpenschutz : ירח דבש
@@ -13406,6 +13484,7 @@ r Zeitraum
 e Zelle
 r Zenit : זנית, נקודה בשמיים מעל ראש המתבונן, פסגה, שיא
 r Zentimeter (= pl.) : סנטימטר
+zerfetzen
 zerfressen [vt.] : לזלול )חיה(
 zerlegen, zerlegte, hat zerlegt [vt.] : לפרק
   - [Akk.] in Teile zerlegen : לפרק לחתיכות
