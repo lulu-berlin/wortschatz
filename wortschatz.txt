@@ -4217,7 +4217,7 @@ demütigen, demütigte, hat gedemütigt [vt.] : להביא לידי צניעות
 e Demütigung : השפלה
   - öffentliche Demütigung : השפלה פומבית
 demutsvoll
-demzufolge
+demzufolge [adv.] : בהתאם לכך, כתוצאה מכך, בהמשך לכך
 den
 e Denkaufgabe
 denkbar
@@ -6059,6 +6059,10 @@ erforderlich [adj.] : נחוץ
 erfordern, erforderte, hat erfordert [vt.] : לדרוש, להצריך
 s Erfordernis : דרישה
 erfordert [adj.] : נדרש
+erforschen [vt.] : לחקור, לבחון
+s Erforschen : חקירה, בחינה
+erforschend
+e Erforschung : מחקר, בחינה
 erfreuen [vt.]
 erfreulich
 erfüllbar [adj.] : ניתן לביצוע; ניתן למימוש
@@ -7359,7 +7363,13 @@ e Flutrinne (pl. -n)
 e Flutwelle
 r Föderalismus : פדרליזם
 r Föderalist : פדרליסט
+föderalistisch [adj.]
+föderativ [adj.]
+e Föderation
+s Fohlen (= pl.) : סְיָח, עַיִר
+r Föhn (pl. -e) : פונה, רוח חמה ויבשה שיורדת מהמדרונות הצפוניים של הי האלפים; פֶן, מייבש שיער
 e Folge (pl. -n) : תוצאה; השלכה; פרק )של סדרה(
+e Folgerung
 r Folgezug (pl. Folgezüge) : הרכבת הבאה; המהלך הבא בשחמט
 folgen, folgte, ist gefolgt
   - [Dat.] folgen : לעקוב אחרי; לרדוף אחרי; להתלוות ל; לחקות את, ללכת בעקבות מישהו )מבחינת ההתנהגות(; להישמע ל
@@ -7370,44 +7380,116 @@ folgend
 folgendermaßen
 folglich
 folgsam
+e Folgsamkeit
+e Folie (pl. -n) : רדיד
+e Folklore
+folkloristisch
+e Folter (pl. -n)
+e Folterkammer
+foltern
+e Folterqual
+e Folterung
+r Fön : פן, מייבש שיער
+s Fondue (pl. -s)
+e Fontäne (pl. -n)
+foppen [vt.] : לרמות; לעבוד על
+e Fopperei
+förderlich
 fordern, forderte, hat gefordert [vt.] : לדרוש; לתבוע; לבקש
   - [Akk.] (von j-m) fordern : לדרוש משהו )ממישהו(; לתבוע משהו )ממישהו(; לבקש משהו )ממישהו(
   - Ersatz fordern : לדרוש פיצוי
   - Geld fordern : לדרוש כסף
   - seinen Tribut fordern : to take its toll
+fordern, forderte, hat gefordert [vt.] : לדרוש, לתבוע
+fördern [vt.] : לעודד, לטפח, לגדל, לקדם
 e Forderung : תביעה, דרישה, קריאה ל־
   - Forderung nach + [Dat.] : קריאה ל־
   - Forderungen stellen : להציב דרישות
   - politische Forderung : דרישה פוליטית
-fordern, forderte, hat gefordert [vt.] : לדרוש, לתבוע
-fördern : to foster, to promote, to encourage, to further
-e Förderung : promotion, support, funding, advancement, grant, encouragement
+e Förderung : קידום; תמיכה; עידוד; טיפוח
   - Dies ist ein Projekt zur Förderung junger Künstler.
   - Die Regierung stellte eine Förderung für das Projekt bereit.
   - ich trete einer Gesellschaft zur Förderung der Wissenschaft bei.
   - Wir sollten für das Forschungsprojekt eine Förderung beantragen.
   - staatliche Förderung : state incentives
+r Förderunterricht
+e Forelle (pl. -n) : טרוטה, פורל
 e Form (pl. -en) : צורה
+formal
+s Format
+formbar
+s Formblatt
 e Formel (pl. -n) : נוסחה; נוסח
+formelhaft
+r Formelkram
+formell
 formen [vt.] : לעצב
+formenreich
+r Former
+formieren : להרכיב, לייסד, לפתח
+sich formieren
+förmig
+förmlich
+e Förmlichkeit
+formlos
+e Formsache
+s Formular
 formulieren : לנסח; לכתוב טיוטה
 e Formulierung : ניסוח
+e Formung
+formvollendet
 forsch [adj.] : פזיז, נמהר
-forschen : לחקור
-r Forscher
+forschen [vt.] : לחקור
+r Forscher (= pl.)
+e Forschheit
 e Forschung : מחקר
 s Forschungsgebiet
 e Forschungslücke
+r Forst (pl. Forste, Forsten)
+s Forstamt
+r Förster
+e Försterei
+e Forstwirtschaft
+s Fort (pl. -s) : מבצר
+fort [adj.] : שנעלם, שאיננו עוד
+fort [adv.] : לא כאן, נעלם, איננו בנמצא
+  - fort sein
+  - und so fort : וכך הלאה
+fortab
 fortan [adv.] : מעתה ואילך,מכאן ואילך
+r Fortbestand (pl. Fortbestände)
+fórt|bestehen
+sich fórt|bilden : להתלמד, לעשות התלמדות
+e Fortbildung (pl. -en)
+r Fortbildungskurs
+fórt|bleiben
+fórt|bringen
+e Fortdauer
+fórt|entwickeln
+e Fortentwicklung (pl. -en)
 fórt|fahren, fuhr fort, fortgefahren : להמשיך
 fórt|fallen, fiel fort, ist fortgefallen [vi.] : להפסיק להתקיים, להישמט
 fórt|führen [vt.] : להמשיך
 e Fortführung : המשך
+r Fortgang : התקדמות
+  - seinen Fortgang nehmen
 fórt|gehen, ging fort, ist fortgegangen : להסתלק
 fortgeschritten [adj.] : מתקדם
 fortgeschritten [adv.] : באופן מתקדם, באופן מתוחכם
+fortgesetzt
+forthin
+fórt|kommen
+s Fortkommen
+fórt|laufen
+fortlaufend
+fórt|pflanzen
+e Fortpflanzung
 fórt|schreiten, schritt fort, ist fortgeschritten : להתקדם
 r Fortschritt (pl. -e) : התקדמות
+fortschrittlich
+fórt|setzen, setzte fort, hat fortgesetzt [vt.] : להמשיך, לחדש )את העבודה על(
+e Fortseztung
+fortwährend
 s Forum
 s Foto : תצלום, צילום
 s Fotoalbum : אלבום תמונות
@@ -12747,6 +12829,7 @@ e Unendlichkeit : אינסוף
 unentgeltlich : בחינם
 unentschieden [adj.]
 unerfreulich [adj.] : לא נעים
+unerfroschlich
 unerhört : מזעזע, שלא נשמע כמותו
 unerklärlich : שלא ניתן להסבירו
 unerlässlich [adj.] : חיוני
