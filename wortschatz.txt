@@ -428,15 +428,56 @@ Abhol- [K]
 áb|holen, holte ab, hat abgeholt [vt.] : לאסוף, לקחת
 e Abholung : איסוף
 r Abholmarkt
+r Abholpreis
+áb|holzen, holzte ab, hat abgeholzt [vt.]
+e Abholzung
+áb|horchen
+Abhör-, abhör [K]
+e Abhöraktion
+áb|hören [vt.] : להאזין
+s Abhörgerät : מכשיר האזנה
+abhörsicher
+áb|hungern
 s Abi [kurz für Abitur] : תעודת בגרות
-s Abitur : תעודת בגרות
+s Abitur (pl. -e) : תעודת בגרות
+Abitur- [K]
 Abiturergebnisse (pl.) : תוצאות תעודת הבגרות
+e Abiturklasse
+e Abiturnote
+e Abiturprüfung
+s Abiturzeugnis
 r Abiturient (pl. -en) : בוגר בית ספר, בעל תעודת בגרות
 e Abiturientin (pl. -nen) : בוגרת בית ספר, בעלת תעודת בגרות
 s Abiturzeugnis (pl. -se) : תעודת בגרות
+áb|jagen [vt.]
+áb|kanzeln, kanzelte ab, hat abgekanzelt [vt.]
+sich áb|kapseln, kapselte sich ab, hat sich abgekapselt
+áb|kassieren
+áb|kauen [vt.]
+áb|kaufen [vt.]
+e Abkehr
 áb|kehren [vt.]
+áb|kehren [vi.]
 sich áb|kehren : להתחמק; לחמוק
-s Abkommen : הסכם, עסקה, דיל
+áb|klappern [vt.]
+áb|klären [vt.]
+r Abklatsch
+áb|klemmen [vt.]
+áb|klingen [vi.]
+áb|klopfen [vt.]
+áb|knabbern [vt.]
+áb|knallen [vt.]
+áb|knicken [vt.]
+áb|knipsen [vt.]
+áb|knöpfen [vt.]
+áb|knutschen
+áb|kochen [vt.]
+áb|kommandieren, kommandierte ab, hat abkommandiert [vt.]
+áb|kommen [vi.]
+s Abkommen (= pl.) : הסכם, עסקה, דיל
+r Abkömmling (pl. -e) : נגזרת; צאצא
+áb|können [vt.]
+áb|koppeln [vt.]
 áb|kriegen, kriegte ab, hat abgekriegt [vt.] : להשיג
 r Ablass (pl. Ablässe) : פליטה; אינדולגנציה
 áb|legen : לקחת; להניח; לעשות
@@ -8465,9 +8506,11 @@ e Hand (pl. Hände) : יד, כף יד
   - "Nu aber / das er nicht ausstrecke seine hand / vnd breche auch von dem Bawm des Lebens / vnd esse und lebe ewiglich" [Lutherbibel, Gen 3:22] = וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם [בראשית ג כב]
 e Handcreme : קרם ידיים
 r Handel : מסחר
-r Handgriff (pl. -e) : ידית
 handeln, handelte, hat gehandelt : לפעול, לעשות מעשה; לסחור
   - "Du hast mit mir gehandelt / nicht wie man handeln sol" [Lutherbibel, Gen 20:9] = מַעֲשִׂים אֲשֶׁר לֹא־יֵעָשׂוּ עָשִׂיתָ עִמָּדִי
+Handels- [K]
+s Handelsabkommen
+r Handgriff (pl. -e) : ידית
 r Händler (= pl.) : סוחר; מפיץ
 e Händlerin (pl. -nen) : סוחרת; מפיצה
 e Handlung (pl. -en) : מעשה; פעולה
@@ -9602,6 +9645,8 @@ kühl [adj.] : קריר, רגוע
   - mit kühlem Kopf agieren : לפעול בקור רוח
 e Kulinarik
 e Kultur (pl. -en) : תרבות
+Kultur- [K] : תרבותי
+s Kulturabkommen : הסכמה תרבותי
 e Kulturleistung (pl. -en) : הישג תרבותי
 e Kultursprache (pl. -n) : לשון תרבות
 sich kümmern
