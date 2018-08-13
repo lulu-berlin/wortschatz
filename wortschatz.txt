@@ -333,19 +333,55 @@ abgehalftert [adj.]
 abgehangen [adj.]
 abgehärmt [adj.]
 áb|gehen, ging ab, ist abgegangen [vi.] : לעזוב )את בית ספר(
+abgekämpft [adj.]
+abgekartet [adj.]
+abgeklärt [adj.]
 abgelegen [adj.] : מרוחק
+e Abgelegenheit
+áb|gelten [vt.]
+e Abgeltung
+abgemacht [adj.]
+abgemeldet [adj.]
 abgeneigt [adj.] : מסויג, שאינו רוצה, שאינו מתלהב מ־, שאינו מעוניין
 abgenutzt [adj.] : משומש, בלוי
 r Abgeordnete (pl. -n) : נציג, ציר, חבר פרלמנט
 e Abgeordnete (pl. -n) : נציגה, חברת פרלמנט
+-Abgeordnete [K]
+s Abgeordnetenhaus
 abgerichtet [adj.] : מאומן
-abgesehen von [präp.] : פרט ל־, מלבד־
+abgerissen [adj.]
+e Abgerissenheit
+r Abgesandte
+e Abgesandte
+abgeschieden [adj.]
+e Abgeschiedenheit
+abgeschlafft [adj.]
+abgeschlagen [adj.]
+abgeschlossen
+abgeschmackt
+e Abgeschmacktheit
+abgesehen
+  - abgesehen von [präp.] : פרט ל־, מלבד־
+abgespannt [adj.]
+e Abgespanntheit
+abgespielt [adj.]
 abgestanden [adj.] : מעופש
+abgetakelt [adj.] [gespr.] [pej.]
+áb|gewinnen [vt.]
+áb|gewöhnen [vt.]
 sich áb|gewöhnen, gewöhnte sich ab, hat sich abgewöhnt : לשבור הרגל )מגונה(, להפסיק )התמכרות(
   - sich[Dat.] [Akk.] abgewöhnen : לשבור )הרגל מגונה(, להפסיק )התמכרות(
 s Abgewöhnen
   - zum Abgewöhnen sein [ugs.] : להיות דוחה, לעורר סלידה, להיות טרן־אוף
 e Abgewöhnung : תיקון
+abgezehrt [adj.]
+áb|gießen [vt.]
+r Abglanz
+áb|gleiten, glitt ab, ist abgeglitten [vi.]
+r Abgott : אליל
+abgöttisch [adj.]
+áb|graben [vt.]
+áb|grasen
 áb|greifen, griff ab, hat abgegriffen [vt.] : לדפדף; לעשות שימוש ב־
 áb|grenzen, grenzte ab, hat abgegrenzt : להגביל, לסמן את הגבול
 sich áb|grenzen, grenzte sich ab, hat sich abgegrenzt
@@ -3773,6 +3809,9 @@ e Bundesregierung
 e Bundesrepublik
 e Bundesstraße
 r Bundestag
+Budestags- [K]
+r Bundestagsabgeordnete
+e Bundestagsabgeordnete
 e Bundeswehr
 e Bundhose
 bündig
@@ -9005,6 +9044,9 @@ kämmen, kämmte hat gekämmt [vt.] : לסרק, לסרוק
   - sich kämmen : להסתרק
   - sich die Haare kämmen : להסתרק, לסרק לעצמו את השיער
 e Kammer (pl. -n) : חדר, לשכה
+Kammer- [K]
+r Kammerabgeordnete
+e Kammerabgeordnete
 e Kammertür : דלת החדר, דלת הלשכה
 e Kampagne
 r Kampf (pl. Kämpfe) : מאבק; קרב; התמודדות
@@ -9483,6 +9525,9 @@ landesverräterisch [adj.]
 e Lanschaft (pl. -en) : נוף; כפר, האזור הכפרי
 e Landstraße (pl. -n) : כביש )בין כפרים(, אוטוסטראדה
 r Landtag : מועצה/פרלמנט של מדינה פדרלית
+Landtags- [K]
+r Landtagsabgeordnete
+e Landtagsabgeordnete
 e Landwirtschaft : חלקאות
 lang [adj.] : ארוך
   - seit langem : מזמן
@@ -10539,6 +10584,9 @@ r Park (pl. -s) : פארק
 parken, parkte, hat geparkt [vt.] : לחנות
 r Parkplatz (pl. Parkplätz) : חניון
 s Parlament : פרלמנט
+Parlaments- [K]
+r Parlamentsabgeordnete
+e Parlamentsabgeordnete
 Paroli
   - [Dat.] Paroli bieten : להתייצב כנגד, לקרוא תיגר על
 e Partei : מפלגה
@@ -13688,6 +13736,9 @@ s Vitamin (pl. -e) : ויטמין
 vögeln
 s Volk (pl. Völker) : עם
 e Völkerverbrüderung : אחוות עמים
+Volks- [K]
+r Volksabgeordnete
+e Volksabgeordnete
 e Volkspolizei
 voll [adj.] : מלא
   - gestrichen voll [adj.] : מלא לגמרי; מלא עד אפס מקום
