@@ -4437,6 +4437,11 @@ r Dietrich : פורץ מנעולים
 e Differenz (pl. -en) : הבדל; הפרש; פער
 differenzieren
 differieren
+digital [adj.]
+digital [adv.]
+digitalisieren
+s Digitalisieren
+e Digitalisierung
 s Diktat (pl. -e)
 r Diktator : דיקטטור
 e Diktatur : דיקטטורה
@@ -6890,6 +6895,7 @@ e Feldarbeit
 feldaus
 e Feldblume
 feldein
+e Feldflur
 r Feldherr
 r Feldzug : מערכה; מסע )פרסום; הסברה; בחירות(; קמפיין
   - einen Feldzug gegen + [Akk.] führen : לצאת למערכה נגד־; לצאת למסע צלב נגד
@@ -7281,37 +7287,76 @@ flößen
 r Flößer
 e Floßfahrt
 e Flöte : חליל
+flöten : לחלל, לנגן בחליל
+flöten|gehen [ugs.] : לרדת לטמיון
+s Flötenspiel
+r Flötist
 flott [adj.]
 e Flotte : צי
-s Flöz
+r Flottenstützpunkt
+s Flöz (pl. -e) : תפר
 r Fluch : קללה
+fluchbeladen [adj.] : מקולל
 fluchen, fluchte, hat geflucht [vi.] : לקלל
 fluchen : לקלל
 e Flucht : מנוסה, בריחה
+fluchtartig
 fluchten [vt.] : ליישר
-r Fluchthelfer
+flüchten : לברוח
+r Fluchthelfer (= pl.)
+flüchtig
+e Flüchtigkeit
+r Flüchtigkeitshelfer
 r Flüchtling (pl. -e) : פליט
 s Flüchtlingslager (= pl.) : מחנה פליטים
 e Flüchtlingspolitik
 r Fluchtpunkt : נקודת מגוז
 r Fluchtversuch (pl. -en) : נסיון בריחה
 r Fluchtweg (pl. -e) : דרך מילוט
+r Flug (pl. Flüge)
+e Flugbahn
+flugbereit
 s Flugblatt (pl. Flugblätter) : flyer, leaflet, pamphlet
+r Flügel
+r Flügelaltar
+flügellahm
+flügge [adj.] : בשל, עצמאי
+  - flügge werden
 r Flughafen (pl. Flughäfen) : נמל תעופה, שדה תעופה
+flugs [adv.] : במהירות; בבת אחת
 s Flugzeug (pl. -e) : מטוס
+e Flunder (pl. -n) : סנדל, דג הסנדל
+e Flunkerei
+flunkern
 r Flur (pl. -e) : מסדרון
+e Flur (pl. -en) : אחו, מרעה
+e Flurbereinigung
+r Flurhüter
+r Flurschaden
 r Fluss (pl. Flüsse) : נהר; זרם, זרימה
   - in Fluss bringen : להביא לזרימה, לגרום למשהו לזרום
+flussab
+flussabwärts
+flussauf
+flussaufwärts
 flussaufwärts : במעלה הנהר
+s Flussbett
+flüssig [adj.] : נוזלי
+e Flüssigkeit (pl. -en) : נוזל
+s Flussufer
 flüstern [vt./vi.] : ללחוש
   - [Akk.] flüstern : ללחוש משהו
 s Flüstern : לחישה
-e Flut (pl. -en) : מבול; הצפה
-  - Ebbe und Flut
+e Flüsterpropaganda
+e Flüsterstimme
+e Flut (pl. -en) : מבול; הצפה; גאות
+  - Ebbe und Flut : גאות ושפל
   - Es ist Flut.
 fluten
 s Fluten
+s Flutlicht
 e Flutrinne (pl. -n)
+e Flutwelle
 r Föderalismus : פדרליזם
 r Föderalist : פדרליסט
 e Folge (pl. -n) : תוצאה; השלכה; פרק )של סדרה(
@@ -7487,6 +7532,7 @@ fürchten [vt.] : לחשוש מפני; לפחד מפני
 sich fürchten : לפחד
 r Fürsprecher (= pl.) : חסיד, תומך, מצדד
 e Fürsprecherin (pl. -nen) : חסידה, תומכת, מצדדת
+s Furunkel (= pl.) : פורונקל, נפיחות עורית מוגלתית
 s Fürwort : כינוי גוף
 r Furz (pl. -e) [ugs.] : פלוץ
 furzen [ugs.] : להפליץ
@@ -7776,7 +7822,7 @@ geringwertig [adj.] : נחות; בעל ערך מועט
 e Geringwertigkeit
 gern [adv.] : בשמחה
   - etwas gern tun : לרצות לעשות משהו
-r Geruch : ריח
+r Geruch (pl. Gerüche) : ריח
 gesamt [adj.] : כולל
 gesamt [adv.] : באופן כללי
 s Geschäft (pl. -e) : עסק
@@ -7921,7 +7967,9 @@ glucken, gluckte, hat gegluckt : לקרקר
   - Die Henne gluckt. : התרנגולת מקרקרת
 glücken : להצליח, להיות מוצלח
   - Es wollte einfach nicht glücken.
-glücklich [adj.]
+glücklich [adj.] : מאושר
+  - j-n glücklich machen : לעשות את פ' מאושר
+glücklich [adv.] : באושר
 r Glücksmacher
 r Glückwunsch (pl. Glückwünsche) : ברכות; איחולים
   - Herzlichen Glückwunsch!
@@ -8164,6 +8212,7 @@ s Haus (pl Häuser) : בית
   - nach Hause : הביתה
 s Häuschen (= pl.) : בית קטן
 e Häuserschlucht (pl. -e) : street canyon
+r Hausflur : מסדרון; מבוא )הבית(
 r Hausfrieden : שלום בית
 e Haut : עור
 r Hebel (= pl.) : מנוף
@@ -11609,12 +11658,16 @@ e Sekunde : שנייה
 selbig : אותו )אחד(
 selbst [adv.] : בעצמו
 Selbst- [K] : ־עצמי
+e Selbstachtung : ערך עצמי
 e Selbstbedienung : שירות עצמי
 e Selbstbefriedigung : סיפוק עצמי; אוננות
 e Selbstdarstellung : self-portrayal, self-representation
 selbstständig [adj.] : עצמאי
-r Selbstwert
+selbstverständlich [adj.]
+selbstverständlich [adv.]
+r Selbstwert : ערך עצמי
 selbstwertdienlich
+s Selbstwertgefühl : ערך עצמי, תחושת ערך עצמי
 e Selektion : בחירה; ברירה
   - die natürliche Selektion : הברירה הטבעית
 selten [adj.] : נדיר
@@ -12507,6 +12560,7 @@ e Übereinkunft : agreement, accord
 r Überfall : פשיטה, התקפה, שוד
 überfallen [vt.] : לתקוף, להתקיף
 überfällig [adj.]
+überfluten
 e Überflutung : הצפה
 überführen [vt.] : להעביר; להרשיע
   - [Akk.] in + [Akk.] überführen : להפוך משהו למשהו
