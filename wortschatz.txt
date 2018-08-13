@@ -394,21 +394,40 @@ r Abguss
 áb|hacken [vt.]
 áb|haken, hakte ab, hat abgehakt [vt.]
   - [Akk.] abhaken : לסמן )פריט ברשימה שהושלם(, להשלים משימה ולשכוח ממנה
+áb|halten [vt.]
+e Abhaltung
+áb|handeln [vt.]
 abhanden|kommen, kam abhanden, ist abhandengekommen : ללכת לאיבוד, להיעלם
   - j-m abhandenkommen : ללכת למישהו לאיבוד
   - "Im Lauf des vergangenen Winters sind mir einige Tagen abhanden gekommen." [Die Wand]
+e Abhandlung
 r Abhang : שיפוע, מדרון
+-Abhang [K]
 áb|hängen, hing ab, hat abgehangen : להיות תלוי ב־; להסתובב )עם(
-  - von + [Dat.] abhängen : להיות תלוי ב‏־
+  - von + [Dat.] abhängen : להיות תלוי ב־
   - j-n abhängen : להשאיר מאחור
 abhängig [adj.] : תלוי
   - von + [Dat.] abhängig sein : להיות תלוי ב־
+  - abhängig von + [Dat.] sein
+-abhängig [K]
 e Abhängigkeit : תלות
+áb|härten
+e Abhärtung
 áb|hauen, haute ab, ist abgehauen [vi.] [ugs.] : להסתלק; לעוף מפה; לברוח
   - Hau ab! : הסתלק!
+áb|häuten
 áb|heben : להוציא )כסף(
+áb|heften
+áb|heilen
+áb|helfen
+sich áb|hetzen
+e Abhilfe
+áb|hobeln
+abhold [adj.]
+Abhol- [K]
 áb|holen, holte ab, hat abgeholt [vt.] : לאסוף, לקחת
 e Abholung : איסוף
+r Abholmarkt
 s Abi [kurz für Abitur] : תעודת בגרות
 s Abitur : תעודת בגרות
 Abiturergebnisse (pl.) : תוצאות תעודת הבגרות
@@ -764,6 +783,8 @@ r Alias : כינוי
 alias [präp.] : הידוע בכינויו
 s Alibi (pl. -s): אליבי
 r Alkohol : אלכוהול
+Alkohol-, alkohol- [K]
+alkoholabhängig [adj.] : מכור לאלכוהול
 alkoholfrei [adj.] : ללא אלכוהול
 r Alkoholiker (= pl.) : אלכוהוליסט
 e Alkoholikerin (pl. -nen) : אלכוהוליסטית
@@ -840,6 +861,8 @@ e Alte : זקנה
 s Alter (= pl.) : גיל; תקופה
 alternativ [adj.] : אלטרנטיבי, חלופי
 e Alternative : אלטרנטיבה, חלופה
+Alters-, alters- [K]
+altersabhängig [adj.]
 e Alterserscheinung
 e Altersgrenze : הגבלת גיל
 althergebracht : מסורתי
@@ -2723,6 +2746,7 @@ r Berg (pl. -e) : הר
   - am Fuß des Berges
   - unter einem Berg von Arbeit begraben sein : להיות קבור תחת הררי עבודה
 bergab [adv.] : במורד ההר
+r Bergabhang : צלע ההר
 r Bergadler
 bergan [adv.] : במעלה ההר
 bergauf [adv.] : במעלה ההר
@@ -8150,6 +8174,8 @@ gesund [adj.] : בריא
 e Gesundheit : בריאות
 Gesundheit [interj.] : לבריאות!
 gesundheitlich [adv.] : מבחינה בריאותית
+s Getränk (pl. -e)
+r Getränkeabholmarkt
 s Getreide (= pl.) : דגן
 s Getriebe : גלגל שיניים
 getrieben : driven, pushed
@@ -8576,6 +8602,8 @@ r Herd : תנור
 hér|geben (gibt her), gab her, hat hergegeben [vt.] : לתת; להעביר אל
 hér|kommen, kam her, hergekommen : לבוא הנה
   - Komm mal her! : בוא הנה!
+s Heroin
+heroinabhängig [adj.] : מכור להרואין
 r Herr (gen. -n, pl. -en) : אדון
 e Herrschaft : שליטה, שלטון
 hér|stellen, stellte her, hat hergestellt [vt.] : לייצר
@@ -9782,6 +9810,8 @@ e Leistung (pl. -en) : ביצועים; תשלום; שירות; תועלת; כו�
   - große Leitsung : הישג משמעותי
   - Leistungen erbringen : לספק שירותים
   - einen Beweis erbringen : לספק הוכחה
+Leistungs-, leistungs- [K]
+leistungsabhängig
 Leistungsfähig [adj.]
 e Leistungsgruppe
 leiten, lietete, hat geleitet [vt.] : להדריך
@@ -10258,6 +10288,8 @@ mít|tragen, trug mit, hat mitgetragen [vt.] : לתמוך ב־, להצטרף ל�
 mitunter : לפעמים, מדי פעם, מפעם לפעם
 mít|wirken, wirkte mit, hat mitgewirkt : לתרום, להרים תרומה; לעזור, לסייע; לקחת חלק ב
   - (an + [Dat.]) mitwirken : לתרום ל, להרים תרומה ל; לעזור, לסייע; לקחת חלק ב
+s Möbel (= pl.) : רהיט
+r Möbelabholmarkt
 mobilisieren [vt.] : לגייס
 e Mobilmachung : גיוס
 möchte-gern [adj.] : וואנאבי
@@ -11055,6 +11087,8 @@ e Predigt (pl. -e) : דרשה
 r Preis : מחיר
   - um jeden Preis : בכל מחיר
   - seinen Preis haben : יש לו מחיר
+Preis-, preis- [K]
+preisabhängig [adj.]
 r Preisträger (= pl.) : חתן הפרס
 e Preisträgerin (pl. -nen) : כלת הפרס
 e Prellung : חבּורה, חבלה, מכה, חבטה
@@ -12616,6 +12650,9 @@ e Sympathie : סימפתיה
 e Synagoge (pl. -n) : בית כנסת
 
 = T =
+e Tablette (pl. -n)
+tabletten- [K]
+tablettenabhängig [adj.] : מכור לכדורים
 r Tadel
 tadellos [adj.]
 r Tag (pl. -e) : יום
@@ -14444,6 +14481,8 @@ e Wette (pl. -n) : התערבות
   - Die Wette gilt. : ההתערבות עומדת בעינה.
 wetten : להתערב
 s Wetter : מזג אוויר
+Wetter-, wetter- [K]
+wetterabhängig [adj.]
 r Wetterfrosch (pl. Wetterfrösche)
 e Wettervorhersage : תחזית מזג האוויר
 wettern : לגנות, לנגח
