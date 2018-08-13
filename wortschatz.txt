@@ -282,14 +282,32 @@ e Abfuhr : הסרה; דחייה
 áb|führen [vi.] : לשלשל
 s Abführen
 s Abführmittel : חומר משלשל
+Abfüll- [K]
+s Abfülldatum
 áb|füllen [vt.] : למלא )נוזל בכלי קטן(
+e Abfüllmaschine
 e Abgabe : מסירה; מכירה; הכרזה על גזר דין
+Abgabe- [K]
+-Abgabe [K]
 abgabenfrei [adj.] : פטור ממס
 abgabenpflichtig [adj.] : מחוייב במס
 abgabepflichtig [adj.] : מחוייב במס
+r Abgabepreis (pl. -e)
+r Abgabetermin
 r Abgang : יציאה, עזיבה
+r Abgänger (= pl.)
+e Abgängerin (pl. -nen)
 abgängig [adj.] : אבוד, שהלך לאיבוד
+Abgangs- [K]
+s Abgangszeugnis
 s Abgas : גז פליטה
+Abgas-, abgas- [K]
+abgasarm [adj.]
+r Abgaskatalysator
+abgasreduziert [adj.]
+r Abgastest
+e Abgasturbine
+e Abgasuntersuchung
 abgasarm [adj.] : שאינו פולט הרבה גז
 áb|gaunern, gaunerte ab, hat abgegaunert [vt.]
   - j-m [Akk.] abgaunern : להשיג משהו ממישהו במרמה, בתחבולה
@@ -299,18 +317,28 @@ e Abgabe (pl. -n) : שחרור, העברה, מס
 sich áb|geben (gibt sich ab), gab sich ab, hat sich abgegeben
   - sich[Akk.] mit + [Dat.] abgeben : להתעסק ב־, להיות מעורב ב־
 abgebrannt [adj.] : שרוף; מרושש
+abgebrüht
+e Abgebrühtheit
 abgedichtet [adj.] : חתום
+abgedroschen [adj.] [gespr.] [pej.] : נדוש, שחוק
+e Abgesroschenheit
 abgefahren [adj.] [ugs.] : מגניב, אדיר
-áb|gehen, ging ab, ist abgegangen [vi.] : לעזוב )את בית ספר(
+abgefeimt [adj.]
 abgegriffen [adj.] : בלוי
-abgerichtet [adj.] : מאומן
-abgedroschen [adj.] [gespr.] : נדוש, שחוק
-abgefuckt [adj.] [ugs.] : דפוק לגמרי
+abgefuckt /apgefakt/ [adj.] [ugs.] [vulg.] : דפוק לגמרי
+abgegrast [adj.]
+abgegriffen [adj.]
+abgehackt [adj.]
+abgehalftert [adj.]
+abgehangen [adj.]
+abgehärmt [adj.]
+áb|gehen, ging ab, ist abgegangen [vi.] : לעזוב )את בית ספר(
 abgelegen [adj.] : מרוחק
 abgeneigt [adj.] : מסויג, שאינו רוצה, שאינו מתלהב מ־, שאינו מעוניין
 abgenutzt [adj.] : משומש, בלוי
 r Abgeordnete (pl. -n) : נציג, ציר, חבר פרלמנט
 e Abgeordnete (pl. -n) : נציגה, חברת פרלמנט
+abgerichtet [adj.] : מאומן
 abgesehen von [präp.] : פרט ל־, מלבד־
 abgestanden [adj.] : מעופש
 sich áb|gewöhnen, gewöhnte sich ab, hat sich abgewöhnt : לשבור הרגל )מגונה(, להפסיק )התמכרות(
@@ -1749,6 +1777,8 @@ aús|nutzen, nutzte aus, hat ausgenutzt [vt.] : לנצל, לעשות שימוש
   - [Akk.] komplett ausnutzen : לעשות שימוש מלא ב־
 aús|probieren
 r Auspuff : אגזוז
+Auspuff- [K]
+s Auspuffabgas
 e Auspuffanlage : אגזוז
 s Auspuffgas (pl. -e)
 s Auspuffrohr
@@ -1963,6 +1993,7 @@ r Balkon
 r Ball (pl. Bälle)
   - Ball spielen
 r Ballabend
+e Ballabgabe
 e Ballade (pl. -n) : בלדה
 r Ballast (pl. -e)
 ballen
@@ -8765,6 +8796,9 @@ r Indikator : אינדיקטור
 indikativ [adj.] : אינדיקטיבי
 indirekt [adj.] : לא ישיר, בלתי ישיר
 indossieren [vt.] : לתמוך )במשהו(, לקדם, להמליץ
+e Industrie
+Industrie- [K]
+s Industrieabgas (pl. -e)
 e Informatik : מדעי המחשב; תורת המידע
 r Informatiker : מדען מחשבים
 r Informatiklehrer : מורה למדעי המחשב
@@ -11615,6 +11649,10 @@ e Schubkarre (pl. -n) : מריצה
 e Schublade (pl. -n) : מגירה
 s Schulbuch (pl. Schulbücher)
 e Schufterei : עבודת פרך
+Schul- [K]
+r Schulabgang
+s Schulabgangsalter
+s Schulabgangszeugnis
 r Schulabschluss
 e Schuld (pl. -en) : אשמה; חוב
   - Schuld für + [Akk.] : אשמה ב־
@@ -11911,6 +11949,8 @@ soweit [konj.] : ככל ש־; עד כמה ש־
 sowjetisch [adj.] : סובייטי
 sowohl ... als auch ...
 sozial [adj.] : חברתי
+Sozial- [K]
+e Sozialabgabe
 r Sozialismus : סולציאליזם
 r Sozialist : סוציאליסט
 e Sozialistin : סוציאליסטית
@@ -12139,6 +12179,8 @@ e Stiftung (pl. -en) : קרן
 r Stil (pl. -e) : סגנון
 stillen : להניק; לספק; להרוות; להשביע
 r Stillstand
+Stimm- [K]
+e Stimmabgabe
 e Stimme (pl. -n) : קול
 stimmen, stimmte, hat gestimmt : להיות נכון
   - Das stimmt meiner Meinung nach nicht : לדעתי זה לא נכון
@@ -12559,6 +12601,8 @@ e Trennung : פרידה
 treppab [adv.] : במורד המדרגות
 treppauf [adv.] : במעלה המדרגות
 e Treppe (pl. -n) : מדרגה
+Treppen- [K]
+r Treppenabgang
 s Treppenhaus : חדר מדרגות
 treten : לצעוד, לבוא, לבעוט, לדרוך; להפוך
   - auf + [Akk.] treten : לדרוך על
