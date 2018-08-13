@@ -2,6 +2,7 @@
 s A : אַ, האות הראשונה באלפבית הלטיני
 s Ä : אֶ, האות א עם אומלאוט
 à [präp.] : במחיר־
+a- [K] : א־, בלתי־
 s AA (kürz für Auswärtiges Amt) : משרד החוץ
 s Aa : קקי )בשפת הילדים(
 Aachen : אאכן )עיר בחבל הריין(
@@ -29,6 +30,7 @@ ab [präp.] : מִן
   - ab jetzt : החל מעכשיו
   - ab diesem Zeitpunkt : החל מרגע זה
   - von + [Dat.] ab : החל מ־)נקודת זמן(
+Ab-, ab- [K]
 áb|ackern : לְכַלּוֹת לַחֲרֹשׁ
 abänderlich : סוֹבֵל שִׁנּוּי
 áb|ändern, änderte ab, hat abgeändert [vt.] : לשנות משהו במעט; לְשַׁנּוֹת; להחליף
@@ -48,6 +50,7 @@ r Abbau : פירוק; קיצוץ; עבודה ב; הורדת השער; הוזלה
 abbaubar [adj.] : שניתן לפרק אותו למרכיבים
 áb|bauen, baute ab, hat abgebaut [vt.] : לכרות; לפרק למרכיבים; לצמצם מספרית או במידה; להתפרק ל־ )בכימיה(
 áb|beißen : לנשוך מִן; לנגוס
+áb|beizen [vt.]
 áb|bekommen, bekam ab, hat abbekommen [vt.] : לקבל חלק ממשהו; לספוג נזק; להסיר; לִטּוֹל )חֶלְקוֹ(
 áb|berufen, berief ab, hat abberufen [vt.] : להעביר מתפקידו; להדיח
 e Abberufung : העברה מתפקיד; הדחה
@@ -146,6 +149,7 @@ r Abdruck (pl. Abdrücke) : דפוס, הגרסה המודפסת; העתק, הע�
 áb|duschen [vt.] : לקלח, לעשות מקלחת
 áb|ebben, ebbte ab, ist abgeebt [vt.] : לפוג, לשכוך, להתמעט, להצטמצם
 sich áb|drehen : להסתובב לכיוון אחר
+-abel [K]
 r Abend (pl. -e) : ערב, נשף
   - Guten Abend! : ערב טוב!, ערב של שלום!, ערב מבורך!
   - zu Abend essen : לאכול ארוחת ערב
@@ -171,6 +175,7 @@ abendfüllend [adj.] : שממלא ערב
 s Abendgebet : מעריב, תְּפִלַּת־עַרְבִּית
 s Abendgymnasium : בית ספר ערב
 e Abendkasse : קופת כרטיסים
+s Abendkleid
 s Abendland : ארץ־המערב
 r Abendländer : מערבי
 abendländisch [adj.] : מערבי
@@ -193,11 +198,16 @@ r Aberglaube (gen. -n) : אמונה טפלה
 abergläubig [adj.] [selten] : מאמין באמונות טפלות
 abergläubisch [adj.] : מאמין באמונות טפלות
   - Gegenstand abergläubischer Verehrung : פטיש
+aberhundert [Zahlwort] : מאות
+áb|erkennen [vt.]
+  - j-m [Akk.] aberkennen
+e Aberkennung
 abermalig [adj.] [gespr.] : חוזר ונשנה
 abermals [adv.] [gespr,] : עוד פעם
 áb|ernten [vt.] : לקצור הכול, לקצור עד הסוף
-Abertausend : אלפים רבים
-Abertausende : אלפים רבים
+abertausend [Zahlwort] : אלפים רבים
+abertausende [Zahlwort] : אלפים רבים
+r Aberwitz
 aberwitzig [adj.] : מגוחך, אבסורדי
 áb|erziehen, erzog ab, hat aberzogen [vt.] : לחנך לתרבות רעה, לחנך לרעה
 áb|fahren, fuhr ab, hat abgefahren [vt.] : להסיע, להניע )מכונית( למקום אחר; לנסוע ולחפש את הדרך; לבלות )גלגלים( בנסיעה )במכונית(
@@ -650,6 +660,7 @@ akzentfrei [adv.] : בלי מבטא, חופשי ממבטא
 akzentlos [adv.] : בלי מבטא
   - akzentlos sprechen : לדבר בלי מבטא
 akzentuieren : להדגיש
+akzeptabel
 akzeptieren, akzeptierte, hat akzeptiert [vt.] : לקבל, להסכים
 r Alarm : אזעקה
 alarmieren : להזעיק
@@ -4161,7 +4172,9 @@ e Deklaration (pl. -en)
 deklarieren
 deklassieren
 e Deklassierung
+deklinabel
 e Deklination
+deklinierbar
 deklinieren
 e Deko : קישוט
 r Dekor
@@ -10735,6 +10748,7 @@ e Prägung : החתמה; טביעת מטבעות
 prahlen, prahlte, geprahlt : להתיהר, להיות יהיר, להתרברב; לעלוז
   - "Wie lange sollen di Gottlosen pralen?" [Lutherbibel, Ps 94:3] = עַד־מָתַי רְשָׁעִים יַעֲלֹזוּ [תהילים צד ג]
 e Prahlerei : רברבנות
+praktikabel
 s Praktikum : התלמדות
 prall [adj.] : שופע, מלא, בולט; בוהק
   - in der prallen Sonne : בשמש הבוהקת
@@ -11063,6 +11077,8 @@ e Rente (pl. -n) : פנסיה
 e Rentenversicherung : ביטוח פנסיה
 r Rentner (= pl.) : פנסיונר
 e Rentnerin (pl. -nen) : פנסיונרית
+reparabel
+reparierbar
 reparieren : לתקן
 r Repräsentant
 s Repräsentantenhaus : בית הנבחרים
@@ -12449,6 +12465,7 @@ s Trainiren : אימון
 e Transaktion (pl. -en)
 e Transparenz : שקיפות
 r Transport (pl. -e) : הובלה, טרנספורט
+transportabel
 transportfähig [adj.]
 s Transportgewerbe
 e Trauer : שכול; יגון; צער
@@ -12813,6 +12830,7 @@ e Unbeugsamkeit : עקשנות; חוסר גמישות
 unbezahlbar [adj.]
 unbrauchbar [adj.]
 und : וְ־
+undeklinierbar
 undicht [adj.] : דולף; לא אטום
 e Undichtigkeit : דליפה
 undurchlässig [adj.] : בלתי חדיר
