@@ -210,20 +210,36 @@ abertausende [Zahlwort] : אלפים רבים
 r Aberwitz
 aberwitzig [adj.] : מגוחך, אבסורדי
 áb|erziehen, erzog ab, hat aberzogen [vt.] : לחנך לתרבות רעה, לחנך לרעה
-áb|fahren, fuhr ab, hat abgefahren [vt.] : להסיע, להניע )מכונית( למקום אחר; לנסוע ולחפש את הדרך; לבלות )גלגלים( בנסיעה )במכונית(
+áb|fahren, fuhr ab, hat abgefahren [vt.] : להסיע, להניע )מכונית( למקום אחר; לבלות )גלגלים( בנסיעה )במכונית(
+áb|fahren, fuhr ab, hat/ist abgefahren [vt.] :לנסוע ולחפש את הדרך
 áb|fahren, fuhr ab, ist abgefahren [vi.] : לנסוע למקום אחר; להיות בתנועה
   - (voll) auf + [Akk.] abfahren [ugs.] : להתרגש מ־, להיות )ממש( בקטע של־
 e Abfahrt : יציאה )לדרך; טיסה, רכבת(; נסיעת סקי במורד ההר; מחלף
 abfahrtbereit [adj.] : מוכן ליציאה
+Abfahrts- [K]
+r Abfahrtslauf
+r Abfahrtsort
+s Abfahrtsrennen
+s Abfahrtssignal
+r Abfahrtstermin
+e Abfahrtszeit
 r Abfall (pl. Abfälle) : פסולת, אשפה; נפילה )ביכולת(; אובדן )אמונה(
+Abfall- [K]
+e Abfallbeseitigung
+r Abfalleimer
 áb|fallen, fiel ab, ist abgefallen [vi.] : לנשור; לרדת למטה )דרך, רחוב(; לצאת מזה )משהו למישהו(; לאבד אמון ב־; להיעשות גרוע יותר במשהו; ליפול מ־
   - für j-n abfallen [gespr.] : לצאת מזה משהו למישהו
   - Was fällt für mich ab? : מה יוצא לי מזה?
   - von + [Dat.] abfallen : לאבד אמון ב־
   - neben / gegenüber + [Dat.] abfallen : ליפול מ־ )בערכו, בכוחו(
   - gegen + [Akk.] abfallen : ליפול מ־ )בערכו, בכוחו(
+r Abfallhaufen
 abfällig [adj.] : מזלזל, חסר כבוד
+r Abfallkübel
 s Abfallprodukt : שארית, פסולת; תוצר לוואי; מוצר שמיוצר מפסולת
+e Abfalltonne
+e Abfallverbrennung
+e Abfallverbrennungsanlage (pl. -n)
 áb|fälschen [vt.] : להסיט, להטות )בספורט, כדי לזייף נצחון(
 áb|fangen [vt.] : ליירט
 r Abfangjäger : מטוס יירוט
