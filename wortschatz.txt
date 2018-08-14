@@ -4453,7 +4453,7 @@ r Daseinkampf : מלחמת קיום
 dass
   - so dass
 dasselbe : אותו, אותו אחד
-dá|stehen, stand da, ist/hat dagestanden [vi.] : לעמוד שם; לעמוד בחוסר מעש
+dá|stehen, stand da, hat/ist dagestanden [vi.] : לעמוד שם; לעמוד בחוסר מעש
 e Datei (pl. -en) : קובץ )במחשב(
 Daten (pl.) : מידע, נתונים
 s Datenleck : דליפת מידע
@@ -7993,7 +7993,7 @@ r Frieden : שלום
   - Frieden halten : לשמר את השלום
 friedfertig
 friedlich [adv.] : באופן רגוע; בשלווה; בשקט
-frieren, fror, ist/hat gefroren [vi.] : לקפוא
+frieren, fror, hat/ist gefroren [vi.] : לקפוא
 frisch [adj.] : טרי; רענן; צח
   - firscher Wind : אוויר צח; בריזה
 frisch [adv.] : זה עתה
@@ -10303,7 +10303,7 @@ s Los : פור; גורל
 losen : להגריל
 lösen, löste, hat gelöst [vt.] : לפתור
 s Lösen
-lós|fahren, fuhr los, ist/hat losgefahren : להתחיל לנסוע
+lós|fahren, fuhr los, hat/ist losgefahren : להתחיל לנסוע
 lós|gehen
   - nach hinten losgehen : להוביל לתוצאה לא רצויה
 lós|kommen, kam los, ist losgekommen : להשתחרר
@@ -11877,7 +11877,7 @@ rosa [adj.] : ורוד
 r Rosenkranz (pl. Rosenkränze) : מחרוזת תפילה
   - den Rosenkranz beten : להתפלל עם מחרוזת תפילה
 r Rost : חלודה
-rosten, rostete, ist/hat gerostet [vi.] : להחליד, להעלות חלודה
+rosten, rostete, hat/ist gerostet [vi.] : להחליד, להעלות חלודה
 s rosten : החלדה
 rot [adj.] : אדום
 rotblond [adj.] : בלונד־אדמדם
@@ -12894,7 +12894,6 @@ r Stopp : עצירה
 Stopp! [interj.] : עצור!; די!
 stoppen : לעצור, להפסיק
 stören, störte, hat gestört [vt.] : להפריע ל־
-e Störung : הפרעה
 stoßen : לנגוח, לדחוף
   - auf +[Akk.] stoßen : להיתקל ב־
 e Strafe : עונש
@@ -15056,7 +15055,7 @@ wörtlich [adj.] : מילולי
 wörtlich [adv.] : מילולית
 wortlos [adv.] : ללא מילים
 wortwörtlich [adj.] : מילה למילה
-wuchern, wucherte, ist/hat gewuchert : להתרבות במהירות, להתפשט, להשתרע, להתפרש
+wuchern, wucherte, hat/ist gewuchert : להתרבות במהירות, להתפשט, להשתרע, להתפרש
 e Wucht : השפעה עוצמה; חתיך
   - mit voller Wucht : בכל הכוח
   - volle Wucht : מלא עזוז
