@@ -628,30 +628,71 @@ e Abpackung
 áb|pausen [vt.]
 áb|pellen [vt.] [nordd.]
 áb|perlen [vi.]
-áb|pfeiffen [vt.] : לשרוק את שריקת הסיום
+áb|pfeiffen [vt./vi.] : לשרוק את שריקת הסיום
   - ein Spiel abpfeiffen : להכריז על סוף המשחק )לשרוק את שריקת הסיום של המשחק(
+r Abpfiff : שריקת הסיום
+sich áb|placken
+sich áb|plagen
+áb|platzen [vi.]
 áb|prallen [vi.] : לקפוץ החוצה )כדור(
 r Abprall : כדור חוזר, רִיבַּאוּנְד
+áb|pumpen [vt.]
+áb|putzen [vt.]
+sich áb|quälen : לענות את עצמו
+áb|qualifizieren, qualifizierte ab, hat abqualifiziert [vt.]
 sich áb|rackern : להיאבק; לעבוד קשה
+s Abrakadabra : אברקדברה, הוקוס פוקוס
+áb|rasieren, rasierte ab, hat abrasiert [vt.]
 áb|raten, riet ab, hat abgeraten : לייעץ נגד, לשכנע לא לעשות משהו
   - j-m von + [Dat.] abraten : לשכנע מישהו לא לעשות משהו
   - es wird abgeraten : מומלץ שלא, עדיף שלא
 s Abraten : ריפוי ידיים, שכנוע נגדי; גירוש
+áb|räumen [vt./vi.]
+áb|rauschen [vi.] [gespr.]
+áb|reagieren, reagierte ab, hat abreagiert [vt.]
+sich áb|reagieren, reagierte sich ab, hat sich abreagiert
 áb|rechnen [vt.] : ליישב את החשבון
+áb|rechnen [vi.]
+e Abrechnung
+Abrechnungs- [K]
+s Abrechnungsbuch
+Abrechnungsunterlagen (pl.)
 e Abrede : הבנה, הסכמה, הסכם
   - mündliche Abrede : הסכמה בעל פה
-  - etw. in Abrede stellen : to deny s.th., to disavow s.th.
+  - [Akk.] in Abrede stellen [geschr.] : להכחיש משהו בכל תוקף, להכחיש משהו נמרצות
+  - in Abrede gestellt [adj.] : שהוכחש בכל תוקף, שהוכחש נמרצות
   - eine Abrede treffen : להסכים באופן לא פורמאלי
+áb|reiben [vt.]
+sich áb|reiben
+e Abreibung
 e Abreise (pl. -n) : יציאה, נסיעה
 áb|reisen : לעזוב, לצאת ל)מסע, טיול, נסיעה(
 áb|reißen, riss ab, hat abgerissen : to tear s.th. off, to demolish, to tear down
 sich áb|reißen, riss ab, hat sich abgerissen
   - sich abreißen : to be torn, to tear off [vi.]
+áb|reiten [vt.]
+áb|reiten [vi.]
 sich áb|regen, regte sich ab, hat sich abgeregt
   - sich abregen : להירגע
   - Reg dich ab! : תירגע!
+áb|richten [vt.]
+e Abrichtung
+r Abrieb : שריטה, שפשוף, בלאי
+abriebfest [adj.]
+áb|riegeln, riegelte ab, hat abgerigelt [vt.]
+e Abriegelung
 áb|ringen, rang ab, hat abgerungen : to force, to wring
   - j-m abringen, etwas zu tun
+r Abriss : הריסה; סיכום
+Abriss- [K]
+Abrissarbeiten (pl.) : עבודות הריסה
+e Abrissfirma
+s Abrissgebäude
+áb|rollen [vt.]
+áb|rollen [vi.]
+sich áb|rollen
+áb|rubbeln [vt.]
+áb|rücken [vt.]
 áb|rücken
 s Abrücken
 áb|rüsten : לפרק מנשקו
@@ -3177,6 +3218,9 @@ r Betreuer : מדריך
 e Betreuerin : מדריכה
 e Betreuung : דאגה; תמיכה
 r Betrieb (pl. -e) : עסק; הרצה; מפעל
+-Betrieb [K]
+Betriebs- [K]
+e Betriebsabrechnung
 s Betriebsergebnis
 sich betrinken, betrank sich, hat sich betrunken : להשתכר
 betroffen [adj.] : מושפע; מוכה
@@ -8146,6 +8190,10 @@ geglückt [adj.] : מוצלח
 r Gegner (= pl.) : אויב
 e Gegnerin (pl. -nen) : אויבת
 gegnerisch [adj.]
+r Gehalt (pl. -e) : תוכן
+s Gehalt (pl. Gehälter) : משכורת
+Gehalts- [K]
+e Gehaltsabrechnung
 geheim [adj.] : סודי
   - geheime Informationen
 geheim [adv.] : באופן סודי
@@ -9293,6 +9341,8 @@ jäh : לפתע, פתאום
 s Jahr (pl. -e) : שנה
 jahrelang [adv.] : במשך שנים
   - [Nummer] + jahrelang : במשך כך וכך שנים
+Jahres- [K]
+e Jahresabrechnung
 jämmerlich [adj.] : אומלל
 jämmerlich [adv.] : להחריד
 jawohl
@@ -10145,6 +10195,9 @@ sick lockern : להשתחרר; להירגע
 e Lockung : פיתוי, שידול
 e Logik
 logisch [adj.] : הגיוני
+r Lohn (pl. Löhne) : משכורת
+Lohn- [K]
+e Lohnabrechnung
 sich lohnen : להשתלם, להיות משתלם
 s Lokal (pl. -e) : פאב, מסבאה; מסעדה
 lokal [adj.] : מקומי
@@ -11591,6 +11644,10 @@ reichen : להגיש; להגיע ל־; להספיק
 e Reichsacht : imperial outlawry
 reif [adj.] : בשל; בוגר; מפותח
   - Die Zeit ist reif. : בשלה העת
+e Reife : בגרות
+r Reifen (= pl.) : צמיג, טייר
+Reifen-
+r Reifenabrieb
 rein [adj.] : טהור
   - reinsten Wassers : מן הסוג הטוב ביותר
 rein [adv.] : לגמרי
