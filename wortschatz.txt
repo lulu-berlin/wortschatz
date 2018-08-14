@@ -479,9 +479,49 @@ s Abkommen (= pl.) : הסכם, עסקה, דיל
 r Abkömmling (pl. -e) : נגזרת; צאצא
 áb|können [vt.]
 áb|koppeln [vt.]
+áb|kratzen [vt.]
+áb|kratzen [vi.]
 áb|kriegen, kriegte ab, hat abgekriegt [vt.] : להשיג
 r Ablass (pl. Ablässe) : פליטה; אינדולגנציה
-áb|legen : לקחת; להניח; לעשות
+áb|kühlen [vt.]
+áb|kühlen [vi.]
+áb|kühlen [vimp.]
+e Abkunft
+áb|kuppeln [vt.]
+áb|kürzen [vt.]
+e Abkürzung (pl. -en)
+Abkürzungs- [K]
+s Abkürzungsverzeichnis : רשימת קיצורים
+áb|küssen [vt.]
+áb|laden [vt.]
+e Ablage : אחסון, אחסנה; מקום אחסון
+Ablage- [K]
+r Ablagekorb : טס אחסון ???
+áb|lagern [vt.] : להפקיד
+áb|lagern [vi.] : להתיישן
+  - [Akk.] ablagern lassen : להניח למשהו להתיישן
+sich áb|lagern : להיות מופקד
+r Ablass (pl. Ablässe) : מחילה, שחרור, פטור
+Ablass- [K]
+r Ablassbrief : מכתב מחילה
+r Ablashandel : מכירת מחילות )אינדולגנציות(
+áb|lassen [vt.]
+áb|lassen [vi.]
+  - von + [Dat.] ablassen : לחדול מ, להפסיק
+r Ablauf : תפוגה; ניקוז
+s Ablaufrohr : צינור ניקוז
+r Ablaut : אבלאוט, בבלשנות הודו־אירופית: שינוי של תנועה בעל השפעה על המשמעות
+áb|lauten [vi.]
+áb|leben [vi.] : למות, להיפטר )נפטר(
+s Ableben [geschr.] : פטירה
+áb|lecken [vt.] : ללקק )ולהסיר(; ללקק )ולנקות(
+áb|legen [vt./vi.] : להוריד )פריט לבוש(
+áb|legen [vt.] : להיבחן; להצניע )מאפיין שלילי(; לתייק
+áb|legen [vt.]
+  - einen Eid ablegen : להישבע )באופן רשמי(, לקחת שבועה
+  - ein Geständnis ablegen : להתוודות )באופן רשמי(
+áb|legen [vi.] : )על אונייה:( לצאת לדרך
+r Ableger : נצר, חוטר, ענף
 áb|lehnen : לדחות; לסרב
 áb|leiten, leitete ab, hat abgeleitet [vt.] : לגזור )לוגית, לשונית(
   - aus + [Dat.]  ableiten : לגזור משהו ממשהו
@@ -1389,6 +1429,8 @@ e Arbeiterklasse : מעמד הפועלים
 e Arbeiterschaft : כוח עבודה, כלל העובדים
 r Arbeitnehmer (= pl.) : מעסיק
 e Arbeitnehmerin (pl. -nen) : מעסיקה
+Arbeits- [K]
+r Arbeitsablauf
 s Arbeitsamt : משרד התעסוקה
 e Arbeitserlaubnis : אשרת עבודת
 arbeitsfähig [adj.] : מסוגל לעבוד
@@ -8072,7 +8114,7 @@ e Geldentwertung
 e Gelegenheit : הזדמנות; מקרה
 s Geleit (pl. -e) : ליווי
 s Gelenk : מפרק
-gelingen, gelang, ist gelungen : להצליח
+gelingen, gelang, ist gelungen [vimp.] : להצליח
   - (j-m) gelingen : להצליח )למישהו(
 geloben [vt.] : להישבע, לנדור
   - gehorsam geloben : להישבע אמונים
@@ -8538,6 +8580,8 @@ r Händler (= pl.) : סוחר; מפיץ
 e Händlerin (pl. -nen) : סוחרת; מפיצה
 e Handlung (pl. -en) : מעשה; פעולה
   - positiv bejahende Handlung : העדפה מתקנת
+Handlungs- [K]
+r Handlungsablauf
 s Handtuch (pl. Handtücher) : מגבת
   - das Handtuch werfen : לזרוק את המגבת
 s Handwerk (pl. -e) : משלח‏־יד
@@ -11193,6 +11237,8 @@ problematisch [adj.] : בעייתי
 problemlos [adj.] : קל; נטול בעיות
 problemlos [adv.] : בלי בעיות; בקלות
 e Produktion : יצור
+Produktions- [K]
+r Produktionsablauf
 r Produktionsprozess (pl. -e) : תהליך הייצור
 r Produzent : מפיק; יצרן
 e Produzentin : מפיקה; יצרנית
@@ -11438,7 +11484,7 @@ e Region
 regionsbezogen
 r Regisseur : במאי
 e Regisseurin : במאית
-regnen, regnete, hat geregnet [vi.] : לרדת )גשם(
+regnen, regnete, hat geregnet [vimp.] : לרדת )גשם(
   - es regnet
   - stark regnen : יורד גשם חזק
 regnerisch [adj.] : גשום
@@ -12768,6 +12814,8 @@ Tagelöhner : פועל־יום
 Tagelöhnerin : פועלת יום
 tagen, tagte, hat getagt : להיוועד, לקיים פגישה
   - Das Gremium tagt einmal im Monat.
+Tages- [K]
+r Tagesablauf
 r Tagesanbruch : שחר, עלות השחר
   - vor Tagesanbruch : לפני עלות השחר
   - bei Tagesanbruch : עם עלות השחר
@@ -12888,7 +12936,7 @@ e Tiefe : עומק; תהום
   - "vnd es war finster auff der Tieffe" [Lutherbibel, Gen 1:2] = וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם [בראשית א ב]
 e Tiefgarage (pl. -n) : חניון תת־קרקעי
 s Tier (pl. -e) : חיה
-tilgen + Akk. : לפדות, להחזיר חוב
+tilgen [vt.] : לפדות, להחזיר חוב
   - Ich muss meinen Kredit innerhalb von drei Jahren tilgen.
   - Es gelang ihm, seine Schulden in einem Jahr zu tilgen.
 r Tipp : טיפ
@@ -14132,6 +14180,7 @@ verwunderlich
 verwundern
 verwundert
 e Verwunderung
+s Verzeichnis : רשימה; מדריך; רגיסטר
 verzeihen, verzieh, hat verziehen [vt.] : לסלוח
   - j-m [Akk.] verzeihen : לסלוח למישהו על משהו
 e Verzeihung : סליחה
