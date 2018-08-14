@@ -521,17 +521,58 @@ s Ableben [geschr.] : פטירה
   - einen Eid ablegen : להישבע )באופן רשמי(, לקחת שבועה
   - ein Geständnis ablegen : להתוודות )באופן רשמי(
 áb|legen [vi.] : )על אונייה:( לצאת לדרך
-r Ableger : נצר, חוטר, ענף
-áb|lehnen : לדחות; לסרב
+r Ableger (= pl.) : נצר, חוטר, ענף
+áb|lehnen [vt.] : לדחות )הכרה מסוימת בשל היעדר יכולת או רצון(; לא למלא )בקשה, הבטחה(, לא לקבל )בקשה, הבטחה(; לסרב )לעשות משהו(; לא לחבב, לא למצוא חן, לבטל )את הערך של משהו(
+áb|leisten [vt.] : לבצע )כחלק מתפקידו כחייל(
+  - den Wehrdienst ableisten : לבצע את השירות הצבאי
 áb|leiten, leitete ab, hat abgeleitet [vt.] : לגזור )לוגית, לשונית(
   - aus + [Dat.]  ableiten : לגזור משהו ממשהו
 sich áb|leiten : להיות גזור )לוגית, לשונית(
   - sich von + [Dat.] ableiten : להיות גזור מ־
-áb|lesen (liest ab), las ab, hat abgelesen [vt.] : לקרוא, לקחת קריאה )של מונה גז/חשמל(
+e Ableitung : פליטה; גזירה )לשונית(, גזרון; נגזרת )לשונית(, צורה נגזרת
+Ableitungs- [K]
+s Ableitungsrohr : אגזוז, צינור פליטה
+áb|lenken [vt.] : להסיט
+áb|lenken [vt./vi.] : להסיט את תשומת הלב )של מישהו(, להסיט את השיחה; להסיח את דעתו של פ'
+  - j-n (von + [Dat.]) ablenken : להסיח את דעתו של פ' )ממשהו(
+e Ablenkung : הסחת דעת
+Ablenkungs- [K]
+s Ablenkungsmanöver : תרגיל הסחת דעת, ספין
+ablesbar [adj.]
+áb|lesen (liest ab), las ab, hat abgelesen [vt./vi.] : לקרוא, לקחת קריאה )של מונה גז/חשמל(
   - den Zähler ablesen : לקרוא את המונה )חשמל/גז(
+áb|leugnen [vt.]
+áb|lichten, lichtete ab, hat abgelichtet [vt.] : לצלם
+áb|liefern [vt.]
+  - [Akk.] (bei j-m) abliefern : למסור משהו )למישהו(, להעביר משהו )למישהו(
 e Ablieferung : משלוח
-áb|machen [vt.] : להסיר; להסכים על
+áb|locken [vt.]
+  - j-m [Akk.] ablocken : לקבל משהו ממישהו באמצעות שידול, לשדל מישהו לתת משהו
+ablösbar [adj.]
+áb|löschen [vt.] : למחוק )משהו מהלוח(; להשרות
+  - [Akk.] (mit + [Dat.]) ablöschen : להשרות משהו )במשהו(, לשקע משהו )במשהו(
+e Ablöse (pl. -n)
+áb|lösen [vt.]
+sich áb|lösen
+e Ablösesumme
+e Ablösung
+áb|luchsen /apluksən/, luchste ab, hat abgeluchst [vt.] : להשיג משהו במרמה
+  - (j-m) [Akk.] abluchsen : להשיג משהו )ממישהו( במרמה
+e ABM [Abk. für Arbeitsbeschaffungsmaßnahme]
+áb|machen [vt.] : להסיר; להסכים על; לברר )בעיה, אי הסכמה(, להגיע לידי בירור; למצוא לבד פתרון
+  - [Akk.] (von + [Dat.]) abmachen [gespr.] : להסיר משהו )ממשהו(
+  - [Akk.] (mit j-m) abmachen : להסכים )עם מישהו( על משהו, להגיע )עם מישהו( להסכמה על משהו
+  - [Akk.] (unter sich) abmachen : לברר )בעיה, אי הסכמה(, להגיע לידי בירור, להגיע להבנה
+  - [Akk.] mit sich selbst abmachen : למצוא לבד פתרון ל, להגיע לבד לפתרון בעניין
 e Abmachung : הסכם
+áb|magern, magerte ab, ist abgemagert [vi.] : לרזות, להיעשות רזה
+e Abmagerung : הרזיה
+e Abmahnung : אזהרה )מכתב אזהרה(
+áb|malen [vt.] : לרשום )להעתיק בציור(
+r Abmarsch
+abmarschbereit [adj.]
+áb|marschieren, marschierte ab, ist marschiert [vi.] : לעזוב מקום בצעדה, לצאת בצעדה
+áb|marschieren, marschierte ab, hat/ist marschiert [vt.] : לצעוד לאורך קטע מסוים
 áb|melden, meldete ab, hat abgemeldet [vt.] : לבטל); לעשות צ'ק־אאוט
 sich áb|melden, meldete sich ab, hat sich abgemeldet : להתנתק מהמערכת, לעשות לוג־אאוט; לבטל מינוי, לעשות אנסבסקרייב
 e Abmeldung (pl. -en) : ביטוי מינוי; צ'ק־אאוט
