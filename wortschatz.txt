@@ -576,24 +576,58 @@ abmarschbereit [adj.]
 áb|melden, meldete ab, hat abgemeldet [vt.] : לבטל); לעשות צ'ק־אאוט
 sich áb|melden, meldete sich ab, hat sich abgemeldet : להתנתק מהמערכת, לעשות לוג־אאוט; לבטל מינוי, לעשות אנסבסקרייב
 e Abmeldung (pl. -en) : ביטוי מינוי; צ'ק־אאוט
+áb|messen [vt.]
+e Abmessung
+áb|mildern [vt.]
+e Abmilderung
+e ABM-Kraft
+áb|montieren, montierte ab, hat abmontiert [vt.]
+e ABM-Stelle
+sich áb|mühen
+  - sich (mit + [Dat.]) abmühen
 áb|murksen, murkste ab, hat abgemurkst [vt.] [ugs.] : לחסל, לרצוח
+áb|nabeln, nabelte ab, hat abgenabelt [vt.] : לחתוך את חבל הטבור
+sich áb|nabeln
+  - sich (von j-m) abnabeln : להתנתק מ־, להתנתק מחבל הטבור של
+áb|nagen [vt.]
+r Abnäher (= pl.)
 e Abnahme : הפחתה, ירידה, פיחות; אישור
 áb|nehmen (nimmt ab), nahm ab, hat abgenommen [vt.] : להוריד, להסיר; להפחית
 áb|nehmen (nimmt ab), nahm ab, hat abgenommen [vi.] : לרדת במשקל
+r Abnehmer (= pl.)
 e Abneigung : היעדר רצון, אי־רצון
+  - Abneigung (gegen + [Akk.]) : היעדר רצון )בעניין־(, אי־רצון )בעניין־(
+áb|nibbeln, nibbelte ab, ist abgenibbelt [vi.] [nordd.] [ugs.] : למות
 abnorm [adj.] : חריג, סוטה, לא תקין, אנורמלי
+abnormal [adj.]
+áb|nötigen [vt.]
+  - j-m [Akk.] abnötigen : לסחוט מישהו לעשות משהו, להכריח מישהו לעשות משהו בניגוד לרצונו
+sich áb|nötigen
+  - sich[Dat.] [Akk.] abnötigen
 áb|nutzen, nutzte ab, hat abgenutzt [vt.] : לבַלּות משהו
 sich áb|nutzen, nutzt sich ab, hat sich abgenutzt : לְהִתְבַּלּוֹת
 áb|nützen, nützte ab, hat abgenützt [vt.] : לבַלּות משהו
 e Abnutzung : בלאי
+e Abnützung : בלאי
 r Abnutzungseffekt : שחיקה
 s Abonnement : מינוי
-r Abonnent : מנוי
+  - Abonnement (für + [Akk.]) : מינוי )ל־(
+r Abonnent (gen. -en, pl. -en) : מנוי
+e Abonnentin (pl. -nen) : מנויה
 abonnieren, abonnierte, hat abonniert [vt.] : לעשות מינוי, לחתום על
+abonniert [adj.] : מנוי
+  - auf + [Akk.] abonniert sein [gespr.] : להימצא שוב ושוב בסיטואציה מסוימת )~פעם שלישית גלידה(
 áb|ordnen, ordnete ab, hat abgeordnet [vt.] : to delegate s.o.
   - j-n als Delegierten abordnen
   - j-n abordnen, etw. zu tun
-r Abort : שירותים, בית שימוש
+e Abordnung
+r Abort : שירותים, בית שימוש; הפלה )טבעית(
+áb|packen [vt.]
+e Abpackung
+áb|passen [vt.]
+áb|pausen [vt.]
+áb|pellen [vt.] [nordd.]
+áb|perlen [vi.]
 áb|pfeiffen [vt.] : לשרוק את שריקת הסיום
   - ein Spiel abpfeiffen : להכריז על סוף המשחק )לשרוק את שריקת הסיום של המשחק(
 áb|prallen [vi.] : לקפוץ החוצה )כדור(
@@ -7179,6 +7213,7 @@ r Fehler (= pl.) : שגיאה
   - Fehler machen : לעשות שגיאות
 e Fehlerkartei
 e Fehlerquelle
+e Fehlgeburt : הפלה )טבעית(
 féhl|greifen
 r Fehlgriff
 féhl|leiten
@@ -8326,8 +8361,8 @@ s Getriebe : גלגל שיניים
 getrieben : driven, pushed
 s Gewächs : צמח
 s Gewächshaus : חממה
-gewähren : to concede, to confer, to impart
-  j-m etw. gewähren : to grant s.th. to s.o., to award
+gewähren
+  - j-m [Akk.] gewähren : להעניק משהו למישהו
 gewährleísten : להבטיח; לוודא; לתת אחריות; לבטח
 e Gewährleistung : אחריות; ביטוח
 e Gewalt (pl. -en) : אלימות
@@ -8338,6 +8373,8 @@ s Gewerbe : אומנות, משלח יד
 Gewerkschaft (pl. -en) : איגוד עובדים
 s Gewicht : משקל
 gewichtig [adj.] : כבד, כבד משקל; חשוב, משמעותי
+Gewichts- [K]
+e Gewichtsabnahme : ירידה במשקל
 r Gewinn : רווח
 gewinnen, gewann, hat gewonnen [vi.] : לנצח
 gewinnen, gewann, hat gewonnen [vt.] : להרוויח, להשיג
@@ -11519,6 +11556,8 @@ r Regenschirm : מטריה
 e Regie : בימוי; הפקה
 regieren, regierte, hat regiert [vt.] : לשלוט על
 e Regierung (pl. -en) : ממשלה
+Regierungs- [K]
+e Regierungsabordnung
 r Regierungsbezirk
 s Regime (pl. -s) : שלטון
 e Region
