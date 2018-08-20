@@ -4670,6 +4670,11 @@ desertieren : לערוק
 desgleichen [adv.] : בדומה, בדומה לכך
 deshalb [adv.] : לכן
 s Design (pl. -s) : עיצוב
+e Desillusion
+desillusionieren
+desillusionierend
+desillusioniert
+e Desillusionierung (pl. -en)
 e Desinfektion (pl. -en)
 s Desinfektionsmittel
 desinfezieren
