@@ -913,6 +913,8 @@ ach [interj.] : אח!
   - ach ja
   - ach nein
 r Achat : ברקת, אכטיס
+r Achromat
+achromatisch [adj.] : אכרומטי
 s Achselzucken : משיכת כתף
 e Acht : תשומת לב
   - sich vor + [Dat.] in Acht nehmen : להיזהר מפני, להישמר מפני
@@ -1075,6 +1077,8 @@ allabendlich [adv.] : מדי ערב בערב; בערב־בערב
 alle [pron./m.b.] : כל ה־, כולם
 alledem : כל זה
 e Allee (pl. -n) : שדרה
+e Allegorie
+allegorisch [adj.] : אלגורי
 s Allegro : אלגרו
 allein [adj.] : יחיד, בודד
 allein [adv.] : לבד, בעצמו
@@ -1383,7 +1387,7 @@ r Anhang (pl. Anhänge) : נספח;  צרופה, מסמך או קובץ המצו
 r Anhänger (= pl.) : קרון נגרר; תומך, חסיד, מעריץ
 anhänglich [adj.] : מביע חיבה, רוחש חיבה
 s Anhängsel : נספח, תוספת; אביזר
-anheimelnd
+anheimelnd [adj.]
 án|heizen [vt.] : לחמם
 án|himmeln, himmelte an, angehimmelt : להעריץ
 e Anhöhe (pl. -n) : גבעה
@@ -5272,6 +5276,7 @@ r Dreifuß
 dreijährig [adj.]
 r Dreikäsehoch
 dreimal
+dreisilbig [adj.]
 dreißig : שלושים
 dreißigst [adj.] : השלושים
 dreist [adj.] : חצוף, חסר בושה, נמהר
@@ -5437,6 +5442,10 @@ durch [adv.]
   - mit dem Thema durch sein
 durch [präp.] : דרך־
   - durch + [Akk.] [präp.] : דרך־
+dúrch|dringen, drang durch, hat durchgedrungen [vt.] : לחדור, לנקוב, לנקב
+durchdringlich [adj.]
+e Durchdringlichkeit
+e Durchdringung (pl. -en)
 durchaus [adv.] : למדי; ללא ספק; בהחלט; בלי בעיה; ללא קושי; על כל פנים
   - durchaus gehen : להתאפשר ללא קושי
 r Durchblick
@@ -6558,8 +6567,9 @@ e Entwicklungshilfe
 entwicklungsfähig [adj.]
 entwöhnen
 e Entwöhnung
-entziehen
+entziehen, entzog, hat entzogen [vt.]
 e Entziehung
+Entziehungs- [K]
 e Entziehungskur
 entzifferbar
 entziffern
@@ -7606,6 +7616,7 @@ férn|halten (hält fern), hielt fern, hat ferngehalten [vt.] : להרחיק
 sich férn|halten (hält sich fern), hielt sich fern, hat sich ferngehalten : להתרחק
   - sich (von + [Dat.]) fernhalten : להתרחק )מ־(
 e Fernheizung
+s Fernrohr (pl. Fernröhre) : טלסקופ
 férn|sehen (sieht fern), sah fern, ferngesehen : לצפות בטלוויזיה
 s Fernsehen : טלוויזיה
   - Fernsehen schauen : לצפות בטלוויזיה
@@ -8489,6 +8500,7 @@ gehen, ging, ist gegangen [vi.] : ללכת
   - es geht um + [Akk.]
 gehen, ging, ist gegangen [vt.]
   - den Weg gehen : ללכת בדרך
+s Gehölz : עץ
 gehorchen : לציית
   - j-m gehorchen : לציית למישהו
   - j-m nicht gehorchen : לא לציית למישהו, להמרות את פיו של מישהו
@@ -8574,6 +8586,7 @@ genehmigt [adj.] : מאושר
 generell [adv.] : באופן כללי
 genervt
   - von + [Dat.] genervt sein : להישבר )למישהו( ממשהו
+genetisch [adj.] : גֶּנֶטִי
 Genf : ג'נבה
 r Genfer
   - e Genfer Konvention
@@ -9236,6 +9249,8 @@ hervór|ragen, ragte hervor, hat hervorgeragt [vi.] : לבלוט
 hervorragend [adj.] : בולט
   - hervorragend sein : לבלוט; להתבלט
 hervór|rufen, rief hervor, hat hervorgerufen [vt.] : להביא לידי, לעורר, להעלות
+hervór|treten (tritt hervor), trat hervor, ist hervorgetreten [vi.] : להופיע, לעלות
+s Hervortreten
 s Herz (gen. Herzens, pl. Herzen) : לב
 r Herzschmerz (pl. -en) : כאב לב
 e Hete (pl. -n) [Abk. für Heterosexuelle(r)] [ugs.] : הטרוסקסואל)ית(
@@ -10918,6 +10933,7 @@ s Meer : ים; אוקינוס
 r Meeresspiegel
 s Mehl (pl. -e) : קמח
 mehlig [adj.] : קמחי
+mehrfach [adj.] : מרובה; חוזר ונשנה; רב פעמי
 mehrheitlich [adj.] : התומך בגישת "הרוב קובע"
 mehrheitlich [adv.] : על פי החלטת הרוב, באופן כללי
 meilenweit : מרוחק מיילים רבים; במרחק אלפי פרסאות
@@ -11280,6 +11296,10 @@ natürlich [adv.] : מטבע הדברים, כמובן, בוודאי
 r Naturschutz : הגנת הטבע
 r naturschutzbund : החברה להגנת הטבע
 s Naturtalent : כשרון טבעי
+r Nebel (= pl.) : ערפל
+nebelfrei [adj.]
+nebelhaft [adj.]
+nebelig [adj.]
 neben [präp.] : ליד
 e Nebensache : עניין צדדי
 nebensächlich [adj.] : משני; שולי; צדדי; אינצידנטלי
@@ -11454,6 +11474,7 @@ Nürnberger [unverä. adj.] : נירנברגי
 e Nudel (pl. -n) : אטריה, נודל
 s Nudelholz : מערוך
 nun [adv.] : עתה, כעת
+  - von nun an [adv.]
 e Nuss : אגוז
   - e hohle Nuss [ugs.] [vulg.] : מפגר
 e Nutte (pl. -n) [ugs.] : זונה
@@ -13425,6 +13446,7 @@ e Staatsgrenze
 e Staatsmacht
 s Staatsoberhaupt : ראש המדינה
 r Staatsoberhäupter : ראש המדינה
+e Staatssache (pl. -n)
 stabil [adj.] : יציב
 stabilisieren
 r Stachel : קוץ; עוקץ; דורבן
@@ -13509,6 +13531,7 @@ steigen, stieg, ist gestiegen [vi.] : לעלות, לטפס, לצמוח
   - "Nach dem Börsengang stieg der Wert der Aktien sofort."
   - "Allein seit dem Börsengang im Jahr 2012 stieg die Zahl der Nutzer von rund einer Milliarde auf heute 2,2 Milliarden [...]"
 r Stein (pl. -e) : אבן
+s Steinbild
 r Steinblock (pl. Steinblöcke)
 e Steinplatte (pl. -n)
 s Stelldichein : רנדה־וו
@@ -14117,6 +14140,7 @@ r Tschekist : חבר בשירות החשאי באחת ממדינות ברית ו
 Tschüss! [interj.] : להתראות! ביי!
 s Tuch : בד; סמרטוט
 -Tuch [K]
+e Tücke : זדוניות, רשעות
 tun, tat, hat getan [vt.] : לעשות
   - mit + [Dat.] [Akk.] zu tun haben
   - mit + [Dat.] etwas zu tun haben : להיות למשהו קשר למשהו
@@ -14398,6 +14422,7 @@ unbedingt [adv.] : באופן מוחלט; בהכרח; באמת; ללא תנאי
 unbefriedigend [adj.] : לא משביע רצון
 unbefristet [adj.] : לא מוגבל בזמן
 unbegründet
+unbehaglich [adj.]
 unbehelligt [adj.] : ללא הפרעה
 unbekannt [adj.] : לא מוכר, בלתי מוכר
 unbeobachtet [adv.] : ללא השגחה
@@ -14412,6 +14437,8 @@ und : וְ־
 undeklinierbar
 undicht [adj.] : דולף; לא אטום
 e Undichtigkeit : דליפה
+undurchdringlich [adj.]
+e Undurchdringlichkeit
 undurchlässig [adj.] : בלתי חדיר
 unehelich [adj.] : מחוץ לנישואים
 unehelich [adv.] : מחוץ לנישואים
@@ -14484,6 +14511,7 @@ unkalkulierbar [adj.] : שלא ניתן לחשב אותו
 Unkosten (pl.) : הוצאות
   - Unkosten decken : לכסות את ההוצאות
 unliebsam [adj.] : לא נעים
+unmächtig [adj.]
 unmittelbar [adj.] : ישיר, מיידי, רגעי
 unmittelbar [adv.] : באופן ישיר, מייד, באופן מיידי, בן רגע
 e Unmittelbarkeit : מיידיות, ישירות
@@ -14680,6 +14708,7 @@ s Verb (pl. -en) : פועל
 r Verband (pl. Verbände) : אגודה, ארגון
 verbannen : להחרים, להגלות
 verbannt : מוחרם
+verbergen (verbirgt), verbarg, hat verborgen [vt.] : להסתיר
 verbessern [vt.] : לשפר; לתקן
   - die Sprachkenntnisse verbessern
   - die Bildqualität verbessern
@@ -15417,6 +15446,7 @@ e Vorherrschaft : עליונות
 e Vorhersage (pl. -n) : תחזית
 vorhér|sehen, sah vorher, hat vorhergesehen [vt.] : לחזות
 s Vorhersehen : תחזית
+vorig [adj.] : אחרון, קודם
 vór|kommen, kam vor, ist vorgekommen : לקרות; להופיע; להתרחש
   - j-m bekannt vorkommen
   - sich[Dat.] albern vorkommen
