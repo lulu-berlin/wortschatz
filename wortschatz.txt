@@ -781,6 +781,7 @@ abschlägig [adj.]
 áb|schlecken [vt.]
 r Abschleppdienst : שירות גרירה
 áb|schleppen [vt.] : לגרור
+áb|schleppen [vt.] [ugs.] : to hook up
 áb|schließen, schloss ab, hat abgeschlossen [vt.] : להשלים; לנעול
 áb|schmirgeln : לשייף )עם נייר זכוכית(
 áb|schneiden, schnitt ab, hat abgeschnitten [vt.] : לגזום, לחתוך ולהוציא; לשבש
@@ -1260,6 +1261,7 @@ r Anarchist (pl. -en) : אנרכיסט
 e Anatomie (pl. -n) : אנטומיה
 anatomisch [adj.] : אנטומי
 án|bahnen [vt.] : ליזום
+án|bändeln [vt.]: לפלרטט עם, להתחיל עם
 án|bellen [vt.] : לנבוח על
   - den falschen Baum anbellen : לנבוח על העץ הלא־נכון
 án|beten, betete an, hat angebetet [vt.] : להעריץ; לאהוב
@@ -1278,7 +1280,6 @@ s Andenken (= pl.) : מזכרת, זכרון
   - zum Andenken an + [Akk.] [präp.] : לזכר־
 ander [adj.] : אחר
   - unter anderem : בין שאר הדברים
-  - unter anderen : בין שאר הדברים
   - unter anderen Bedingungen
 ander(e)nfalls [adv.] : אחרת
 ander(er)seits : מצד שני
@@ -1500,8 +1501,9 @@ r Anlieger (= pl.) : תושב
 án|mahnen [vt.] : לדרוש לפי חוק
   - bei j-m [Akk.] anmahnen : לדרוש ממישהו משהו לפי חוק
 sich án|maßen, maßte sich an, hat sich angemaßt
-  - sich[Dat.] [Akk.] anmaßen : לתבוע משהו לעצמו, לדרוש משהו לעצמו; להעז, להרשות לעצמו
-e Anmaßung : arrogance, insolence, presumption
+  - sich[Dat.] [Akk.] anmaßen : לתבוע משהו לעצמו, לדרוש משהו לעצמו; להעז, להרשות לעצמו; להתיימר
+anmaßend [adv.] : יומרני
+e Anmaßung : יומרה, יומרנות
 án|melden, meldete an, hat angemeldet [vt.] : להירשם
 e Anmeldung (pl. -en) : הרשמה; אפליקציה
 e Anmerkung (pl. -en) : הערה
@@ -1696,6 +1698,7 @@ e Anzeige (pl. -n) : תצוגה; מודעה, מודעת פרסומת; אינדי
   - eine Anzeige erstatten : להגיש תלונה
   - eine Anzeige einreichen : להגיש תלונה
 án|zetteln [vt.] : להסית; להביא לידי )דבר רע(
+  - Streit anzetteln : לעורר ריב
 e Anzettelung : הסתה
 án|ziehen, zog an, hat angezogen [vt.] : למשוך; להיות מושך ל־; להדק )ברגים(; ללבוש
 sich án|ziehen, zog sich an, hat sich angezogen
@@ -2001,9 +2004,10 @@ auffällig : conspicuous, apparent
   - auffällig werden : להיעשות גלוי; להצביע על כך ש
   - Auffällig ist: ...
 aúf|fassen : לתפוש, להבין, לקחת כ־
-  - als + [Akk.] auffassen : לראות כ־, לתפוש כ־, לקחת כ־
+  - als + [Akk.] auffassen : לראות כ־, לתפוש כ־, לקחת כ־, לקחת בתור
   - [Akk.] als Scherz auffassen : לקחת משהו כבדיחה
   - [Akk.] falsch auffassen : להבין לא נכון
+  - [Akk.] als Kompliment auffassen : לקחת כמחמאה
 e Auffassung (pl. -en) : דֵעָה, נְקוּדַת מַבָּט, תפישה
 e Auffassungsgabe
 aúf|flammen
@@ -2249,6 +2253,7 @@ ausdauernd [adj.]
 aús|dehnen, dehnte aus, hat ausgedehnt [vt.] : להרחיב
 sich ausdehnen : להתרחב
 e Ausdehnung
+aús|denken, dachte aus, hat ausgedacht [vt.] : להמציא
 r Ausdruck
 aús|drücken, drückte aus, hat ausgedrückt [vt.] : לבטא, להביע
 sich aús|drücken : להתבטא
@@ -2947,7 +2952,8 @@ e Beförderungsgebühr (pl. -e) : דמי הובלה
 befragen, befragte, hat befragt [vt.] : לראיין
 r Befragte (gen. -n, pl. -n) : נשאל
 e Befragte (gen. -n, pl. -n) : נשאלת
-befreien
+befreien : לשחרר
+befreiend [adj.] : משחרר
 r Befreier
 e Befreiung
 e Befreiungsbewegung : תנועת שחרור
@@ -5709,7 +5715,7 @@ dreiflammig
 r Dreifuß
 dreijährig [adj.]
 r Dreikäsehoch
-dreimal
+dreimal [adv.] : שלוש פעמים
 dreisilbig [adj.]
 dreißig : שלושים
 dreißigst [adj.] : השלושים
@@ -6455,6 +6461,8 @@ sich einlassen
 r Einlauf : חוקן
 eín|laufen (läuft ein), lief ein, ist eingelaufen
 sich einlaufen (läuft sich ein), lief sich ein, hat sich eingelaufen
+eín|legen, legte ein, hat eingelegt [vt.] : להכניס; להחמיץ )להכין חמוצים(
+  - eine Pause einlegen : לקחת הפסקה
 eín|leiten : להתחיל, לפתוח, ליזום
 eín|lenken [vt.] : to give in, to steer, to back down
   - in etw.[Akk.] einlenken : להפוך למשהו
@@ -6466,6 +6474,8 @@ s Einlösen : פדיון, מימוש
 eín|machen, machte ein, hat eingemacht [vt.] : לשמר
 s Einmachen : שימור
 s Einmachglas : צנצנת שימורים
+einmal
+  - auf einmal : בבת אחת
 einmalig [adj.] : חד־פעמי, ייחודי
 eín|marschieren, marschierte ein, ist einmarschiert
 sich eín|mischen : להתערב ב־
@@ -6968,6 +6978,8 @@ e Entlohnung
 entmachten [vt.]
   - j-n entmachten : to disempower s.o., to deprive s.o. of power
 s Entmachten : disempowerment
+entmannen, entmannte, hat entmannt [vt.] : לסרס
+entmannt [adj.] : מסורס
 entmündigen [vt.] : לשים מישהו תחת פטרונות/חסות
 e Entmündigung
 entmündigt [adj.]
@@ -8065,7 +8077,10 @@ r Fehlbetrag
 fehlen, fehlte, hat gefehlt : להיות חסר; להיעדר; לא להימצא, לא להיות בנמצא
   - (j-m) an + [Dat.] fehlen : להיות )ל-פ'( חסר משהו, להיות ל-פ' מחסור ב־
 s Fehlen : מחסור; היעדר
+fehlerfrei [adj.]
+e Fehlerfreiheit
 fehlerhaft [adj./adv.]
+e Fehlermeldung
 fehlend [adj.] : חסר
 r Fehler (= pl.) : שגיאה
   - einen Fehler machen : לשגות, לעשות שגיאה
@@ -8522,7 +8537,7 @@ flink
 e Flinkheit
 e Flinte (pl. -n) : רובה ציד
 r Flirt (pl. -s) : פלירט, פלירטוט
-flirten : לפלרטט
+flirten, flirtete, hat geflirtet : לפלַרְטֵט
 r Flitter
 r Flitterglanz
 r Flitterkram
@@ -8858,6 +8873,8 @@ r Frosch : צפרדע
   - Sei kein Frosch! : נראה אם אתה מעז!
 frösteln, fröstelte, hat gefröstelt [vi.] : לרעוד )מקור(
 früh [adj.] : מוקדם
+Früh-, früh- [K]
+e Früherziehung
 e Frühgeburt : פג
 frühstücken, frühstückte, hat gefrühstückt : לאכול ארוחת בוקר
 frühzeitig [adv.]
@@ -9328,6 +9345,7 @@ geringwertig [adj.] : נחות; בעל ערך מועט
 e Geringwertigkeit
 gern [adv.] : בשמחה
   - etwas gern tun : לרצות לעשות משהו
+gérnhaben, hatte gern, hat gerngehabt [vt.] : לחבב
 r Geruch (pl. Gerüche) : ריח
 s Gerücht (pl. -e) : שמועה
 s Gerüst (pl. -e) : פיגום; מסגרת
@@ -9583,6 +9601,7 @@ s Gold : זהב
 gold [adj.] : בצבע זהב
 golden [adv.] : מוזהב
 r Gong
+googeln : לעשות גוגל
 r Gorilla (pl. -s) : גורילה
 r Gott : אלוהים
   - über Gott und die Welt
@@ -9854,7 +9873,7 @@ Handlungs- [K]
 r Handlungsablauf
 e Handschelle (pl. -n) : אזיק
 r Handschlag
-s Handtuch (pl. Handtücher) : מגבת
+s Handtuch (pl. Handtücher) : מַגֶּבֶת
   - das Handtuch werfen : לזרוק את המגבת
 e Handvoll : חֹפֶן, מְלוֹא־חֹפֶן
   - eine Handvoll [Mengebestimmung] : חופן של־, מלוא חופניים של־, כמות נכבדת של־
@@ -9898,6 +9917,7 @@ s Hauptquartier : מפקדה, מטה, פיקוד, משרד ראשי
 s Haus (pl Häuser) : בית
   - nach Hause : הביתה
 Haus- [K]
+r Hausarrest : מעצר בית
 r Hausbesuch
 s Häuschen (= pl.) : בית קטן
 e Häuserschlucht (pl. -e) : street canyon
@@ -10144,6 +10164,7 @@ hie [adv.]
   - hie und da [adv.] : פה ושם
 hiedurch [adv.] : כך; בכך
 hier [adv.] : כאן
+hierbei [adv.] : כאן; בכך
 híer|bleiben, blieb hier, ist hiergeblieben : להישאר כאן
 hierdurch [adv.] : כך; בכך
 hierher [adv.] : הֵנָּה
@@ -11483,7 +11504,8 @@ r Kürbis (pl. -se) : דלעת
 e Kurie (Lat. curia) : הקוריה הרומאית
   - Römische Kurie : הקוריה הרומאית
 e Kurklinik
-e Kurve (pl. -n)
+e Kurve (pl. -n) : קימור?
+  - die Kurve kriegen : להשתלט על העניינים, לקחת את העניינים לידיים
   - ein Schluck Wasser in der Kurve sein
   - wie ein Schluck Wasser in der Kurve hängen
 kurz [adj.] : קצר
@@ -11598,7 +11620,7 @@ sich langweilen, langweilte sich, hat sich gelangweilt : להשתעמם
   - sich tödlich langweilen : להשתעמם למוות
   - sich zu Tode langweilen : להשתעמם למוות
 r Langweiler (= pl.) : משעמם
-langweilig [adj.] : משעמם
+langweilig [adj./adv.] : משעמם
   - (j-m) langweilig sein : לשעמם מישהו
 langweilig [adv.] : באופן משעמם
 r Lappen (= pl.) : סמרטוט
@@ -11821,6 +11843,7 @@ lieben, liebte, hat geliebt [vt.] : לאהוב
   - j-n bedingungslos lieben : לאהוב מישהו ללא תנאים
   - [Akk.] an j-m lieben : לאהוב משהו במישהו
 sich lieben : לאהוב זה את זה
+liebenswert [adj.] : אהוב, מקסים
 r Liebeskummer (~pl.) : כאב לב, להיות חולה אהבה
 s Liebeslied (pl. -er) : שיר אהבה
 s Liebespaar : זוג מאוהב
@@ -12361,6 +12384,7 @@ mít|halten (hält mit), hielt mit, hat mitgehalten : לעמוד בקצב
   - mit + [Dat.] mithalten : לעמוד בקצב של משהו/מישהו
   - nicht mithalten können : לא להצליח לעמוד בקצב
 mithilfe [präp.] : בעזרת
+mít|hören : לצותת
 mít|kommen, kam mit, ist mitgekommen : להצטרף; להתלוות ל; לעקוב )אחרי הנאמר(
   - Da komme ich jetzt nicht mehr mit. : אני לא מצליח לעקוב
 s Mitkommen
@@ -12682,6 +12706,7 @@ s Nähen : תפירה
 nahend : imminent, approaching, forthoming
 sich nähern : להתקרב
 nahezu [adv.] : כמעט
+-nahme [K]
 nähren [vt.] : להזין
 sich nähren : להיזון
 e Nahrung : מזון
@@ -13214,6 +13239,7 @@ s Pech : ביש מזל, מזל רע, רוע מזל
   - Pech gehabt
   - vom Pech verfolgt
 pedantisch [adj.] : פדנטי
+e Pediküre : פדיקור
 peilen, peilte, hat gepeilt [vt.] [ugs.] : למקם; לשים לב
   - [Akk.] über den Daumen peilen : לנחש בהערכה גסה
   - die Lage peilen : להעריך את המצב
@@ -13998,6 +14024,8 @@ r Reifenabrieb
 rein [adj.] : טהור
   - reinsten Wassers : מן הסוג הטוב ביותר
 rein [adv.] : לגמרי
+reín|bringen
+  - etwas Stimmung reinbringen
 reín|drücken, drückte rein, hat reingedrückt [vt.] [ugs.]
   - [Akk.] in + [Akk.] reindrücken
 reín|gehen : להיכנס
@@ -14866,6 +14894,7 @@ e Schulzeit
 s Schulzentrum
 s Schulzeugnis
 schummeln, schummelte, hat geschummelt : לרמות
+r Schuppen (= pl.) : קשקש
 schüren, schürte, hat geschürt [vt.] : להתסיס; לעורר; להסית ל
 schürzen, schürzte, hat geschürzt
 e Schüssel (pl. -n) : קערה
@@ -15173,6 +15202,7 @@ sinnlich [adj.] : חושני
 sinnlos [adj.] : חסר פשר
 e Sinnlichkeit : חושניות
 sinnvoll [adj.] : שימושי; הגיוני; נבון
+sinnvollerweise [adv.]
 e Situation : מצב
 sitzen, saß, ist gesessen : לשבת; לשבת בכלא
   - sitzen bleiben : להישאר לשבת
@@ -15522,10 +15552,12 @@ stehen, stand, hat/ist gestanden [vi.] : לעמוד
   - auf + [Akk.] stehen : להיות בעניין של; לאהוב משהו או לעשות משהו; להיות להוט אחרי; להתעניין ב־
   - im Stau stehen : לעמוד בפקק
   - zu + [Dat.] stehen : לדבוק ב, לעמוד לצד
+  - j-n stehen lassen : לנטוש
 s Stehen
   - im Stehen : בעמידה
 stéhen|lassen [vt.] : לנטוש, לעזוב
 stehlen (stiehlt), stahl, hat gestohlen [vt.] : לגנוב, לשדוד
+s Stehvermögen : עמידות
 steif [adj.] : קשה, נוקשה
 steigen, stieg, ist gestiegen [vi.] : לעלות, לטפס, לצמוח
   - "Nach dem Börsengang stieg der Wert der Aktien sofort."
@@ -16388,6 +16420,7 @@ r Übergang (pl. Übergänge) : מעבר
 sich übergeben : להקיא
 übergeschnappt [adj.]
   - übergeschnappt sein
+übergewichtig [adj.] : בעל משקל עודף
 überhäufen : להמטיר )במתנות(, להרעיף
 überhaupt [adv.] : בכלל
 überheblich [adj.] : יהיר, מתנשא
@@ -16407,6 +16440,7 @@ sich überlegen
   - sich[Dat.] [Akk.] überlegen
 eכלפי פנים Überlegenheit : עליונות, שליטה
 übermorgen [adv.] : מחרתיים
+übernachten : להעביר את הלילה
 e Übernahme (pl. -n)
 übernehmen (übernimmt), übernahm, hat übernommen [vt.] : לקבל/לקחת )אחריות; הצעה(; לקחת על עצמו
   - Verantwortung übernehmen
@@ -16444,7 +16478,8 @@ sich überstürzen
 übertragen [adj.] : שנמסר
 e Übertragung (pl. -en) : העברה; שידור
 e Übertragungsurkunde
-übertreiben, übetrieb, hat übertrieben : להגזים
+übertreiben, übetrieb, hat übertrieben [vt.] : להגזים
+  - es mit + [Dat.] übertreiben : להגזים עם־
 s Übertreiben : הגזמה
 übertrieben [adj.] : מוגזם
 überwachen, überwachter, hat überwacht : לנטר; לעקוב אחרי; לעשות מעקב אחרי; לרגל אחרי
@@ -16968,6 +17003,8 @@ veranlassen [vt.] : לארגן; לגרום
 veranlassend
 e Veranlassung : סיבה
   - auf Veranlassung von + [Dat.] [präp.]
+veranstalten, veranstaltete, hat veranstaltet [vt.] : לארגן
+e Veranstaltung
 verantworten [vt.] : לקחת אחריות על, להצדיק את
   - sich für + [Akk.] verantworten : לענות ל־
 verantwortlich [adj.] : אחראי
@@ -16985,7 +17022,7 @@ verärgern [vt.]
 verärgert
 e Verarmung : התרוששות
 e Verarmungskrise : משבר התרוששות
-verarschen [vt.] : לעבוד על־
+verarschen, verarschte, hat verarscht [vt.] : לעבוד על־
   - j-n verarschen : לעבוד על פ'
 verarzten [vt.] : לרפא; לבדוק, לערוך בדיקה רפואית
 verästelt [adj.] : מסועף, מסתעף
@@ -17040,6 +17077,8 @@ verbrennen
 sich verbrennen
 verbringen, verbrachte, hat verbracht [vt.] : להעביר )זמן(, לבלות )זמן(
   - Zeit verbringen : להעביר את הזמן
+verbocken, verbockte, hat verbockt [vt.] [ugs.] : לדפוק )משהו(
+  - Ich hab's verbockt. : דפקתי את זה.
 verbohrt [adj.] : עקשן
 e Verbohrtheit : עקשנות
 verbuchen [vt.] : לרשום; להשיג בשל הצלחה; לקבוע כהצלחה
@@ -17943,6 +17982,7 @@ e Vorschrift (pl. -en) : דרישה, כלל
 r Vorschuss : מקדמה
 vór|sehen [vt.] : לתכנן, לקבוע )זמן(
 r Vorschlaghammer : קורנס, פטיש
+e Vorschule : גן חובה
 e Vorsicht : זהירות
 vorsichtig [adj./adv.] : זהיר, בזהירות
 vorsichtshalber
@@ -18144,7 +18184,7 @@ r Wegesrand : צד הדרך
 wég|geben [vt.] : למסור הרחק, לתת משהו כדי להיפטר ממנו
 wég|haben (hat weg), hatte weg, hat weggehabt [vt.] : להרחיק, להיפטר מ
 wég|hauen, haute weg, hat weggehauen
-wég|kommen, kam weg ist weggekommen [vi.] : לברוח, להימלט
+wég|kommen, kam weg, ist weggekommen [vi.] : לברוח, להימלט
   - am besten wegkommen
 wég|laufen (läuft weg), lief weg, ist weggelaufen : לברוח, להסתלק
 wég|loben, lobte weg, hat weggelobt [vt.] : לקדם מישהו למשרה אחרת כדי להיפטר ממנו
@@ -18230,7 +18270,7 @@ e Weiterentwicklung : התפתחות נוספת
 weíter|fahren, fuhr weiter, ist weitergefahren : לנסוע הלאה
 weíter|gehen : להמשיך ללכת; להימשך
 weitergehend [adv.]
-weiterhin [adv.] : בנוסף, גם, כמו כן
+weiterhin [adv.] : בנוסף, גם, כמו כן; להבא, להלן, בהמשך
 weíter|kommen, kam weiter, ist weitergekommen
   - ein Stück weiterkommen : להתקדם קצת הלאה
 weíter|laufen (läuft weiter), lief weiter, ist weitergelaufen : להמשיך לרוץ; להימשך
